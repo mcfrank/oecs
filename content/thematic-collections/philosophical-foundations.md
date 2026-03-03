@@ -1,0 +1,31 @@
+---
+title: Philosophical Foundations
+article_slugs:
+- 04xkf1kl
+- 1bjy1ebl
+- 1bu7sqv2
+- 1cafk2cg
+- 2pvnx08y
+- 52v2eei4
+- 64sucmct
+- 7fjwb5k3
+- 98iya9su
+- be5ufmz2
+- c1pqmxoq
+- chloq7l9
+- hggua2hs
+- hunngznm
+- ivtprtc8
+- j074k4aj
+- j39m4jos
+- k8krmjgg
+- k9va0mfe
+- pit4hw2l
+- qk3nm299
+- vgigt1aq
+- wax35u8s
+- x0sk7df7
+- yk2x399b
+- ztivn7hx
+---
+

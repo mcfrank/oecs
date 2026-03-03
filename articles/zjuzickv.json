@@ -1,0 +1,4401 @@
+{
+  "id": "c403b8e7-a569-4c42-ad95-ed6c760889e2",
+  "slug": "zjuzickv",
+  "title": "Metacognition",
+  "url": "https://oecs.mit.edu/pub/zjuzickv",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "c403b8e7-a569-4c42-ad95-ed6c760889e2",
+    "slug": "zjuzickv",
+    "title": "Metacognition",
+    "htmlTitle": "Metacognition",
+    "description": "",
+    "htmlDescription": "Metacognition",
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.c403b8e7",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "8pprwu9w",
+    "editHash": "ob7c1juu",
+    "reviewHash": "hjqbcdsj",
+    "commentHash": "tofvtm1k",
+    "draftId": "35681c8e-76ba-48ed-8fe6-e470a0a398b2",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "fa1970a4-090d-485f-be6c-a89e521b17f4",
+    "scopeSummaryId": "094e5c1a-e21c-44d3-a9b3-ef056e2b09e4",
+    "createdAt": "2024-12-02T21:48:29.093Z",
+    "updatedAt": "2025-02-10T17:20:24.188Z",
+    "attributions": [
+      {
+        "id": "e46b7ec1-7d1e-43f3-9b3d-bea20f55d955",
+        "name": "Joelle Proust",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Institut Jean-Nicod, Ecole Normale Sup\u00e9rieure, Paris",
+        "orcid": "0000-0001-8466-0548",
+        "userId": null,
+        "pubId": "c403b8e7-a569-4c42-ad95-ed6c760889e2",
+        "createdAt": "2024-12-02T21:49:50.214Z",
+        "updatedAt": "2024-12-02T21:50:42.490Z",
+        "user": null
+      },
+      {
+        "id": "b0889895-5176-49e3-9f54-5f3fe3b2ed28",
+        "name": "Adrian Alsmith",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "King's College London",
+        "orcid": "",
+        "userId": null,
+        "pubId": "c403b8e7-a569-4c42-ad95-ed6c760889e2",
+        "createdAt": "2024-12-09T23:57:07.347Z",
+        "updatedAt": "2024-12-09T23:57:32.008Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "35681c8e-76ba-48ed-8fe6-e470a0a398b2",
+      "latestKeyAt": "2025-01-15T02:32:57.363Z",
+      "firebasePath": "drafts/draft-35681c8e-76ba-48ed-8fe6-e470a0a398b2",
+      "createdAt": "2024-12-02T21:48:29.090Z",
+      "updatedAt": "2025-02-10T17:18:13.117Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nauwq7qd07p",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The term "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "metacognition"
+          },
+          {
+            "type": "text",
+            "text": " refers to a broad set of skills that enable people to plan their cognitive efforts, identify their errors, revise their strategies, and accept or reject their conclusions. In other words, metacognition predicts the feasibility and regulates the performance of cognitive actions, i.e., actions with an informational purpose. For example, metacognition helps you determine whether items from your memory can be swiftly retrieved, whether a given problem is within your reach, or whether your solution is likely to be true."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "why-meta",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Why \u201cmeta\u201d?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvqckxvqo7p",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The Greek prefix \u201cmeta\u201d means \u201cabout.\u201d Metacognition then, literally means \u201ccognition about cognition,\u201d i.e., it refers to a set of abilities for knowing what one thinks and how one thinks. Metacognition, however, also refers to the mere ability to regulate one\u2019s own cognition. The first attempt at understanding the mechanisms underlying metacognition dealt with the regulation of memory, at a time when the word metacognition had not yet been used."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "n1aefd30qsz",
+          "url": "https://assets.pubpub.org/mnbqqn6u/31733176165952.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"n7nhee80hot\" data-reactroot=\"\">Two definitions of metacognition.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "the-control-of-ones-memory",
+          "id": "the-control-of-ones-memory",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The control of one\u2019s memory"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxzje81d4w8",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "How do people predict, in a given case, whether they will remember a name that currently escapes them? In 1965, Josef T. Hart demonstrated experimentally that feelings of knowing are used to reliably assess one\u2019s ability to remember. It was not until the following decade that child psychologist "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrova0t3f25",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4p19npqo8e\" data-reactroot=\"\">Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive\u2013developmental inquiry.\u00a0<em>American Psychologist, 34</em>(10), 906\u2013911.\u00a0<a href=\"https://psycnet.apa.org/doi/10.1037/0003-066X.34.10.906\">https://doi.org/10.1037/0003-066X.34.10.906</a></p>",
+              "customLabel": "John H. Flavell (1979)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " coined the terms "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "metamemory"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "metacognition"
+          },
+          {
+            "type": "text",
+            "text": " \u201cby analogy with \u2018metalanguage.\u2019\u201d Metamemory, Flavell writes, refers to \u201cthe individual\u2019s knowledge and awareness of his memory.\u201d Metacognition, by analogy, is claimed to refer to \u201cknowledge and cognition of cognitive phenomena,\u201d including \u201cattention, memory, problem-solving, social cognition and various types of self-control and self-instruction.\u201d The two definitions are based on two conflicting hypotheses."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "the-mindreading-hypothesis",
+          "id": "the-mindreading-hypothesis",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The mindreading hypothesis"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4w9q6twbsy",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In a 1975 paper, John Flavell and Henry Wellman claimed that all the forms of metacognition involve \u201cgeneralizations about people and their actions in relation to objects.\u201d For them, metacognition is \u201cnaturally a form of social cognition.\u201d At the time, young children were considered nonmetacognitive because they easily attributed to themselves skills they did not have, believed themselves capable of solving a problem they failed at, and attributed to themselves knowledge they could not retrieve. Metacognitive skills were not supposed to appear until the end of the preschool period, i.e., until children could attribute mental states to themselves\u2014a capacity called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "mindreading"
+          },
+          {
+            "type": "text",
+            "text": " that emerges around the age of 5 years."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "the-feedback-loop-hypothesis",
+          "id": "the-feedback-loop-hypothesis",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The feedback loop hypothesis"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nitv1nzli6e",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In an influential 1960 book entitled "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Plans and the Structure of Behavior"
+          },
+          {
+            "type": "text",
+            "text": ", however, George A. Miller, Eugene Galanter, and Karl A. Pribram explored the mechanisms that enable the mind to control its activity ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5nzx8c39xl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyqdgjpdvwt\" data-reactroot=\"\">Miller, G. A., Eugene, G., &amp; Pribram, K. H. (1986). <em>Plans and the structure of behavior</em>. Adams Bannister Cox.</p>",
+              "customLabel": "Miller et al., 1986",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). They analyzed the crucial role of feedback loops known as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "test-operate-test-exit (TOTE) units"
+          },
+          {
+            "type": "text",
+            "text": " (see "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "n3uhsqc17gs",
+              "targetId": "nxu40utbv7v",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In the first test phase, the current state is compared with the desired end state, and discrepancies are identified. This is known as the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "incongruity-sensitive mechanism"
+          },
+          {
+            "type": "text",
+            "text": ". Feedback from this test guides action, triggering an operation to resolve the discrepancies. Once the operation has been completed, a new test is required to compare the feedback with the expected final state. If there are no discrepancies, the action is completed and control is transferred to another TOTE unit. On the other hand, if there are discrepancies, a new action is triggered to achieve the final state. These TOTE units act as feedback loops, monitoring the successive states of a system."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "nxu40utbv7v",
+          "url": "https://assets.pubpub.org/we1z5ket/51733176165953.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"nf9mrxyipgl\" data-reactroot=\"\">The TOTE procedure.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ni268ka8yy8",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Following this analysis of behavior control, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvioyybvz51",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1j9ylxeh98\" data-reactroot=\"\">Nelson, T.O &amp; Narens, L (1992). Metamemory: A theoretic al framework and new findings. In T.O. Nelson (ed.), <em>Metacognition: Core Readings,</em> p. 117-30, Boston: Allyn and Bacon.</p>",
+              "customLabel": "Thomas O. Nelson and Louis Narens (1992)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " provided a convincing definition of metacognitive processing in terms of feedback loops. They hypothesized that it involved three principles:"
+          }
+        ]
+      },
+      {
+        "type": "ordered_list",
+        "attrs": {
+          "id": "n6uh4tv33kz",
+          "order": 1,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "noemnszdil9",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Cognitive processes are divided into a meta level and an object level."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "no5ttgg9nz3",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The meta level contains a dynamic model (a mental simulation) of the object level."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "np6c8n84lf7",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "\u201cControl\u201d and \u201cmonitoring\u201d are defined in terms of these levels, with an object level collecting feedback from current activity and a meta level sending new commands in the light of feedback."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "the-dual-processing-hypothesis",
+          "id": "the-dual-processing-hypothesis",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The dual-processing hypothesis"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ndjed822p08",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This point of view reconciles the two ways in which metacognition can be \u201cabout cognition.\u201d Asher Koriat and his colleagues have shown that metacognitive regulation can be based on both experience and concepts ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxykrrkrq26",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ne6ijc2e7r7\" data-reactroot=\"\">Koriat, A., &amp; Levy-Sadot, R. (1999). Information-based and experience-based monitoring of one\u2019s own knowledge.\u00a0In S. Chaiken &amp; Y. Trope (Eds.), <em>Dual-process theories in social psychology</em> (pp. 483\u2013502). Guilford Press.</p>",
+              "customLabel": "Koriat & Levy-Sadot, 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0h00nmnxqj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Experience-based monitoring depends on the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "noetic feelings"
+          },
+          {
+            "type": "text",
+            "text": " generated by processing an ongoing task, such as the feeling of knowing, the feeling of ease of processing, or the tip-of-the-tongue phenomenon. Research has shown that these feelings depend directly on the representational vehicle (underlying neural dynamics), rather than on the semantic content of the cognitive tasks being monitored. Thus, the reliability of these feelings is based on their having been previously associated with a specific task outcome, such as success or failure. In some cases, however, feelings may be elicited by cues that are either irrelevant to the task at hand or actually interfere with it. For example, the perceived ease with which information is processed ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "fluency"
+          },
+          {
+            "type": "text",
+            "text": ") often correlates with correct memory retrieval or correct perceptual discrimination. In hurried reasoning, however, agents overlook aspects relevant to problem-solving; the perceived fluency of their own responses creates an illusion of correctness ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n83h1rfnshp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4xim1tkqzu\" data-reactroot=\"\">Ackerman, R., &amp; Thompson, V. A. (2017). Meta-reasoning: Monitoring and control of thinking and reasoning.\u00a0<em>Trends in Cognitive Sciences</em>,\u00a0<em>21</em>(8), 607\u2013617. <a href=\"https://doi.org/10.1016/j.tics.2017.05.004\" target=\"_blank\">https://doi.org/10.1016/j.tics.2017.05.004</a></p>",
+              "customLabel": "Ackerman & Thompson, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Experience-based metacognition is also referred to as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "procedural"
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "implicit"
+          },
+          {
+            "type": "text",
+            "text": " in that the underlying cues that generate conscious predictions of likely success are selected unconsciously."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1eeanq468r",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Concept-based monitoring, on the other hand, depends on forming beliefs about one\u2019s own likely success or error, based on one\u2019s perceived abilities in a task. Theories and verbal feedback from others often play a major role in shaping students\u2019 confidence in their own learning abilities; this is notably the case for sociocognitive stereotypes and related conceptions, such as \u201cmen are better at math\u201d or \u201cwomen are better at literature.\u201d Concept-based metacognition is also referred to as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "analytic"
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "explicit"
+          },
+          {
+            "type": "text",
+            "text": " because it generates conscious, reportable reasons for one\u2019s evaluations about the ongoing cognitive activity."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "comparative-metacognition",
+          "id": "comparative-metacognition",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Comparative metacognition"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nh4tjkqhado",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Comparative studies over the past three decades have contributed significantly to the debate on the structure and function of metacognition "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "napxo89a04o",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxnz753wblg\" data-reactroot=\"\">Smith, J. D., Shields, W. E., &amp; Washburn, D. A. (2003). The comparative psychology of uncertainty monitoring and metacognition. <em>Behavioral and Brain Sciences, 26</em>(3), 317\u2013373. <a href=\"https://psycnet.apa.org/doi/10.1017/S0140525X03000086\" target=\"_blank\">https://doi.org/10.1017/S0140525X03000086</a></p>",
+              "customLabel": "(Smith, J. D., Shields, W. E., & Washburn, D. A., 2003)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". They brought evidence that nonlinguistic animals, such as monkeys, dolphins, rodents, and corvids, are able to monitor and control their perceptual discrimination and memory retrieval even though they lack mindreading abilities ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n90ny9oqinb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nynmb8ji5qe\" data-reactroot=\"\">Beran, M. J. (2019). Animal metacognition: A decade of progress, problems, and the development of new prospects.\u00a0<em>Animal Behavior and Cognition</em>,\u00a0<em>6</em>(4), 223\u2013229. <a href=\"https://doi.org/10.26451/abc.06.04.01.2019\" target=\"_blank\">https://doi.org/10.26451/abc.06.04.01.2019</a></p>",
+              "customLabel": "Beran, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1vko6gi74c",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "However, the experimental paradigms involved were initially criticized because they allowed animals\u2019 decisions to be conditioned by the receipt of trial-by-trial rewards. A series of computer simulations further suggested that the response profiles observed in these behavioral experiments could be explained equally well by a metacognitive strategy, an associative strategy (when each response is rewarded), and a stimulus avoidance strategy (difficult items followed by time-out punishment; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbcvpquex20",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8exe1qcl6t\" data-reactroot=\"\">Le Pelley, M. E. (2012). Metacognitive monkeys or associative animals? Simple reinforcement learning explains uncertainty in nonhuman animals.\u00a0<em>Journal of Experimental Psychology: Learning, Memory, and Cognition</em>,\u00a0<em>38</em>(3), 686\u2013708. <a href=\"https://doi.org/10.1037/a0026478\" target=\"_blank\">https://doi.org/10.1037/a0026478</a></p>",
+              "customLabel": "Le Pelley, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n02e84094sr",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "To address these objections, experimental paradigms carefully operationalized the distinction between a primary task involving trials of variable difficulty, in which animals\u2019 responses can be assessed for accuracy, and a secondary behavior in which animals are able to regulate their primary responses ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2s5zh0dc4r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8sot43dhfw\" data-reactroot=\"\">Hampton, R. R. (2009). Multiple demonstrations of metacognition in nonhumans: Converging evidence or multiple mechanisms?\u00a0<em>Comparative Cognition &amp; Behavior Reviews</em>,\u00a0<em>4</em>, 17\u201328. <a href=\"https://doi.org/10.3819/ccbr.2009.40002\" target=\"_blank\">https://doi.org/10.3819/ccbr.2009.40002</a></p>",
+              "customLabel": "Hampton, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In light of these new tests, there is now a stronger consensus that the performance seen in many tests of animal metacognition are evidence for procedural metacognition, i.e., evaluative skills based on past outcomes rather than beliefs or theories (as is the case for explicit metacognition in humans)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nn0wm9nihpf",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Behavioral studies of animal metacognition within comparative psychology were first conducted independently from the study of neural correlates of metacognition in animal species. The situation dramatically changed when neuroscientists realized that behavioral measures can be used to study confidence assessments by animals trained in cognitive decision-making."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "the-neuroscience-of-metacognition",
+          "id": "the-neuroscience-of-metacognition",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The neuroscience of metacognition"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nucwv8e1zqq",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Following the lead of comparative psychologists of metacognition, the rate of decline responses (where animals reject trials that are likely to be failed) and rate of post-decision wagering (where animals place a bet on the anticipated value of their response after their choice is made) were used as indexes for confidence in rats and rhesus monkeys. Firing rates measured in the orbitofrontal cortex while the animals performed an olfactory categorization task were shown to reliably assess confidence, i.e., decision (un)certainty. Furthermore, these measures were shown to be unrelated to recent reward history ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nas5y666hup",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqoos96uvml\" data-reactroot=\"\">Kepecs, A., &amp; Mainen, Z. F. (2012). A computational framework for the study of confidence in humans and animals.\u00a0<em>Philosophical Transactions of the Royal Society B: Biological Sciences</em>,\u00a0<em>367</em>(1594), 1322\u20131337. <a href=\"https://doi.org/10.1098/rstb.2012.0037\" target=\"_blank\">https://doi.org/10.1098/rstb.2012.0037</a></p>",
+              "customLabel": "Kepecs & Mainen, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This evidence contradicted earlier hypotheses that animals were merely conditioned to accept or reject a task as a function of prior rewards. Studies of patients\u2019 deficits in various clinical conditions suggest that, in humans, the right ventromedial prefrontal cortex and the dorsal anterior cingulate cortex support predictive confidence assessments (such as the feeling of knowing), whereas rostro-lateral prefrontal regions support retrospective confidence judgments ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nln6ap3toin",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nik7y3yg3zr\" data-reactroot=\"\">Fleming, S. M., &amp; Dolan, R. J. (2012). The neural basis of metacognitive ability.\u00a0<em>Philosophical Transactions of the Royal Society B: Biological Sciences</em>,\u00a0<em>367</em>(1594), 1338\u20131349. <a href=\"https://doi.org/10.1098/rstb.2011.0417\" target=\"_blank\">https://doi.org/10.1098/rstb.2011.0417</a></p>",
+              "customLabel": "Fleming & Dolan, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "developmental-findings-about-metacognition",
+          "id": "developmental-findings-about-metacognition",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Developmental findings about metacognition"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nndwtdfoue9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The comparative literature has also prompted developmental researchers to explore the procedural dimension of metacognition. Some researchers hypothesized that young children should be able to monitor their confidence in a perceptual or memory task as well as rhesus monkeys do, in order to guide their cognitive decisions long before they can reason about their states of mind. In these instances of procedural metacognition, the predictive feedback from processing a cognitive task manifests as specific emotions, such as a feeling of knowing, ease of processing, or understanding."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfnrunaciqa",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Experimental evidence supported this hypothesis using a nonverbal opting-out memory task with 3-year-old children similar to one used in primatology to test nonhuman metacognition ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "np81sd0ol50",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnhpg1qabv9\" data-reactroot=\"\">Balcomb, F. K., &amp; Gerken, L. (2008). Three\u2010year\u2010old children can access their own memory to guide responses on a visual matching task.\u00a0<em>Developmental Science</em>,\u00a0<em>11</em>(5), 750\u2013760. <a href=\"https://doi.org/10.1111/j.1467-7687.2008.00725.x\" target=\"_blank\">https://doi.org/10.1111/j.1467-7687.2008.00725.x</a></p>",
+              "customLabel": "Balcomb & Gerken, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In this study, children performed better on trials they chose to accept than those they opted out of, as demonstrated by subsequent forced-choice recognition responses. This suggests that even young children can make reliable confidence judgments about what they can remember before they can identify and reason about their mental states (i.e., before developing mindreading abilities)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nan4ajd2i0m",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "However, there is debate among developmental psychologists about the procedural character of the process through which children express their confidence. For example, 3-, 4-, and 5-year-olds exhibit parallel opting-out responses and verbal confidence reports ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndj0qogr5ml",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng617tm1t18\" data-reactroot=\"\">Lyons, K. E., &amp; Ghetti, S. (2013). I don\u2019t want to pick! Introspection on uncertainty supports early strategic behavior.\u00a0<em>Child Development</em>,\u00a0<em>84</em>(2), 726\u2013736. <a href=\"https://doi.org/10.1111/cdev.12004\" target=\"_blank\">https://doi.org/10.1111/cdev.12004</a></p>",
+              "customLabel": "Lyons & Ghetti, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This is interpreted as evidence that children\u2019s confidence evaluations are based on a self-attribution process, where children report their own mental states. This particular study, however, included a pretest phase where children were trained to link their feelings of uncertainty with verbal reports. Another study demonstrated that, without such training, 3-year-olds are able to adaptively accept or skip trials even if they fail false-belief tests ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nprfbx3ck3z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3nddczq9ja\" data-reactroot=\"\">Bernard, S., Proust, J., &amp; Cl\u00e9ment, F. (2014). The medium helps the message: Early sensitivity to auditory fluency in children\u2019s endorsement of statements.\u00a0<em>Frontiers in Psychology</em>,\u00a0<em>5</em>, 1412. <a href=\"https://doi.org/10.3389/fpsyg.2014.01412\" target=\"_blank\">https://doi.org/10.3389/fpsyg.2014.01412</a></p>",
+              "customLabel": "Bernard et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n35o0g3x1ff",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A critical test of the independence between control-and-monitoring (procedural metacognition) and verbal self-attribution of mental states involves demonstrating metacognitive sensitivity in nonverbal children. A distinction between the two basic metacognitive processes\u2014confidence-based decision and error monitoring\u2014are present in infants as young as 12 and 18 months ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8xmhck681u",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3in41m6ahx\" data-reactroot=\"\">Goupil, L., &amp; Kouider, S. (2016). Behavioral and Neural Indices of Metacognitive Sensitivity in Preverbal Infants.\u00a0<em>Current Biology</em>,\u00a0<em>26</em>(22), 3038\u20133045. <a href=\"https://doi.org/10.1016/j.cub.2016.09.004\" target=\"_blank\">https://doi.org/10.1016/j.cub.2016.09.004</a></p>",
+              "customLabel": "Goupil & Kouider, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Although toddlers do not talk about their mental states until their third year of life, another study showed that 20-month-olds can strategically seek help from caregivers by selectively turning to them when they cannot remember the location of a toy ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9mxvwo7qjz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj3626v8wz5\" data-reactroot=\"\">Goupil, L., Romand-Monnier, M., &amp; Kouider, S. (2016). Infants ask for help when they know they don\u2019t know.\u00a0<em>Proceedings of the National Academy of Sciences</em>,\u00a0<em>113</em>(13), 3492\u20133496. <a href=\"https://doi.org/10.1073/pnas.1515129113\" target=\"_blank\">https://doi.org/10.1073/pnas.1515129113</a></p>",
+              "customLabel": "Goupil et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These findings clearly demonstrate that procedural metacognition operates independently of verbal self-attribution of mental states."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "cognitive-actions",
+          "id": "cognitive-actions",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Cognitive actions"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3habvd7heo",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "To clarify the role of metacognition in cognitive actions, it is helpful to consider it in light of the following definition of an action: A behavior qualifies as an action \u201cwhen its course is subject to adjustments that compensate for the effects of forces that would otherwise interfere with it\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbsdhle3ub8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npoigqujp7n\" data-reactroot=\"\">Frankfurt, H. G. (1978). The problem of action.\u00a0<em>American Philosophical Quarterly</em>,\u00a0<em>15</em>(2), 157\u2013162.</p>",
+              "customLabel": "Frankfurt, 1978",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 160). Cognitive actions are actions whose goal is to acquire information (based on perception, memory, inference, testimony, etc., termed "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "informational goals"
+          },
+          {
+            "type": "text",
+            "text": "). Metacognition compensates for interference in the case of cognitive actions: This is why it is part and parcel of cognitive actions. While pragmatic goals are pursued for their instrumental value (e.g., food shopping), informational goals are often pursued on the basis of intrinsic motivations (i.e., motivations that do not depend on having further ends), such as learning or understanding."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "cognitive-control",
+          "id": "cognitive-control",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Cognitive control"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njrabin5igf",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Cognitive control"
+          },
+          {
+            "type": "text",
+            "text": " designates the mechanisms responsible for flexibly adapting information processing to the demands of present goals. In spite of its name, it applies to all kinds of action, not only cognitive actions. A main function of cognitive control is to prevent goal conflicts due to competition between different tasks. For example, cognitive control is needed to perform the \u201cStroop test\u201d where participants must filter out what a color word says (\u201cRED\u201d) to report its ink color (blue). Cognitive control (aka "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "executive control"
+          },
+          {
+            "type": "text",
+            "text": ") ensures that agents keep focused on their goal until it is reached and only switch attention to other tasks when it is adaptive to do so."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "metacognitive-control-and-monitoring",
+          "id": "metacognitive-control-and-monitoring",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Metacognitive control and monitoring"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njhahdvtir8",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Metacognitive control serves functions similar to the control of pragmatic actions: selecting a goal, keeping it active in working memory, updating and redirecting it, and assessing the final outcome. As shown in "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "nwl57tl832i",
+              "targetId": "nh7t8eawhxk",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", this control structure also applies to metacognition. Metacognition, however, is a specialized form of cognitive control. Rather than simply stabilizing agents\u2019 attention toward a current goal, its role is to optimize the accomplishment of informational goals as a function of time and cognitive resources. As defended by the dual-processing hypothesis, metacognitive control depends on affective and conceptual monitoring."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2iaha473i8",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Affective monitoring is related to information conveyed by feelings that signal opportunities and risks. Felt valence (perceived probability of success or error) elicits a desire to engage or disengage from the current cognitive action. The intensity of a feeling has an arousal value in that it determines the resources to be allocated to a response. In addition, valence and intensity play roles at different stages of the action (see "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "nz0c4jetf7x",
+              "targetId": "nh7t8eawhxk",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Before action, feelings help assess the importance and likely success of a cognitive goal. Curiosity, for example, stimulates agents\u2019 motivation to learn target content that is perceived as currently lacking but learnable. During action, metacognitive feelings signal unexpected difficulties, errors, inadequacies or unexpected progress to the goal. At the end of a cognitive action, feelings assess the outputs for their validity or interest. Their function is to accept correct results and store them in memory for further use."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nb0eorbka38",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Table 1. Taxonomy of metacognitive feelings based on action stages (from "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkmk4x9o8ei",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nge1lvzjqlw\" data-reactroot=\"\">Goupil, L., &amp; Proust, J. (2023). Curiosity as a metacognitive feeling.\u00a0<em>Cognition</em>,\u00a0<em>231</em>, 105325. <a href=\"https://doi.org/10.1016/j.cognition.2022.105325\">https://doi.org/10.1016/j.cognition.2022.105325</a></p>",
+              "customLabel": "Goupil & Proust, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "attrs": {
+          "id": "nh7t8eawhxk",
+          "hideLabel": false,
+          "align": null,
+          "size": null,
+          "smallerFont": false,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    223.95030918727915
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nkwcz96e37f",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "strong"
+                          }
+                        ],
+                        "text": "Goal-related predictive feelings (examples)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    224.0248454063604
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "ndrdiw4rb5b",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "strong"
+                          }
+                        ],
+                        "text": "Process-related evaluative feelings (examples)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    224.0248454063604
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n3lpsfufrwk",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "strong"
+                          }
+                        ],
+                        "text": "Result-related evaluative feelings (examples)"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    223.95030918727915
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n2v102ltk1f",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Feelings of curiosity"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    224.0248454063604
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n8vfjxox1ak",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Feelings of error"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    224.0248454063604
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nwiijmmmqio",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Feelings of being right/wrong"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    223.95030918727915
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "ntukqsy2hnq",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Feelings of familiarity"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    224.0248454063604
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nmbukovgk0e",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Feelings of incomprehension"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    224.0248454063604
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n4qreifpjwj",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Feelings that one learned"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    223.95030918727915
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n5ixvxj31ee",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Feelings of knowing"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    224.0248454063604
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n7g8gghxqrp",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Feelings of incoherence"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    224.0248454063604
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "ngk6etz08hn",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Eureka feelings"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    223.95030918727915
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nhyvz5khclt",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Feelings of prospective confidence"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    224.0248454063604
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nk442xy71wx",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Feelings of interest/boredom"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    224.0248454063604
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nbb8wfrzgwp",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Feelings of retrospective confidence"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    223.95030918727915
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "njsewvk5v2r",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Tip-of-the tongue"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    224.0248454063604
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nf4jm0doye2",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Feelings of confusion"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    224.0248454063604
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "na6o8hggbjh",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "explicit-metacognition",
+          "id": "explicit-metacognition",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Explicit metacognition"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3wdg6se7n1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Explicit metacognition enables people to revise decisions made on the basis of metacognitive feelings in light of their background knowledge. For example, even if something seems hard to understand, you can tell yourself that it is worth concentrating on it. Concept-based metacognition also helps to convince others: Verbal assertions must be justified, explanations provided, and the subjectively felt level of certainty reported. Interestingly, there are cases where explicit metacognition cannot overcome the influence of metacognitive feelings. For example, when participants\u2019 attention is divided (they have to do two things simultaneously), they can no longer filter out anagrams whose solutions they know from those they predict will be easy for naive subjects ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8ry52l499l",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhfu0dyt3au\" data-reactroot=\"\">Nussinson, R., &amp; Koriat, A. (2008). Correcting experience-based judgments: The perseverance of subjective experience in the face of the correction of judgment.\u00a0<em>Metacognition and Learning</em>,\u00a0<em>3</em>, 159\u2013174. <a href=\"https://doi.org/10.1007/s11409-008-9024-2\" target=\"_blank\">https://doi.org/10.1007/s11409-008-9024-2</a></p>",
+              "customLabel": "Nussinson & Koriat, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "the-architecture-controversy",
+          "id": "the-architecture-controversy",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The architecture controversy"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9pa1xjvasa",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The controversy between monists and dualists is focused on three issues (see "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "nyg2xd4trml",
+              "targetId": "n1jpmgjazst",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). First, there is debate about whether uncertainty monitoring (as well as other forms of metacognitive control) needs to engage beliefs about one\u2019s own mind. Monists consider that subjective uncertainty only qualifies as metacognitive if it is explicitly represented by a judgment of one\u2019s own uncertainty\u2014a metarepresentation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngtqaijarot",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4sep21kv53\" data-reactroot=\"\">Carruthers P. (2009). How we know our own minds: the relationship between mindreading and metacognition. B<em>ehavioral and Brain Sciences</em>, <em>32</em>(2):121-38; <a href=\"https://doi.org/10.1017/S0140525X09000545\">https://doi.org/10.1017/S0140525X09000545</a></p>",
+              "customLabel": "Carruthers, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Consistent with this view, developmental evidence suggests that metacognition only becomes efficient when children become able to read their own minds ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6o2m97ii8o",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9cxittmui1\" data-reactroot=\"\">Lyons, K. E., &amp; Ghetti, S. (2011). The development of uncertainty monitoring in early childhood.\u00a0<em>Child Development</em>,\u00a0<em>82</em>(6), 1778\u20131787. <a href=\"https://doi.org/10.1111/j.1467-8624.2011.01649.x\" target=\"_blank\">https://doi.org/10.1111/j.1467-8624.2011.01649.x</a></p>",
+              "customLabel": "Lyons & Ghetti, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny0kanuw146",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4p896ov1it\" data-reactroot=\"\">Perner, J. (2012). MiniMeta: In search of minimal criteria for metacognition.\u00a0In M. Beran, J. Perner, &amp; J. Proust (Eds.), <em>Foundations of metacognition</em> (pp. 94\u2013116). Oxford University Press. <a href=\"https://doi.org/10.1093/acprof:oso/9780199646739.003.0007\" target=\"_blank\">https://doi.org/10.1093/acprof:oso/9780199646739.003.0007</a></p>",
+              "customLabel": "Perner, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In contrast, dualists propose that uncertainty can also be implicitly represented by metacognitive feelings. Nonhuman animals and infants rely on them when they manifest curiosity or realize that they cannot remember an object\u2019s location ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk1irqfj1ty",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk2iw1n1vdx\" data-reactroot=\"\">Kornell, N., Son, L. K., &amp; Terrace, H. S. (2007). Transfer of metacognitive skills and hint seeking in monkeys.\u00a0<em>Psychological Science</em>,\u00a0<em>18</em>(1), 64\u201371. <a href=\"https://doi.org/10.1111/j.1467-9280.2007.01850.x\" target=\"_blank\">https://doi.org/10.1111/j.1467-9280.2007.01850.x</a></p>",
+              "customLabel": "Kornell et al., 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9a88ohiowb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3in41m6ahx\" data-reactroot=\"\">Goupil, L., &amp; Kouider, S. (2016). Behavioral and Neural Indices of Metacognitive Sensitivity in Preverbal Infants.\u00a0<em>Current Biology</em>,\u00a0<em>26</em>(22), 3038\u20133045. <a href=\"https://doi.org/10.1016/j.cub.2016.09.004\" target=\"_blank\">https://doi.org/10.1016/j.cub.2016.09.004</a></p>",
+              "customLabel": "Goupil & Kouider, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1fg4n8zqcu",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A second, related point of contention is whether metacognitive monitoring is involved in nonhuman and infant decision-making, such as seeking information, trying to remember, etc. Monists take these behaviors to be directly controlled by the corresponding basic functions (memory, perception, etc.). A more economical account, for them, is that infant and nonhuman responses are based on simple learning processes based on the probability of reward ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2hevqv1lqb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj9rypj36i7\" data-reactroot=\"\">Carruthers, P. (2017). Are epistemic emotions metacognitive? <em>Philosophical Psychology</em>,<em> 30</em>(1-2), 58\u201378 <a href=\"https://doi.org/10.1080/09515089.2016.1262536\">https://doi.org/10.1080/09515089.2016.1262536</a></p>",
+              "customLabel": "Carruthers, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Dualists, on the other hand, point to neural and behavioral evidence demonstrating that the probability of success and probability of reward compete to influence behavior ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nenflnmc01m",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqoos96uvml\" data-reactroot=\"\">Kepecs, A., &amp; Mainen, Z. F. (2012). A computational framework for the study of confidence in humans and animals.\u00a0<em>Philosophical Transactions of the Royal Society B: Biological Sciences</em>,\u00a0<em>367</em>(1594), 1322\u20131337. <a href=\"https://doi.org/10.1098/rstb.2012.0037\" target=\"_blank\">https://doi.org/10.1098/rstb.2012.0037</a></p>",
+              "customLabel": "Kepecs & Mainen, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nt2wb0vz4sx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhfu0dyt3au\" data-reactroot=\"\">Nussinson, R., &amp; Koriat, A. (2008). Correcting experience-based judgments: The perseverance of subjective experience in the face of the correction of judgment.\u00a0<em>Metacognition and Learning</em>,\u00a0<em>3</em>, 159\u2013174. <a href=\"https://doi.org/10.1007/s11409-008-9024-2\" target=\"_blank\">https://doi.org/10.1007/s11409-008-9024-2</a></p>",
+              "customLabel": "Nussinson & Koriat, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4svovo2mmu",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A third topic of controversy has to do with the potential ubiquity of metacognition throughout brain activity. If experience-based control depends on nonconscious predictive processes, monists argue, then it is unclear why the process of keeping one\u2019s balance should not qualify as metacognitive\u2014which might be viewed as an absurd consequence "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzta2ht8j8s",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nc2bazpgh28\" data-reactroot=\"\">Nagel, J. (2014). The meanings of metacognition. <em>Philosophy and Phenomenological Research</em>, 89(3), 710\u2013718.</p>",
+              "customLabel": "(Nagel, 2014)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". Dualists respond by differentiating levels of control. Metacognition is specialized in assessing the informational quality of cognitive activities, such as categorizing, remembering, or problem-solving. Furthermore, in contrast to subpersonal homeostatic processes, metacognitive feelings involve conscious subjective experience ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nv71d10co9n",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5b00hn3k0y\" data-reactroot=\"\">Koriat, A. (2000). The feeling of knowing: Some metatheoretical implications for consciousness and control.\u00a0<em>Consciousness and Cognition</em>,\u00a0<em>9</em>(2), 149\u2013171. <a href=\"https://doi.org/10.1006/ccog.2000.0433\" target=\"_blank\">https://doi.org/10.1006/ccog.2000.0433</a></p>",
+              "customLabel": "Koriat, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nnms4mwfh76",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Table 2. The main points of controversy about metacognitive architecture."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "attrs": {
+          "id": "n1jpmgjazst",
+          "hideLabel": false,
+          "align": null,
+          "size": null,
+          "smallerFont": false,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_header",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 2,
+                  "colwidth": [
+                    223.95034208783935
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nr08j2k4bl9",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "strong"
+                          }
+                        ],
+                        "text": "Arguments"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_header",
+                "attrs": {
+                  "colspan": 2,
+                  "rowspan": 1,
+                  "colwidth": [
+                    224.02482895608034,
+                    224.02482895608034
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "ntfqhqieoe2",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "strong"
+                          }
+                        ],
+                        "text": "Metacognition theory"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_header",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    224.02482895608034
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nn35s08cw0h",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "strong"
+                          }
+                        ],
+                        "text": "Monist"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_header",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    224.02482895608034
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nr9dpf2ygu7",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "strong"
+                          }
+                        ],
+                        "text": "Dualist"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    223.95034208783935
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nw84q3bs155",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "strong"
+                          }
+                        ],
+                        "text": "Source of metacognitive uncertainty"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    224.02482895608034
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nkv5i1h66at",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Judgments of uncertainty"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    224.02482895608034
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n7ewsytanas",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Metacognitive feelings and judgments of uncertainty"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    223.95034208783935
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n6w0ftuccsj",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "strong"
+                          }
+                        ],
+                        "text": "Source of control"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    224.02482895608034
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nksyzcziwuh",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Simple learning processes"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    224.02482895608034
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "ntbu4hxbb3e",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Specialized predictions concerning probability of success and reward"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    223.95034208783935
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "na46zsy552n",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "strong"
+                          }
+                        ],
+                        "text": "Specialization"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    224.02482895608034
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "ngmcsspbpca",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Metacognition should not apply to subpersonal control (e.g., control of balance)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    224.02482895608034
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nolcu7drg11",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Control is level-specific. Metacognitive control is conscious."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "what-feelings-of-confidence-track",
+          "id": "what-feelings-of-confidence-track",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "What feelings of confidence track"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhzju9n1h92",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A classic assumption in metacognitive studies is that confidence judgments track the distance of a given response to an objective world property (which only the experimenter is in a position to identify). On this assumption, confidence is supposed to refer to the posterior probability that a decision is correct, given the evidence. The function of confidence, from this perspective, is to help agents detect true properties or objective states of the world."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nynl9jzz6dx",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "An alternative construct takes confidence to refer instead to self-consistency, i.e., the reproducibility of a decision. Experiments on perceptual decision-making suggests that observers\u2019 perceptual confidence tracks the subjective reliability (i.e., self-consistency) of internal representations ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbrxbkd9s4x",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1dalj4l8ti\" data-reactroot=\"\">Caziot, B., &amp; Mamassian, P. (2021). Perceptual confidence judgments reflect self-consistency.\u00a0<em>Journal of Vision</em>,\u00a0<em>21</em>(12), 8. <a href=\"https://doi.org/10.1167/jov.21.12.8\" target=\"_blank\">https://doi.org/10.1167/jov.21.12.8</a></p>",
+              "customLabel": "Caziot & Mamassian, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Similar evidence has been found when studying participants\u2019 confidence in their general knowledge, social beliefs, and personal preferences ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlyq8q66zvh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2jozrapjtv\" data-reactroot=\"\">Koriat, A. (2024). Subjective confidence as a monitor of the replicability of the response.\u00a0<em>Perspectives on Psychological Science</em>, 17456916231224387. <a href=\"https://doi.org/10.1177/17456916231224387\" target=\"_blank\">https://doi.org/10.1177/17456916231224387</a></p>",
+              "customLabel": "Koriat, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). A related puzzling finding is that the confidence and speed with which an answer is given to a two-alternative forced-choice question predicts the likelihood that the same choice will be made by a majority of other participants, whether correct or not. Far from being an indicator of likely accuracy, the distribution of high and low confidence correlates with the degree of the consensus of specific responses (right and wrong alike) and the speed at which they are provided. This seems to be an unanticipated effect of participants\u2019 sharing common "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "wisdomware"
+          },
+          {
+            "type": "text",
+            "text": " (background knowledge)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "wisdom-of-crowds",
+          "id": "wisdom-of-crowds",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Wisdom of crowds"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nnsdum0eq91",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "These results contribute to the understanding of the \u201cwisdom of the crowd\u201d phenomenon. This expression derives from the finding that aggregated opinions within a group tend to be more accurate than the opinion of the best single expert within the group. Group decisions have also been found to be more accurate when more decision weight is given to the most confident persons. However, if self-consistency rather than accuracy determines confidence, group reasoning might be predicted to be subject to false consensus. To address this structural difficulty, it has been suggested that participants be encouraged to actively think differently. For example, they could be asked to try to contradict themselves (in order to experience internal disagreement) in order to blind themselves to their previous judgments. Another method is to increase interpersonal diversity in group composition ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbar40bnt11",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n66i6qy63l6\" data-reactroot=\"\">Herzog, S. M., &amp; Hertwig, R. (2014). Harnessing the wisdom of the inner crowd.\u00a0<em>Trends in Cognitive Sciences</em>,\u00a0<em>18</em>(10), 504\u2013506. <a href=\"https://doi.org/10.1016/j.tics.2014.06.009\" target=\"_blank\">https://doi.org/10.1016/j.tics.2014.06.009</a></p>",
+              "customLabel": "Herzog & Hertwig, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "the-evolution-of-metacognition",
+          "id": "the-evolution-of-metacognition",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The evolution of metacognition"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncdqohqtmqr",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Evidence from biology, psychology, anthropology, and linguistics is needed to identify the role of metacognition in the evolution of communication. Three types of hypotheses have been considered."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6yd6vl96ar",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "First, according to dual-inheritance theories, culture and biology are considered parts of one interacting system, with feedback going both ways ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nenexrhry1o",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhhiw3r0lq7\" data-reactroot=\"\">Jablonka, E., &amp; Lamb, M. J. (2007). Pr\u00e9cis of evolution in four dimensions.\u00a0<em>Behavioral and Brain Sciences</em>,\u00a0<em>30</em>(4), 353\u2013365. <a href=\"https://doi.org/10.1017/S0140525X07002221\" target=\"_blank\">https://doi.org/10.1017/S0140525X07002221</a></p>",
+              "customLabel": "Jablonka & Lamb, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). From this viewpoint, cultural traditions may influence, as well as be influenced by, the genes controlling linguistic communication."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ndqptu12mq0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Second, according to the cultural epidemiology view, cultural processes have their own nongenetic selection mechanisms, based on copying and social learning, either through high-fidelity replicators ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5qs83k3ohe",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"neavmjkoibj\" data-reactroot=\"\">Blackmore, S. (2000). <em>The meme machine</em>. Oxford University Press.</p>",
+              "customLabel": "Blackmore, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or creative reconstruction of target inputs ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhjenthlx5q",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3vhy81hcrg\" data-reactroot=\"\">Sperber, D., &amp; Hirschfeld, L. A. (2004). The cognitive foundations of cultural stability and diversity.\u00a0<em>Trends in Cognitive Sciences</em>,\u00a0<em>8</em>(1), 40\u201346. <a href=\"https://doi.org/10.1016/j.tics.2003.11.002\" target=\"_blank\">https://doi.org/10.1016/j.tics.2003.11.002</a></p>",
+              "customLabel": "Sperber & Hirschfeld, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2wu8pl2200",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Finally, according to the suprapersonal hypothesis, explicit metacognition is singled out as the thing that allows humans (unlike other primates) to reliably select who to copy or learn from ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nm73g320vea",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nu926hq1tu3\" data-reactroot=\"\">Heyes, C., Bang, D., Shea, N., Frith, C. D., &amp; Fleming, S. M. (2020). Knowing ourselves together: The cultural origins of metacognition.\u00a0<em>Trends in Cognitive Sciences</em>,\u00a0<em>24</em>(5), 349\u2013362. <a href=\"https://doi.org/10.1016/j.tics.2020.02.007\" target=\"_blank\">https://doi.org/10.1016/j.tics.2020.02.007</a></p>",
+              "customLabel": "Heyes et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). It was selected to allow higher efficiency in the cognitive control of epistemic cooperation in hominin groups. On this view, explicit metacognition used for intrapersonal control is a side effect of suprapersonal forms of control applied to coordinated cognitive actions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5uxz6kejuo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxy4qndqbye\" data-reactroot=\"\">Shea, N., Boldt, A., Bang, D., Yeung, N., Heyes, C., &amp; Frith, C. D. (2014). Supra-personal cognitive control and metacognition.\u00a0<em>Trends in Cognitive Sciences</em>,\u00a0<em>18</em>(4), 186\u2013193. <a href=\"https://doi.org/10.1016/j.tics.2014.01.006\" target=\"_blank\">https://doi.org/10.1016/j.tics.2014.01.006</a></p>",
+              "customLabel": "Shea et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "the-regulation-of-communication",
+          "id": "the-regulation-of-communication",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The regulation of communication"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5nlr3modpn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "If explicit metacognition involves sharing one\u2019s own uncertainty with other members of the group, then could the normative rules that apply to communication have been generated with explicit metacognition? In support of a positive answer, accuracy, informativeness, ease of processing, economy, and relevance\u2014the central informational standards targeted by Paul Grice\u2019s maxims of conversation\u2014appear to involve higher-order communicative intentions (i.e., metarepresentations of speakers\u2019 intentions). The study of animal signaling, on the other hand, suggests that procedural metacognition may have shaped nonhuman communicators\u2019 sensitivity to trade-offs between informativity and clarity or between cognitive effort and survival significance "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6f45lt47q1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng5dqlv2aua\" data-reactroot=\"\">Proust, J. (2023). Informational communication and metacognition.\u00a0<em>Evolutionary Linguistic Theory</em>,\u00a0<em>5</em>(1), 11-52.</p>",
+              "customLabel": "(Proust, 2023)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". This hypothesis sheds new light on human communication. The pragmatic rules governing it could be based in part on metacognitive compromises inherited from biology. This view is reflected in the distinction between basic and mentalistic forms of communication ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxv1efvcf4r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nw3nc7s0uh7\" data-reactroot=\"\">Sperber, D., &amp; Wilson, D. (2024). Rethinking ostensive communication in an evolutionary, comparative, and developmental perspective. PsyArXiv. <a href=\"https://doi.org/10.31234/osf.io/zp3fx\" target=\"_blank\">https://doi.org/10.31234/osf.io/zp3fx</a></p>",
+              "customLabel": "Sperber & Wilson, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "acknowledgements",
+          "id": "acknowledgements",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Acknowledgments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nzrhbt4x55h",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The diagrams were drawn by Fr\u00e9d\u00e9ric Guilleray."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading "
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nrxc149wt36",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "ndxuojjqbyy",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Beran, M. J. (2019). Animal metacognition: A decade of progress, problems, and the development of new prospects.\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Animal Behavior and Cognition"
+                  },
+                  {
+                    "type": "text",
+                    "text": ",\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "6"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(4), 223\u2013229. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.26451/abc.06.04.01.2019",
+                          "title": "",
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.26451/abc.06.04.01.2019"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "njred2kmod0",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Koriat, A. (2000). The feeling of knowing: Some metatheoretical implications for consciousness and control.\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Consciousness and Cognition"
+                  },
+                  {
+                    "type": "text",
+                    "text": ",\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "9"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(2), 149\u2013171. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1006/ccog.2000.0433",
+                          "title": "",
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1006/ccog.2000.0433"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "noo0n3775nh",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Proust, J. (2010). Metacognition.\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Philosophy Compass"
+                  },
+                  {
+                    "type": "text",
+                    "text": ",\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "5"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(11), 989\u2013998. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1111/j.1747-9991.2010.00340.x",
+                          "title": "",
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1111/j.1747-9991.2010.00340.x"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

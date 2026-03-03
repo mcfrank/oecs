@@ -1,0 +1,2345 @@
+{
+  "id": "cd81bff2-3df6-40d9-a45f-04fe1a89583e",
+  "slug": "nq8ws6q1",
+  "title": "Computational Complexity",
+  "url": "https://oecs.mit.edu/pub/nq8ws6q1",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "cd81bff2-3df6-40d9-a45f-04fe1a89583e",
+    "slug": "nq8ws6q1",
+    "title": "Computational Complexity",
+    "htmlTitle": "Computational Complexity",
+    "description": "",
+    "htmlDescription": "University of British Columbia",
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.cd81bff2",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "3k4tpbcv",
+    "editHash": "z4y8x2i2",
+    "reviewHash": "g6w7ftdh",
+    "commentHash": "9ugjya8e",
+    "draftId": "63d7a434-464b-4445-bd16-9db67684c3fa",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "63dad3c3-6d6a-4c27-b636-434e5f862b59",
+    "scopeSummaryId": "766f0bee-3908-4737-a4be-88d068edad0c",
+    "createdAt": "2024-12-18T01:47:12.953Z",
+    "updatedAt": "2025-02-06T19:35:31.803Z",
+    "attributions": [
+      {
+        "id": "6f460f1e-eea8-42c0-bf27-63499999da02",
+        "name": "Christopher Mole",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of British Columbia",
+        "orcid": "0000-0001-6144-2089",
+        "userId": null,
+        "pubId": "cd81bff2-3df6-40d9-a45f-04fe1a89583e",
+        "createdAt": "2024-12-18T01:47:52.497Z",
+        "updatedAt": "2024-12-18T01:48:09.075Z",
+        "user": null
+      },
+      {
+        "id": "df93cecd-e1c9-4b3f-a30e-415bbadd1001",
+        "name": "Colin Klein",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "The Australian National University",
+        "orcid": "0000-0002-7406-4010",
+        "userId": null,
+        "pubId": "cd81bff2-3df6-40d9-a45f-04fe1a89583e",
+        "createdAt": "2024-12-20T00:30:31.629Z",
+        "updatedAt": "2024-12-20T00:30:52.316Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "63d7a434-464b-4445-bd16-9db67684c3fa",
+      "latestKeyAt": "2025-02-04T18:04:38.818Z",
+      "firebasePath": "drafts/draft-63d7a434-464b-4445-bd16-9db67684c3fa",
+      "createdAt": "2024-12-18T01:47:12.951Z",
+      "updatedAt": "2025-02-06T21:50:41.871Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqjvcnr8h9p",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Designing effective computational systems is often a matter of finding ways in which simple logical operations can be combined to perform more complex tasks. Computer scientists therefore gauge the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "complexity"
+          },
+          {
+            "type": "text",
+            "text": " of tasks by asking how many such operations would be needed to perform them. They are especially concerned with cases in which the number of these operations is so large that the task cannot feasibly be performed by computational means. This happens whenever a task that takes "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "n"
+          },
+          {
+            "type": "text",
+            "text": " bits of information to specify requires X"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "n"
+          },
+          {
+            "type": "text",
+            "text": " operations to perform. Unless "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "n"
+          },
+          {
+            "type": "text",
+            "text": " is very small, the magnitude of the computational resources that would be needed to perform such tasks exceeds anything that could plausibly be available within a brain, or that could have been available over the course of intelligence\u2019s evolution. When intelligent creatures succeed in dealing with tasks of this sort, their success therefore cannot be explained simply by the postulation of a computation. We must instead adopt an explanatory strategy that takes into account not only the things that are intelligently done but also the bounds within which this intelligence is accomplished. The question of which tasks exhibit such complexity is among the most fundamental open questions in theoretical computer science."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "foundations",
+          "id": "foundations",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Foundations"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nb0n7qqrdpa",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In his paper, \u201cComputing Machinery and Intelligence,\u201d "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh4vplfjxz4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlu9wzhr5r5\" data-reactroot=\"\">Turing, A. M. (1950). Computing machinery and intelligence. <em>Mind</em>, <em>59</em>(236), 433\u2013469. https://doi.org/10.1093/mind/LIX.236.433</p>",
+              "customLabel": "Alan Turing (1950)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " laid the foundations for the current phase of our enquiries into the question of whether machines can think. He did so by proposing a test to gauge the presence of thinking [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/uli3iiu9",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "The Turing Test"
+          },
+          {
+            "type": "text",
+            "text": "] and by giving a definition of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "machine"
+          },
+          {
+            "type": "text",
+            "text": " that is precise enough to allow for formal enquiry into the limits of what machines can do."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ni3oqqwddxe",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "During this phase of his career, Turing was particularly interested in showing that there are some things that no machines could ever possibly do, irrespective of the computational architecture that those machines employ. To establish this, he first described a very simple machine and then showed that, if the working memory that is available to this machine was increased or if each step of the machine\u2019s processing were allowed to use increasingly sophisticated logical or mathematical operations, then, although this machine might operate more smoothly, the total set of functions that it could in principle compute would not have changed. By showing that it was impossible for this simple machine to compute certain functions, Turing could thereby show that it would be equally impossible for those functions to be computed by systems that had larger and more sophisticated resources available to them. And so, by finding examples of such functions, he was able to show that it is in the nature of some functions to be uncomputable by any machine, irrespective of that machine\u2019s architecture."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkuc9lmrxcw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In the decade or so following Turing\u2019s paper, it became clear that this phenomenon is a more general one. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd7qdz0w6uf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzq1l1wp4wn\" data-reactroot=\"\">Cobham, A. (1965). The intrinsic computational difficulty of functions. In Y. Bar-Hillel (Ed.), <em>Logic, methodology, and philosophy of science</em> (pp. 24\u201330).\u00a0 North Holland Publishing.</p>",
+              "customLabel": "Alan Cobham (1965)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " argued that just as absolute uncomputability is an intrinsic property of certain functions, so too is the relative difficulty of computing those functions that fall within the realm of the computable. Some functions are impossible to compute. Others are easy to compute, since the quantity of the computational resources that is needed to calculate their output grows only arithmetically, in proportion to the size of the input that is being considered. Yet others are intrinsically harder to compute, and the quantity of computational resources that must be used to calculate their output grows exponentially as the size of the input increases. If the rate of this exponential growth is bounded so that the exponent remains small, then the computation of these functions may still be manageable (by using a sufficiently fast computational system). But in some cases, there seems to be no such bound, so these are cases in which the demand for computational resources becomes unmanageably large."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhmovlh2yub",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "To find the prime factors of any number that is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "n"
+          },
+          {
+            "type": "text",
+            "text": " digits long, for example, the only known algorithms need to go through X"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "n"
+          },
+          {
+            "type": "text",
+            "text": " computational steps, but\u2014since the number of milliseconds since the beginning of the universe is something on the order of 4.5 \u00d7 10"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "20"
+          },
+          {
+            "type": "text",
+            "text": "\u2014the execution of these algorithms would require more time than could feasibly be made available, unless the number whose prime factors are to be found was rather small, even if the computational system that we were using were one in which each individual computational step could be completed very rapidly."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nl44lmpk2l3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "It is believed that this need for an unmanageably large quantity of computational resources is a consequence of the intrinsic complexity of prime factorization so that prime factorization belongs to the set of functions that are too complex to compute by any efficient means, except by using a machine that can work at speeds that would seem to be unfeasible to implement within the laws of classical physics. There is, however, no proof of this. This reflects the fact that little is known about the set of functions that would be computable only if exponentially large amounts of time were available for their computation. There have been many failed attempts to prove things about this set, and there has been much speculation about it. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4hs4bo9262",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9a0v7kbak7\" data-reactroot=\"\">G\u00f6del, K. (2003). <em>Kurt G\u00f6del Collected works: Volume V: Correspondence H\u2013Z</em> (S. Feferman, J. W. Dawson Jr., W. Goldfarb, C. Parsons, and W. Sieg, Eds.). Oxford University Press.</p>",
+              "customLabel": "Kurt G\u00f6del (2003)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " speculated, in a 1956 letter to John von Neumann, that only a manageable quantity of computational resources might be required for the computation of a function that determines the truth or falsity of a broad range of mathematical conjectures (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nt9jg0anxcf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvhrwt4bb16\" data-reactroot=\"\">Urquhart, A. (2010). Von Neumann, G\u00f6del and complexity theory. <em>Bulletin of Symbolic Logic</em>, <em>16</em>(4), 516\u2013530. https://doi.org/10.2178/bsl/1294171130</p>",
+              "customLabel": "Urquhart, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). If this were correct, there would be as-yet-undiscovered computational means by which a great many mathematical questions could be settled."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "p-vs.-np",
+          "id": "p-vs.-np",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Polynomial vs. nondeterministic polynomial"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4ylxpqhwee",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Research into the issue that G\u00f6del was raising entered a new phase at the beginning of the 1970s, when "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd4nrvf2b9h",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n244khqitcd\" data-reactroot=\"\">Cook, S. A. (1971). The complexity of theorem proving procedures. In <em>Proceedings of the Third Annual ACM Symposium on Theory of Computing</em> (pp. 151\u2013158). Association for Computing Machinery. https://doi.org/10.1145/800157.805047</p>",
+              "customLabel": "Stephen Cook (1971)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngtowivn9ls",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8c7z3v6tym\" data-reactroot=\"\">Levin, L. A. (1973). Universal search problems. <em>Problems of Information Transmission</em>, <em>9</em>(3), 265\u2013266.</p>",
+              "customLabel": "Leonid Levin (1973)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " independently investigated the complexity of problems for which the correctness of any proposed solution can be checked easily, whether or not there is any tractable method by which that solution could have been found. For one example of such a problem (suggested by "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n28cawg59df",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nywweeptrk4\" data-reactroot=\"\">Stewart, I. (2008). <em>Professor Stewart\u2019s cabinet of mathematical curiosities</em>. Basic Books.</p>",
+              "customLabel": "Stewart, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), consider the task of finding the solution to any given jigsaw puzzle. Finding the solution to some puzzles might be easy if the pieces are decorated with an obvious pattern, but in other cases\u2014if the pattern is absent or misleading\u2014it would be hard and might require a painstaking search through all of those pieces, in order to find their correct arrangement. For large jigsaws, the time required for such a search might become unfeasible. But in either case\u2014whether the discovery of a proposed solution is easy or hard\u2014the correctness of any solution that has been proposed can easily be checked, just by looking at it to see whether the pieces have been correctly assembled."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n8bn5n89dn6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cook and Levin discovered that some of the problems that exhibit such easy checkability have the property that every other easily checkable problem can be expressed as versions of them. If there were a tractable method that could, for example, be used to find whether there is a route by which to make exactly one visit to every station on any given subway network, then that method could be adapted to show, for any possible map of the world, whether there is a way to color that map using only three colors so that no territories with a common border share a color. The opposite also holds: A method for checking the three-colorability of maps could be used to check the visitability of subway networks. And if there were a tractable method for either one of these problems, then it could be also applied to all of the other problems for which proposed solutions can easily be checked. The problems that have this property are said to be "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "NP-hard"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nw1dvm5my4n",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The terminology that theoretical computer scientists use to describe the problems that exhibit such properties can be rather opaque. Here, unlike in the parts of cognitive science that take their terminology from linguistics, NP stands for "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "nondeterministic polynomial"
+          },
+          {
+            "type": "text",
+            "text": ". To understand what this means, consider first what computer scientists mean when they say that some function is \u201cin P\u201d (with \u201cP\u201d here standing for \u201cpolynomial\u201d). By \u201cbeing in P,\u201d they mean that two conditions are jointly satisfied. Firstly, they mean that there exists some algorithm that is guaranteed to arrive at the output of that function when given any one of its possible inputs. Secondly, they mean that that algorithm is guaranteed to complete this operation in a number of steps that is never greater than something on the order of N"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "k"
+          },
+          {
+            "type": "text",
+            "text": ", where N is a measure of the size of the particular input that has been given and k is some integer. If this k is sufficiently small then for a function to be in P is for there to be a not-too-onerous route from inputs to outputs. (But this need for sufficient smallness is not built into P\u2019s official definition.)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvo14zvd0wk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The class NP is best understood by considering the way in which being in NP contrasts with being in P. As compared to saying that a function is in P, saying that it is in NP makes what seems, on the face of it, to be a much weaker claim: It is to say, not that there is a not-too-onerous route from the function\u2019s inputs to its outputs, but that there exists some other piece of information that one might have been given (perhaps merely by chance\u2014hence, nondeterministic) such that, if one had somehow been given this other piece of information, there would have been a not-too-onerous route by which one could have used it to establish with certainty what this function\u2019s output should be for the input in question."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n446gzkdlpa",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Although a great many different functions would seem to be in NP, the surprising discovery of theoretical computer science, in the period following Cook\u2019s and Levin\u2019s pioneering work, is that many of these functions turn out to be notational variants of one another, in the sense that a method for solving any one of them could be used to solve each of the others. So, for example, the checkable questions that can be asked about subway systems can be translated into checkable questions about the colorability of maps, the journeys taken by traveling salesmen, games of minesweeper, and so on (and all of these translations can also be done the other way around). This, finally, enables us to understand what computer scientists mean when they say that a function is NP-hard: A function is NP-hard if and only if, by the application of some such translation scheme, an algorithm for solving it could be applied to every problem in NP."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nuq63lce70v",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In the decades following Cook\u2019s and Levin\u2019s work several problems were shown to have this property of NP-hardness, so that any computational method for solving them would need to be a method that could solve absolutely every problem for which proposed solutions are easily checkable. And many of the problems that have this property are themselves members of NP (in which case they are said to be "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "NP-complete"
+          },
+          {
+            "type": "text",
+            "text": "). Methods that were guaranteed to solve any one of these problems would, if they existed, be very powerful indeed."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhg3k5vcwuh",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The belief that no method could ever really be so powerful is one of the basic motivations for thinking that computational methods that are guaranteed to solve every instance of these problems do not actually exist. But the underlying point remains unproven, and the question of whether or not such methods really do exist is widely reckoned to be one of the most important open questions in mathematics ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrwqangtjh0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n48y7lt67lv\" data-reactroot=\"\">Fortnow, L. (2009). The status of the P versus NP problem. <em>Communications of the ACM</em>, <em>52</em>(9), 78\u201386. https://doi.org/10.1145/1562164.1562186</p>",
+              "customLabel": "Fortnow, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). If it were to turn out that computational methods for solving these problems do indeed exist, then those methods would be of the first importance for cognitive science, since they might have the potential to provide the basis for a computational model of general intelligence. Alternatively\u2014on the more widely held supposition that such methods do not exist\u2014the explanation of our human capacity to deal intelligently with these problems must proceed in a more piecemeal fashion, and it must take account of that capacity\u2019s limited applicability."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4lajhmf9pq",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Among the several problems that are known to be NP-hard, there are some basic problems of Boolean logic ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nepcqazbidn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nui1jxctq3t\" data-reactroot=\"\">Hunt, H. B., III, &amp; Stearns, R. E. (1990). The complexity of very simple Boolean formulas with applications. <em>SIAM Journal on Computing</em>, <em>19</em>(1), 44\u201370. https://doi.org/10.1137/0219003</p>",
+              "customLabel": "Hunt & Stearns, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and of probabilistic inference ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2t17lsl2ms",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8etbfm6dpl\" data-reactroot=\"\">Cooper, G. F. (1990). The computational complexity of probabilistic inference using Bayesian belief networks. <em>Artificial Intelligence</em>, <em>42</em>(2\u20133), 393\u2013405. https://doi.org/10.1016/0004-3702(90)90060-D</p>",
+              "customLabel": "Cooper, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). There are also a great many problems from domains in which humans are able to cope, competently but fallibly ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9r85u7mee5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb90ejg3kxm\" data-reactroot=\"\">Hearn, R. A., &amp; Demaine, E. D. (2009). <em>Games, puzzles, and computation</em>. CRC Press. https://doi.org/10.1201/b10581</p>",
+              "customLabel": "Hearn & Demaine, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). We therefore have a reason for thinking that, whatever computational explanation might be given for our capacity for such coping, there must be some contexts in which that capacity would break down. At the end of the 20th century, such considerations led several cognitive scientists to the view that, if we hope to explain intelligence computationally, we must regard the rationality of that intelligence as bounded (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3gy3migsf8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6tgkqbklp8\" data-reactroot=\"\">Simon, H. A. (1990). Invariants of human behavior. <em>Annual Review of Psychology</em>, <em>41</em>(1), 1\u201319. https://doi.org/10.1146/annurev.ps.41.020190.000245</p>",
+              "customLabel": "Simon, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or as achieved through the use of heuristics that are reliable only in a limited range of circumstances ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nj0qgql9vpw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrsn72l5pje\" data-reactroot=\"\">Gigerenzer, G. (1991). How to make cognitive illusions disappear: Beyond \u201cheuristics and biases.\u201d <em>European Review of Social Psychology</em>, <em>2</em>(1), 83\u2013115. https://doi.org/10.1080/14792779143000033</p>",
+              "customLabel": "Gigerenzer, 1991",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and that are accurate only within some tolerable margin of error ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nm4x39ueqsz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nft3fnxmx1l\" data-reactroot=\"\">Martignon, L., &amp; Schmitt, M. (1999). Simplicity and robustness of fast and frugal heuristics. <em>Minds and Machines</em>, <em>9</em>, 565\u2013593. https://doi.org/10.1023/A:1008313020307</p>",
+              "customLabel": "Martignon & Schmitt, 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "foundational-assumptions-of-theoretical-computer-science",
+          "id": "foundational-assumptions-of-theoretical-computer-science",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Foundational assumptions of theoretical computer science"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxnptu6uwc6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Like other branches of theoretical computer science, the discussion of computational complexity is conducted almost exclusively in the language of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Turing Machines"
+          },
+          {
+            "type": "text",
+            "text": ". To get from theorems that are framed in these terms to claims about the cognitive processes that might be taking place in a brain, we depend on inferences in which some version of the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Church"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "\u2013"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Turing thesis"
+          },
+          {
+            "type": "text",
+            "text": " serves as a premise. This thesis says that the information processing taking place in any physically possible system can be modeled to an arbitrary degree of precision by a Turing Machine. It is a consequence of Turing\u2019s proof that his machines are capable of computing any general recursive function, when that is combined with the assumption that the only explicable behaviors of physically possible systems are those that conform to mathematically well-behaved laws and that thereby implement such functions."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nq9fs43bg4i",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Because the Church"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "\u2013"
+          },
+          {
+            "type": "text",
+            "text": "Turing thesis applies to any physically possible system, it provides a warrant for inferences from claims about the functions that could not possibly be computable by a Turing Machine to conclusions about the capacities that could not be explicably attributed to a brain. It does this without requiring us to make any further assumptions about the brain and the Turing Machine sharing a computational architecture."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1cljo2pm24",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The theory of computational complexity is particularly concerned with tasks that become unfeasible to perform on a Turing Machine, not because they are absolutely impossible to compute but only because such machines would need to go through a number of steps that is exponentially larger than the task\u2019s input or output, without there being any manageable bound on the size of this exponent. To infer from this that such tasks would be similarly unfeasible for the brain (or for any other physical system at a human scale), one needs to make the further assumption that no such system could have an exponentially large speed advantage over a Turing Machine. This assumption is sometimes known as the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Cobham"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "\u2013"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Edmonds thesis"
+          },
+          {
+            "type": "text",
+            "text": " (and sometimes just as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Cobham\u2019s thesis"
+          },
+          {
+            "type": "text",
+            "text": ")"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "."
+          },
+          {
+            "type": "text",
+            "text": " Like the Church"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "\u2013"
+          },
+          {
+            "type": "text",
+            "text": "Turing thesis, it is not itself a provable theorem. Instead, it is a contingent claim that licenses the drawing of inferences from such theorems to conclusions about the limitations of what would be physically explicable."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n88f2g334gv",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Although the Cobham"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "\u2013"
+          },
+          {
+            "type": "text",
+            "text": "Edmonds thesis is consonant with our best physical theories, the physical principles that support it are not so fundamental as those that support the Church"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "\u2013"
+          },
+          {
+            "type": "text",
+            "text": "Turing thesis: There may perhaps be counterexamples to it, but the only likely source for these is in quantum mechanics ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "neuyb27iypd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq03n731ci8\" data-reactroot=\"\">Shor, P. W. (1994). Algorithms for quantum computation: discrete logarithms and factoring. In <em>Proceedings of the 35th annual symposium on foundations of computer science</em> (pp. 124-134). IEEE.</p>",
+              "customLabel": "Shor, 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The assumption that the brain can enjoy no more than a polynomial speed advantage over a Turing Machine is therefore a safe one for cognitive science, at least insofar as the brain is too large and too warm for quantum mechanical effects to be relevant to the operation of any system with which it shares information. Theorists who think that quantum mechanical effects in the brain are relevant to the explanation of cognition may think that this assumption should be rejected (see, e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7n82prnnw0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5du8lzxroe\" data-reactroot=\"\">Hagan, S., Hameroff, S. R., &amp; Tuszy\u0144ski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. <em>Physical Review E</em>, <em>65</em>(6), 061901. https://doi.org/10.1103/PhysRevE.65.061901</p>",
+              "customLabel": "Hagan et al., 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). They might therefore be willing to credit the brain with accomplishments that would be too complex for any classical computer to complete in a feasible amount of time, but even these theorists should not ignore the results of computational complexity theory entirely. Results that are germane to their understanding of cognition might still be found in the (as-yet-nascent) theory of quantum complexity."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "worst-case-fixed-parameter-and-average-case-complexity-classes",
+          "id": "worst-case-fixed-parameter-and-average-case-complexity-classes",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Worst-case, fixed-parameter, and average-case complexity classes"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nd2n443ecfn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Complexity theory\u2019s central concept is that of a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "complexity class"
+          },
+          {
+            "type": "text",
+            "text": ", which is a set of functions such that, for each of the functions in this set, there is some well-defined criterion that is satisfied by the quantity of the computational resources that would be required to get from the function\u2019s input to its output."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nn6wh9yddf1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The definition for one of the most basic of these classes, known as P, was discussed above: P contains all and only those functions that can be computed in a system that uses a number of computational steps that is no larger than X"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "k"
+          },
+          {
+            "type": "text",
+            "text": ", where X measures the magnitude of the function\u2019s input and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "k"
+          },
+          {
+            "type": "text",
+            "text": " is some natural number. Another related class contains all and only those functions that can be computed in a system where there is a similar bound, not on the number of computational steps that would need to be taken but on the space that would need to be available in the computer\u2019s memory. Just as the first of these classes is known as P, the second is known as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "PSPACE"
+          },
+          {
+            "type": "text",
+            "text": ". A great many other such classes have been defined. The online \u201c"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://complexityzoo.net/Complexity_Zoo",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Complexity Zoo"
+          },
+          {
+            "type": "text",
+            "text": "\u201d gives the definitions and names of 547 of them."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n24k7i47zkk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "To understand what is and is not implied by the claim that a function is a member of some hard-to-compute complexity class, it is important to understand the way in which a function\u2019s requirement for resources is defined. Even the hardest functions to compute can be made to require only a small amount of work for some circumscribed subset of their instances, just by finding their value for these particular instances in advance and providing one\u2019s computational system with a table in which those particular values can be looked up: Computers are always good at looking up previously discovered and previously tested answers, even when they would be bad at freshly calculating those answers for themselves. The magnitude of the resources that are required to find the value of a function in some easy cases therefore tells us nothing very much about that function\u2019s intrinsic complexity. For this reason, the complexity of a function is instead typically measured by the magnitude of the resources that are required to compute the value of the function in the worst case."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "npas8js9r9n",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Because the frequency with which these worst-case scenarios will be encountered in the real world is often unknown, this tendency to focus on complexity classes that are defined by the task-demands of the worst case introduces a limitation on complexity theory\u2019s implications for cognitive science. The difficulty here is that we rarely know how lucky one would need to be in order to avoid the difficult cases, not by adopting some clever policy for avoiding them but just by never happening to come across them. As a result of that, we rarely know whether the brain might be able to rely on relatively simple computational methods, even when it is dealing with hard-to-compute problems, just because the organism to whom that brain belongs never needs to deal with the hard cases."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngugplopk6r",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Worst-case analysis is not always useful for cognitive scientists. Consider, for example, some theorems that have been proven about the complexity of the game of Tetris: It has been shown that certain questions about Tetris belong to a complexity class that is believed to be hard to compute in the worst case, even within any known margin of error ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "np5ox6qcg6h",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0g5pk0bz7t\" data-reactroot=\"\">Breukelaar, Ron, Erik D. Demaine, Susan Hohenberger, Hendrik Jan Hoogeboom, Walter A. Kosters, and David Liben-Nowell (2004). &quot;Tetris is hard, even to approximate.&quot; <em>International Journal of Computational Geometry &amp; Applications,</em> <em>14</em> (1-2): 41-68. <a href=\"https://doi.org/10.1142/S0218195904001354\">https://doi.org/10.1142/S0218195904001354</a></p>",
+              "customLabel": "Breukelaar et al., 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Any computational system for estimating how many lines can be completed using any given sequence of Tetris blocks would therefore be prone to making arbitrarily large errors, if it encountered the worst-case scenario. The proof of this proceeds by showing that NP-hard logic problems can be translated into Tetris block-sequences (thereby showing that an optimal Tetris playing system would need to be able to solve those problems). But this proof tells us nothing about how hard it might be to use the sorts of computational resources that are available within a human brain to do a close-to-optimal job of making lines from the randomly generated sequences of Tetris blocks that are encountered by actual players of the game. The worst-case scenarios that are used in this proof are designed to be hard, not to be representative of any normally occurring case."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nq77bu0eoyl",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Membership of a hard-to-compute complexity class can reveal something that is more relevant to the concerns of the cognitive scientist when the outputs of the functions in that class are hard to compute, not only in the absolutely worst case but also in the worst of the cases that are encountered when certain parameters are fixed within naturally occurring bounds. It may, for example, be unfeasible to design a computational system that can check the logical consistency of any set of sentences, but it would be easy to design a system that can check the consistency of any set that is small enough to be held in human working memory. It has therefore been suggested that our theories of cognition should be constrained, not by the absolute complexity of the functions that a cognitive system would need to compute, but only by the complexity of those functions in cases where certain parameters are fixed ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlyy7sqbxii",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n20ovtkkvfb\" data-reactroot=\"\">van Rooij, I. (2008). The tractable cognition thesis. <em>Cognitive Science</em>, <em>32</em>(6), 939\u2013984.</p>",
+              "customLabel": "van Rooij, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This is a much weaker constraint. Many functions that would be hard to compute with full generality become easy to compute if we consider only those instances that occur within parameters that are fixed to psychologically plausible values."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nztbadlk8b6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Membership of a hard-to-compute complexity class also promises to reveal something that is relevant to the concerns of the cognitive scientist when the values of the functions in that class are hard to compute, not only in the worst case but also in the average case. Theorems about average-case complexity are, however, much harder to prove. Unlike facts about worst-case complexity (or worst-case complexity within fixed parameters), facts about a function\u2019s average-case complexity cannot be intrinsic to that function: They must instead be relativized to an expected probability distribution of the cases to which that function is going to be applied. Cognitive scientists who are hoping to use average-case complexity to cast light on the actual limits of our cognitive processes therefore need to make assumptions about those distributions."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nyk58407p7b",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Of the natural assumptions that might be made here, one of the few that has been made precise enough for mathematical purposes is the assumption that nothing in our environment does unfeasible amounts of computational work in order to ensure that we are presented with scenarios that are likely to be hard or easy for us. On the basis of that assumption, it is possible to show that there is sometimes no feasible way in which we could improve our chances of avoiding the worst-case scenario ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nf3zax6pvoo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njghdpm0lqi\" data-reactroot=\"\">Impagliazzo, R., &amp; Levin L. A. (1990). No better ways to generate hard NP instances than picking uniformly at random. In <em>Proceedings 31st Annual Symposium on Foundations of Computer Science</em> (pp. 812\u2013821). IEEE. https://doi.org/10.1109/FSCS.1990.89604</p>",
+              "customLabel": "Impagliazzo & Levin, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). But, for the kinds of problems that need to be intelligently managed in the course of a normal human life, we still know rather little about how good or bad those chances are ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3u0c1bhzdu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1l9d3qw6hs\" data-reactroot=\"\">Mole, C. (2016). <em>The unexplained intellect: Complexity, time, and the metaphysics of embodied thought</em>. Routledge.</p>",
+              "customLabel": "Mole, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "neqwuovkp2u",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The most direct way in which complexity theory could reveal something that would be of fundamental importance for cognitive science would be if it could identify some naturally arising problems that satisfy three criteria: (1) The computation of solutions would be hard for a significant proportion of the cases that we are likely to encounter in the course of a normal human life; (2) the computation of those solutions would remain hard, even if we could tolerate solutions that were approximate to within some human-like margin for error; and (3) the finding of those solutions would not be speeded up if we allowed them to be found in the chancy way that seems to be typical of human thinking. An explanation of our ability to cope with problems that meet all three of these criteria would need to depart from cognitive science\u2019s established explanatory paradigms, but results concerning the average-case complexity of such naturally arising problems remain elusive."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ns2legpslgp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One area in which considerable progress has been made is in understanding the complexity-theoretic consequences of allowing for chanciness. One might naively have supposed that, since Turing Machines are deterministic, the theory of computational complexity ceases to be applicable to any system that makes use of randomness (as the brain might). But this would be a mistake. It can be shown, conditional on certain plausible assumptions, that genuine randomness has no real advantages over the kinds of pseudorandomness that Turing Machines are capable of generating. The lessons that come from the study of Turing Machines are therefore applicable even to systems that make use of randomness ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "na8dd2ntizl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsq81v4z214\" data-reactroot=\"\">Impagliazzo, R., &amp; Wigderson, A. (1997). <em>P</em> = <em>BPP</em> if <em>E</em> requires exponential circuits: Derandomizing the XOR lemma. In <em>Proceedings of the Twenty-Ninth Annual ACM Symposium on Theory of Computing</em> (pp. 220\u2013229). Association for Computing Machinery. https://doi.org/10.1145/258533.258590</p>",
+              "customLabel": "Impagliazzo & Wigderson, 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). There are many contexts in which these systems prove to be surprisingly powerful. Research into randomness-employing methods has revealed some deep connections between tractability by such methods and the hardness of approximation. Some of the most active areas of research in complexity theory build on these discoveries."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfm2airwxx0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Much of that research is concerned with identifying problems that display average-case hardness and that are hard to even approximate, but only a small part of this research is oriented toward questions concerning the computational explanation of cognition (see, e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3tbdnmuh5v",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwwh1y73kk7\" data-reactroot=\"\">Bossaerts, P., &amp; Murawski, C. (2017). Computational complexity and human decision-making. Trends in Cognitive Sciences, <em>21</em>(12), 917\u2013929. https://doi.org/10.1016/j.tics.2017.09.005</p>",
+              "customLabel": "Bossaerts & Murawski, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Much of it is instead concerned with the discovery of functions that can be used to generate codes that lie far beyond the range of what could be deciphered by a human, even if that human had enormous computational resources at their disposal, and that can therefore be used to create secure systems of encryption, for use in various cybersecurity applications."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrcsf37a0r8",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In addition to complexity theory\u2019s promise as a source of future insights into the limitations of our intelligence, complexity theoretic considerations might also cast light on some other features of the mind. Theoretical computer science is a rich source of examples of deterministic processes, the outcome of which cannot be predicted in advance (except by a perfect replication of that very process). The existence of such processes removes one of the reasons why deterministic laws of nature might have been thought to be incompatible with the existence of free will. Some researchers in complexity theory have therefore advanced the philosophically ambitious suggestion that the sources of unpredictability that are studied by computational complexity theory might be used to explain how systems obeying deterministic laws can manifest something like free will (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvt02xf78a9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"np238g30cna\" data-reactroot=\"\">Aaronson, S. (2013). <em>Quantum computing since Democritus</em>. Cambridge University Press. <a href=\"https://doi.org/10.1017/CBO9780511979309\" title=\"\">https://doi.org/10.1017/CBO9780511979309</a></p>",
+              "customLabel": "Aaronson, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", Chapter 19)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "no9rwd3mlvk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Connections with other topics in cognitive science have been drawn in the branch of theoretical computer science that is concerned with the study of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "ecorithms"
+          },
+          {
+            "type": "text",
+            "text": ", a term coined by Leslie Valiant to refer to algorithms that could enable naturally occurring systems to efficiently extract information from their environment and to encode that information in a usable form. Such ecorithms have been used to model the way in which an individual creature comes to possess information about its environment over the course of its history of inductively learning from examples. They have been used to model the acquisition of concepts from relatively small numbers of positive and negative exemplars and to model some aspects of the acquisition of language (see the papers in "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx94adrml80",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvaalo02s2m\" data-reactroot=\"\">Bertolo, S. (2001). <em>Language acquisition and learnability</em>. Cambridge University Press.</p>",
+              "customLabel": "Bertolo, 2001",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). At a higher level of abstraction, this approach has also been used to model the way in which the process of evolution can incrementally create an information-rich lineage of DNA ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3d8tw9ua2t",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nr1e6f8eaij\" data-reactroot=\"\">Valiant, L. G. (2009). Evolvability. <em>Journal of the ACM</em>, <em>56</em>(1), 3. https://doi.org/10.1145/1462153.1462156</p>",
+              "customLabel": "Valiant, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvxq26jjkvm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Considerations of computational complexity feature prominently in the study of ecorithms, since it is the need to avoid unfeasibly complex tasks that gives this study its characteristic emphasis on the fact that the algorithms unpinning these ecological phenomena are effective with a high probability, rather than with complete certainty, and produce representations that have tolerable margins of error but may not have complete fidelity to the underlying facts. These two emphases are reflected in the fact that ecorithms are said to use techniques of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Probably Approximately Correct (PAC)"
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "learning"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk83zakmms6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"niijzfy4r7p\" data-reactroot=\"\">Valiant, L. G. (2013). <em>Probably approximately correct</em>. Basic Books.</p>",
+              "customLabel": "Valiant, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). It has also been suggested that the theory of ecorithms might be illuminating at a more metatheoretical level: Concepts that were acquired through PAC learning processes would have a somewhat indeterminate semantics, and the suggestion has been made that some philosophical questions about the mind are intractable owing to such indeterminacy ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlvjgfan9jn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"niijzfy4r7p\" data-reactroot=\"\">Valiant, L. G. (2013). <em>Probably approximately correct</em>. Basic Books.</p>",
+              "customLabel": "Valiant, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", Chapter 8)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nd1stot7me4",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The parts of cognitive science that make use of game theory also have the potential to be illuminated by research into computational complexity. Game theoretic considerations lead us to expect that certain strategies for negotiating multiagent interactions will tend to be found in any stable population. In particular, they lead us to expect that the behavior of stable populations will exemplify some combination of strategies such that none of the agents participating in this interaction could improve their outcome by deviating from their current strategy. These equilibrium states can, however, be difficult to find. The field of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Algorithmic Game Theory"
+          },
+          {
+            "type": "text",
+            "text": " uses the resource of computational complexity theory to probe the sources of those difficulties (see, e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkrtp2x9mih",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq6g50r2nmo\" data-reactroot=\"\">Daskalakis, C., Goldberg, P. W., &amp; Papadimitriou, C. H. (2009). The complexity of computing a Nash equilibrium. <em>Communications of the ACM,</em> <em>52</em>(2), 89\u201397. https://doi.org/10.1145/1461928.1461951</p>",
+              "customLabel": "Daskalakiset al., 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and to examine the ways in which physically explicable systems might address them over human or evolutionary time scales ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuc6sidw7ed",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ni44omsw42i\" data-reactroot=\"\">Papadimitriou, C. (2014). Algorithms, complexity, and the sciences. <em>Proceedings of the National Academy of Sciences</em>, <em>111</em>(45), 15881\u201315887. https://doi.org/10.1073/pnas.1416954111</p>",
+              "customLabel": "Papadimitriou, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "acknowledgments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Acknowledgments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nziu5mveozr",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Thanks to the editors of the OECS for feedback on earlier drafts."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n7ol858rnl0",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nplme5itom7",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Aaronson, S. (2013). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Quantum computing since Democritus"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Cambridge University Press. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1017/CBO9780511979309",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1017/CBO9780511979309"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nejqnbu16my",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Arora, S., & Barak, B. (2009). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Computational complexity: A modern approach."
+                  },
+                  {
+                    "type": "text",
+                    "text": " Cambridge University Press. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1017/CBO9780511804090",
+                          "title": "",
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1017/CBO9780511804090"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nqv1qrbr0ht",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Goldreich, O. (2012). Invitation to complexity theory. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "XRDS Crossroads: The ACM Magazine for Students"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "18"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(3), 18\u201322. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1145/2090276.2090285",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1145/2090276.2090285"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nf7mvy2prqn",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Valiant, L. G. (2013). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Probably approximately correct"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Basic Books."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

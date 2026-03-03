@@ -1,0 +1,1492 @@
+{
+  "id": "0de13fd2-8cde-4c9c-9e5c-2d37551bf279",
+  "slug": "ee7y4opg",
+  "title": "Causal Reasoning",
+  "url": "https://oecs.mit.edu/pub/ee7y4opg",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "0de13fd2-8cde-4c9c-9e5c-2d37551bf279",
+    "slug": "ee7y4opg",
+    "title": "Causal Reasoning",
+    "htmlTitle": "Causal Reasoning",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.0de13fd2",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "r92tuzo3",
+    "editHash": "qmhduj3q",
+    "reviewHash": "zr6jcqvo",
+    "commentHash": "pc7cl31f",
+    "draftId": "481ffb15-09fe-4ca4-9fe7-a8f26c79b3eb",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "4d246e3b-4353-4192-92bd-ed430b04a75e",
+    "scopeSummaryId": "fdfcd210-4bcb-4a34-9db6-8724ede3bce5",
+    "createdAt": "2024-08-20T17:28:17.307Z",
+    "updatedAt": "2024-09-30T15:11:43.898Z",
+    "attributions": [
+      {
+        "id": "0531a58b-e022-47db-aff2-549019bf0723",
+        "name": "David Lagnado",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Dept. of Experimental Psychology University College London",
+        "orcid": "0000-0002-6845-8830",
+        "userId": null,
+        "pubId": "0de13fd2-8cde-4c9c-9e5c-2d37551bf279",
+        "createdAt": "2024-08-20T17:29:01.298Z",
+        "updatedAt": "2024-08-20T17:29:21.646Z",
+        "user": null
+      },
+      {
+        "id": "41676628-ceb0-4b6b-9e80-34482eace72b",
+        "name": null,
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Stanford University",
+        "orcid": null,
+        "userId": "109667a4-3426-4b8d-ab8e-6ed65afced12",
+        "pubId": "0de13fd2-8cde-4c9c-9e5c-2d37551bf279",
+        "createdAt": "2024-09-13T17:56:27.523Z",
+        "updatedAt": "2024-09-13T17:56:37.998Z",
+        "user": {
+          "id": "109667a4-3426-4b8d-ab8e-6ed65afced12",
+          "firstName": "Michael C.",
+          "lastName": "Frank",
+          "fullName": "Michael C. Frank",
+          "avatar": null,
+          "slug": "michael-frank-3",
+          "initials": "MF",
+          "title": "Benjamin Scott Crocker Professor of Human Biology",
+          "orcid": "0000-0002-7551-4378"
+        }
+      }
+    ],
+    "draft": {
+      "id": "481ffb15-09fe-4ca4-9fe7-a8f26c79b3eb",
+      "latestKeyAt": "2024-09-30T15:10:30.476Z",
+      "firebasePath": "drafts/draft-481ffb15-09fe-4ca4-9fe7-a8f26c79b3eb",
+      "createdAt": "2024-08-20T17:28:17.302Z",
+      "updatedAt": "2024-10-31T01:13:33.412Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n17tn4op0b2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "We engage in causal reasoning on a daily basis, whether we are stacking books, figuring out why a friend is upset, or deciding the guilt of a defendant. It allows us to predict and explain the world around us, to imagine what-if, and to assign praise and blame. What differentiates causal reasoning from other forms of inference is that it not only concerns what actually happens but also requires us to imagine how things might have been different. To establish if X causes Y, we need to infer whether Y would still have occurred without X. How do people achieve this imaginative feat? An emerging view in cognitive science is that people build internal causal models that allow them to simulate possible scenarios and hence to compare what actually happened against other counterfactual possibilities. For example, to decide whether eating the seafood caused my rash, I mentally simulate alternative scenarios where I didn\u2019t eat the seafood and see if the rash still occurs. This general-purpose capability allows us to reason about both physical and social systems and also underpins our ability to construct stories and explanations."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nz75oetqq0y",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "While the nature of causality is still debated among philosophers, all agree that it is fundamental to how people construe the world. But how do people engage in cause-and-effect reasoning? A central claim is that we use mental models to represent and reason about the world. The key idea is that by manipulating our mental models, we can predict how things will change. Early precursors were cognitive maps that represent spatial structure ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4e69gt9z8f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"noz5kb2z66u\" data-reactroot=\"\">Tolman, E. C., &amp; Brunswik, E. (1935). The organism and the causal texture of the environment.\u00a0<em>Psychological Review</em>,\u00a0<em>42</em>(1), 43\u201377. <a href=\"https://doi.org/10.1037/h0062156\" target=\"_blank\">https://doi.org/10.1037/h0062156</a></p>",
+              "customLabel": "Tolman & Brunswik, 1935",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and internal models that \u201crun in the mind\u201d to predict the consequences of our actions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nt52vqz90ud",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nppd7ytg82p\" data-reactroot=\"\">Craik, K. J. W. (1952). <em>The nature of explanation.</em> Cambridge University Press.</p>",
+              "customLabel": "Craik, 1952",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The next iteration of mental models was logic-based, primarily designed to explain deductive reasoning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nn12cb0nvk8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngkp3tc5ot5\" data-reactroot=\"\">Johnson-Laird, P. N. (1983). <em>Mental models: Towards a cognitive science of language, inference, and consciousness</em>. Harvard University Press.</p>",
+              "customLabel": "Johnson-Laird, 1983",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, the logical frame underpinning this approach struggles to capture crucial elements of causal reasoning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkl16uerq34",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nldzjlu35jx\" data-reactroot=\"\">Sloman, S. A., &amp; Lagnado, D. A. (2005). Do we \u201cdo\u201d? <em>Cognitive Science, 29</em>(1)<em>,</em> 5\u201339. <a href=\"https://doi.org/10.1207/s15516709cog2901_2\" target=\"_blank\">https://doi.org/10.1207/s15516709cog2901_2</a></p>",
+              "customLabel": "Sloman & Lagnado, 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4ltgyo6u4m",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A critical breakthrough for cognitive science was the advent of causal Bayes nets ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no5jq5whvbd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxzisx9ts8c\" data-reactroot=\"\">Pearl, J. (2000). <em>Causality: Models, reasoning, and inference</em>. Cambridge University Press.</p>",
+              "customLabel": "Pearl, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), which formalize the concept of a causal model and provide a computational framework for causal and counterfactual inference [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/i1om74mo",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Causal Learning"
+          },
+          {
+            "type": "text",
+            "text": "]. It distinguishes inferences based on observation (\u201cI see the lights are on and infer that someone is home\u201d) from inferences based on interventions (\u201cI switch the lights on but do not infer that someone else is home\u201d) and defines counterfactuals in terms of interventions on causal models (see "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "n6zy49wd5h9",
+              "targetId": "ny8xmmyu5h7",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). It also links causal models with probabilities and shows how Bayesian updating depends on causal structure."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "ny8xmmyu5h7",
+          "url": "https://assets.pubpub.org/s54nyz8d/61724174926026.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"nw4da8vippd\" data-reactroot=\"\">Using a causal model for counterfactual inference.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nw4da8vippd",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Suppose that a small fire starts in a barn, but the sprinkler system activates, preventing the barn from burning. Would the barn have burned down if the sprinkler system did not work? This question requires a reasoner to imagine a counterfactual world where the sprinkler does not activate and to then predict the probability of the barn burning. But the reasoner should not infer that because the sprinkler did not activate the fire did not start (which would only be legitimate if they had merely observed that the sprinkler did not activate). The causal model framework shows the correct inference in such cases, and human reasoners follow this pattern of reasoning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0t7gbmzgh0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nldzjlu35jx\" data-reactroot=\"\">Sloman, S. A., &amp; Lagnado, D. A. (2005). Do we \u201cdo\u201d? <em>Cognitive Science, 29</em>(1)<em>,</em> 5\u201339. <a href=\"https://doi.org/10.1207/s15516709cog2901_2\" target=\"_blank\">https://doi.org/10.1207/s15516709cog2901_2</a></p>",
+              "customLabel": "Sloman & Lagnado, 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npg8efp8bvt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyjrcyyzftb\" data-reactroot=\"\">Sloman, S. A., &amp; Lagnado, D. (2015). Causality in thought.\u00a0<em>Annual Review of Psychology</em>,\u00a0<em>66</em>(1), 223<strong>\u2013</strong>247. <a href=\"https://doi.org/10.1146/annurev-psych-010814-015135\" target=\"_blank\">https://doi.org/10.1146/annurev-psych-010814-015135</a></p>",
+              "customLabel": "2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqnpi762m85",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This framework sparked a wealth of novel research on causal reasoning, serving as a benchmark against which to compare human judgment but also as a guide to the kinds of representations and inferences that people might use ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh7at02suoj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv5cmm8yw45\" data-reactroot=\"\">Sloman, S. A. (2009).\u00a0<em>Causal models: How people think about the world and its alternatives</em>. Oxford University Press. <a href=\"https://doi.org/10.1093/acprof:oso/9780195183115.001.0001\">https://doi.org/10.1093/acprof:oso/9780195183115.001.0001</a></p>",
+              "customLabel": "Sloman, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). New questions were addressed, such as how people use causal models for probability judgments ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmqc078b7y0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyfgb7z3vv9\" data-reactroot=\"\">Krynski, T. R., &amp; Tenenbaum, J. B. (2007). The role of causality in judgment under uncertainty.\u00a0<em>Journal of Experimental Psychology: General</em>,\u00a0<em>136</em>(3), 430\u2013450. <a href=\"https://doi.org/10.1037/0096-3445.136.3.430\" target=\"_blank\">https://doi.org/10.1037/0096-3445.136.3.430</a></p>",
+              "customLabel": "Krynski & Tenenbaum, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), how they adapt their models for counterfactual inference ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n86zw4p1x33",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb2b8fax5kc\" data-reactroot=\"\">Lucas, C. G., &amp; Kemp, C. (2015). An improved probabilistic account of counterfactual reasoning.\u00a0<em>Psychological Review</em>,\u00a0<em>122</em>(4), 700\u2013734.</p>",
+              "customLabel": "Lucas & Kemp, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhhfvefz7wh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nldzjlu35jx\" data-reactroot=\"\">Sloman, S. A., &amp; Lagnado, D. A. (2005). Do we \u201cdo\u201d? <em>Cognitive Science, 29</em>(1)<em>,</em> 5\u201339. <a href=\"https://doi.org/10.1207/s15516709cog2901_2\" target=\"_blank\">https://doi.org/10.1207/s15516709cog2901_2</a></p>",
+              "customLabel": "Sloman & Lagnado, 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), how they use causal knowledge to categorize new objects ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nyez7yj4m4t",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyxohoad0op\" data-reactroot=\"\">Rehder, B. (2003). Categorization as causal reasoning. <em>Cognitive Science</em>,\u00a0<em>27</em>(5), 709<strong>\u2013</strong>748. <a href=\"https://doi.org/10.1207/s15516709cog2705_2\">https://doi.org/10.1207/s15516709cog2705_2</a></p>",
+              "customLabel": "Rehder, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and how they generate causal models from prior knowledge ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0ben2wcz49",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv652ryq5vm\" data-reactroot=\"\">Griffiths, T. L., &amp; Tenenbaum, J. B. (2009). Theory-based causal induction.\u00a0<em>Psychological Review</em>,\u00a0<em>116</em>(4), 661\u2013716. <a href=\"https://doi.org/10.1037/a0017201\" target=\"_blank\">https://doi.org/10.1037/a0017201</a></p>",
+              "customLabel": "Griffiths & Tenenbaum, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nm2nd2m2har",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A key question is the nature of the cognitive apparatus that allows people to construct causal models and run mental simulations. One proposal is that when people reason about everyday physical situations"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "\u2014"
+          },
+          {
+            "type": "text",
+            "text": "such as predicting whether a pile of plates will topple"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "\u2014"
+          },
+          {
+            "type": "text",
+            "text": "they use their intuitive knowledge of physics to simulate possible trajectories and interactions of the objects ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb2w03p1hkn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmmsu4jio9z\" data-reactroot=\"\">Battaglia, P. W., Hamrick, J. B., &amp; Tenenbaum, J. B. (2013). Simulation as an engine of physical scene understanding.\u00a0<em>Proceedings of the National Academy of Sciences</em>, <em>110</em>(45), 18327<strong>\u2013</strong>18332. <a href=\"https://doi.org/10.1073/pnas.1306572110\" target=\"_blank\">https://doi.org/10.1073/pnas.1306572110</a></p>",
+              "customLabel": "Battaglia et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nr5a2rwi814",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngyjiqnxw0e\" data-reactroot=\"\">Ullman, T. D., Spelke, E., Battaglia, P., &amp; Tenenbaum, J. B. (2017). Mind games: Game engines as an architecture for intuitive physics.\u00a0<em>Trends in Cognitive Sciences</em>,\u00a0<em>21</em>(9), 649<strong>\u2013</strong>665. <a href=\"https://doi.org/10.1016/j.tics.2017.05.012\" target=\"_blank\">https://doi.org/10.1016/j.tics.2017.05.012</a></p>",
+              "customLabel": "Ullman et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). A na\u00efve physics engine in the head enables a range of causal and counterfactual inferences, allowing people to judge what would happen if the system was perturbed in various ways ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nc001pwf8lh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrllefmrb8q\" data-reactroot=\"\">Gerstenberg, T., Goodman, N. D., Lagnado, D. A., &amp; Tenenbaum, J. B. (2021). A counterfactual simulation model of causal judgments for physical events. <em>Psychological Review,</em> <em>128</em>(5), 936\u2013975. <a href=\"https://doi.org/10.1037/rev0000281\" target=\"_blank\">https://doi.org/10.1037/rev0000281</a></p>",
+              "customLabel": "Gerstenberg et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Further evidence that people simulate counterfactuals when making causal judgments is given by eye-tracking ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nav8ewwlbpt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nt7mwtbt1m2\" data-reactroot=\"\">Gerstenberg, T., Peterson, M. F., Goodman, N. D., Lagnado, D. A., &amp; Tenenbaum, J. B. (2017). Eye-tracking causality. <em>Psychological Science,</em> <em>28</em>(12), 1731<strong>\u2013</strong>1744. <a href=\"https://doi.org/10.1177/0956797617713053\" target=\"_blank\">https://doi.org/10.1177/0956797617713053</a></p>",
+              "customLabel": "Gerstenberg et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "): When judging causality in object collisions, participants not only track the actual motion of the objects but also track where they would have gone but for the collision."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3w8u1zkl35",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Across a wide range of tasks, people show an impressive capacity for causal reasoning. While some psychological theories cast causal simulation as a short-cut heuristic or bias ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5camv1zq0u",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nglmb0sgica\" data-reactroot=\"\">Kahneman, D., &amp; Tversky, A. (1982). The simulation heuristic. In D. Kahneman, P. Slovic, &amp; A. Tversky (Eds.), <em>Judgment under uncertainty: Heuristics and biases</em> (pp. 201\u2013208). Cambridge University Press. <a href=\"https://doi.org/10.1017/CBO9780511809477.015\" target=\"_blank\">https://doi.org/10.1017/CBO9780511809477.015</a></p>",
+              "customLabel": "Kahneman & Tversky, 1982",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), the new approach argues that causal thinking is a foundational part of reasoning, not a rule of thumb. This does not mean that people are immune to error and biases. But heuristics enter when people need to use approximate inference because of the complexity of the problem and their limited computational resources ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2zrwvvmprk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"niok14sz9el\" data-reactroot=\"\">Bramley, N. R., Dayan, P., Griffiths, T. L., &amp; Lagnado, D. A. (2017). Formalizing Neurath\u2019s ship: Approximate algorithms for online causal learning. <em>Psychological Review,</em> <em>124</em>(3), 301<strong>\u2013</strong>338. <a href=\"https://doi.org/10.1037/rev0000061\" target=\"_blank\">https://doi.org/10.1037/rev0000061</a></p>",
+              "customLabel": "Bramley et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ny6hmjat7wd",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Causal mental models"
+          },
+          {
+            "type": "text",
+            "text": " are internal representations of the world that capture causal structure and allow people to predict and explain how things change. What distinguishes these models from associative or logic-based models is that they can be used to predict the consequences of novel interventions. For example, my causal model of my cat allows me to predict what will happen if I tread on its tail."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "na47fc6z4qt",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Counterfactuals"
+          },
+          {
+            "type": "text",
+            "text": " are imagined alternatives to what actually happened. For example, suppose you take the bus to work and arrive late. What would have happened if you had cycled instead? Counterfactuals can be tricky because we need to decide what to hold constant from the actual world (e.g., the weather conditions) and what to allow to change (e.g., the route taken). The ability to construct plausible counterfactuals is a strength of human reasoning, but the details of how we achieve this are still under debate."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ny0l5jffyul",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Mental simulation"
+          },
+          {
+            "type": "text",
+            "text": " is the running of an internal model, from initial conditions through to possible outcomes, that supports prediction and can also be used to evaluate counterfactuals. For example, to predict what would happen if I cycle rather than take the bus, I mentally simulate cycling to work and assess how it is affected by the traffic conditions."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvvqar8wchg",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Intuitive theories"
+          },
+          {
+            "type": "text",
+            "text": " are commonsense knowledge of a domain, such as the physics of everyday objects or social interactions, that allows us to generate plausible causal models for specific situations [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/k7xz3u08",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Intuitive Theories"
+          },
+          {
+            "type": "text",
+            "text": "]. For example, my intuitive theory about pets allows me to generate a causal model of the behavior of my cat, which in turn supports prediction via simulation."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nc1k288onch",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One challenge for the mental simulation account is how to scale up to complex situations or those involving abstract concepts. For example, how might one use mental simulation to address causal questions about the economy or the efficacy of military interventions? A related problem is that people show distinctive patterns of errors in physical reasoning that seem incompatible with the use of mental simulation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0o667yvmck",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"naqjek39uk8\" data-reactroot=\"\">Ludwin-Peery, E., Bramley, N. R., Davis, E., &amp; Gureckis, T. M. (2021). Limits on simulation approaches in intuitive physics.\u00a0<em>Cognitive Psychology</em>,\u00a0<em>127</em>, 101396. <a href=\"https://doi.org/10.1016/j.cogpsych.2021.101396\" target=\"_blank\">https://doi.org/10.1016/j.cogpsych.2021.101396</a></p>",
+              "customLabel": "Ludwin-Peery et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). A lot depends on how simulation is characterized and how much it relies on high-fidelity versus good-enough processing. One suggestion is that people use partial rather than full simulation because of limited computational resources ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0bo8lh15s0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6uwrs6a9kk\" data-reactroot=\"\">Bass, I., Smith, K. A., Bonawitz, E., &amp; Ullman, T. D. (2021). Partial mental simulation explains fallacies in physical reasoning.\u00a0<em>Cognitive Neuropsychology</em>,\u00a0<em>38</em>(7-8), 413<strong>\u2013</strong>424. <a href=\"https://doi.org/10.1080/02643294.2022.2083950\" target=\"_blank\">https://doi.org/10.1080/02643294.2022.2083950</a></p>",
+              "customLabel": "Bass et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3latljfc0g",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Another challenge is how people decide which counterfactuals to use and how to avoid problems such as over-determination (where several causes are each sufficient for an effect) or pre-emption (where one cause pre-empts an alternative cause). In both cases, a simple counterfactual will deliver the wrong causal judgment ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwxcpyz2ix2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8tu16r4i5x\" data-reactroot=\"\">Halpern, J. Y. (2016).\u00a0<em>Actual causality</em>. MIT Press. <a href=\"https://doi.org/10.7551/mitpress/10809.001.0001\" target=\"_blank\">https://doi.org/10.7551/mitpress/10809.001.0001</a></p>",
+              "customLabel": "Halpern, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Various attempts have been made to circumvent these problems, but so far, no agreed-upon cognitive or formal account captures all the nuances."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7xs8uqtta6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One exciting future direction is exploring how people create novel causal concepts by combining and reusing previously acquired knowledge ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nc0ibtfrs39",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj80good1e6\" data-reactroot=\"\">Zhao, B., Lucas, C. G., &amp; Bramley, N. R. (2024). A model of conceptual bootstrapping in human cognition.\u00a0<em>Nature Human Behaviour</em>,\u00a0<em>8</em>(1), 125<strong>\u2013</strong>136. <a href=\"https://doi.org/10.1038/s41562-023-01719-1\" target=\"_blank\">https://doi.org/10.1038/s41562-023-01719-1</a></p>",
+              "customLabel": "Zhao et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The idea that despite our cognitive limitations we can use bootstrapping to invent richer causal concepts and also share this knowledge with others, opens the door for a deeper understanding of how we develop and transmit causal knowledge. "
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncxs92q7860",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Causal reasoning lies at the heart of many practical areas of decision making, such as law, health, and the environment. By better understanding how people use causal models in these complex domains, the quality of people\u2019s decision making may be improved. For example, the dominant psychology model of legal decision-making is predicated on the claim that people use causal knowledge to build stories that explain evidence and determine verdicts ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6gm6vaq4vm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzjmychzzn6\" data-reactroot=\"\">Lagnado, D. A. (2021).\u00a0<em>Explaining the evidence: How the mind investigates the world</em>. Cambridge University Press. <a href=\"https://doi.org/10.1017/9780511794520\" target=\"_blank\">https://doi.org/10.1017/9780511794520</a></p>",
+              "customLabel": "Lagnado, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxr388fa1uz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbapjskeost\" data-reactroot=\"\">Pennington, N., &amp; Hastie, R. (1992). Explaining the evidence: Tests of the Story Model for juror decision making. <em>Journal of Personality and Social Psychology</em>, <em>62</em>(2), 189<strong>\u2013</strong>206. <a href=\"https://doi.org/10.1037/0022-3514.62.2.189\" target=\"_blank\">https://doi.org/10.1037/0022-3514.62.2.189</a></p>",
+              "customLabel": "Pennington & Hastie, 1992",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). But exactly how people achieve this, and how well it corresponds to normative causal inference, remains under-studied."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngtxdz6vshc",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Causal reasoning is also a precursor to assigning responsibility, whether moral or legal. Inspired by the causal simulation approach, research is starting to unpack the factors that determine how people attribute responsibility when multiple agents contribute to critical outcomes, such as the success or failure of a joint project ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbdcb0y3dxg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0wblzwvlwi\" data-reactroot=\"\">Lagnado, D. A., Gerstenberg, T., &amp; Zultan, R. (2013). Causal responsibility and counterfactuals.\u00a0<em>Cognitive Science</em>,\u00a0<em>37</em>(6), 1036<strong>\u2013</strong>1073. <a href=\"https://doi.org/10.1111/cogs.12054\" target=\"_blank\">https://doi.org/10.1111/cogs.12054</a></p>",
+              "customLabel": "Lagnado et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This work extends to understanding how to encourage people to take more responsibility for their actions."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading "
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nb0chp6bt5i",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "ni2btj0az7m",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Danks, D. (2014).\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Unifying the mind: Cognitive representations as graphical models"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". MIT Press. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.7551/mitpress/9540.001.0001",
+                          "title": "",
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.7551/mitpress/9540.001.0001"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n6zkh6n0mi6",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Sloman, S. A. (2009).\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Causal models: How people think about the world and its alternatives"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Oxford University Press. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1093/acprof:oso/9780195183115.001.0001",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1093/acprof:oso/9780195183115.001.0001"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n5fyebnukyq",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Sloman, S. A., & Lagnado, D. (2015). Causality in thought.\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Annual Review of Psychology"
+                  },
+                  {
+                    "type": "text",
+                    "text": ",\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "66"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(1), 223"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "strong"
+                      }
+                    ],
+                    "text": "\u2013"
+                  },
+                  {
+                    "type": "text",
+                    "text": "247. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1146/annurev-psych-010814-015135",
+                          "title": "",
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1146/annurev-psych-010814-015135"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nuxpp9cn5cs",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Waldmann, M. R. (Ed.). (2017).\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The Oxford handbook of causal reasoning"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Oxford University Press. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1093/oxfordhb/9780199399550.001.0001",
+                          "title": "",
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1093/oxfordhb/9780199399550.001.0001"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

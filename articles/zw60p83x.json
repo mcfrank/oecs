@@ -1,0 +1,1155 @@
+{
+  "id": "a24eecd4-37c6-44fc-87cf-2ab0c00c701a",
+  "slug": "zw60p83x",
+  "title": "Cognitive Development",
+  "url": "https://oecs.mit.edu/pub/zw60p83x",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "a24eecd4-37c6-44fc-87cf-2ab0c00c701a",
+    "slug": "zw60p83x",
+    "title": "Cognitive Development",
+    "htmlTitle": "Cognitive Development",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": "2024-07-24T00:00:00.000Z",
+    "doi": "10.21428/e2759450.a24eecd4",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "vcyyz46n",
+    "editHash": "0sbimi40",
+    "reviewHash": "mjhdqxo0",
+    "commentHash": "etp8z2gx",
+    "draftId": "3099edf2-8e6a-427d-8d73-0a324588be02",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "374c8ac0-ec45-44b0-a47e-c780cf432f07",
+    "scopeSummaryId": "c8c0b619-3686-4f91-81c9-9a170efbb0fb",
+    "createdAt": "2024-07-10T17:43:22.725Z",
+    "updatedAt": "2024-07-24T12:17:32.098Z",
+    "attributions": [
+      {
+        "id": "18585fe7-d73b-4608-b91d-8815ad69a795",
+        "name": "Susan A. Gelman",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of Michigan - Ann Arbor",
+        "orcid": "0000-0003-1005-2691",
+        "userId": null,
+        "pubId": "a24eecd4-37c6-44fc-87cf-2ab0c00c701a",
+        "createdAt": "2024-07-10T17:44:04.660Z",
+        "updatedAt": "2024-07-10T17:44:22.725Z",
+        "user": null
+      },
+      {
+        "id": "455db449-e7fc-464e-82ac-652468415c1e",
+        "name": "Marina Bedny",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Johns Hopkins University",
+        "orcid": "0000-0002-2907-8042",
+        "userId": null,
+        "pubId": "a24eecd4-37c6-44fc-87cf-2ab0c00c701a",
+        "createdAt": "2024-07-23T21:03:00.935Z",
+        "updatedAt": "2024-07-23T21:03:16.302Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "3099edf2-8e6a-427d-8d73-0a324588be02",
+      "latestKeyAt": "2024-07-23T21:03:52.862Z",
+      "firebasePath": "drafts/draft-3099edf2-8e6a-427d-8d73-0a324588be02",
+      "createdAt": "2024-07-10T17:43:22.721Z",
+      "updatedAt": "2025-12-29T10:50:18.453Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nombtu59ffb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cognitive development is the process of how children think and learn, from infancy through adolescence. This topic encompasses a broad range of topics, including (though not limited to) perception, attention, memory, executive functioning, language, concepts and categorization, knowledge systems, problem-solving, strategies, causal reasoning, moral reasoning, spatial reasoning, literacy, and mathematics. Classic questions include what capacities are present from birth, what changes with age, what are the mechanisms of change, and what roles do biology and experience play in contributing to developmental outcomes? Cognitive development is of central interest to cognitive scientists because it provides insight into how humans acquire knowledge; what is distinctive about human intelligence (vs. that of other species); what are the cognitive capacities and limitations of our species; and sources of variation across individuals, groups, and cultures."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nml5ks9kkox",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cognitive development has been a focus of inquiry for millennia, initially rooted in philosophical debates about the role of innate capacities versus experience in the origins of knowledge ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8jng8i1jeh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl119cugd3h\" data-reactroot=\"\">Markie, P., &amp; Folescu, M. (2023). Rationalism vs. empiricism. In E. N. Zalta &amp; U. Nodelman (Eds.), <em>The Stanford encyclopedia of philosophy</em> <em>(Spring 2023 edition)</em>. <a href=\"https://plato.stanford.edu/archives/spr2023/entries/rationalism-empiricism\" target=\"xrefwindow\">https://plato.stanford.edu/archives/spr2023/entries/rationalism-empiricism</a></p>",
+              "customLabel": "Markie & Folescu, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Early scientific study of cognitive development can be found in 18th and 19th century \u201cbaby diaries,\u201d where European and U.S. parents carefully tracked and recorded their infants\u2019 behaviors and words over time [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xohbfbix",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Language Acquisition"
+          },
+          {
+            "type": "text",
+            "text": "] ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nz2fevlahut",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbyz38zwszv\" data-reactroot=\"\">Wallace, D. B., Franklin, M. B., &amp; Keegan, R. T. (1994). The observing eye: A century of baby diaries. <em>Human Development,</em> <em>37</em>(1), 1\u201329. <a href=\"https://doi.org/10.1159/000278233\" target=\"_blank\">https://doi.org/10.1159/000278233</a></p>",
+              "customLabel": "Wallace et al., 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, it was not until the 20th century that cognitive development began to receive systematic and theory-driven study. Jean Piaget (1896\u20131980) is widely recognized as the first and most influential figure from this period. His theory of cognitive development, known as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "constructivism"
+          },
+          {
+            "type": "text",
+            "text": ", posited that knowledge is neither innately given nor passively acquired through experience; rather, children construct knowledge through their own actions on the world and experience a series of four qualitative distinct \u201cstages\u201d over development, reflecting increasingly sophisticated logical structures ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "non5eiqkzk6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7qwq014rly\" data-reactroot=\"\">Piaget, J. (1970). Piaget\u2019s theory. In P. H. Mussen (Ed.), <em>Carmichael\u2019s manual of child psychology</em>. Wiley.</p>",
+              "customLabel": "Piaget, 1970",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7lpntzriue",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Enduring aspects of Piaget\u2019s theory include that children do not simply or passively take in what they experience but rather actively construct their understanding of the world, that even the simplest of behaviors (such as grasping an object) require planning and problem-solving, and that there are systematic changes with age in how children think. However, Piaget\u2019s proposal that children progress through qualitatively distinct stages has been largely discredited on empirical grounds, as it greatly underestimates young children\u2019s abilities, overestimates the logical capacities of adolescents and adults, and does not account for variability in children\u2019s thinking at any point in time."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "npj8evkiuoy",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Other dominant theoretical perspectives introduced in the 20th century include information-processing approaches that focus on component processes taking place in real time (such as working memory and executive functions; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhkw8u71ale",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"na92sxhb5ep\" data-reactroot=\"\">Diamond, A. (2013). Executive functions. <em>Annual Review of Psychology,</em> <em>64</em>, 135\u2013168. https://doi.org/10.1146/annurev-psych-113011-143750</p>",
+              "customLabel": "Diamond, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and sociocultural theories (most notably articulated by "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny3jzrh1nqi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"niv0jbwnc25\" data-reactroot=\"\">Vygotsky, L. S. (1962). <em>Thought and language</em>. MIT Press. https://doi.org/10.1037/11193-000</p>",
+              "customLabel": "Lev Vygotsky, 1962",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), which view children\u2019s thinking as inseparable from its cultural context. Constructivist, information-processing, and sociocultural theories are all influential in modern-day studies of cognitive development."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "early-competence",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Early competence"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ns5uu99khrp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Research over the past several decades has revealed a plethora of previously unsuspected abilities early in childhood. For example, preverbal infants have expectations regarding the physical properties of objects and their movement, the numerosity of sets, and the mental states of others ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npwni8l7c94",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq6u8wpz3uc\" data-reactroot=\"\">Spelke, E. S. (2022). <em>What babies know: Core knowledge and composition (Vol. 1)</em>. Oxford University Press. https://doi.org/10.1093/oso/9780190618247.001.0001</p>",
+              "customLabel": "Spelke, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). They rapidly acquire preferences for familiar faces and voices and their native language in the first year of life ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzhn47k1buv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nara5vqis8l\" data-reactroot=\"\">Choi, D., Yeung, H. H., &amp; Werker, J. F. (2023). Sensorimotor foundations of speech perception in infancy. <em>Trends in Cognitive Sciences,</em> <em>27</em>, 773\u2013784. https://doi.org/10.1016/j.tics.2023.05.007</p>",
+              "customLabel": "Choi et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Before children begin school, they can distinguish appearance from reality and think about hidden, invisible, abstract, or nonpresent entities ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nziqccfzh42",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk8e576j73v\" data-reactroot=\"\">Gelman, S. A. (2023). Looking beyond the obvious. <em>The American Psychologist,</em> <em>78</em>(5), 667\u2013677. https://doi.org/10.1037/amp0001152</p>",
+              "customLabel": "Gelman, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For example, 4-year-olds expect that a blackbird and a flamingo have the same kinds of insides, despite their visible differences, because they are both birds, but not a blackbird and a bat, despite their visible similarities."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "children-as-both-data-analysts-and-theorists",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Children as both data analysts and theorists"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nm1eg7nx1m7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Two seemingly distinct metaphors characterize young children\u2019s representations of information: they are data analysts (skilled at detecting statistical patterns) and they are theorists (constructing commonsense theories to predict and explain regularities within a domain). As data analysts, infants and young children can detect and remember statistical patterns from brief exposure to novel input, such as extracting transitional probabilities between syllables after hearing a two-minute loop of nonsense syllables [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/jr9encpg",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Statistical Learning"
+          },
+          {
+            "type": "text",
+            "text": "] ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuq6286nt5k",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsc8lz9v24k\" data-reactroot=\"\">Saffran, J. R., Aslin, R. N., &amp; Newport, E. L. (1996). Statistical learning by 8-month-old infants. <em>Science,</em> <em>274</em>, 1926\u20131928. https://doi.org/10.1126/science.274.5294.1926</p>",
+              "customLabel": "Saffran et al., 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). As theorists, infants and young children search for causes. For example, 11-month-olds pay closer attention to toys that are involved in physically impossible events (such as a toy truck hanging suspended in mid-air or seeming to pass through a physical barrier) and differentially explore these items to test their unexpected properties (e.g., repeatedly dropping the truck onto the floor or banging it against a table, respectively; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nepner4a1sg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmhr5og8u0x\" data-reactroot=\"\">Stahl, A. E., &amp; Feigenson, L. (2015). Cognitive development. Observing the unexpected enhances infants\u2019 learning and exploration. <em>Science,</em> <em>348</em>(6230), 91\u201394. https://doi.org/10.1126/science.aaa3799</p>",
+              "customLabel": "Stahl & Feigenson, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "learning-in-a-social-context",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Learning in a social context"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nu7if6yz1la",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Children\u2019s learning does not occur in a vacuum, and indeed children are highly sensitive to cues from social others to guide their learning [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/d8e1n1e8",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Social Learning"
+          },
+          {
+            "type": "text",
+            "text": "] ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4whnr1aofy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3jcjpm7p6h\" data-reactroot=\"\">Gelman, S. A. (2009). Learning from others: Children\u2019s construction of concepts. <em>Annual Review of Psychology,</em> <em>60</em>, 115\u2013140. https://doi.org/10.1146/annurev.psych.59.103006.093659</p>",
+              "customLabel": "Gelman, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnfp9oj3vzb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"np6bxnivu7x\" data-reactroot=\"\">Tomasello, M. (1999). <em>The cultural origins of human cognition</em>. Harvard University Press.</p>",
+              "customLabel": "Tomasello, 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Infants attend and learn differently when adults signal a pedagogical intent ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nj0qdmjo1ti",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"neib8t8yham\" data-reactroot=\"\">Csibra, G., &amp; Gergely, G. (2009). Natural pedagogy. <em>Trends in Cognitive Sciences,</em> <em>13</em>(4), 148\u2013153. https://doi.org/10.1016/j.tics.2009.01.005</p>",
+              "customLabel": "Csibra & Gergely, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and young children evaluate the trustworthiness of speakers when evaluating whether to accept their testimony ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh8bg7n029k",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzhh4o7dtw2\" data-reactroot=\"\">Harris, P. L., Koenig, M. A., Corriveau, K. H., &amp; Jaswal, V. K. (2018). Cognitive foundations of learning from testimony. <em>Annual Review of Psychology,</em> <em>69</em>, 251\u2013273. https://doi.org/10.1146/annurev-psych-122216-011710</p>",
+              "customLabel": "Harris et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Children\u2019s executive functions (e.g., cognitive control) are influenced by their social context ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhpgu1mv5x5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nszam6c9380\" data-reactroot=\"\">Munakata, Y., &amp; Michaelson, L. E. (2021). Executive functions in social context: Implications for conceptualizing, measuring, and supporting developmental trajectories. <em>Annual Review of Developmental Psychology,</em> <em>3</em>, 139\u2013163. https://doi.org/10.1146/annurev-devpsych-121318-085005</p>",
+              "customLabel": "Munakata & Michaelson, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Children in different societies acquire different skills and ways of learning and collaboration ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfgd07kcz3h",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkotcftsxd3\" data-reactroot=\"\">Rogoff, B. (2003). <em>The cultural nature of human development</em>. Oxford University Press.</p>",
+              "customLabel": "Rogoff, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Given these effects, more research is needed to examine cognitive development across cultures, languages, and social contexts ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb12ztjuf3r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbpjgvw4aji\" data-reactroot=\"\">Nielsen, M., Haun, D., K\u00e4rtner, J., &amp; Legare, C. H. (2017). The persistent sampling bias in developmental psychology: A call to action. <em>Journal of Experimental Child Psychology,</em> <em>162</em>, 31\u201338. https://doi.org/10.1016/j.jecp.2017.04.017</p>",
+              "customLabel": "Nielsen et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njiu9cn302g",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions and controversies include the extent to which children\u2019s thinking is domain-general versus domain-specific, how much continuity versus discontinuity can be seen over development, whether there are critical periods in development during which learning is most effective, how much knowledge is innate, and the role of low-level perceptual cues versus concepts in children\u2019s reasoning."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "npzwt4r4udn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Ongoing questions at the intersection of cognitive and social development include children\u2019s moral reasoning, the roots of stereotyping, intergroup hostilities, social exclusion, and how to overcome children\u2019s biases and inequities. Timely issues involving major societal events (e.g., Black Lives Matter, the COVID-19 pandemic, climate change) and societal changes (e.g., increasing visibility of gender diversity and technological advances, including digital devices used by children and Artificial Intelligence) have provided opportunities for new insights and applications beyond the laboratory."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxieq6jnbao",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Scientific advances in studying cognitive development have often relied on new methods (such as infant looking times and habituation tasks). Promising recent examples include neuroimaging technologies that can be used with young children while they are engaged in a task (e.g., functional near-infrared spectroscopy [fNIRS]), large-scale datasets (e.g., "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://childes.talkbank.org/",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "CHILDES"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://wordbank.stanford.edu",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Wordbank"
+          },
+          {
+            "type": "text",
+            "text": "), large-scale collaborations within psychology ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh0aj6iz1r1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuou3z5ra68\" data-reactroot=\"\">Byers-Heinlein, K., Bergmann, C., Davies, C., Frank, M. C., Hamlin, J. K., Kline, M., Kominsky, J. F., Kosie, J. E., Lew-Williams, C., Liu, L., Mastroberardino, M., Singh, L., Waddell, C. P. G., Zettersten, M., &amp; Soderstrom, M. (2020). Building a collaborative psychological science: Lessons learned from ManyBabies 1. <em>Canadian Psychology,</em> <em>61</em>(4), 349\u2013363. https://doi.org/10.1037/cap0000216</p>",
+              "customLabel": "Byers-Heinlein et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and collaborations with other disciplines (such as economics, biology, and statistics)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nknsjzhizad",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cognitive development is a broad topic that overlaps with areas of psychology that include cognition, language, theory of mind, cognitive neuroscience, and social cognition, among many others. Cognitive development also overlaps with research on special populations, including Autism Spectrum Disorder [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/dqw08mkw",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Autism"
+          },
+          {
+            "type": "text",
+            "text": "], ADHD, Dyslexia, American Sign Language, and learning disabilities. The topic of cognitive development also closely links to the fields of education, ethology, and neuroscience."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading "
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "npt64374x30",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n28ekcq4ayd",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Siegler, R., & Alibali, M. (2020). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Children\u2019s thinking (5th Ed.)"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Pearson."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "ni2m9awnymx",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Spelke, E. S., & Kinzler, K. D. (2007). Core knowledge. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Developmental Science, 10"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(1), 89\u201396."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "ne8kab2h6hf",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Xu, F., & Kushnir, T. (2013). Infants are rational constructivist learners. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Current Directions in Psychological Science, 22"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(1), 28\u201332."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

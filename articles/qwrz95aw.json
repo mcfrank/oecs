@@ -1,0 +1,2874 @@
+{
+  "id": "4d8ccc37-8923-424b-95bf-242a22a670ad",
+  "slug": "qwrz95aw",
+  "title": "Affective Neuroscience",
+  "url": "https://oecs.mit.edu/pub/qwrz95aw",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "4d8ccc37-8923-424b-95bf-242a22a670ad",
+    "slug": "qwrz95aw",
+    "title": "Affective Neuroscience",
+    "htmlTitle": "Affective Neuroscience",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.4d8ccc37",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "6mt7nonq",
+    "editHash": "3j9dvc1f",
+    "reviewHash": "y7k8dje8",
+    "commentHash": "1uwaw77m",
+    "draftId": "0779bc2d-c9cd-4fb7-9906-2cece0df3ee9",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "4f42e044-768f-4cd6-afc3-b62a6dd23641",
+    "scopeSummaryId": "0f71bb42-1fe2-4db3-9ac4-e25801ff46b3",
+    "createdAt": "2024-06-25T16:16:35.015Z",
+    "updatedAt": "2024-07-24T13:55:52.789Z",
+    "attributions": [
+      {
+        "id": "c0b8dee1-9192-4158-a99e-d1bc24511c27",
+        "name": "Dean Mobbs",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "California Institute of Technology",
+        "orcid": "0000-0003-1175-3772",
+        "userId": null,
+        "pubId": "4d8ccc37-8923-424b-95bf-242a22a670ad",
+        "createdAt": "2024-06-25T16:19:24.689Z",
+        "updatedAt": "2024-06-26T16:01:25.525Z",
+        "user": null
+      },
+      {
+        "id": "f8e61f1e-b0ec-4b16-b985-e0cf6e6e082f",
+        "name": "Fr\u00e9d\u00e9rique de Vignemont",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Institut Jean Nicod, ENS-PSL University, EHESS, CNRS",
+        "orcid": "0009-0006-1354-1553",
+        "userId": null,
+        "pubId": "4d8ccc37-8923-424b-95bf-242a22a670ad",
+        "createdAt": "2024-07-23T19:56:36.489Z",
+        "updatedAt": "2024-07-23T19:59:37.281Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "0779bc2d-c9cd-4fb7-9906-2cece0df3ee9",
+      "latestKeyAt": "2024-07-24T13:46:03.679Z",
+      "firebasePath": "drafts/draft-0779bc2d-c9cd-4fb7-9906-2cece0df3ee9",
+      "createdAt": "2024-06-25T16:16:34.999Z",
+      "updatedAt": "2025-03-07T15:52:12.345Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nnzso6zoaqd",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The origins of the field of affective neuroscience go back over two millennia, yet the term was first used in 1992 to describe how different emotions are represented in the human and animal brain. This definition builds on a long history of philosophical reasoning, biological discoveries, and scientific psychology. Today, the field is vast, interdisciplinary, and theoretically rich. Affective neuroscience has been a fertile ground for theorizing, integrating naturalistic observations with Darwinian logic, and linking social construction and higher-order cognition to conscious feelings. Over the last three decades, affective neuroscience has been accelerated by technological advances in brain imaging, optogenetics, pharmacology, computational modeling, and artificial intelligence. Today, there is a clearer understanding of the brain structures that underlie different emotional states, yet there is still little causal knowledge of how the brain creates a unified emotional picture of the world."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n8aue1ovmyi",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Until the 20th century, the study of emotion was primarily a pursuit of philosophy. Socrates, as described in Plato\u2019s Protagoras, wrote about how Phobos (i.e., fear) and Deos (i.e., dread) concern the expectation that something bad is going to happen ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndn4dkg8sbs",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqwhvrcdu5u\" data-reactroot=\"\">Plato. (2004). <em>\u201cProtagoras\u201d and \u201cMeno.\u201d</em> Cornell University Press.</p>",
+              "customLabel": "Plato, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For the next 2,000 years, the contemplation of emotion was scarce, yet the philosophical writings of Hobbes, Spinoza, and Descartes began to go deeper into the topic. Spinoza, for example, classified emotions into three primary types\u2014desire, joy, and sadness ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nikqvxc56h1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n25yw8zjegg\" data-reactroot=\"\">Rand, B. (1912). Baruch de Spinoza (1632-1677): <em>The Ethics</em> (G. S. Fullerton, Trans.). In B. Rand (Ed.), <em>The classical psychologists: Selections illustrating psychology from Anaxagoras to Wundt</em> (pp. 191-207). Houghton, Mifflin and Company.</p>",
+              "customLabel": "Rand, 1912",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Around the same time, the Scottish empiricist "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqhzurvlksf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwy2qcvvw7p\" data-reactroot=\"\">Hume, D. (1748). <em>An enquiry concerning human understanding</em>. Oxford University Press.</p>",
+              "customLabel": "David Hume (1748)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " used the words passion and emotion interchangeably and stated that, \u201cReason is, and ought only to be the slave of the passions.\u201d Or, put simply, our emotions guide our reasoning."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nyu7zo0eqgh",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "It was, however, during the last decades of the 19th century that two seismic changes occurred. The first was the 1872 publication of "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n34xbueeyim",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1u7dxtmv3l\" data-reactroot=\"\">Darwin, C. (1872). <em>The expression of the emotions in man and animals</em>. John Murray Press.</p>",
+              "customLabel": "Darwin's",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The Expression of the Emotions in Man and Animals"
+          },
+          {
+            "type": "text",
+            "text": " in which he attempted to characterize several \u201cbasic\u201d emotions and their overlap across species. It could be said that Darwin presciently birthed the field of affect neuroscience by stating the following:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nu2nxs51jta",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "\u201cWhenever these emotions or sensations are even slightly felt by us, though they may not at the time lead to any exertion, our whole system is nevertheless disturbed through the force of habit and association\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9c4t49005p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyz8k08v732\" data-reactroot=\"\">Darwin, C. (1872). <em>The expression of the emotions in man and animals</em>. John Murray Press.</p>",
+              "customLabel": "Darwin, 1872",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", page 346)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4h0bjxz8ua",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The second leap was "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nprdvn4s41h",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmx7d3fdmt5\" data-reactroot=\"\">James, W. (1884). What is an emotion? <em>Mind</em>, <em>9</em>(34) 188-205. <a href=\"http://www.jstor.org/stable/2246769\">http://www.jstor.org/stable/2246769</a> </p>",
+              "customLabel": "William James's 1884",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " paper called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "What is an Emotion"
+          },
+          {
+            "type": "text",
+            "text": ". In this paper, James postulated the value of emotion by stating, \u201cWithout the bodily states following on the perception, the latter would be purely cognitive in form, pale, colorless, destitute of emotional warmth.\u201d"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfsry144osz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny45ftsvtdy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqqfcekqixz\" data-reactroot=\"\">James, W. (1884). What is an emotion? <em>Mind</em>, <em>9</em>(34) 188-205. <a href=\"http://www.jstor.org/stable/2246769\">http://www.jstor.org/stable/2246769</a> </p>",
+              "customLabel": "James (1884)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " proposed that the sequence of, \u201cWe meet a bear, are frightened and run,\u201d is incorrect and put forward the idea that bodily arousal is first experienced and emotion follows, for example, \u201cWe feel sorry because we cry, angry because we strike, afraid because we tremble.\u201d James would also state, \u201cOur feeling of [bodily] changes as they occur IS the emotion\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nf78vq9vlxc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npmdj5dx7is\" data-reactroot=\"\">James, W. (1884). What is an emotion? <em>Mind</em>, <em>9</em>(34) 188-205. <a href=\"http://www.jstor.org/stable/2246769\">http://www.jstor.org/stable/2246769</a> </p>",
+              "customLabel": "James, 1884",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", pages 189 and 190). A similar observation was independently made by Carl Lange, leading to the model called the James\u2013Lange theory of emotion ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlqo5s5vnh4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n809s15g0eu\" data-reactroot=\"\">Lange, C. in\u00a0<em>The Emotions</em>\u00a0(ed. Dunlap, E.) 33\u201390 (Williams &amp; Wilkins, Baltimore, Maryland, 1885).</p>",
+              "customLabel": "Lange, 1885",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This theory linking bodily sensation to emotion was a major step in that it integrated physiology (e.g., arousal) with psychological phenomena. A key issue with the James\u2013Lange theory was that it was merely a thought experiment, failed to provide details on the underlying neural physiology, and left out the roles of the rational agent and its higher-order cognitive abilities in the determination of emotional state."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n65zcjvifhb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nr9wu4qjm9b",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ns5m72ak9bw\" data-reactroot=\"\">Wundt, W. (1897). <em>Outline of psychology</em>. Wilhelm Engelmann.</p>",
+              "customLabel": "Wilhelm Wundt (1897)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " believed that emotion was a sixth sense and wrote that emotions can be divided into three classes\u2014the subjective or internal state, the objective or external expression, and the names we give to outer states, such as those that will happen in the future (e.g., hope or anxiety). In the late 1920s and early 1930s, Walter Cannon and Phillip Bard took the next step toward building the foundations of affective neuroscience. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njmkixldzls",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhgs3xhzzia\" data-reactroot=\"\">Cannon, W. B. (1927). The James-Lange theory of emotions: A critical examination and an alternative theory. <em>American Journal of Psychology</em>, 39, 106-124. <a href=\"https://doi.org/10.2307/1415404\">https://doi.org/10.2307/1415404</a> </p>",
+              "customLabel": "Cannon (1927)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " criticized the James\u2013Lange theory, stating that, \u201cThe same visceral changes occur in very different emotional states and non-emotional states\u201d (page 109). Cannon and Bard both proposed that the central nervous system was fundamental to emotion and that both arousal and the feelings of emotion occur simultaneously. They proposed that the thalamus and hypothalamus are critical to emotion. This was supported by the work of Walter Hess, who showed rage or fear in cats that received an electrical stimulation of the hypothalamus ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nn0hzoeosh9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngo8g7bd3w7\" data-reactroot=\"\">Hess, W. R., &amp; Akert, K. (1955). Experimental data on role of hypothalamus in mechanism of emotional behavior. <em>AMA Archives of Neurology &amp; Psychiatry,</em> <em>73</em>(2), 127-129. <a href=\"https://doi.org/10.1001/archneurpsyc.1955.02330080005003\">https://doi.org/10.1001/archneurpsyc.1955.02330080005003</a> </p>",
+              "customLabel": "Hess & Akert, 1955",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The philosopher "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfih1lhajsq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2nnwkdecph\" data-reactroot=\"\">Sartre, J. P. (1971). <em>Sketch for a theory of the emotions.</em> Routledge.</p>",
+              "customLabel": "Jean-Paul Sartre (1971)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " wrote incorrectly in his book "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Sketch for a Theory of the Emotions"
+          },
+          {
+            "type": "text",
+            "text": " that corticothalamic sensitivity was unverifiable. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngpg9tuijxp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n226q4ojuk8\" data-reactroot=\"\">Bard, P., &amp; Rioch, D. M. (1937). A study of four cats deprived of neocortex and additional portions of the forebrain. <em>Johns Hopkins Medical Journal</em>, <em>60</em>, 73-153.</p>",
+              "customLabel": "Bard and Rioch (1937)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", however, would support this research, with "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n865adt9ju1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhxt5hjo0dp\" data-reactroot=\"\">Olds, J., &amp; Milner, P. (1954). Positive reinforcement is produced by electrical stimulation of the septal area and other regions of the rat brain. <em>Journal of Comparative and Physiological Psychology</em>, <em>47</em>(6), 419-427. <a href=\"https://doi.org/10.1037/h0058775\">https://doi.org/10.1037/h0058775</a> </p>",
+              "customLabel": "Olds and Milner (1954)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " later extending the role of the hypothalamus to reward."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nsdzuuv3tti",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Around the same time, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqv01aowgiy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1e252rik05\" data-reactroot=\"\">Kluver, H., &amp; Bucy, P. C. (1937). \u201cPsychic blindness\u201d and other symptoms following bilateral temporal lobectomy. <em>American Journal of Physiology</em>, <em>119</em>, 254-284.</p>",
+              "customLabel": "Kluver and Bucy (1937)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " showed that resection of the monkey temporal lobe, including the amygdala, resulted in monkeys exhibiting a fearless demeanor. The same year, James Papez put forward his influential theory proposing that emotions are represented in a set of interconnected regions that include the amygdala, hypothalamus, and prefrontal cortex. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nf1g9v0pjqv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"na19xti24h5\" data-reactroot=\"\">MacLean, P. D. (1990). <em>The triune brain in evolution: Role in paleocerebral functions.</em> Springer.</p>",
+              "customLabel": "Paul MacLean (1990)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " later proposed the theory of the triune brain (i.e., the idea that there are three components to the human brain, each representing a stage of evolutionary development) and redefined Papez\u2019s circuit ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "noy2fjy9r9f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxb74pubink\" data-reactroot=\"\">Papez, J. W. (1937). A proposed mechanism of emotion. <em>Archives of Neurology and Psychiatry</em>, <em>38</em>(4), 725-743. <a href=\"https://doi.org/10.1001/archneurpsyc.1937.02260220069003\">https://doi.org/10.1001/archneurpsyc.1937.02260220069003</a> </p>",
+              "customLabel": "Papez, 1937",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") as the limbic system. It would be Kluver and Bucy\u2019s, Papez\u2019s, and MacLean\u2019s anatomical models that would set the foundations for modern affective neuroscience (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nz0fnyiowo2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nr08csw701y\" data-reactroot=\"\">Dalgleish, T., Dunn, B., &amp; Mobbs, D. (2009). Affective neuroscience: Past, present and future. <em>Emotion Review</em>, <em>1</em>(4), 355-368. <a href=\"https://doi.org/10.1177/1754073909338307\">https://doi.org/10.1177/1754073909338307</a> </p>",
+              "customLabel": "Dalgleish et al., 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n350gpedheg",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Beginning in the 1960s, psychology began to move away from behaviorism. Behaviorism, with its ambivalence toward the brain and emotion, gave way to the cognitive revolution. At the forefront of this new frontier in affective neuroscience were Stanley Schachter and Jerome Singer. In "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5sv1x98n9p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5izsp47ud5\" data-reactroot=\"\">Schachter, S., &amp; Singer, J. E. (1962). Cognitive, social, and physiological determinants of emotional state. <em>Psychological Review</em>, <em>69</em>(5), 379\u2013399. <a href=\"https://doi.org/10.1037/h0046234\">https://doi.org/10.1037/h0046234</a> </p>",
+              "customLabel": "1962",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", they proposed the two-factor theory of emotions, which postulated that our emotions are plastic and that the emotional experience is determined by cognitive factors. Schachter and Singer supported this theory with a simple yet elegant experiment. They hypothesized that when the subjects feel a bodily state of arousal (e.g., increased heart rate due to injection of epinephrine) for which they have no explanation, they will look for explanations for the arousal and thereby label the emotion with the best explanation. They showed that context became important in these explanations. As Schachter and Singer state, \u201cSubjects who had no explanation for the bodily state thus produced, gave behavioral and self-report indications that they had been readily manipulable into the disparate feeling states of euphoria and anger\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n15us3puw50",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npoosb0xzfb\" data-reactroot=\"\">Schachter, S., &amp; Singer, J. E. (1962). Cognitive, social, and physiological determinants of emotional state. <em>Psychological Review</em>, <em>69</em>(5), 379\u2013399. <a href=\"https://doi.org/10.1037/h0046234\">https://doi.org/10.1037/h0046234</a> </p>",
+              "customLabel": "Schachter & Singer, 1962",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", page 396)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nyqx28em2y9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A critique of this is that the modern statistical standards and sample sizes are not met, and several other attempts to replicate have failed [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/3r6pj6pn",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Open Science"
+          },
+          {
+            "type": "text",
+            "text": "] (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2on1q8we1g",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7bntsbf6pv\" data-reactroot=\"\">Marshall, G. D., &amp; Zimbardo, P. G. (1979). Affective consequences of inadequately explained physiological arousal. <em>Journal of Personality and Social Psychology</em>, <em>37</em>(6), 970-988. <a href=\"https://psycnet.apa.org/doi/10.1037/0022-3514.37.6.970\" target=\"_blank\">https://doi.org/10.1037/0022-3514.37.6.970</a></p>",
+              "customLabel": "Marshall & Zimbardo, 1970",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, subsequent research on the misattribution of arousal (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1phiblil49",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfuttf2vlk1\" data-reactroot=\"\">Dutton, D. G., &amp; Aron, A. P. (1974). Some evidence for heightened sexual attraction under conditions of high anxiety. <em>Journal of Personality and Social</em> <em>Psychology</em>, <em>30</em>(4), 510-517. <a href=\"https://psycnet.apa.org/doi/10.1037/h0037031\" target=\"_blank\">https://doi.org/10.1037/h0037031</a></p>",
+              "customLabel": "Dutton & Aron, 1974",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and contextual effects on the perception of facial emotion ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n30mgwwxhu2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsvaq7uor4b\" data-reactroot=\"\">Mobbs, D., Petrovic, P., Marchant, J. L., Hassabis, D., Weiskopf, N., Seymour, B., Dolan, R. J., &amp; Frith, C. D. (2007). When fear is near: Threat imminence elicits prefrontal-periaqueductal gray shifts in humans. <em>Science</em>, <em>317</em>(5841), 1079-1083. <a href=\"https://doi.org/10.1126/science.1144298\">https://doi.org/10.1126/science.1144298</a> </p>",
+              "customLabel": "Mobbs et al., 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") do seem to support the two-factor theory. Importantly, Schachter and Singer\u2019s model became the foundation of modern theories of emotional construction ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njtnxxuplmn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8cb8j8ydlj\" data-reactroot=\"\">Barrett, L. F. (2017). The theory of constructed emotion: an active inference account of interoception and categorization. <em>Social Cognitive and Affective</em> <em>Neuroscience</em>, <em>12</em>(1), 1-23.<a href=\"https://doi.org/10.1093/scan/nsw154\"> https://doi.org/10.1093/scan/nsw154</a></p>",
+              "customLabel": "Barrett, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "np500brz8ml",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "From the 70s to the early 1990s, a new group of behavioral neuroscientists was beginning to ask questions about how the brain represents emotion. These included several modern influencers in the field\u2014Jaak Panksepp, Jeffrey Gray, Robert Bolles, Peter Lang, Arne \u00d6hman, Richard Davidson, Caroline and Robert Blanchard, Michael Fanselow, and Joe LeDoux. This group of scientists was active in the 1970s, each contributing major insights into how the mammalian brain responded to different dangers. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwgk434482t",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6sudbv3fag\" data-reactroot=\"\">Blanchard, D. C., &amp; Blanchard, R. J. (1972). Innate and conditioned reactions to threat in rats with amygdaloid lesions. <em>Journal of Comparative Physiology and Psychology</em>, <em>81</em>(2), 281-290. <a href=\"https://psycnet.apa.org/doi/10.1037/h0033521\" target=\"_blank\">https://doi.org/10.1037/h0033521</a></p>",
+              "customLabel": "Caroline and Robert Blanchard (1972)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", for example, created a new field of neuroethology; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nowdudj6q0h",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nezesy8l31p\" data-reactroot=\"\">Gray, J. A. (1990). Brain systems that mediate both emotion and cognition. <em>Cognition and Emotion</em>, <em>4</em>(3), 269-288. <a href=\"https://doi.org/10.1080/02699939008410799\">https://doi.org/10.1080/02699939008410799</a></p>",
+              "customLabel": "Jeffrey Gray (1990)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " proposed his biopsychological theory of personality and linked it to behavioral inhibition and behavioral activation systems that were linked to positive and negative emotion; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuwpauqx021",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndf502kdxh8\" data-reactroot=\"\">Bolles, R. C., &amp; Fanselow, M. S. (1980). A perceptual\u2013defensive\u2013recuperative model of fear and pain. <em>Behavioral and Brain Sciences</em>, <em>3</em>(2), 291-323. <a href=\"https://doi.org/10.1017/S0140525X0000491X\">https://doi.org/10.1017/S0140525X0000491X</a> </p>",
+              "customLabel": "Bolles and Fanselow's (1980)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " perceptual\u2013defensive\u2013recuperative model linked three stages to traumatic situations; LeDoux began his pursuit of the role of the amygdala in emotion; and Peter Lang was among the first to systematically study emotion in humans."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7mv32ch2ym",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The early 80s saw "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd523d2yaly",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj46tjrtz05\" data-reactroot=\"\">Panksepp, J. (1982). Toward a general psychobiological theory of emotions. <em>Behavioral and Brain Sciences</em>, <em>5</em>(3), 407-422. <a href=\"https://doi.org/10.1017/S0140525X00012759\">https://doi.org/10.1017/S0140525X00012759</a> </p>",
+              "customLabel": "Jaak Panksepp (1982)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " propose his theory of primary emotions (e.g., FEAR, RAGE, JOY), suggesting that emotions were genetically programmed in subcortical circuits. He further suggested that the cortex is a tabula rasa: plastic and ready to learn and combine associations through higher-order cognition (e.g., imagination). Although influential, Panksepp\u2019s theory has not gone without criticism, most notably by "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "neanxustt57",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7l0qlc1nqk\" data-reactroot=\"\">Ortony, A., &amp; Turner, T. J. (1990). What\u2019s basic about basic emotions? <em>Psychological Review</em>, <em>97</em>(3), 315-331. <a href=\"https://doi.org/10.1037/0033-295x.97.3.315\">https://doi.org/10.1037/0033-295x.97.3.315</a> </p>",
+              "customLabel": "Ortony and Turner (1990)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " questioning the biological reality of basic emotions or, as "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfxeya28wk6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8cb8j8ydlj\" data-reactroot=\"\">Barrett, L. F. (2017). The theory of constructed emotion: an active inference account of interoception and categorization. <em>Social Cognitive and Affective</em> <em>Neuroscience</em>, <em>12</em>(1), 1-23.<a href=\"https://doi.org/10.1093/scan/nsw154\"> https://doi.org/10.1093/scan/nsw154</a></p>",
+              "customLabel": "Barrett (2017)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " has argued, that they are not natural kinds or independent of human semantic systems. However, many still support Panksepp\u2019s theory, which states that only a model of innate emotion can explain the consistency of neural specialization (e.g., genetically dictated brain systems such as the insula is involved in disgust across species). "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmx5zte6ks0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmkndi5pl1k\" data-reactroot=\"\">Panksepp, J. (1998). <em>Affective neuroscience: The foundations of human and animal emotions.</em> Oxford University Press.</p>",
+              "customLabel": "Panksepp's (1998)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " book "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Affective Neuroscience: The Foundations of Human and Animal Emotions"
+          },
+          {
+            "type": "text",
+            "text": " became a popular textbook for affective neuroscientists, and his research and theory are still influential today."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvyx1uguzr8",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Across all these scientists and theories, one brain region began to dominate the landscape of affective neuroscience\u2014the amygdala. Building on the earlier work by "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0l1bzkczah",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7ox3ykk4cj\" data-reactroot=\"\">Kluver, H., &amp; Bucy, P. C. (1937). \u201cPsychic blindness\u201d and other symptoms following bilateral temporal lobectomy. <em>American Journal of Physiology</em>, <em>119</em>, 254-284.</p>",
+              "customLabel": "Kluver and Bucy (1937)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", Caroline and Robert Blanchard created a set of ethoexperimental tasks that showed the role of the amygdala in both an innate and learned threat ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhlly8aybpt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6sudbv3fag\" data-reactroot=\"\">Blanchard, D. C., &amp; Blanchard, R. J. (1972). Innate and conditioned reactions to threat in rats with amygdaloid lesions. <em>Journal of Comparative Physiology and Psychology</em>, <em>81</em>(2), 281-290. <a href=\"https://psycnet.apa.org/doi/10.1037/h0033521\" target=\"_blank\">https://doi.org/10.1037/h0033521</a></p>",
+              "customLabel": "Blanchard & Blanchard, 1972",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Later, LeDoux and colleagues showed that the amygdala was involved in conditioned fear ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqbdrqgwhn9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkhfg6gr70n\" data-reactroot=\"\">LeDoux, J. E., Iwata, J., Cicchetti, P., &amp; Reis, D. J. (1988). Different projections of the central amygdaloid nucleus mediate autonomic and behavioral correlates of conditioned fear. <em>Journal of Neuroscience</em>, <em>8</em>(7), 2517-2529. <a href=\"https://doi.org/10.1523/JNEUROSCI.08-07-02517.1988\">https://doi.org/10.1523/JNEUROSCI.08-07-02517.1988</a> </p>",
+              "customLabel": "LeDoux et al., 1988",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and later contextual fear conditioning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nj7ybqpa5m1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsrpi2hiexf\" data-reactroot=\"\">Phillips, R. G., &amp; LeDoux, J. E. (1992). Differential contribution of amygdala and hippocampus to cued and contextual fear conditioning. <em>Behavioral Neuroscience</em>, <em>106</em>(2), 274-285. <a href=\"https://doi.org/10.1037//0735-7044.106.2.274\">https://doi.org/10.1037//0735-7044.106.2.274</a> </p>",
+              "customLabel": "Phillips & LeDoux, 1992",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Around the same time, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nemkbo18ahs",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nawysrlixiq\" data-reactroot=\"\">Kim, J. J., &amp; Fanselow, M. S. (1992). Modality-specific retrograde amnesia of fear. <em>Science</em>, <em>256</em>(5057), 675-677. <a href=\"https://doi.org/10.1126/science.1585183\">https://doi.org/10.1126/science.1585183</a> </p>",
+              "customLabel": "Kim and Fanselow (1992)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " published their work on retrograde amnesia of fear in hippocampal lesioned rodents. Further, human studies of patient SM showed that the human amygdala also played a significant role in the perception of danger ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5w004ot3gm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nspctopmifq\" data-reactroot=\"\">Adolphs, R., Tranel, D., Damasio, H., &amp; Damasio, A. (1994). Impaired recognition of emotion in facial expressions following bilateral damage to the human amygdala. <em>Nature</em>, <em>372</em>(6507), 669-672. <a href=\"https://doi.org/10.1038/372669a0\">https://doi.org/10.1038/372669a0</a> </p>",
+              "customLabel": "Adolphs et al., 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This and other work culminated in LeDoux publishing his "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqy77n5nsih",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n46llkwn0nz\" data-reactroot=\"\">LeDoux, J. E. (1996). <em>The emotional brain: The mysterious underpinning of emotional life.</em> Simon &amp; Schuster.</p>",
+              "customLabel": "1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " bestseller "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The Emotional Brain"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb3m5l1t0d4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0ngmu9ywyq\" data-reactroot=\"\">Damasio, A. R. (1994). <em>Descartes\u2019 error.</em> Putnam.</p>",
+              "customLabel": "Antonio Damasio's (1994)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Descartes Error"
+          },
+          {
+            "type": "text",
+            "text": ", and both brought affective neuroscience to a larger audience. It was in this decade that emotion became a serious topic for neuroscience and set the foundations for the next 30 years."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9mcevoc8dd",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The last 30 years have seen what could be called an \u201cemotional enlightenment.\u201d This was for several reasons\u2014the increased use of human brain imaging techniques, in which an expanding group of scientists from various disciplines could now look inside the uninjured brain to answer questions about how the brain represents different emotions. There has also been a reemergence of theorizing, most notably Lisa Feldman "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1pa6u1e1ib",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8cb8j8ydlj\" data-reactroot=\"\">Barrett, L. F. (2017). The theory of constructed emotion: an active inference account of interoception and categorization. <em>Social Cognitive and Affective</em> <em>Neuroscience</em>, <em>12</em>(1), 1-23.<a href=\"https://doi.org/10.1093/scan/nsw154\"> https://doi.org/10.1093/scan/nsw154</a></p>",
+              "customLabel": "Barrett's (2017)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " radical theory of emotional construction, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nz3wqc7428f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkkjimngnz9\" data-reactroot=\"\">LeDoux, J. E., &amp; Pine, D.S. (2016). Using neuroscience to help understand fear and anxiety: A two-system framework. <em>American Journal of Psychiatry,</em> <em>173</em>(11), 1083-1093. <a href=\"https://doi.org/10.1176/appi.ajp.2016.16030353\">https://doi.org/10.1176/appi.ajp.2016.16030353</a> </p>",
+              "customLabel": "Joe LeDoux and Daniel Pine's (2016)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " two-system approach that reintroduced consciousness into the picture, and "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmwvy3nusgt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnf960s372v\" data-reactroot=\"\">Fanselow, M. S., &amp; Pennington, Z. T. (2018). A return to the psychiatric dark ages with a two-system framework for fear. <em>Behaviour Research and Therapy</em>, <em>100</em>, 24-29. <a href=\"https://doi.org/10.1016/j.brat.2017.10.012\" title=\"Persistent link using digital object identifier\" target=\"_blank\">https://doi.org/10.1016/j.brat.2017.10.012</a></p>",
+              "customLabel": "Fanselow and Pennington's (2018)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " single unitary model. There has been ethologically inspired approaches such as those of "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvs7bjugnlg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nw07e9900de\" data-reactroot=\"\">Fanselow, M. S., &amp; Lester, L. S. (1988). A functional behavioristic approach to aversively motivated behavior: Predatory imminence as a determinant of the topography of defensive behavior. In R. C. B. M. D. Beecher (Ed.), <em>Evolution and learning</em> (pp. 185-211). Erlbaum.</p>",
+              "customLabel": "Fanselow and Lester's (1988)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " threat imminence continuum, and "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxmgl9x12f0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6sudbv3fag\" data-reactroot=\"\">Blanchard, D. C., &amp; Blanchard, R. J. (1972). Innate and conditioned reactions to threat in rats with amygdaloid lesions. <em>Journal of Comparative Physiology and Psychology</em>, <em>81</em>(2), 281-290. <a href=\"https://psycnet.apa.org/doi/10.1037/h0033521\" target=\"_blank\">https://doi.org/10.1037/h0033521</a></p>",
+              "customLabel": "Caroline and Robert Blanchard's (1972)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " ethoexperimental approaches have inspired creative and naturalistic approaches to studying emotion across species. Further, the increased use of virtual ecologies and virtual reality has created a new arena from which to study the dynamic nature of fear and anxiety ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nydomhcc4he",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njpnt7vcyb1\" data-reactroot=\"\">Mobbs, D., Wise, T., Suthana, N., Guzman, N., Kriegeskorte, N., &amp; Leibo, J. (2021). The promises and challenges of human computational ethology. <em>Neuron</em>, <em>109</em>(14), 2224-2238. <a href=\"https://doi.org/10.1016/j.neuron.2021.05.021\" title=\"Persistent link using digital object identifier\" target=\"_blank\">https://doi.org/10.1016/j.neuron.2021.05.021</a></p>",
+              "customLabel": "Mobbs et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Given the impact of affective neuroscience across fields, some have suggested that we are currently in the age of affectivism ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnqejrrsfeq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"noj2bwjwohe\" data-reactroot=\"\">Dukes, D., Abrams, K., Adolphs, R., Ahmed, M. E., Beatty, A., Berridge, K. C., Broomhall, S., Brosch, T., Campos, J. J., Clay, Z., Cl\u00e9ment, F., Cunningham, W. A., Damasio, A., Damasio, H., D&#x27;Arms, J., Davidson, J. W., de Gelder, B., Deonna, J., de Sousa, R., . . . Sander, D. (2021). The rise of affectivism. <em>Nature Human Behavior</em>, <em>5</em>(7), 816-820. <a href=\"https://doi.org/10.1038/s41562-021-01130-8\">https://doi.org/10.1038/s41562-021-01130-8</a> </p>",
+              "customLabel": "Dukes et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n068ugd91z6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Over the last two decades, affective neuroscience has exploded both in terms of theory and empirical research. Several fundamental concepts have dominated the contemporary landscape."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "the-expanding-neural-systems",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The expanding neural systems"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqauj702byt",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The history of affective neuroscience has been dominated by one structure\u2014the amygdala. This is for historical reasons that include influential work extending from "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni5d2w4wcar",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ns6u9vinj6b\" data-reactroot=\"\">Kluver, H., &amp; Bucy, P. C. (1937). \u201cPsychic blindness\u201d and other symptoms following bilateral temporal lobectomy. <em>American Journal of Physiology</em>, <em>119</em>, 254-284.</p>",
+              "customLabel": "Kluver and Bucy (1937)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " to work on patients with amygdala lesions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4rjxfvuonh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nspctopmifq\" data-reactroot=\"\">Adolphs, R., Tranel, D., Damasio, H., &amp; Damasio, A. (1994). Impaired recognition of emotion in facial expressions following bilateral damage to the human amygdala. <em>Nature</em>, <em>372</em>(6507), 669-672. <a href=\"https://doi.org/10.1038/372669a0\">https://doi.org/10.1038/372669a0</a> </p>",
+              "customLabel": "Adolphs et al., 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These studies showed clear behavioral effects of amygdala lesions (e.g., reduced perception of danger), and by chance, this region became relatively easy to investigate using brain imaging. However, through both human and animal work, it became clear that the amygdala is part of a wider network of brain regions involved in emotion. For example, the insula is implicated in feelings and interoception ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmum9r168ob",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7yfcivfhzw\" data-reactroot=\"\">Critchley, H. D., Wiens, S., Rotshtein, P., \u00d6hman, A., &amp; Dolan, R. J. (2004). Neural systems supporting interoceptive awareness. <em>Nature Neuroscience</em>, <em>7</em>(2), 189-195. <a href=\"https://doi.org/10.1038/nn1176\">https://doi.org/10.1038/nn1176</a> </p>",
+              "customLabel": "Critchley et al., 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), the prefrontal cortex and periaqueductal gray are involved in threat imminence ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nf988msiapg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nblsxtfr65w\" data-reactroot=\"\">Mobbs, D., Petrovic, P., Marchant, J. L., Hassabis, D., Weiskopf, N., Seymour, B., Dolan, R. J., &amp; Frith, C. D. (2007). When fear is near: Threat imminence elicits prefrontal-periaqueductal gray shifts in humans. <em>Science</em>, <em>317</em>(5841), 1079-1083. <a href=\"https://doi.org/10.1126/science.1144298\">https://doi.org/10.1126/science.1144298</a> </p>",
+              "customLabel": "Mobbs et al., 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), the anterior cingulate cortex assists in empathy ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1lg4e5f81p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkenq2hhht2\" data-reactroot=\"\">Singer, T., Seymour, B., O\u2019Doherty, J., Kaube, H., Dolan, R. J., &amp; Frith, C. D. (2004). Empathy for pain involves the affective but not sensory components of pain. <em>Science</em>, <em>303</em>(5661), 1157-1162. <a href=\"https://doi.org/10.1126/science.1093535\">https://doi.org/10.1126/science.1093535</a> </p>",
+              "customLabel": "Singer et al., 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), the hippocampus is involved in emotional memory and anxiety ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfwu04sqzn5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n63yw4qdhjy\" data-reactroot=\"\">Padilla-Coreano, N., Canetta, S., Mikofsky, R. M., Alway, E., Passecker, J., Myroshnychenko, M. V., Garcia-Garcia, A. L., Warren, R., Teboul, E., Blackman, D. R., Morton, M. P., Hupalo, S., Tye, K. M., Kellendonk, C., Kupferschmidt, D. A., &amp; Gordon, J. A. (2019). Hippocampal-prefrontal theta transmission regulates avoidance behavior. <em>Neuron</em>, <em>104</em>(3), 601-610. <a href=\"https://doi.org/10.1016/j.neuron.2019.08.006\">https://doi.org/10.1016/j.neuron.2019.08.006</a> </p>",
+              "customLabel": "Padilla-Coreano et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and the bed nucleus of the stria terminalis deals in anxiety ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nz98nr7bprt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng7wp1hjrnq\" data-reactroot=\"\">Davis, M., Walker, D. L., Miles, L., &amp; Grillon, C. (2010) Phasic vs sustained fear in rats and humans: role of the extended amygdala in fear vs anxiety. <em>Neuropsychopharmacology</em>, <em>35</em>(1), 105-35. <a href=\"https://doi.org/10.1038/npp.2009.109\">https://doi.org/10.1038/npp.2009.109</a> </p>",
+              "customLabel": "Davis et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These studies have forced researchers into new and creative experimental designs, including the use of animal and human computational ethology ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbxgd064ay7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nx0ho9jaw5n\" data-reactroot=\"\">Anderson, D. J., &amp; Perona, P. (2014). Toward a science of computational ethology. <em>Neuron</em>, <em>84</em>(1), 18-31. <a href=\"https://doi.org/10.1016/j.neuron.2014.09.005\" title=\"Persistent link using digital object identifier\" target=\"_blank\">https://doi.org/10.1016/j.neuron.2014.09.005</a></p>",
+              "customLabel": "Anderson & Perona, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nro1nzqd4nm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nn27dm6wdt1\" data-reactroot=\"\">Mobbs, D., Wise, T., Suthana, N., Guzman, N., Kriegeskorte, N., &amp; Leibo, J. (2021). The promises and challenges of human computational ethology. <em>Neuron</em>, <em>109</em>(14), 2224-2238. <a href=\"https://doi.org/10.1016/j.neuron.2021.05.021\" title=\"Persistent link using digital object identifier\" target=\"_blank\">https://doi.org/10.1016/j.neuron.2021.05.021</a></p>",
+              "customLabel": "Mobbs et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Similarly, an increase in machine learning and computational neuroscience has resulted in better ways to measure and quantify behavior in rodents, humans, and nonhuman primates ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nff7mctetdc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nx0ho9jaw5n\" data-reactroot=\"\">Anderson, D. J., &amp; Perona, P. (2014). Toward a science of computational ethology. <em>Neuron</em>, <em>84</em>(1), 18-31. <a href=\"https://doi.org/10.1016/j.neuron.2014.09.005\" title=\"Persistent link using digital object identifier\" target=\"_blank\">https://doi.org/10.1016/j.neuron.2014.09.005</a></p>",
+              "customLabel": "Anderson & Perona, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "threat-imminence-continuum",
+          "id": "threat-imminence-continuum",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Threat imminence continuum"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkbcxcg11tn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The threat imminence continuum model proposes that there are four different levels of danger, each determining the type of defensive behavior needed to evade the threat ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9hcrhae58h",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7frphh4p21\" data-reactroot=\"\">Fanselow, M. S., &amp; Lester, L. S. (1988). A functional behavioristic approach to aversively motivated behavior: Predatory imminence as a determinant of the topography of defensive behavior. In R. C. B. M. D. Beecher (Ed.), <em>Evolution and learning</em> (pp. 185-211). Erlbaum.</p>",
+              "customLabel": "Fanselow & Lester, 1988",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). At the lowest level of danger, there is no potential for predatory danger, and it is, therefore, the safest position the organism can be in (e.g., a lizard in its underground nest). The next level of threat is known as the pre-encounter threat, which describes the condition of potential danger. During this phase, there are no threats present, yet there is an increased likelihood that a threat could be encountered (e.g., the lizard leaves its nest to forage for insects). The classic behavior observed in mammals is intermittent locomotion (e.g., pauses in movement), thigmotaxis (tendency to stay close to edges rather than moving freely in open spaces), eye darting, and increased vigilance. The goal is to detect the predator before the predator detects the prey. The next level of threat is post-encounter danger\u2014where a threat is present in the environment but there is no interaction between the predator and prey (e.g., the lizard spots the predator, but the predator does not detect the lizard). This will often result in freezing or flight if the organism is close to safety. Finally, the predator detects the prey and begins to attack\u2014this instigates the circa-strike phase of danger. During this phase, the prey goes into escape mode, in which it balances the distances of the threat with searching for safety. Other escape strategies are determined by pre-encounter danger (e.g., staying close to safety) and movement behavior like protean or zig-zagging movements. Lingering questions concern how these states relate to the human level of danger, species\u2013specific differences, the underlying neural systems, and how they map onto different psychiatric disorders."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "computational-ethology",
+          "id": "computational-ethology",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Computational ethology"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "naar0dpydw3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "New developments in experimental design, measurement, and computational modeling are key to the next step in affective neuroscience. In the case of design and measurement, advances in precise neural recording in free-moving animals have allowed for the ability to detect and manipulate emotion in real time. This field, called computational ethology, has been creatively applied to rodents, monkeys, and humans ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7q0tlmiht6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nx0ho9jaw5n\" data-reactroot=\"\">Anderson, D. J., &amp; Perona, P. (2014). Toward a science of computational ethology. <em>Neuron</em>, <em>84</em>(1), 18-31. <a href=\"https://doi.org/10.1016/j.neuron.2014.09.005\" title=\"Persistent link using digital object identifier\" target=\"_blank\">https://doi.org/10.1016/j.neuron.2014.09.005</a></p>",
+              "customLabel": "Anderson & Perona, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkddojr1zkx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n01ucachx01\" data-reactroot=\"\">Mobbs, D., Wise, T., Suthana, N., Guzman, N., Kriegeskorte, N., &amp; Leibo, J. (2021). The promises and challenges of human computational ethology. <em>Neuron</em>, <em>109</em>(14), 2224-2238. <a href=\"https://doi.org/10.1016/j.neuron.2021.05.021\" title=\"Persistent link using digital object identifier\" target=\"_blank\">https://doi.org/10.1016/j.neuron.2021.05.021</a></p>",
+              "customLabel": "Mobbs et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). It takes advantage of the dynamic nature of behavior, investigating the effects of proximity to danger and safety, fast and slow attacking threats, movement, and the ability to measure using unbiased machine learning approaches. Further, computational modeling can be used to characterize decision-making under threat or reward and can be used to see if computations are similar across species. These models can be applied to neural data, creating a more granular and mechanistic understanding of the emotion."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3xs2tyz3nj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The field of affective neuroscience is a long way from a unified understanding of how the brain and, with it, emotions work. The open question concerns why we see an overlap in neural circuits associated with different emotions. Further, how does the brain integrate information across autonomic, cognitive, and conscious systems and produce behavioral output? The key to answering these questions is having clear semantics on what we mean by each emotion, more precise measures, and the ability to record in the same ways across species."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "dual-vs-single-processing-models",
+          "id": "dual-vs-single-processing-models",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Dual versus single processing models"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ns4he021z0l",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The two-system theory of fear suggests a defensive survival circuit that produces defensive behaviors and a cognitive circuit that involves working memory and produces feelings associated with conscious \u201cfear\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n86d64hhav1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhlqujnhzki\" data-reactroot=\"\">LeDoux, J. E., &amp; Pine, D.S. (2016). Using neuroscience to help understand fear and anxiety: A two-system framework. <em>American Journal of Psychiatry,</em> <em>173</em>(11), 1083-1093. <a href=\"https://doi.org/10.1176/appi.ajp.2016.16030353\">https://doi.org/10.1176/appi.ajp.2016.16030353</a> </p>",
+              "customLabel": "LeDoux & Pine, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The two-system model has shades of Sartre: \u201cA reflective consciousness can always direct its attention upon emotion. [\u2026] In that case, emotion is seen as a structure of consciousness\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n05vg6z9l24",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3io015m9no\" data-reactroot=\"\">Sartre, J. P. (1971). <em>Sketch for a theory of the emotions.</em> Routledge.</p>",
+              "customLabel": "Sartre, 1971",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", page 60)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkbvwiqnt9y",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The two-system model further supports a long tradition of cognition in fear, which goes back to the James\u2013Lange model and the two-factor theory of emotion. Others like "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwvn59t9d4f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlz64khrvzb\" data-reactroot=\"\">Fanselow, M. S., &amp; Pennington, Z. T. (2018). A return to the psychiatric dark ages with a two-system framework for fear. <em>Behaviour Research and Therapy</em>, <em>100</em>, 24-29. <a href=\"https://doi.org/10.1016/j.brat.2017.10.012\" title=\"Persistent link using digital object identifier\" target=\"_blank\">https://doi.org/10.1016/j.brat.2017.10.012</a></p>",
+              "customLabel": "Fanselow and Pennington (2018)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " support a single unitary model (i.e., a central fear generator). Each theory has its merits, yet several theoretical issues arise when exploring each model ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nffx6ygo1zz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nn0lyyxqp87\" data-reactroot=\"\">Mobbs, D., Adolphs, R., Fanselow, M. S., Barrett, L. F., LeDoux, J. E., Ressler, K., &amp; Tye, K. M. (2019). Viewpoints: Approaches to defining and investigating fear. <em>Nature Neuroscience</em>, <em>22</em>(8), 1205-1216. <a href=\"https://doi.org/10.1038/s41593-019-0456-6\">https://doi.org/10.1038/s41593-019-0456-6</a> </p>",
+              "customLabel": "Mobbs et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nm2ndjz5m22",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Criticism of the two-system model has come from some who have proposed that cognitive systems cannot simply cure post-traumatic stress disorder, as fear is inflexible and embedded in defensive circuits ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0t9m8fs285",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2r3lnki5g6\" data-reactroot=\"\">Fanselow, M. S., &amp; Pennington, Z. T. (2018). A return to the psychiatric dark ages with a two-system framework for fear. <em>Behaviour Research and Therapy</em>, <em>100</em>, 24-29. <a href=\"https://doi.org/10.1016/j.brat.2017.10.012\" title=\"Persistent link using digital object identifier\" target=\"_blank\">https://doi.org/10.1016/j.brat.2017.10.012</a></p>",
+              "customLabel": "Fanselow & Pennington, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Further, if fear reflects a contextually adaptive response to danger, as predicted by different levels of threat imminence, then fear and anxiety should elicit different defensive behaviors and different neural populations. However, from an experimental perspective, scientists can only study behavioral and visceral responses in rodents, thus making definitions based on conscious awareness a major advance in how we approach the study of fear or compare humans to other species. In the case of the human study of fear, it has motivated several groups to focus on the neural separation of behavior and subjective fear and to create better behavioral (e.g., panic and thigmotaxis; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrpsad5bbmd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7wpgrxpbn2\" data-reactroot=\"\">Mobbs, D., Wise, T., Suthana, N., Guzman, N., Kriegeskorte, N., &amp; Leibo, J. (2021). The promises and challenges of human computational ethology. <em>Neuron</em>, <em>109</em>(14), 2224-2238. <a href=\"https://doi.org/10.1016/j.neuron.2021.05.021\" title=\"Persistent link using digital object identifier\" target=\"_blank\">https://doi.org/10.1016/j.neuron.2021.05.021</a></p>",
+              "customLabel": "Mobbs et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and subjective measures (e.g., body feelings and metacognition) of fear and anxiety. So, while there may be issues with the integrative feasibility of the two-system model, it is critical that empirical studies that attempt to dissect circuits across negative valence states do not conflate behavior, autonomic systems, higher-order conscious fear, and anxiety."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "the-semantics-of-fear-and-anxiety",
+          "id": "the-semantics-of-fear-and-anxiety",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The semantics of fear and anxiety"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2umhjh7a0g",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Fear is generally defined as the emotional state of the organism when the danger is present\u2014it is about the here and now. Conversely, anxiety is about distal or future threats\u2014something that will happen in the future. Yet, philosophers such as Heidegger have proposed that fear is focused on a specific threat, while anxiety concerns an unspecified danger. These definitions are not incompatible, yet others define fear differently. Another definition is that fear is the conscious state when in danger ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnvncyrz679",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3ao4i8gxw1\" data-reactroot=\"\">LeDoux, J. (2012). Rethinking the emotional brain. <em>Neuron</em>, <em>73</em>(4), 653-676. <a href=\"https://doi.org/10.1016/j.neuron.2012.02.004\">https://doi.org/10.1016/j.neuron.2012.02.004</a> </p>",
+              "customLabel": "LeDoux, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This definition sits within the two-system theory of fear, which suggests a defensive survival circuit that produces defensive behaviors and a cognitive circuit that involves working memory and produces feelings associated with conscious "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "fear"
+          },
+          {
+            "type": "text",
+            "text": ". This definition has been criticized because it implicitly states that animals do not have fear if they are not conscious\u2014thus, we cannot study fear in animals. Contemporary leading affective neuroscientists asked to define "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "fear"
+          },
+          {
+            "type": "text",
+            "text": " still show many discrepancies in their definitions, despite the fact that this may be the most recognized of all emotions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni4v36cyp58",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"no2v4hfabg0\" data-reactroot=\"\">Mobbs, D., Adolphs, R., Fanselow, M. S., Barrett, L. F., LeDoux, J. E., Ressler, K., &amp; Tye, K. M. (2019). Viewpoints: Approaches to defining and investigating fear. <em>Nature Neuroscience</em>, <em>22</em>(8), 1205-1216. <a href=\"https://doi.org/10.1038/s41593-019-0456-6\">https://doi.org/10.1038/s41593-019-0456-6</a> </p>",
+              "customLabel": "Mobbs et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "innate-vs-constructed-emotions",
+          "id": "innate-vs-constructed-emotions",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Innate versus constructed emotions"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0lwmrrxnlb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In the 1990s, a major debate rose between "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ne8asjw32of",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nht9fba5uhd\" data-reactroot=\"\">Panksepp, J. (1992). A critical role for &quot;affective neuroscience&quot; in resolving what is basic about basic emotions. <em>Psychological Review</em>, <em>99</em>(3), 554-560. <a href=\"https://doi.org/10.1037/0033-295X.99.3.554\">https://doi.org/10.1037/0033-295X.99.3.554</a> </p>",
+              "customLabel": "Panksepp (1992)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", who laid out a set of primary emotions that included FEAR, PANIC, PLAY, LUST, ANGER, SADNESS, SEEKING, and CARE, and "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nau0q4ft6fg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7l0qlc1nqk\" data-reactroot=\"\">Ortony, A., &amp; Turner, T. J. (1990). What\u2019s basic about basic emotions? <em>Psychological Review</em>, <em>97</em>(3), 315-331. <a href=\"https://doi.org/10.1037/0033-295x.97.3.315\">https://doi.org/10.1037/0033-295x.97.3.315</a> </p>",
+              "customLabel": "Ortony and Turner (1990)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", who questioned the biological reality of emotions. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5qqy5o36zi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8cb8j8ydlj\" data-reactroot=\"\">Barrett, L. F. (2017). The theory of constructed emotion: an active inference account of interoception and categorization. <em>Social Cognitive and Affective</em> <em>Neuroscience</em>, <em>12</em>(1), 1-23.<a href=\"https://doi.org/10.1093/scan/nsw154\"> https://doi.org/10.1093/scan/nsw154</a></p>",
+              "customLabel": "Barrett (2017)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " proposes that emotions, including fear, should be considered as part of a single dynamic system that configures the emotional states through prediction rather than stimulus responses, which in turn drives visuomotor responses. However, it is easy to see the predictive model from a dual-system perspective in which the construction of fear is one system, and visceromotor is the other. In the predictive theory, the visceromotor system is simply an output system with little role in the construction of fear. Recent additions to this model include how interoceptive prediction is supported by anatomical networks that make active inferences concerning neural representations that are based on previous experiences. In turn, this results in an active and predictive generative model of the world. While this system seems reserved for the cortex and, according to "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nobgj8zofvt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8cb8j8ydlj\" data-reactroot=\"\">Barrett, L. F. (2017). The theory of constructed emotion: an active inference account of interoception and categorization. <em>Social Cognitive and Affective</em> <em>Neuroscience</em>, <em>12</em>(1), 1-23.<a href=\"https://doi.org/10.1093/scan/nsw154\"> https://doi.org/10.1093/scan/nsw154</a></p>",
+              "customLabel": "Barrett (2017)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", influences visceromotor systems, it remains to account for the decortication work of Panksepp, showing that defensive behaviors are not impaired. Either the visceromotor systems play a role in the complex construction of the environment, or they are taught by cortical systems\u2014these questions remain unanswered."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "comparability-between-animal-and-human-models",
+          "id": "comparability-between-animal-and-human-models",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Comparability between animal and human models"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nf9yy8fh691",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A key goal of behavioral neuroscience is to investigate the basic neural circuits and behavioral states that underlie different emotions. Often the only model of these emotions in animals is behavioral, neurochemical, and autonomic\u2014but it is not possible to ask animals how they subjectively feel; hence, their psychological state is not known, and whether it matches human emotions remains unanswered. Conversely, human experimentation is limited by tools and ethics in that tasks cannot be performed with the same precision and emotional intensity as they can in rodents. This has left several key problems\u2014is the measurement of emotions comparable across species? Are emotions in humans more complex and modulated by higher-order processes? What is clear is that approaches in Pavlovian conditioning have been successful in partially mirroring neural systems across species ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwksucifp69",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfxla2xstpo\" data-reactroot=\"\">Anderson, D. J., &amp; Adolphs R. (2014). A framework for studying emotions across species. <em>Cell</em>, <em>157</em>(1), 187-200.<a href=\"https://doi.org/10.1016/j.cell.2014.03.003\"> https://doi.org/10.1016/j.cell.2014.03.003</a></p>",
+              "customLabel": "Anderson & Adolphs, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Yet, modern approaches such as those that use computational ethological approaches are creating a large gap in measurement across species ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n074x7qtb6s",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"no4kadr7mxr\" data-reactroot=\"\">Mobbs, D., Wise, T., Suthana, N., Guzman, N., Kriegeskorte, N., &amp; Leibo, J. (2021). The promises and challenges of human computational ethology. <em>Neuron</em>, <em>109</em>(14), 2224-2238. <a href=\"https://doi.org/10.1016/j.neuron.2021.05.021\" title=\"Persistent link using digital object identifier\" target=\"_blank\">https://doi.org/10.1016/j.neuron.2021.05.021</a></p>",
+              "customLabel": "Mobbs et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nc9sfadub65",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Affective neuroscience is centered on basic science, yet there are connections to adaptive decision-making."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "emotion-in-the-age-of-artificial-intelligence-ai",
+          "id": "emotion-in-the-age-of-artificial-intelligence-ai",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Emotion in the age of artificial intelligence"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ndadmaspemj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "As we engage more and more with artificial intelligence, how will this affect people\u2019s emotions? Will artificial intelligence help to guide emotions, provide emotional support, or, with hardware, stop negative emotions before consciously experienced? Large language models are here to stay, and it is important to understand how these affect people socially and emotionally [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "cognitive-maps-and-emotion",
+          "id": "cognitive-maps-and-emotion",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Cognitive maps and emotion"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nlkwaa397il",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Recent work has shown that the hippocampus and entorhinal cortex, regions that possess place and grid cells, store relational structures (i.e., cognitive maps) between objects in the world. How these structures are modulated by affective salience or value is unknown and would be of importance to understanding how emotional maps of the world are formed."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "emotion-in-virtual-worlds",
+          "id": "emotion-in-virtual-worlds",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Emotion in virtual worlds"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ni8t1uzhrid",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In the modern world, much communication is online. As compared to the real world, how does one\u2019s emotion change when online? Likewise, how does this affect the perception of other\u2019s emotional states? These are critical questions, given that research suggests that there are major concerns relating to well-being and mental health."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading "
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n6w0ebfa7we",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nbfzbohov6g",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Grogans, S. E., Bliss-Moreau, E., Buss, K. A., Clark, L. A., Fox, A. S., Keltner, D., Cowen, A. S., Kim, J. J., Kragel, P. A., MacLeod, C., Mobbs, D., Naragon-Gainey, K., Fullana, M. A., & Shackman, A. J. (2023). The nature and neurobiology of fear and anxiety: State of the science and opportunities for accelerating discovery. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Neuroscience & Biobehavioral Reviews"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "151"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 105237. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/j.neubiorev.2023.105237",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/j.neubiorev.2023.105237"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "njr33vyd2tt",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Mobbs, D., Adolphs, R., Fanselow, M. S., Barrett, L. F., LeDoux, J. E., Ressler, K., & Tye, K. M. (2019). Viewpoints: Approaches to defining and investigating fear. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Nature Neuroscience"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "22"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(8), 1205-1216. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1038/s41593-019-0456-6",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1038/s41593-019-0456-6"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,4296 @@
+{
+  "id": "50c7e139-04b7-495a-9127-e765c78746ec",
+  "slug": "b61joemo",
+  "title": "Algorithmic Bias",
+  "url": "https://oecs.mit.edu/pub/b61joemo",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "50c7e139-04b7-495a-9127-e765c78746ec",
+    "slug": "b61joemo",
+    "title": "Algorithmic Bias",
+    "htmlTitle": "Algorithmic Bias",
+    "description": "",
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": null,
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "gk6udmn8",
+    "editHash": "301mmsgw",
+    "reviewHash": "nr8xodol",
+    "commentHash": "zftfjjl4",
+    "draftId": "a3ed875f-971d-47f7-8276-feeffb14d1e6",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": null,
+    "scopeSummaryId": "dd957f37-dc55-4d4f-b8e4-fe4379789b5b",
+    "createdAt": "2026-01-29T00:08:51.625Z",
+    "updatedAt": "2026-01-29T00:21:49.925Z",
+    "attributions": [
+      {
+        "id": "391e6e19-49ad-4de2-aa12-6b90483314c5",
+        "name": "Abeba Birhane",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Trinity College Dublin",
+        "orcid": "0000-0001-6319-7937",
+        "userId": null,
+        "pubId": "50c7e139-04b7-495a-9127-e765c78746ec",
+        "createdAt": "2026-01-29T00:09:22.591Z",
+        "updatedAt": "2026-01-29T00:09:39.155Z",
+        "user": null
+      },
+      {
+        "id": "dbf5e519-285b-4776-91f0-7bd381902689",
+        "name": "H. Clark Barrett",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "University of California, Los Angeles",
+        "orcid": "0000-0002-4157-6511",
+        "userId": null,
+        "pubId": "50c7e139-04b7-495a-9127-e765c78746ec",
+        "createdAt": "2026-01-29T00:20:57.861Z",
+        "updatedAt": "2026-01-29T00:21:19.597Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "a3ed875f-971d-47f7-8276-feeffb14d1e6",
+      "latestKeyAt": "2026-01-30T16:31:12.825Z",
+      "firebasePath": "drafts/draft-a3ed875f-971d-47f7-8276-feeffb14d1e6",
+      "createdAt": "2026-01-29T00:08:51.620Z",
+      "updatedAt": "2026-01-31T21:42:14.752Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxw641ga7e4",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Algorithmic bias refers to prejudicial, discriminatory, unjust, inaccurate, or otherwise disparate performance or outcomes from algorithmic systems based on racial, gender, or other attributes of an individual or a group. The concept of algorithmic bias emerged at the intersection of computer science, artificial intelligence (AI) research, critical data studies, human\u2013computer interaction, law, philosophy, and similar disciplines. Although problems and discrepancies at the model level denote the most commonly studied form of bias, the term algorithmic bias is also used as a shorthand to describe a multitude of problems and challenges at various steps of the AI pipeline from ideation, problem framing, training data curation and processing, model training and validation, and deployment as well as emergent issues that arise from interaction with the real world. Potential sources of bias, appropriate metrics to define, measure, and mitigate bias, and the utility and merit of technical approaches to bias mitigation are fiercely debated in the current AI landscape.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "npz1qrq2jo8",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Early conceptions of algorithmic bias can be traced back to the early days of AI and the philosophy of technology. Having developed one of the first computer systems for the Bank of America in the early 1950s, Joseph Weizenbaum articulated how the computerization of banking allows large institutions to solidify and formalize existing structures and hierarchies that favor the status quo rather than encourage solutions that bring forth structural changes or decentralized solutions. In the 1970s and 1980s, the philosopher of technology Langdon Winner dismantled the idea that technology is a \u201cneutral\u201d tool. Winner\u2019s work emphasized how those developing technology benefit the most while already disadvantaged individuals and groups pay the highest price, laying the philosophical foundation for subsequent work in algorithmic bias ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nck5rwujstv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntizxy1olvx\" data-reactroot=\"\">Winner, L. (1978). <em>Autonomous technology: Technics-out-of-control as a theme in political thought</em>. MIT Press.</p>",
+              "customLabel": "Winner, 1978",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nuzky65g9pc",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Much early work laid the foundation for broader issues that arise with automation, including the challenges of automating complex cognitive, psychological, and social phenomena ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "niqqyqfy9q4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"niwvr5xy1xr\" data-reactroot=\"\">Winograd, T., &amp; Flores, F. (1986). <em>Understanding computers and cognition: A new foundation for design</em>. Ablex.</p>",
+              "customLabel": "Winograd & Flores, 1986",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") as well as the downstream impact of such automation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nshp21gsb5x",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nydz1nhsz2w\" data-reactroot=\"\">Winner, L. (1980). Do artifacts have politics? <em>Daedalus</em>, <em>109</em>(1), 121\u2013136. <a href=\"http://www.jstor.org/stable/20024652\">http://www.jstor.org/stable/20024652</a></p>",
+              "customLabel": "Winner, 1980",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Orthogonal to this were more technical efforts to formalize, quantify, and measure algorithmic bias using metrics such as \u201cfairness index\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n54a1rmjdvt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny9bkk3n19e\" data-reactroot=\"\">Jain, R. K., Chiu, D. M. W., &amp; Hawe, W. R. (1984). A quantitative measure of fairness and discrimination. <em>arXiv. </em><a href=\"https://doi.org/10.48550/arXiv.cs/9809099\">https://doi.org/10.48550/arXiv.cs/9809099</a> </p>",
+              "customLabel": "Jain et al., 1984",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). By the late 1990s, algorithmic bias emerged as a fully fledged academic endeavor. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngky7jwvxxd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6kdt5c58rt\" data-reactroot=\"\">Friedman, B., &amp; Nissenbaum, H. (1996). Bias in computer systems. <em>ACM Transactions on Information Systems (TOIS)</em>, <em>14</em>(3), 330-347. <a href=\"https://doi.org/10.1145/230538.230561\">https://doi.org/10.1145/230538.230561</a> </p>",
+              "customLabel": "Friedman and Nissenbaum (1996)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " put forward three categories of bias in computer systems: "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "preexisting"
+          },
+          {
+            "type": "text",
+            "text": " (rooted in social institutions and practices), "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "technical"
+          },
+          {
+            "type": "text",
+            "text": " (arising from technical constraints), and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "emergent"
+          },
+          {
+            "type": "text",
+            "text": " (arising in the context of use). Alongside the explosion of AI and machine learning research marked by the \u201cAI revolution,\u201d the late 2000s and early 2010s saw an explosion of academic work on algorithmic bias, including "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "noxi3jtndev",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nknt3zkch4g\" data-reactroot=\"\">Barocas, S., &amp; Selbst, A. D. (2016). Big data\u2019s disparate impact. <em>California Law Review</em>, <em>104</em>(3), 671-732. <a href=\"https://doi.org/10.2139/ssrn.2477899\">https://doi.org/10.2139/ssrn.2477899</a> </p>",
+              "customLabel": "Barocas and Selbst's (2016)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " systematic analysis of how algorithmic systems embed and perpetuate discrimination through design decisions, data definitions, and proxy variables."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4dmqwzxl3o",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The concept of algorithmic bias also entered the mainstream\u2014alongside the popularization of AI products\u2014as investigations of actual deployed algorithms garnered public attention. In 2016, a team of investigative journalists from ProPublica unveiled how an algorithm that was widely used across the United States for recidivism was biased against racial minorities ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6vbema3del",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkytadv8q6j\" data-reactroot=\"\">Angwin, J., Larson, J., Mattu, S., &amp; Kirchner, L. (2016, May 23). Machine bias: There\u2019s software used across the country to predict future criminals. And it\u2019s biased against blacks. <em>ProPublica</em>. <a href=\"https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing\">https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing</a> </p>",
+              "customLabel": "Angwin et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Work by Safiya Umoja "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6p7dp7y9xl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhzzbhbhdvd\" data-reactroot=\"\">Noble, S. U. (2018). <em>Algorithms of oppression: How search engines reinforce racism</em>. New York University Press.</p>",
+              "customLabel": "Noble (2018)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " made breakthroughs establishing that search engines, far from being a neutral tool, often reproduce systemic racism, sexism, and economic inequity. Ruha "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0gq0kpfuut",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nne72icr6xt\" data-reactroot=\"\">Benjamin, R. (2019). <em>Race after technology: Abolitionist tools for the New Jim Code</em>. Polity.</p>",
+              "customLabel": "Benjamin (2019)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " further argued that algorithmic bias towards racial minorities is not an accident and a byproduct of design but often an inbuilt feature masked by the language of progress, efficiency, or innovation. Empirical investigations of real-world deployed systems had significant impact in the term \u201cbias\u201d becoming a well-known phenomenon, particularly outside academic research. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no2138kg8xq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0l6t8izvzf\" data-reactroot=\"\">Buolamwini, J., &amp; Gebru, T. (2018). Gender shades: Intersectional accuracy disparities in commercial gender classification. <em>Proceedings of Machine Learning Research</em>, 81, 77-91.</p>",
+              "customLabel": "Buolamwini and Gebru (2018)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " evaluated three commercial facial recognition technology (FRT) products, demonstrating disparate performance based on gender and skin tone. In popular media, scandals such as the Google Photo App that labeled Black people as \u201cgorillas\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxc2o7oxgf6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"net25ay690f\" data-reactroot=\"\">Dougherty, C. (2015, July 1). Google Photos mistakenly labels black people \u201cgorillas.\u201d <em>New York Times</em>. <a href=\"https://archive.nytimes.com/bits.blogs.nytimes.com/2015/07/01/google-photos-mistakenly-labels-black-people-gorillas/\">https://archive.nytimes.com/bits.blogs.nytimes.com/2015/07/01/google-photos-mistakenly-labels-black-people-gorillas/</a> </p>",
+              "customLabel": "Dougherty, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), Amazon\u2019s recruitment algorithmic that penalized women ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no3i0lkpwnk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npw66gtp8s0\" data-reactroot=\"\">Dastin, J. (2018, October 10). Insight - Amazon scraps secret AI recruiting tool that showed bias against women. <em>Reuters</em>. <a href=\"https://www.reuters.com/article/world/insight-amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK0AG/\">https://www.reuters.com/article/world/insight-amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK0AG/</a> </p>",
+              "customLabel": "Dastin, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and the wrongful arrest of Robert Williams, a Black man misclassified by FRT ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmrab66xy9y",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7j447ksaam\" data-reactroot=\"\">Mullen, A., &amp; Herrera, S. (2024, June 28). Civil rights advocates achieve the nation\u2019s strongest police department policy on facial recognition technology. <em>ACLU Michigan</em>. <a href=\"https://www.aclumich.org/press-releases/civil-rights-advocates-achieve-nations-strongest-police-department-policy-facial/\">https://www.aclumich.org/press-releases/civil-rights-advocates-achieve-nations-strongest-police-department-policy-facial/</a> </p>",
+              "customLabel": "Mullen & Herrera, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), all contributed towards the popularization of bias in public understanding. As AI systems increase in scale, sophistication, and modality\u2014especially with the emergence of generative AI\u2014the ways and nuances in which they encode bias are still underexplored [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "].\u00a0\u00a0\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n957r8fys9b",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Although bias can arise at any and all stages of the AI pipeline and lifecycle, the most commonly studied types of bias focus on "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "bias from data and its processing"
+          },
+          {
+            "type": "text",
+            "text": " (i.e., bias that might occur in both the content of the data and its processing pipeline) and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "bias from model training and evaluation"
+          },
+          {
+            "type": "text",
+            "text": " (i.e., bias that might be introduced by training architecture and dynamics and optimization choices or evaluation methodology). "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Fairness in machine learning"
+          },
+          {
+            "type": "text",
+            "text": " is a core concept and a broad umbrella that encompasses measurement metrics and various technical tools and approaches to address bias."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "bias-from-data-and-its-processing",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Bias from data and its processing"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5fs2gq4rc2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In the data collection and processing phase, bias can arise from underrepresentation, misrepresentation, or hyperrepresentation of certain groups in the training data ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "representation bias"
+          },
+          {
+            "type": "text",
+            "text": "); from errors such as outdated stereotypes that are often encoded in data, which can go unchecked when labeling, annotating, and categorizing data ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "labeling bias"
+          },
+          {
+            "type": "text",
+            "text": "); from inaccuracies and inconsistencies when, for example, features of data are measured or from flawed tools and methods used during data collection ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "measurement bias"
+          },
+          {
+            "type": "text",
+            "text": "); from when data is augmented, for example, through synthetic data generation that amplifies stereotypes or distort (from the \u201cground truth\u201d); and from cleaning and detoxifying data (a process by which data that is considered, for example, denoting toxic language, are removed). "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Blocklist filtering"
+          },
+          {
+            "type": "text",
+            "text": " is, for example, one of the methods used to remove content that is presumed to be problematic or toxic. However, like most technical approaches, blocklist filtering comes with drawbacks, for example, resulting in the disproportionate removal of text from and about minority groups, such as removal of language used to communicate about sexual health within LGBTQI+ communities ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nt5kp4lyvgj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmszqfa7lmh\" data-reactroot=\"\">Dodge, J., Sap, M., Marasovi\u0107, A., Agnew, W., Ilharco, G., Groeneveld, D., Mitchell, M., &amp; Gardner, M. (2021). Documenting large webtext corpora: A case study on the colossal clean crawled corpus. <em>arXiv</em>. <a href=\"https://doi.org/10.48550/arXiv.2104.08758\">https://doi.org/10.48550/arXiv.2104.08758</a> </p>",
+              "customLabel": "Dodge et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "bias-from-model-training-and-evaluation",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Bias from model training and evaluation"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5bemneo094",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Bias in model training and evaluation might occur from a number of different processes and choices made. These include the following:"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n9rn6w17tfw",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nga2xthnrwp",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Model selection"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Different algorithms process data differently. Using linear models for complex nonlinear relationships, for example, can lead to underperformance on certain groups in the data. Furthermore, some models maybe more prone to overfitting, which could amplify bias."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nuy5gal10ri",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Loss function"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Some loss functions treat all errors equally. However, if the dataset is imbalanced (e.g., underrepresentation of a minority group), the model may prioritize minimizing errors for the majority group, leading to unfair outcomes for underrepresented groups."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n4x52ev7in4",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Over/under fitting"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": If a model is trained on a dataset with imbalances (e.g., majority class dominates), it may learn to \u201cmemorize\u201d patterns specific to the majority class, which can lead to poor performance on the minority class. Conversely, underfitting occurs when the model fails to learn relevant patterns because it does not have enough data from certain groups. This can happen if the minority class is underrepresented in the training data, and the model fails to capture their specific needs."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n43v98hr4ns",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Model tuning and hyperparameter optimization"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": The way hyperparameters are tuned can introduce bias if it leads the model to perform better on one group over another. For example, if hyperparameters are optimized based on overall model performance (accuracy, for instance), the minority class might be overlooked."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nbluamnihob",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Model validation and evaluation"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": If the validation set is not diverse or balanced, the model\u2019s performance may be overstated or inaccurate for certain groups. Using performance metrics such as accuracy, without considerations to all relevant factors, to validate can also lead to biased evaluation (in which one class is much larger than another, for example) giving a false sense of good model performance while in fact failing to account for the distribution of classes in the dataset."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "fairness-in-machine-learning",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Fairness in machine learning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nngpg96aqpe",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "With the core objective of producing equitable outcomes across different individuals and groups, fairness approaches use various techniques to, for example, modify data to \u201cremove\u201d bias before training (for example, reweighting or resampling), modify training algorithms to enforce fairness constraints (for example, adversarial training), or adjust prediction after the model is trained (for example, calibration and thresholding). Fairness metrics\u2014often inspired by or rooted in philosophical theories of distributive justice\u2014aspire to address fair allocation of resources and outcomes. The most common type of fairness in machine learning include the following:\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n9zyf0m4jer",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nvfn69ysfm7",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Group fairness"
+                  },
+                  {
+                    "type": "text",
+                    "text": ","
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "strong"
+                      }
+                    ],
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "text": "which is premised upon the idea that regardless of the demographic group an individual belongs to, they should receive equal treatment or outcome from a model ("
+                  },
+                  {
+                    "type": "citation",
+                    "attrs": {
+                      "id": "np2ni4v8n6r",
+                      "href": null,
+                      "value": "",
+                      "unstructuredValue": "<p id=\"nekkfa5o95c\" data-reactroot=\"\">Dwork, C., Hardt, M., Pitassi, T., Reingold, O., &amp; Zemel, R. (2011). Fairness through awareness. <em>arXiv</em>. <a href=\"https://doi.org/10.48550/arXiv.1104.3913\">https://doi.org/10.48550/arXiv.1104.3913</a> </p>",
+                      "customLabel": "Dwork et al., 2011",
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "). Decision outcomes should thus be independent of any sensitive attributes such as race and gender. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Demographic parity "
+                  },
+                  {
+                    "type": "text",
+                    "text": "and "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "equal opportunity"
+                  },
+                  {
+                    "type": "text",
+                    "text": " are some of the most commonly used fairness criteria ("
+                  },
+                  {
+                    "type": "citation",
+                    "attrs": {
+                      "id": "nq27c2mwbum",
+                      "href": null,
+                      "value": "",
+                      "unstructuredValue": "<p id=\"nekkfa5o95c\" data-reactroot=\"\">Dwork, C., Hardt, M., Pitassi, T., Reingold, O., &amp; Zemel, R. (2011). Fairness through awareness. <em>arXiv</em>. <a href=\"https://doi.org/10.48550/arXiv.1104.3913\">https://doi.org/10.48550/arXiv.1104.3913</a> </p>",
+                      "customLabel": "Dwork et al., 2011",
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ")."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "ndl6qkg017a",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Individual fairness"
+                  },
+                  {
+                    "type": "text",
+                    "text": " is based on the idea that similar individuals should receive similar outcomes from a machine learning system ("
+                  },
+                  {
+                    "type": "citation",
+                    "attrs": {
+                      "id": "nlh8etka27o",
+                      "href": null,
+                      "value": "",
+                      "unstructuredValue": "<p id=\"nekkfa5o95c\" data-reactroot=\"\">Dwork, C., Hardt, M., Pitassi, T., Reingold, O., &amp; Zemel, R. (2011). Fairness through awareness. <em>arXiv</em>. <a href=\"https://doi.org/10.48550/arXiv.1104.3913\">https://doi.org/10.48550/arXiv.1104.3913</a> </p>",
+                      "customLabel": "Dwork et al., 2011",
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "). Unlike group fairness, which compares outcomes across demographic groups, individual fairness focuses on consistency at the person-to-person level. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Counterfactual fairness"
+                  },
+                  {
+                    "type": "text",
+                    "text": " is, for example, a type of individual fairness in which a decision or prediction is considered fair if it would remain the same in the real world and a hypothetical counterfactual world where the individual\u2019s sensitive attribute (such as race or  gender) had been different but all other relevant factors remained the same ("
+                  },
+                  {
+                    "type": "citation",
+                    "attrs": {
+                      "id": "n62kwubmw92",
+                      "href": null,
+                      "value": "",
+                      "unstructuredValue": "<p id=\"nig77v7b46s\" data-reactroot=\"\">Kusner, M. J., Loftus, J., Russell, C., &amp; Silva, R. (2017). Counterfactual fairness. <em>arXiv</em>. <a href=\"https://doi.org/10.48550/arXiv.1703.06856\">https://doi.org/10.48550/arXiv.1703.06856</a> </p>",
+                      "customLabel": "Kusner et al., 2017",
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ")."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3iof3b19fw",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "There exist several other criteria, metrics, and alternative approaches. Fairness measures achieve fairness often by making every group worse off or by bringing down better performing groups to the level of the worse off. In rejection of this approach and with the aim of improving outcomes for historically marginalized groups, the concept of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "leveling up"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njvgt6ai58j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nd7j00uxko7\" data-reactroot=\"\">Mittelstadt, B., Wachter, S., &amp; Russell, C. (2023). The unfairness of fair machine learning: Leveling down and strict egalitarianism by default. <em>Michigan Technology Law Review</em>, 1-49. <a href=\"https://ssrn.com/abstract=4331652\">https://ssrn.com/abstract=4331652</a> </p>",
+              "customLabel": "Mittelstadt et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") has been proposed, whereby systems are designed with minimum acceptable harm thresholds or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "minimum rate constraints"
+          },
+          {
+            "type": "text",
+            "text": " (in which a minimum proportion of positive outcomes must be granted to specific demographic groups)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nej56kjrexz",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The field has produced countless tools and frameworks geared towards addressing algorithmic bias as well as some of the broader challenges discussed here. These include tools like REVISE, aimed at surfacing bias in visual datasets ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ns8hcgbyh6k",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz5mq6exmtw\" data-reactroot=\"\">Wang, A., Liu, A., Zhang, R., Kleiman, A., Kim, L., Zhao, D., Shirai, I., Narayanan, A., &amp; Russakovsky, O. (2022). REVISE: A tool for measuring and mitigating bias in visual datasets. <em>International Journal of Computer Vision</em>, <em>130</em>(7), 1790-1810. <a href=\"https://doi.org/10.1007/s11263-022-01625-5\">https://doi.org/10.1007/s11263-022-01625-5</a> </p>",
+              "customLabel": "Wang et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "); Aequitas, designed to evaluate machine learning models, particularly binary classifiers ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n55dha4s9fb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8bny65onhp\" data-reactroot=\"\">Saleiro, P., Kuester, B., Hinkson, L., London, J., Stevens, A., Anisfeld, A., Rodolfa, K. T., &amp; Ghani, R. (2018). Aequitas: A bias and fairness audit toolkit. <em>arXiv. </em><a href=\"https://doi.org/10.48550/arXiv.1811.05577\">https://doi.org/10.48550/arXiv.1811.05577</a> </p>",
+              "customLabel": "Saleiro et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "); and IBM\u2019s AI Fairness 360, a large suite with prebuilt datasets and visualization tools. As detailed in the next section, the effectiveness, merit, and utility of these tools is contested."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n48oqkek6a3",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Notably, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Datasheets"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Model Cards"
+          },
+          {
+            "type": "text",
+            "text": " remain amongst the most consequential tools and frameworks initiating, popularizing and subsequently normalizing integration of these tools and practices as industry standard. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Datasheets for datasets"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnbyix1dv83",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvevztij729\" data-reactroot=\"\">Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Daum\u00e9 III, H., &amp; Crawford, K. (2021). Datasheets for datasets. <em>Communications of the ACM</em>, <em>64</em>(12), 86-92. <a href=\"https://doi.org/10.1145/3458723\">https://doi.org/10.1145/3458723</a></p>",
+              "customLabel": "Gebru et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") aims to improve transparency through documentation of training data, while "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Model cards"
+          },
+          {
+            "type": "text",
+            "text": " aids the documentation of key information about a model in a consistent and structured manner geared towards increasing transparency and accountability ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb1nuaa79ee",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyeceqmotrx\" data-reactroot=\"\">Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., Spitzer, E., Raji, I. D., &amp; Gebru, T. (2019). Model cards for model reporting. <em>arXiv</em>. <a href=\"https://doi.org/10.48550/arXiv.1810.03993\">https://doi.org/10.48550/arXiv.1810.03993</a> </p>",
+              "customLabel": "Mitchell et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "challenges-to-implementing-fairness",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Challenges to implementing fairness"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nemc6x5vycm",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Although several definitions of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "fairness"
+          },
+          {
+            "type": "text",
+            "text": " exist within the machine learning literature, there is no clear consensus or universally agreed understanding or definition. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Bias"
+          },
+          {
+            "type": "text",
+            "text": " in NLP systems, for example, is vaguely defined, inconsistently applied, and lacks normative reasoning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "naoe4z5v4sr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhzxzsomkq9\" data-reactroot=\"\">Blodgett, S. L., Barocas, S., Daum\u00e9 III, H., &amp; Wallach, H. (2020). Language (technology) is power: A critical survey of \u201cbias\u201d in NLP. <em>arXiv</em>. <a href=\"https://doi.org/10.48550/arXiv.2005.14050\">https://doi.org/10.48550/arXiv.2005.14050</a> </p>",
+              "customLabel": "Blodgett et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). More importantly, critics have argued that seeking a one-off static solution for structural issues that go under the banner of algorithmic bias via fairness metrics is not only inadequate but also devoid of social or moral significance and runs the risk of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "ethics washing "
+          },
+          {
+            "type": "text",
+            "text": "(false or exaggerated practices or claims while failing to tackle genuine issues)"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nf3m7u1ykxp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8zdyhgybmi\" data-reactroot=\"\">Kasirzadeh, A. (2022). Algorithmic fairness and structural injustice: Insights from feminist political philosophy. <em>arXiv</em>. <a href=\"https://doi.org/10.48550/arXiv.2206.00945\">https://doi.org/10.48550/arXiv.2206.00945</a> </p>",
+              "customLabel": "Kasirzadeh, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). More fundamentally, the very term algorithmic bias is a highly contested term that has been subject to strong "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "conceptual"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "methodological,"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "epistemological"
+          },
+          {
+            "type": "text",
+            "text": " criticism."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nowyu0bbyag",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Conceptually, the term "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "algorithmic bias"
+          },
+          {
+            "type": "text",
+            "text": ", Black feminist and Science and Technology Studies (STS) scholars have pointed out, fails to capture wider issues beyond data and algorithms. Notably, issues such as power asymmetries ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmmv5aq7p3i",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbx53da9msw\" data-reactroot=\"\">Brennan, K., Amba Kak, A., and West, S. M. (2025, June 3). Artificial power: 2025 landscape report. <em>AI Now</em>. <a href=\"https://ainowinstitute.org/2025-landscape\">https://ainowinstitute.org/2025-landscape</a> </p>",
+              "customLabel": "Brennan et al., 2025",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and structural injustice that permeate AI technologies, as well as downstream impacts such as the erosion of fundamental rights including freedom of speech and movement due to pervasive surveillance as a result of ubiquitous integration of AI into societal infrastructure. Furthermore, unfair and unjust outcomes from deployed algorithmic systems can amount to encoding and amplification of, for example, racism, ableism, misogyny, stagnant stereotypes, or white supremacy with real and immediate real-world impact on actual human beings. Yet, the all-encompassing concept "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "algorithmic bias"
+          },
+          {
+            "type": "text",
+            "text": " brings in a level of abstractness that makes such issues palatable removing the immediacy and real-world relevance. This level of abstractness furthermore removes responsibility by making it seem that technological failures or harms from downstream effects are accidental side effects rather than intentional byproducts of oppressive systems ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbbkkxymoa6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4kknuno0z6\" data-reactroot=\"\">Hampton, L. M. (2021). Black feminist musings on algorithmic oppression. <em>arXiv</em>. <a href=\"https://doi.org/10.1145/3442188.3445929\">https://doi.org/10.1145/3442188.3445929</a> </p>",
+              "customLabel": "Hampton, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0\u00a0\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9nmkm3wzh8",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Methodologically, seeking technical solutions to complex historical and societal problems, numerous scholars have argued, is not only methodologically limiting but also serves to blur accountability and responsibility. Within the fairness in machine learning approach, addressing bias primarily consists of mathematical characterization of fairness at the level of data preparation, model learning or postprocessing which might result in some incremental change in an algorithm. Broader societal issues that are difficult to quantify and measure \u2014 such as desirable social values like human agency and respect for fundamental rights; power and resource asymmetries; and oppressive social structures \u2014 that are encoded in and/or intersect with algorithmic systems thus often fall outside the purview of \u2018fairness\u2019 due to its narrow methodological scope ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nudl21wke3d",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"noof3lnoqyr\" data-reactroot=\"\">Kalluri, P. (2020). Don\u2019t ask if artificial intelligence is good or fair, ask how it shifts power. <em>Nature</em>, <em>583</em>(7815), 169. <a href=\"https://doi.org/10.1038/d41586-020-02003-2\">https://doi.org/10.1038/d41586-020-02003-2</a> </p>",
+              "customLabel": "Kalluri, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Additionally, within existing fairness paradigms, measuring and operationalizing complex unobservable theoretical constructs such as socioeconomic status via proxies like income, remains questionable regarding the reliability and validity of the proxy for directly capturing and measuring the theoretical construct with high fidelity ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nepqkuflvcd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nki6ywc00s5\" data-reactroot=\"\">Jacobs, A. Z., &amp; Wallach, H. (2021). Measurement and fairness. <em>arXiv</em>. <a href=\"https://doi.org/10.48550/arXiv.1912.05511\">https://doi.org/10.48550/arXiv.1912.05511</a> </p>",
+              "customLabel": "Jacobs & Wallach, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Similarly, for complex concepts such as fairness and justice, technical interventions render ineffective, inaccurate, and even sometimes dangerously misguided ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no6t6j6qi96",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1v0cngyxfn\" data-reactroot=\"\">Selbst, A. D., Boyd, D., Friedler, S. A., Venkatasubramanian, S., &amp; Vertesi, J. (2019, January). Fairness and abstraction in sociotechnical systems. In <em>Proceedings of the conference on fairness, accountability, and transparency</em> (pp. 59-68). Association for Computing Machinery.</p>",
+              "customLabel": "Selbst et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhlizqomb7z",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Epistemic limitations arise from algorithmic formalism which involves three key orientations: objectivity/neutrality, internalizm, and universalism ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nscynb0k1am",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxw7c1y1c2w\" data-reactroot=\"\">Green, B., &amp; Viljoen, S. (2020). Algorithmic realism: Expanding the boundaries of algorithmic thought. In <em>Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency</em> (pp. 19-31). Association for Computing Machinery. </p>",
+              "customLabel": "Green & Viljoen, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Yet, acknowledging, identifying, and addressing societal concerns that arise from algorithmic systems, critics point out, requires pursuing a new mode of thinking outside the bounds of algorithmic formalism, one that is specifically attentive to the internal limits of algorithmic fairness to societal concerns ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh4wc0jvqjt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxw7c1y1c2w\" data-reactroot=\"\">Green, B., &amp; Viljoen, S. (2020). Algorithmic realism: Expanding the boundaries of algorithmic thought. In <em>Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency</em> (pp. 19-31). Association for Computing Machinery. </p>",
+              "customLabel": "Green & Viljoen, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The epistemic commitments of neutrality and objectivity of the field of computing leaves no room for analytical scrutiny or deliberation of societal and political questions around data and algorithmic systems. Without the epistemic tools to systematically investigate underlying values or goals, algorithmic fairness can lead to a narrow range of remedies at the cost of structural reforms and radical interventions."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "perpetual-myths",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Perpetual myths"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ntde5l23g6m",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Another controversy pertains the root cause of bias whereby data is often presented as the sole culprit to the extent that \u201cbias in, bias out\u201d has become a well-known slogan. The idea of \u201cdebiasing\u201d, one of the proposed remedies for algorithmic bias, has been heavily criticized. \u00a0One of the strongest empirical arguments against the idea of \u201cdebiasing\u201d coming from NLP research demonstrating that debiasing word embeddings provide a superficial solution giving the illusion of a solution while mostly hiding bias and not removing it ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx4kret9gce",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ncffjh83fjf\" data-reactroot=\"\">Gonen, H., &amp; Goldberg, Y. (2019). Lipstick on a pig: Debiasing methods cover up systematic gender biases in word embeddings but do not remove them. In J. Burstein, C. Doran, &amp; T. Solorio (Eds.), <em>Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies </em>(Vol. 1, pp. 609\u2013614). Association for Computational Linguistics.</p>",
+              "customLabel": "Gonen & Goldberg, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ne6ckcc8i6c",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Despite the relative maturity of the field, the countless ways bias can manifest is not exhaustively studied or known. A robust body of work shows, even when intentional and acknowledging of complexity, interventions at data or algorithmic level are simply insufficient. For example, even when race is not overtly mentioned nor considered as a variable, LLMs can draw from racialised meaning and still make historically racist associations against African Americans based on dialect ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhpc9roswh6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"na48ru0jnfh\" data-reactroot=\"\">Hofmann, V., Kalluri, P. R., Jurafsky, D., &amp; King, S. (2024). AI generates covertly racist decisions about people based on their dialect. <em>Nature</em>, <em>633</em>(8028), 147-154. <a href=\"https://doi.org/10.1038/s41586-024-07856-5\">https://doi.org/10.1038/s41586-024-07856-5</a> </p>",
+              "customLabel": "Hofmann et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). What\u2019s more, current methods such as \u201cremoving\u201d bias via human feedback in training exacerbated racial bias by obscuring racist attitudes instead of mitigating covert racism ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ng0lkpmhi81",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"na48ru0jnfh\" data-reactroot=\"\">Hofmann, V., Kalluri, P. R., Jurafsky, D., &amp; King, S. (2024). AI generates covertly racist decisions about people based on their dialect. <em>Nature</em>, <em>633</em>(8028), 147-154. <a href=\"https://doi.org/10.1038/s41586-024-07856-5\">https://doi.org/10.1038/s41586-024-07856-5</a> </p>",
+              "customLabel": "Hofmann et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "changing-approaches-to-algorithmic-bias",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Changing approaches to algorithmic bias"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nckr83psjt7",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Over the years, new waves of research have emerged, gradually moving away from data and algorithm focused solutions and tool development and into a multitude of new directions and emphasis. One trend is a focus on ethics, justice, and accountability from a more holistic analysis of the field. For example, while early fairness work on facial recognition technology focused on measuring bias, accuracy and performance analysis, a new wave has shifted the conversation towards more fundamental questions about the utility of FRT altogether. This wave is driven by concerns such as the pervasiveness of FRT systems that power surveillance, hyper-surveil the poor and disfranchised, and pose risks to fundamental rights and freedoms regardless of accuracy."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmrakppi06x",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Over the past number of years, audits and evaluations (including of AI models, datasets, and very large online platforms (VLOPs) and search engines (VLSEs) have emerged as an effective method and practice for evaluation, assessment and oversight of AI systems. This stand of development emerged on the backbone of early audits such as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Machine Bias"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "negd03t6jha",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkytadv8q6j\" data-reactroot=\"\">Angwin, J., Larson, J., Mattu, S., &amp; Kirchner, L. (2016, May 23). Machine bias: There\u2019s software used across the country to predict future criminals. And it\u2019s biased against blacks. <em>ProPublica</em>. <a href=\"https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing\">https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing</a> </p>",
+              "customLabel": "Angwin et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Gender Shades ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd44bncsrys",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0l6t8izvzf\" data-reactroot=\"\">Buolamwini, J., &amp; Gebru, T. (2018). Gender shades: Intersectional accuracy disparities in commercial gender classification. <em>Proceedings of Machine Learning Research</em>, 81, 77-91.</p>",
+              "customLabel": "Buolamwini & Gebru, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Algorithmic audit and evaluation is now a thriving area with conferences establishing tracks specifically dedicated for audits and evaluation practices over the past few years."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwjo1rzr55z",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Another domain of research that emerged from the fairness in ML via the AI safety community is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "AI Alignment"
+          },
+          {
+            "type": "text",
+            "text": ". The alignment problem, which has emerged as one of the most popular strands of AI safety research, is concerned with efforts to align AI systems (often LLMs) to \u201cbehave\u201d in line with human intentions and values. This domain of work largely focuses on technical approaches \u2014 developing benchmarks, algorithms, and mathematical formalism \u2014 to \u201calign\u201d LLMs with human values and preferences. This domain, for the most part, does not deal with normative questions such as the nature of human values or the philosophical, cultural or epistemological underpinning of \u201chumans\u201d, \u201chuman behavior\u201d or \"values\"."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ndqn7m1tk2t",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "For over half a century, fields such as cognitive psychology, behavioural economics, social sciences, and philosophy, law, and feminist studies have extensively studied numerous types of human bias such as implicit bias, cognitive bias, and confirmation bias [see Reasoning and Argumentation]. Some of this has resulted in uncovering systematically rooted inequalities, decision making practices, and inequalities affecting individuals and groups in the real world. These numerous domains, extensive study of bias tends to approach bias from an individualistic manner where the onus is on the individual (such as through Diversity, Inclusion and Equity training of individuals) as opposed to structural changes that remove obstacles to marginalised groups. Nonetheless, the past few decades have seen better awareness of bias contributing to a somewhat more equitable decision making including in healthcare, education, hiring, and public policy [see Eugenic Thinking and the Cognitive Sciences]."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njigd1qz94z",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The study of algorithmic bias is heavily influenced \u2014 directly or implicitly \u2014 by cognitive psychology. However, cognitive psychologists have highlighted that these fields\u2019 bias evaluation approach and method have faced numerous limitations and in some cases suffering crises. Furthermore, inherent differences between human cognition and algorithmic systems means uncritical adoption of human bias evaluation onto algorithms (like implicit association tests) can be misleading, shortsighted, and unhelpful ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngco8nd6n39",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4i470mhctr\" data-reactroot=\"\">Crockett, M. J., Bai, X., Kapoor, S., Messeri, L., &amp; Narayanan, A. (2023). The limitations of machine learning models for predicting scientific replicability. <em>Proceedings of the National Academy of Sciences</em>, <em>120</em>(33), e2307596120. <a href=\"https://doi.org/10.1073/pnas.2307596120\">https://doi.org/10.1073/pnas.2307596120</a> </p>",
+              "customLabel": "Crockett et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "acknowledgments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Acknowledgments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ne49mdx9w5q",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Abeba Birhane is the founder and principal investigator of the AI Accountability Lab (housed in the School of Computer Science and Statistics at Trinity College Dublin), which is supported by grants from the John D. and Catherine T. MacArthur Foundation, the AI Collaborative of the Omidyar Group, Luminate Foundation, European AI & Society Fund, Bestseller Foundation, and The UK Department For Science, Technology and Innovation (AI Security Institute). The author is grateful to Eoin Delaney, Maribeth Rauh, and Harshvardhan Pandit as well as the OECS editorial team for helpful feedback."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nw8bh1imrmw",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n4xl03rfk8q",
+                  "class": "MsoListParagraphCxSpFirst",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Kalluri, P. (2020). Don\u2019t ask if artificial intelligence is good or fair, ask how it shifts power. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Nature"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "583"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(7815), 169. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1038/d41586-020-02003-2",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1038/d41586-020-02003-2"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "ng7zmddak4h",
+                  "class": "MsoListParagraphCxSpMiddle",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Selbst, A. D., Boyd, D., Friedler, S. A., Venkatasubramanian, S., & Vertesi, J. (2019). Fairness and abstraction in sociotechnical systems. In "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Proceedings of the conference on fairness, accountability, and transparency"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (pp. 59-68). Association for Computing Machinery."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nhwm7qvamzl",
+                  "class": "MsoListParagraphCxSpLast",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Winner, L. (1980). Do artifacts have politics? "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Daedalus"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "109"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(1), 121\u2013136. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "http://www.jstor.org/stable/20024652",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "http://www.jstor.org/stable/20024652"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "references",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "References"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfhivetr9ig",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2016, May 23). Machine bias: There\u2019s software used across the country to predict future criminals. And it\u2019s biased against blacks. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "ProPublica"
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "npywgg86sz5",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Barocas, S., & Selbst, A. D. (2016). Big data\u2019s disparate impact. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "California Law Review"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "104"
+          },
+          {
+            "type": "text",
+            "text": "(3), 671-732. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.2139/ssrn.2477899",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.2139/ssrn.2477899"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nr5ur830kdp",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Bellamy, R. K., Dey, K., Hind, M., Hoffman, S. C., Houde, S., Kannan, K., Lohia, P., Martino, J., Mehta, S., Mojsilovi\u0107, A., Nagar, S., Natesan Ramamurthy, K., Richards, J., Saha, D., Sattigeri, P., Singh, M., Varshney, K. R., & Zhang, Y. (2019). AI Fairness 360: An extensible toolkit for detecting and mitigating algorithmic bias. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "IBM Journal of Research and Development"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "63"
+          },
+          {
+            "type": "text",
+            "text": "(4/5), 4:1-4:15. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.1147/JRD.2019.2942287",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.1147/JRD.2019.2942287"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "np23tkxv4ov",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Benjamin, R. (2019). "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Race after technology: Abolitionist tools for the New Jim Code"
+          },
+          {
+            "type": "text",
+            "text": ". Polity."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0fun5w9h8p",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Blodgett, S. L., Barocas, S., Daum\u00e9 III, H., & Wallach, H. (2020). Language (technology) is power: A critical survey of \u201cbias\u201d in NLP. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "arXiv"
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.48550/arXiv.2005.14050",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.48550/arXiv.2005.14050"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmqoizjc3dm",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Brennan, K., Amba Kak, A., and West, S. M. (2025, June 3). Artificial power: 2025 landscape report. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "AI Now"
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ainowinstitute.org/2025-landscape",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://ainowinstitute.org/2025-landscape"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0j2jyl5cih",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Buolamwini, J., & Gebru, T. (2018). Gender shades: Intersectional accuracy disparities in commercial gender classification. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Proceedings of Machine Learning Research"
+          },
+          {
+            "type": "text",
+            "text": ", 81, 77-91."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "neb2tg2l953",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Crockett, M. J., Bai, X., Kapoor, S., Messeri, L., & Narayanan, A. (2023). The limitations of machine learning models for predicting scientific replicability. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Proceedings of the National Academy of Sciences"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "120"
+          },
+          {
+            "type": "text",
+            "text": "(33), e2307596120. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.1073/pnas.2307596120",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.1073/pnas.2307596120"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nit2buu0py0",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Dodge, J., Sap, M., Marasovi\u0107, A., Agnew, W., Ilharco, G., Groeneveld, D., Mitchell, M., & Gardner, M. (2021). Documenting large webtext corpora: A case study on the colossal clean crawled corpus. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "arXiv"
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.48550/arXiv.2104.08758",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.48550/arXiv.2104.08758"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9djlls3kjq",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Dougherty, C. (2015, July 1). Google Photos mistakenly labels black people \u201cgorillas.\u201d "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "New York Times"
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://archive.nytimes.com/bits.blogs.nytimes.com/2015/07/01/google-photos-mistakenly-labels-black-people-gorillas/",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://archive.nytimes.com/bits.blogs.nytimes.com/2015/07/01/google-photos-mistakenly-labels-black-people-gorillas/"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4i3evaiy3u",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Dwork, C., Hardt, M., Pitassi, T., Reingold, O., & Zemel, R. (2011). Fairness through awareness. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "arXiv"
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.48550/arXiv.1104.3913",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.48550/arXiv.1104.3913"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxsfevqlxmz",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Friedman, B., & Nissenbaum, H. (1996). Bias in computer systems. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "ACM Transactions on Information Systems (TOIS)"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "14"
+          },
+          {
+            "type": "text",
+            "text": "(3), 330-347. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.1145/230538.230561",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.1145/230538.230561"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nyxmn74zvs8",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Daum\u00e9 III, H., & Crawford, K. (2021). Datasheets for datasets. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Communications of the ACM"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "64"
+          },
+          {
+            "type": "text",
+            "text": "(12), 86-92. "
+          },
+          {
+            "type": "hard_break",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.1145/3458723",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.1145/3458723"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2htuukxgts",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Green, B., & Viljoen, S. (2020). Algorithmic realism: Expanding the boundaries of algorithmic thought. In "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency"
+          },
+          {
+            "type": "text",
+            "text": " (pp. 19-31). Association for Computing Machinery. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmi2wf6buy4",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Hampton, L. M. (2021). Black feminist musings on algorithmic oppression. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "arXiv"
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.1145/3442188.3445929",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.1145/3442188.3445929"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "najqcwd2dfv",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Hardt, M., Price, E., & Srebro, N. (2016). Equality of opportunity in supervised learning. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "arXiv. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.48550/arXiv.1610.02413",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.48550/arXiv.1610.02413"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ns3zgp72ov1",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Gonen, H., & Goldberg, Y. (2019). Lipstick on a pig: Debiasing methods cover up systematic gender biases in word embeddings but do not remove them. In J. Burstein, C. Doran, & T. Solorio (Eds.), "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies "
+          },
+          {
+            "type": "text",
+            "text": "(Vol. 1, pp. 609\u2013614). Association for Computational Linguistics."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbno3o5k15y",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Hofmann, V., Kalluri, P. R., Jurafsky, D., & King, S. (2024). AI generates covertly racist decisions about people based on their dialect. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Nature"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "633"
+          },
+          {
+            "type": "text",
+            "text": "(8028), 147-154. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.1038/s41586-024-07856-5",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.1038/s41586-024-07856-5"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1gggfks0ul",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Jacobs, A. Z., & Wallach, H. (2021). Measurement and fairness. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "arXiv"
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.48550/arXiv.1912.05511",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.48550/arXiv.1912.05511"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwfyc8a1w17",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Jain, R. K., Chiu, D. M. W., & Hawe, W. R. (1984). A quantitative measure of fairness and discrimination. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "arXiv. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.48550/arXiv.cs/9809099",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.48550/arXiv.cs/9809099"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nt7ragf1aki",
+          "class": "MsoListParagraphCxSpFirst",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Kalluri, P. (2020). Don\u2019t ask if artificial intelligence is good or fair, ask how it shifts power. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Nature"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "583"
+          },
+          {
+            "type": "text",
+            "text": "(7815), 169. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.1038/d41586-020-02003-2",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.1038/d41586-020-02003-2"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7aotf96m8k",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Kasirzadeh, A. (2022). Algorithmic fairness and structural injustice: Insights from feminist political philosophy. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "arXiv"
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.48550/arXiv.2206.00945",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.48550/arXiv.2206.00945"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n91b0618pup",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Kusner, M. J., Loftus, J., Russell, C., & Silva, R. (2017). Counterfactual fairness. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "arXiv"
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.48550/arXiv.1703.06856",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.48550/arXiv.1703.06856"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nej38nsthsd",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., Spitzer, E., Raji, I. D., & Gebru, T. (2019). Model cards for model reporting. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "arXiv"
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.48550/arXiv.1810.03993",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.48550/arXiv.1810.03993"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3l752t0os5",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Noble, S. U. (2018). "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Algorithms of oppression: How search engines reinforce racism"
+          },
+          {
+            "type": "text",
+            "text": ". New York University Press."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "no51ry32342",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Saleiro, P., Kuester, B., Hinkson, L., London, J., Stevens, A., Anisfeld, A., Rodolfa, K. T., & Ghani, R. (2018). Aequitas: A bias and fairness audit toolkit. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "arXiv. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.48550/arXiv.1811.05577",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.48550/arXiv.1811.05577"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2weo2jam0f",
+          "class": "MsoListParagraphCxSpMiddle",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Selbst, A. D., Boyd, D., Friedler, S. A., Venkatasubramanian, S., & Vertesi, J. (2019, January). Fairness and abstraction in sociotechnical systems. In "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Proceedings of the conference on fairness, accountability, and transparency"
+          },
+          {
+            "type": "text",
+            "text": " (pp. 59-68). Association for Computing Machinery."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3l2y086r1e",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Wang, A., Liu, A., Zhang, R., Kleiman, A., Kim, L., Zhao, D., Shirai, I., Narayanan, A., & Russakovsky, O. (2022). REVISE: A tool for measuring and mitigating bias in visual datasets. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "International Journal of Computer Vision"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "130"
+          },
+          {
+            "type": "text",
+            "text": "(7), 1790-1810. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.1007/s11263-022-01625-5",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.1007/s11263-022-01625-5"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkriw2kgfem",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Wexler, J., Pushkarna, M., Bolukbasi, T., Wattenberg, M., Vi\u00e9gas, F., & Wilson, J. (2019). The what-if tool: Interactive probing of machine learning models. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "IEEE Transactions on Visualization and Computer Graphics"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "26"
+          },
+          {
+            "type": "text",
+            "text": "(1), 56-65. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.1109/TVCG.2019.2934619",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.1109/TVCG.2019.2934619"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6er07ozlx2",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Winner, L. (1978). "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Autonomous technology: Technics-out-of-control as a theme in political thought"
+          },
+          {
+            "type": "text",
+            "text": ". MIT Press."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nar6y9xewo9",
+          "class": "MsoListParagraphCxSpLast",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Winner, L. (1980). Do artifacts have politics? "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Daedalus"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "109"
+          },
+          {
+            "type": "text",
+            "text": "(1), 121\u2013136. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://www.jstor.org/stable/20024652",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "http://www.jstor.org/stable/20024652"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nr82qumfsjx",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Winograd, T., & Flores, F. (1986). "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Understanding computers and cognition: A new foundation for design"
+          },
+          {
+            "type": "text",
+            "text": ". Ablex."
+          }
+        ]
+      }
+    ]
+  }
+}

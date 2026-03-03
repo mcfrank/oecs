@@ -1,0 +1,1351 @@
+{
+  "id": "60de8266-57e3-468a-910c-57af732dc728",
+  "slug": "bwt3qz7d",
+  "title": "Augmented Reality",
+  "url": "https://oecs.mit.edu/pub/bwt3qz7d",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "60de8266-57e3-468a-910c-57af732dc728",
+    "slug": "bwt3qz7d",
+    "title": "Augmented Reality",
+    "htmlTitle": "Augmented Reality",
+    "description": "",
+    "htmlDescription": "Neil McDonnell (ORCID: https://orcid.org/0000-0001-7279-5277)\nUniversity of Glasgow",
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.60de8266",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "uqtvkqyu",
+    "editHash": "g0gdf7sa",
+    "reviewHash": "iojinfpr",
+    "commentHash": "xey994lc",
+    "draftId": "1ab95e05-f5a9-426b-847f-f9835e153f56",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "b841396a-4f6f-4b83-ac7d-7d11187322de",
+    "scopeSummaryId": "a195ffc4-559e-4a3d-91db-1f173738b1c7",
+    "createdAt": "2025-07-07T16:48:54.349Z",
+    "updatedAt": "2025-07-23T19:25:30.455Z",
+    "attributions": [
+      {
+        "id": "09264553-f4b9-4bba-8b7a-cbf778452c21",
+        "name": "Adrian Alsmith",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "King's College London",
+        "orcid": "0000-0002-1557-4133",
+        "userId": null,
+        "pubId": "60de8266-57e3-468a-910c-57af732dc728",
+        "createdAt": "2025-07-09T21:23:50.755Z",
+        "updatedAt": "2025-07-09T21:24:12.674Z",
+        "user": null
+      },
+      {
+        "id": "b5a6154c-261f-4eb0-8ec0-9abe602bb64c",
+        "name": "Neil McDonnell",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of Glasgow",
+        "orcid": "0000-0001-7279-5277",
+        "userId": null,
+        "pubId": "60de8266-57e3-468a-910c-57af732dc728",
+        "createdAt": "2025-07-07T16:55:14.535Z",
+        "updatedAt": "2025-07-07T16:55:35.983Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "1ab95e05-f5a9-426b-847f-f9835e153f56",
+      "latestKeyAt": "2025-07-18T16:58:51.148Z",
+      "firebasePath": "drafts/draft-1ab95e05-f5a9-426b-847f-f9835e153f56",
+      "createdAt": "2025-07-07T16:48:54.330Z",
+      "updatedAt": "2025-07-23T19:25:05.882Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbgyeha05nu",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Augmented reality (AR) is a technology that provides perceptual experiences that blend the user\u2019s real-world context with computer-generated virtual elements to form a unified scene. AR experiences situate the virtual in relation to the real world and then dynamically track changes in perspective to sustain the illusion that the virtual elements are \u201cout there\u201d in the world. AR is primarily a visual technology, but like the related technology of virtual reality (VR), spatial audio and haptic elements can be incorporated. The impact of AR experiences on users, especially on cognitive load and education, is a growing area of study in cognitive science."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "npvx36fnlpd",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The origins of AR overlap with that of VR: in the lab of Ivan Sutherland in Utah in 1968 ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nalnwcvf3ev",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n98y1faoi3f\" data-reactroot=\"\">Lanier, J. (2017).\u00a0<em>Dawn of the new everything: Encounters with reality and virtual reality.</em>\u00a0Henry Holt and Company.</p>",
+              "customLabel": "Lanier, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The first prototypes overlaid computer graphics selectively on top of the user\u2019s field of view to create a jointly real and virtual visual experience. The major challenge of AR is matching the virtual elements to the real-world context in such a way that it looks like they belong together, and it takes some element of computer vision ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfps3b9ybqt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n82lnzcspa0\" data-reactroot=\"\">Hoff, W. A., Nguyen, K., &amp; Lyon, T. (1996). Computer-vision-based registration techniques for augmented reality. Proceedings of SPIE 2904, <em>Intelligent Robots and Computer Vision XV: Algorithms, Techniques, Active Vision, and Materials Handling</em>.\u00a0<a href=\"https://doi.org/10.1117/12.256311\" title=\"\">https://doi.org/10.1117/12.256311</a></p>",
+              "customLabel": "Hoff et al., 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")\u2014via a camera attached to a computing device\u2014to retain that match as the world changes around the user or as the user changes their perspective on the world. The advent of smartphones in the late 2000s created the opportunity for widespread, consumer-facing AR."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ndew1qrhjua",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "There exists a wide disparity in the function and efficacy of different technologies that are labeled as AR and inconsistencies in the terminology used to refer to different variants. In general, it matters most how the device senses its relation to the world (tracking), how it represents the virtual elements (rendering), and what kind of display technology is used."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "tracking",
+          "id": "tracking",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Tracking"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "noqlnndphr2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Consumer AR deployments in the early 2010s used a detection "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "trigger"
+          },
+          {
+            "type": "text",
+            "text": " image\u2014initially a QR code, later any image with distinctive contrast\u2014to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "track"
+          },
+          {
+            "type": "text",
+            "text": " the relative position of the real-world "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "target"
+          },
+          {
+            "type": "text",
+            "text": " area or object to the camera. Later, SLAM ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "simultaneous localization and mapping"
+          },
+          {
+            "type": "text",
+            "text": ") technologies dispensed with the need for trigger images and instead tracked general context features such as the horizontal surfaces of tables or the ground. The Pok\u00e9mon Go smartphone game became a worldwide phenomenon in 2016 using this technology, and since then, both Apple and Google have embedded AR engines (called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "AR Kit"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "AR Core"
+          },
+          {
+            "type": "text",
+            "text": ", respectively) into their iOS and Android operating systems to make development and distribution of AR experiences easier."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "rendering",
+          "id": "rendering",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Rendering"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nq8p4q4n1w0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Tracking information, from a trigger or from SLAM, is used to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "render"
+          },
+          {
+            "type": "text",
+            "text": " the appropriate point of view of a three-dimensional model and overlay this on the camera feed that the user sees. These calculations are undertaken by the graphics processor within the device and crucially require "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "games/physics"
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "engine"
+          },
+          {
+            "type": "text",
+            "text": " software (e.g., Unity) to generate 30 to 60 frames of animation per second to sustain the AR illusion whilst the camera or target are in motion."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "display-ar-versus-mr",
+          "id": "display-ar-versus-mr",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Display: Augmented versus mixed reality"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nm10d31q1ns",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Most AR deployments mediate all of the user\u2019s AR experience\u2014the virtual and the real\u2014via a screen. This is also the approach taken by recent Meta Quest headsets (Quest Pro and Quest 3 are especially capable versions) and the Apple Vision Pro device. In the current nomenclature, this is usually referred to as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "mixed reality"
+          },
+          {
+            "type": "text",
+            "text": ". Apple refer to theirs as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "spatial computing"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5wwmku7kmg",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In contrast, the approach taken by Microsoft with its HoloLens (2016) and by the rival Magic Leap One (2018) was to use transparent lenses that allowed the user to see the real world naturally and only project the virtual elements. This relatively unmediated version of the technology was initially branded mixed reality by Microsoft but has since become more commonly referred to as (true) AR."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxpyveosj6l",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The trajectory of the technology is towards (true) AR, but the devices to date have not become commercially viable. The technical challenges are considerable, relating primarily to optics (field of view, brightness of image) and secondarily to the size, weight, heat output, and cost of devices. Mixed reality via a screen represents a more achievable interim step and is the most common form of AR today, with an estimated 1.4 billion AR devices of varying levels of sophistication in the world today ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.statista.com/statistics/1098630/global-mobile-augmented-reality-ar-users/",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Statista"
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nzrytpjsvqo",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The impact of AR on learning outcomes has been studied for almost three decades ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9bejzs58ex",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njp9ooy8uub\" data-reactroot=\"\">Garz\u00f3n, J. (2021). An overview of twenty-five years of augmented reality in education.\u00a0<em>Multimodal Technologies and Interaction</em>,\u00a0<em>5</em>(7), 37. <a href=\"https://doi.org/10.3390/mti5070037\">https://doi.org/10.3390/mti5070037</a> </p>",
+              "customLabel": "Garz\u00f3n, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and remains a prominent and growing topic ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvvhz4qqi5z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6qkgdztcci\" data-reactroot=\"\">Avila-Garzon, C., Bacca-Acosta, J., Kinshuk, Duarte, J., &amp; Betancourt, J. (2021). Augmented reality in education: An overview of twenty-five years of research.\u00a0<em>Contemporary Educational Technology</em>,<em> 13</em>(3), ep302.\u00a0<a href=\"https://doi.org/10.30935/cedtech/10865\" title=\"\">https://doi.org/10.30935/cedtech/10865</a></p>",
+              "customLabel": "Avila-Garzon et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Areas of particular concern to cognitive scientists include spatial judgement ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0do2p4i2fh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxql58h2zf6\" data-reactroot=\"\">Shelton, B. E., &amp; Hedley, N. R. (2004). Exploring a cognitive basis for learning spatial relationships with augmented reality.\u00a0<em>Technology, Instruction, Cognition and Learning</em>,\u00a0<em>1</em>(4), 323.</p>",
+              "customLabel": "Shelton & Hedley, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), information retention ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0k3s82q0w5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ns69v1q4kte\" data-reactroot=\"\">Huang, K. T., Ball, C., Francis, J., Ratan, R., Boumis, J., &amp; Fordham, J. (2019). Augmented versus virtual reality in education: An exploratory study examining science knowledge retention when using augmented reality/virtual reality mobile applications.\u00a0<em>Cyberpsychology, Behavior, and Social Networking</em>,\u00a0<em>22</em>(2), 105-110. <a href=\"https://doi.org/10.1089/cyber.2018.0150\">https://doi.org/10.1089/cyber.2018.0150</a> </p>",
+              "customLabel": "Huang et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and in embodied approaches to learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzthlwsjpnp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2dul5ie1tl\" data-reactroot=\"\">Abrahamson, D. (2014). Building educational activities for understanding: An elaboration on the embodied-design framework and its epistemic grounds.\u00a0<em>International Journal of Child-Computer Interaction</em>,<em> 2</em>(1), 1\u201316.\u00a0<a href=\"https://doi.org/10.1016/j.ijcci.2014.07.002\" title=\"\">https://doi.org/10.1016/j.ijcci.2014.07.002</a></p>",
+              "customLabel": "Abrahamson, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2vg912olq1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In both educational and industrial applications of AR, the topic of cognitive load (within cognitive load theory) is ubiquitous. Understanding the load experienced by users across different devices, tasks, and applications is vital to understanding the net impact of such adoption ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntdrnqusjed",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"no221lq6t3b\" data-reactroot=\"\">Buchner, J., Buntins, K., &amp; Kerres, M. (2021). A systematic map of research characteristics in studies on augmented reality and cognitive load.\u00a0<em>Computers and Education Open</em>,<em> 2</em>, 100036.\u00a0<a href=\"https://doi.org/10.1016/j.caeo.2021.100036\" title=\"\">https://doi.org/10.1016/j.caeo.2021.100036</a></p>",
+              "customLabel": "Buchner et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). How load is measured and the different types of load (intrinsic, extrinsic, germane) remain challenges in the literature ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "noe099x49e9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"na77f06mylp\" data-reactroot=\"\">Buchner,\u00a0J.,\u00a0Buntins,\u00a0K., &amp;\u00a0Kerres,\u00a0M.\u00a0(2022).\u00a0The impact of augmented reality on cognitive load and performance: A systematic review.\u00a0<em>Journal of Computer Assisted Learning</em>,\u00a038(1),\u00a0285\u2013303.\u00a0<a href=\"https://doi.org/10.1111/jcal.12617\">https://doi.org/10.1111/jcal.12617</a> </p>",
+              "customLabel": "Buchner et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqzt38x0gr9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Clinical applications of AR are also being studied ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n79snhn0zhk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsa8av34xga\" data-reactroot=\"\">Vinci, C., Brandon, K. O., Kleinjan, M., &amp; Brandon, T. H. (2020). The clinical potential of augmented reality.\u00a0<em>Clinical Psychology: Science and Practice</em>,\u00a0<em>27</em>(3), e12357. <a href=\"https://doi.org/10.1111/cpsp.12357\" title=\"\">https://doi.org/10.1111/cpsp.12357</a></p>",
+              "customLabel": "Vinci et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), in particular, the role of AR in exposure-based therapies ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no37cg5nq0l",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njvq12xxpmh\" data-reactroot=\"\">Riva, G., Ba\u00f1os, R. M., Botella, C., Mantovani, F., &amp; Gaggioli, A. (2016). Transforming experience: The potential of augmented reality and virtual reality for enhancing personal and clinical change. <em>Frontiers in Psychiatry</em>, <em>7</em>, 164. <a href=\"https://doi.org/10.3389/fpsyt.2016.00164\">https://doi.org/10.3389/fpsyt.2016.00164</a> </p>",
+              "customLabel": "Riva et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nk4sv1pmeq2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "As with the concept of VR before it ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4ru6dnn8r9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhz5bhikqfz\" data-reactroot=\"\">Savickaite, S., McDonnell, N., &amp; Simmons, D. (2022). Defining virtual reality (VR). Scoping literature review on VR applications in autism research. <em>PsyArXiv Preprints</em>. <a href=\"https://doi.org/10.31234/osf.io/p3nh6\" title=\"\">https://doi.org/10.31234/osf.io/p3nh6</a></p>",
+              "customLabel": "Savickaite et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), the lack of consensus regarding what counts as AR makes for inconsistent nomenclature across studies. This observation in turn makes literature reviews challenging and headline claims about AR ambiguous across significantly different technological approaches: mobile, wearable via screens, and wearable via transparent lenses."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nlz7p8wn24c",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Within cognitive science, there are clear connections with the broader topics of cognitive load ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntxm3bp7a9q",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfph9qaoi7q\" data-reactroot=\"\">Sweller, J., van Merri\u00ebnboer, J. J. G., &amp; Paas, F. (2019). Cognitive architecture and instructional design: 20\u00a0years later.\u00a0<em>Educational Psychology Review</em>,\u00a0<em>31</em>, 261\u2013292. <a href=\"https://doi.org/10.1007/s10648-019-09465-5\" title=\"\">https://doi.org/10.1007/s10648-019-09465-5</a></p>",
+              "customLabel": "Sweller et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), education and learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "neu173ddklx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8waagou4fx\" data-reactroot=\"\">Poupard,\u00a0M.,\u00a0Larrue,\u00a0F.,\u00a0Sauz\u00e9on,\u00a0H., &amp;\u00a0Tricot,\u00a0A.\u00a0(2024).\u00a0A systematic review of immersive technologies for education: Learning performance, cognitive load and intrinsic motivation.\u00a0<em>British Journal of Educational Technology</em>,\u00a0<em>56</em>(1),\u00a05\u201341.\u00a0<a href=\"https://doi.org/10.1111/bjet.13503\" title=\"\">https://doi.org/10.1111/bjet.13503</a></p>",
+              "customLabel": "Poupard et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n895y6pt39m",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvr8ah3i7m5\" data-reactroot=\"\">Quintero J., Baldiris S., Rubira R., Cer\u00f3n J., &amp; Velez, G. (2019). Augmented reality in educational inclusion. A systematic review on the last decade.\u00a0<em>Frontiers in Psychology</em>,\u00a0<em>10</em>, 1835. <a href=\"https://doi.org/10.3389/fpsyg.2019.01835\">https://doi.org/10.3389/fpsyg.2019.01835</a>  </p>",
+              "customLabel": "Quintero et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), exposure therapy ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n25daq9d3ce",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5hgu76lnyw\" data-reactroot=\"\">Wechsler, T. F., K\u00fcmpers, F., &amp; M\u00fchlberger, A. (2019). Inferiority or even superiority of virtual reality exposure therapy in phobias? A systematic review and quantitative meta-analysis on randomized controlled trials specifically comparing the efficacy of virtual reality exposure to gold standard in vivo exposure in agoraphobia, specific phobia, and social phobia.\u00a0<em>Frontiers in Psychology</em>,<em> 10</em>, 1758.\u00a0<a href=\"https://doi.org/10.3389/fpsyg.2019.01758\" title=\"\">https://doi.org/10.3389/fpsyg.2019.01758</a></p>",
+              "customLabel": "Wechsler et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and vision ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nve86cc0wrh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n173t8btqsu\" data-reactroot=\"\">Scarfe, P., &amp; Glennerster, A. (2015). Using high-fidelity virtual reality to study perception in freely moving observers.\u00a0<em>Journal of Vision</em>,<em> 15</em>(9), 3.\u00a0<a href=\"https://doi.org/10.1167/15.9.3\" title=\"\">https://doi.org/10.1167/15.9.3</a></p>",
+              "customLabel": "Scarfe & Glennerster, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Virtual content is often characterized as illusory [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/2vci5sg1",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Virtual Reality"
+          },
+          {
+            "type": "text",
+            "text": "]. However, it is a controversial matter within philosophy whether the virtual content in AR (and VR) experiences are genuinely real and thus whether or not we should think of such overall experiences as genuinely illusory (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrew73ostsu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nddbg7oxs9x\" data-reactroot=\"\">Chalmers, D. J. (2017). The virtual and the real.\u00a0<em>Disputatio</em>,\u00a0<em>9</em>(46), 309-352. <a href=\"https://doi.org/10.1515/disp-2017-0009\">https://doi.org/10.1515/disp-2017-0009</a> </p>",
+              "customLabel": "Chalmers, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This question has potential ramifications in the law, especially as it regards to the apparent theft of virtual objects ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkpr3diuuti",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"niy48gcttbc\" data-reactroot=\"\">Wildman, N., &amp; McDonnell, N. (2020). The puzzle of virtual theft.\u00a0<em>Analysis</em>,<em> 80</em>(3), 493\u2013499.\u00a0<a href=\"https://doi.org/10.1093/analys/anaa005\" title=\"\">https://doi.org/10.1093/analys/anaa005</a></p>",
+              "customLabel": "Wildman & McDonnell, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhlclclp410",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "On a practical level, access to high-end AR technology is not ubiquitous, and the cost and other technical barriers limit the scope of work. There are specific considerations around access to AR technology in education, including the need for inclusive design to cater to learners with diverse abilities, such as those with sensory impairments or neurodivergence, and the imperative to address equality issues arising from affordability to prevent disparities in educational opportunities ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw5fp95al4r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0bkh9fu5e0\" data-reactroot=\"\">McDonnell, N., Hirsu, L., Rodolico, G., Savickaite,S. Latkovskis, I., &amp; Chaproniere, L. (2024). XRED: Preparing for immersive education. University of Glasgow. <a href=\"https://www.gla.ac.uk/media/Media_1030423_smxx.pdf\" title=\"\">https://www.gla.ac.uk/media/Media_1030423_smxx.pdf</a></p>",
+              "customLabel": "McDonnell et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Sophisticated AR devices and the exciting use cases that they promise require sophisticated camera arrays and sensors to understand their environment and, in the case of head-worn devices, to understand the user via eye tracking, retina sensing, and more. These technical issues raise significant privacy and data security questions around AR technology for researchers and policy makers ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlt4zbqy5fk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npo3bcvr13m\" data-reactroot=\"\">Colburn, B., Macpherson, F., Brown, D., Fearnley, L., &amp; McDonnell, N. (2024). Policy and practice recommendations for augmented and mixed reality. University of Glasgow. <a href=\"https://www.gla.ac.uk/media/Media_1074026_smxx.pdf\" title=\"\">https://www.gla.ac.uk/media/Media_1074026_smxx.pdf</a></p>",
+              "customLabel": "Colburn et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nroij14elmw",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nhzv7zvttys",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Lanier, J. (2017).\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Dawn of the new everything: Encounters with reality and virtual reality"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Henry Holt and Company."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "npl87cs8q2k",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Queiroz, A., Bailenson, J., Blair, K., Schwartz, D., Thille, C., & Wagner, A. (2024).\u00a0Extended realities and the future of knowledge work: Opportunities and challenges.\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Proceedings of the 31st IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 662-666. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1109/VRW62533.2024.00130",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1109/VRW62533.2024.00130"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "ndoyi4dtmkd",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Scoble, R., & Israel, S. (2016).\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The fourth transformation: How augmented reality and artificial intelligence change everything"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Patrick Brewster Press.\u00a0"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

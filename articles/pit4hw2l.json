@@ -1,0 +1,1681 @@
+{
+  "id": "5ff2bcd7-4a6f-4643-851c-b44bdf11a9cd",
+  "slug": "pit4hw2l",
+  "title": "Conceptual Analysis",
+  "url": "https://oecs.mit.edu/pub/pit4hw2l",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "5ff2bcd7-4a6f-4643-851c-b44bdf11a9cd",
+    "slug": "pit4hw2l",
+    "title": "Conceptual Analysis",
+    "htmlTitle": "Conceptual Analysis",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.5ff2bcd7",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "xkt8mbhv",
+    "editHash": "04oibxho",
+    "reviewHash": "18lqu02o",
+    "commentHash": "03fku9l9",
+    "draftId": "8935ea24-56bb-42c7-9b96-6d57f9f99c3c",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "3b05698f-b0ab-49d3-9287-5fb6357b0268",
+    "scopeSummaryId": "4f75477a-0315-43c7-8947-8d1ca2cae072",
+    "createdAt": "2024-06-14T13:56:32.343Z",
+    "updatedAt": "2024-07-24T12:25:14.567Z",
+    "attributions": [
+      {
+        "id": "c45efe33-0c85-458c-9f0d-6a96a27b18d3",
+        "name": "Frank Jackson",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "The Australian National University",
+        "orcid": "0000-0003-2310-9132",
+        "userId": null,
+        "pubId": "5ff2bcd7-4a6f-4643-851c-b44bdf11a9cd",
+        "createdAt": "2024-06-14T13:57:07.799Z",
+        "updatedAt": "2024-06-14T13:57:21.685Z",
+        "user": null
+      },
+      {
+        "id": "4cb2d64f-9442-4729-9282-4d5318e192e3",
+        "name": "Colin Klein",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "The Australian National University",
+        "orcid": "0000-0002-7406-4010",
+        "userId": null,
+        "pubId": "5ff2bcd7-4a6f-4643-851c-b44bdf11a9cd",
+        "createdAt": "2024-07-23T21:11:06.622Z",
+        "updatedAt": "2024-07-23T21:11:26.887Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "8935ea24-56bb-42c7-9b96-6d57f9f99c3c",
+      "latestKeyAt": "2024-07-23T10:59:37.049Z",
+      "firebasePath": "drafts/draft-8935ea24-56bb-42c7-9b96-6d57f9f99c3c",
+      "createdAt": "2024-06-14T13:56:32.339Z",
+      "updatedAt": "2025-07-08T17:37:33.655Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nu8ebvtcwxh",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Conceptual analysis is concerned with clarifying concepts in the sense of illuminating what it takes to fall under a concept. Thus, when political theorists offer accounts of what it takes to be a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "democracy"
+          },
+          {
+            "type": "text",
+            "text": ", and statisticians offer accounts of what it takes to be a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "random sequence"
+          },
+          {
+            "type": "text",
+            "text": ", they are doing conceptual analysis. And when we were told in high school physics classes that what it takes for a body to move is for it to occupy different places at different times, we were being offered a conceptual analysis of motion. Sometimes analyses are framed in ordinary language; sometimes they are framed using one or another technical vocabulary, perhaps supplemented with terms drawn from ordinary language. Often, the analyses are intended to capture an existing concept, but sometimes they are offered as stipulations designed to progress theoretical inquiry. There is controversy over the importance of conceptual analyses, exactly what role they play in scholarly inquiry, and over how to validate them.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njalrv5inkq",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The history of conceptual analysis is part and parcel of the history of theoretical inquiry. In the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Republic,"
+          },
+          {
+            "type": "text",
+            "text": " Plato (428-7 BCE to 348-7 BCE) asks, \u201cWhat is justice?\u201d He did this because he saw that one cannot advance views about the desirability of justice in the absence of a view about what it takes to be just. In "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Discourse on Method"
+          },
+          {
+            "type": "text",
+            "text": ", Descartes (1596 to 1650) asks, \u201cWhat does it take to be a thinker?\u201d He did this because he saw that one cannot discuss whether or not machines and nonhuman animals think in the absence of a view on what it takes to be a thinker. Recent discussions of AI remind us of the importance of asking the \u201cwhat it takes\u201d question.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nseyw7jsg0h",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Similar remarks apply to the rise of modern mathematics. Georg Cantor (1845 to 1918) offered an analysis of what it takes for two sets to be the same size in terms of one-to-one correspondence between their members ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nitp6gpdxkh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"newiu3mk6gd\" data-reactroot=\"\">Boolos, G., Burgess J., and Jeffrey, R.C. (2007). <em>Computability and logic</em>. 5th Ed. Cambridge University Press.</p>",
+              "customLabel": "Boolos et al., 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 16ff). Without this analysis, we could not show that the set of real numbers is bigger than the set of natural numbers. Much the same can be said for the epsilon-delta account of a limit ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmazwp9qvv8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvd5wphcvta\" data-reactroot=\"\">Larson, R. E., Hostetler, R. P., &amp; Edwards, B. H. (1994). <em>Calculus with analytic geometry</em> (5th ed.). D.C Heath and Company.</p>",
+              "customLabel": "Larson et al., 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 66). We need this analysis in order to prove theorems about which functions have which limits, and to do so rigorously."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nd4tixda9fp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "What has changed with the passage of time is not the prevalence and importance of conceptual analysis but rather the extent to which we theorists are consciously aware that this is what we are doing, the extent to which we use various technical tools to express some analysis or other, the extent to which we acknowledge variations in concepts between individuals and groups of individuals, and the extent to which we see ourselves as putting forward new concepts to serve one or another purpose versus articulating existing concepts.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "prescription-folk-concepts-indeterminacy",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Prescription, folk concepts, indeterminacy"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqc695ld3b6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Does the atomic theory of matter\u2014the theory according to which, for example, I and the chair I am sitting on are lattice-like arrays of widely separated particles held in place by internal forces\u2014show that the chair I am sitting on is not solid? In order to answer this question, one needs an account of what it takes to be solid. There are, however, two competing analyses of being solid: one that requires, as a necessary condition, filling every part of space within its bounds, versus one that analyzes solidity in terms of resisting intrusion and deformation. If the first is correct, the atomic theory of matter shows that the chair is not solid (and nor is my body). If the second is correct, the atomic theory does not show that the chair is not solid; the relevant internal forces are sufficient to stop my body falling through the chair ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nif1gkz7xfl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nc181tbuk0k\" data-reactroot=\"\">Eddington, A. S. (1948). <em>The nature of the physical world</em>. Cambridge University Press.</p>",
+              "customLabel": "Eddington, 1948",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). It is hard to think that there is a deep puzzle here. Prior to the arrival of the atomic theory of matter, it is plausible that our ordinary concept of being solid was indeterminate as between the two conceptions of solidity because it had not occurred to us that objects that resist intrusion and deformation might be radically \u201cgappy.\u201d The atomic theory was a surprise. After the arrival of the atomic theory, the sensible response was to note the indeterminacy in the existing concept of being solid and to resolve it in favor of the conception in terms of resisting deformation and intrusion; this way, we allow chairs and tables and the foundations of our houses to be solid despite their \u201cgappiness.\u201d\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nllfuhnczyz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "It is plausible that a similar attitude makes sense when we enter the debate over whether or not one or another manifestation of AI is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "really"
+          },
+          {
+            "type": "text",
+            "text": " a case of intelligence. We can hardly enter that debate without a view about what it takes to be intelligent\u2014the concept of intelligence\u2014but plausibly any view we have leaves some matters open. That is, the concept of intelligence is to that extent indeterminate. We are then in a position to resolve the indeterminacy in the light of future developments in AI.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9atetq4c45",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The examples of solidity and intelligence are ones in which we have pre-existing, shared concepts\u2014"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "folk concepts"
+          },
+          {
+            "type": "text",
+            "text": ", as they are called [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/j39m4jos",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Concepts"
+          },
+          {
+            "type": "text",
+            "text": "]. But not all examples of conceptual analysis are analyses of pre-existing concepts. Cantor was not offering an explication of the pre-existing concept of two sets being the same size; he was offering a new concept that allows us to make sense of infinite sets differing in size. He was, that is, doing some prescribing in the service of advancing set theory. The same goes for many concepts that make their appearance in one or another science as it emerges and develops. For example, the rise of economics was accompanied by the introduction of new concepts to do the needed predictive and explanatory work: fiscal drag, opportunity cost, inflation, etc.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "thought-experiments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Thought experiments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncqwl1em9s9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Among the folk concepts are ones that play important roles in one or another established area of inquiry. An example is the concept of knowledge in epistemology. A natural thought is that we can analyze knowledge in terms of true, justified belief ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwiqu2d603f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ncwttj1kpay\" data-reactroot=\"\">Ayer, A. J. (1956). <em>The problem of knowledge</em>. Macmillan.</p>",
+              "customLabel": "Ayer, 1956",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This is a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "reductive analysis"
+          },
+          {
+            "type": "text",
+            "text": " in the sense that it is an account of what it takes to be knowledge in terms more basic than knowledge itself. It is also an example of an analysis that faces serious challenges from a range of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "thought experiments"
+          },
+          {
+            "type": "text",
+            "text": "\u2014imagined cases that are, intuitively, cases of true justified belief but are not cases of knowledge ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n196cyf5q3x",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv01x983ik1\" data-reactroot=\"\">Gettier, E. (1963). Is justified true belief knowledge? <em>Analysis,</em> <em>23</em>(6), 121\u2013123. <a href=\"https://doi.org/10.1093/analys/23.6.121\" target=\"_blank\">https://doi.org/10.1093/analys/23.6.121</a></p>",
+              "customLabel": "Gettier, 1963",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Here is one: I glance at a railway station clock and see that it says "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "12 noon"
+          },
+          {
+            "type": "text",
+            "text": ". I know I am in a country famous for the reliability of its station clocks and so believe it is 12 noon. It is in fact 12 noon. My belief that it is 12 noon is, thus, a true justified one. However, unknown to me, the clock broke down yesterday at 12 noon and has not been repaired since. It seems clear that I do not know that it is 12 noon.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1yk54sl8ah",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "How should we respond to this thought experiment? One option is to deny its relevance to the proffered analysis of knowledge. This is hard to believe. As we observed, the concept of knowledge is a folk concept. We have to take seriously our intuitive responses to imagined cases; it is our concept, after all. A second option is to seek a replacement for the justified true belief analysis. It is a matter of record ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh6uwzve8yk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsyetch02xd\" data-reactroot=\"\">Shope, R. K. (1983). <em>The analysis of knowing</em>. Princeton University Press.</p>",
+              "customLabel": "Shope, 1983",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") that finding a good replacement has proved to be very challenging. Each proposal has been vulnerable to one or another counterexample in the sense that, for each offering, there is at least one thought experiment in which, intuitively, we have knowledge but the offered analysis isn\u2019t satisfied, or else we don\u2019t have knowledge but the offered analysis is satisfied (what happens in the station clock example). A third option is to urge that not all concepts are analyzable, and to hold that knowledge is an example of such a concept.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqz6x8vqt37",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The case of knowledge is not an isolated one. Conceptual analyses of folk concepts are typically subjected to a kind of trial by intuitions about thought experiments. Here is another example: Some glasses are brittle. What does it take for a glass to be brittle? A natural thought is that it is a matter of the glass being such that if it were dropped, it would break easily. But encasing a glass in cotton wool doesn\u2019t stop it from being brittle; indeed, it may explain why the glass is encased in cotton wool. The glass being encased in cotton wool does, however, stop it being the case that were the glass dropped, it would break.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbjtm025fi7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Much of the history of conceptual analyses of folk concepts is the history of contests between those offering one or another analysis of a folk concept and those making trouble for the offered analysis by describing a counterexample\u2014a thought experiment where, intuitively, we have an instance of the concept, but what is offered does not obtain, or what is offered obtains, but we do not have an instance of the concept."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "the-role-of-conceptual-analysis-in-theoretical-controversies",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The role of conceptual analysis in theoretical controversies"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nnn2no1qnm7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Many philosophers of mind and cognitive scientists are materialists. Materialism takes many forms, but a popular version holds that mental states are identical with brain states. One way to argue for this view (see, e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfqsecjogz6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nap7coqzv0c\" data-reactroot=\"\">Armstrong, D. M. (1968). <em>A materialist theory of mind</em>. Routledge.</p>",
+              "customLabel": "Armstrong, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") goes via a conceptual analysis of mental states in causal-functional terms. Beliefs, for example, are analyzed as states that respond to how things are around us in ways that carry information about them. Pains are responses to bodily damage that cause behavior that minimizes the extent of the damage.\u00a0These conceptual analyses\u2014refined, modified, made more precise in one or another way, etc.\u2014then allow a simple argument for the thesis that mental states are brain states. Given that we have analyzed mental states in terms of the roles they play, it will turn out\u00a0(runs the argument) that the states that play these roles are one or another state of the brain.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nyu1dpz6lop",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Here is another example. Is free will compatible with determinism? A natural thought is that it isn\u2019t. How could my actions be free if they are determined by how things are before I act? But a rigorous discussion of this issue requires that we do some conceptual analysis. After all, in order to answer whether or not being an even number is compatible with being a prime number, one needs to know what it takes to be an even number and what it takes to be a prime number. Only that way can one know that the answer is yes. The same, plausibly, goes for the question of the compatibility of being free with being determined ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4w5eem0ntl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk8506bjp4g\" data-reactroot=\"\">Frankfurt, H. (1969). Alternate possibilities and moral responsibility. <em>The Journal of Philosophy,</em> <em>66</em>(23), 829\u2013839. <a href=\"https://doi.org/10.2307/2023833\" target=\"_blank\">https://doi.org/10.2307/2023833</a></p>",
+              "customLabel": "Frankfurt, 1969",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). It is no surprise then that the history of the debate over the compatibility of free will and determinism is in large part the history of how best to analyze what it is to act freely."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nnoj1e4vir4",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Final example. We favor those who are close to us\u2014our family and friends and the community we belong to\u2014ahead of the world at large in all sorts of ways. Charity begins at home, blood is thicker than water, and all that. There is an evolutionary explanation of this fact: preferring those who are close to us enhanced our chances of survival once we formed mutually supportive groups. Does the fact that there is an explanation of this kind mean that there is no "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "moral"
+          },
+          {
+            "type": "text",
+            "text": " justification, or perhaps no objective moral justification, for favoring those who are close to us? A rigorous discussion of this question requires attention to what it takes to be morally right and what it takes to be objective ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny6qp9o2rl2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"neyllpjdvq3\" data-reactroot=\"\">Sterelny, K., &amp; Fraser, B. (2016). Evolution and moral realism. <em>The British Journal for the Philosophy of Science,</em> <em>68</em>(4), 981\u20131006. <a href=\"https://doi.org/10.1093/bjps/axv060\" target=\"_blank\">https://doi.org/10.1093/bjps/axv060</a></p>",
+              "customLabel": "Sterelny & Fraser, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "whose-intuitions",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Whose intuitions?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nd8us5dm24c",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "We noted earlier the role of thought experiments\u2014intuitions about imagined cases\u2014in assessing analyses of folk concepts. But whose intuitions should we attend to? Traditionally, philosophers have drawn on their own intuitions about this or that thought experiment, perhaps moderated by discussions with colleagues. But we are talking about folk concepts, not just those of philosophers. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Experimental philosophers"
+          },
+          {
+            "type": "text",
+            "text": " (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ng6k3sq2bb8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nc0gkw1t5z6\" data-reactroot=\"\">Knobe, J., &amp; Nichols, S. (Eds.). (2008). <em>Experimental philosophy</em>. Oxford University Press. <a href=\"https://doi.org/10.1093/oso/9780195323252.001.0001\" target=\"_blank\">https://doi.org/10.1093/oso/9780195323252.001.0001</a></p>",
+              "customLabel": "Knobe & Nichols, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") respond to this point by insisting that we should conduct surveys to ascertain the intuitions of the folk in general about one or another thought experiment and argue that when we do, the results are not always in agreement with the intuitions of philosophers.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxu8mdv2z9a",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cross-cultural empirical work has also suggested that there are systematic cross-cultural differences in philosophical intuitions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwc3izkfskk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2rwyl6nos4\" data-reactroot=\"\">Henrich, J. (2020). <em>The WEIRDest people in the world: How the West became psychologically peculiar and particularly prosperous</em>. Farrar, Straus and Giroux.</p>",
+              "customLabel": "Henrich, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and, thus, in concepts and the mapping of language to categories ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2wqjqi8ajh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwranhbpa6g\" data-reactroot=\"\">Malt, B. C., &amp; Majid, A. (2013). How thought is mapped into words. <em>Wiley Interdisciplinary Reviews: Cognitive Science,</em> <em>4</em>, 583\u2013597. <a href=\"https://doi.org/10.1002/wcs.1251\" target=\"_blank\">https://doi.org/10.1002/wcs.1251</a></p>",
+              "customLabel": "Malt & Majid, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "conceptual-engineering",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Conceptual engineering"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwcxcnq5zcw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Is one a prime number? Many folk say yes, and the matter was left unresolved by mathematicians for some years. The question is now settled in the negative. One is not a prime number. This was a decision by mathematicians in order to ensure that each positive integer greater than one has a unique factorization. We can think of this as a bit of what is called conceptual engineering. Likewise, Cantor was doing some conceptual engineering when he gave us the one-to-one correspondence analysis of what it takes for two sets to be the same size. He was not seeking fidelity to an existing concept; he was offering the right concept for a certain job. Above, we noted the role of prescribing in resolving indeterminacy, such as in what it takes to be solid. Prescribing is a form of conceptual engineering.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxeuc4bzrr2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Recent work in conceptual analysis has highlighted the importance of conceptual engineering. The guiding thought is that what matters most is the best way of categorizing a subject matter, be that subject matter numbers, sets, physical properties of matter, mental states, human actions, brain states, economies, etc., and not fidelity to an existing way of categorizing that subject matter. Finally, some authors have argued that conceptual engineering is just one of many ways in which individuals engage in forms of conceptual exploration ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n68im9bbtvt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nagrfu6nzkp\" data-reactroot=\"\">Rudolph, R. E. (2021). Conceptual exploration. <em>Inquiry</em>, 1\u201326. <a href=\"https://doi.org/10.1080/0020174X.2021.2002053\" target=\"_blank\">https://doi.org/10.1080/0020174X.2021.2002053</a></p>",
+              "customLabel": "Rudolph, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "words-and-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Words and concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nz7uqiu09yz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "There are a number of ways to specify a prime number: for example, as a natural number greater than one that is exactly divisible by itself and one alone or as a natural number exactly divisible by two numbers. Likewise, there are different ways to pick out the number two: for example, as the smallest even number or as the smallest prime number.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nq4w0wcacfj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Should we think of these different ways as different ways of expressing in words the one concept, or should we think of the different wordings as corresponding to different concepts? Some insist that being the smallest prime and being the smallest even number are one and the same concept captured in different words; others insist that we have two different concepts that apply (of necessity and a priori) to one and same number."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvwlu7z4pku",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The concept of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "representation"
+          },
+          {
+            "type": "text",
+            "text": " plays a huge role in cognitive science [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/x0sk7df7",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Mental Representation"
+          },
+          {
+            "type": "text",
+            "text": "] ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh3l0sa2i5d",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4gvp0et797\" data-reactroot=\"\">Shea, N. (2018).<em> Representation in cognitive science</em>. Oxford University Press. <a href=\"https://doi.org/10.1093/oso/9780198812883.001.0001\" target=\"_blank\">https://doi.org/10.1093/oso/9780198812883.001.0001</a></p>",
+              "customLabel": "Shea, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). First, many theorists (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvpfwg53qj1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz7vta9mva5\" data-reactroot=\"\">Byrne, A. (2001). Intentionalism defended. <em>The Philosophical Review,</em> <em>110</em>(2), 199\u2013240. <a href=\"https://doi.org/10.1215/00318108-110-2-199\" target=\"_blank\">https://doi.org/10.1215/00318108-110-2-199</a></p>",
+              "customLabel": "Byrne, 2001",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") appeal to it in accounts of what happens when we are under one or another visual illusion. In the M\u00fcller-Lyer Illusion, for example, two lines that are in fact the same length look to be different in length. Representational theorists hold that the way to account for the distinctive phenomenology is in terms of one\u2019s visual system representing (mistakenly) that the lines differ in length, or maybe in terms of one\u2019s awareness that one\u2019s visual system is representing that the two lines differ in length. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nx6d782okln",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Second, many philosophers and cognitive scientists hold that beliefs are a kind of sentence in the head with elements that represent items in the world (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nf9u9sm722k",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndtmt0hjpae\" data-reactroot=\"\">Fodor, J. (1975). <em>The language of thought</em>. Harvard University Press.</p>",
+              "customLabel": "Fodor, 1975",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrfjrqnloi4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nt1woemmn0w\" data-reactroot=\"\">Porot, N., &amp; Mandelbaum, E. (2021). The science of belief: A progress report. <em>Wiley Interdisciplinary Reviews: Cognitive Science,</em> <em>12</em>, e1539. <a href=\"https://doi.org/10.1002/wcs.1539\" target=\"_blank\">https://doi.org/10.1002/wcs.1539</a></p>",
+              "customLabel": "Porot & Mandlebaum, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Thus, the belief that snow is white might be a structure in the brain with an element representing snow and an element representing whiteness. Third, what goes on in our brains and central nervous systems is crucial for successfully navigating our surroundings and for accurately reporting on them. It follows that what goes on in our brains and central nervous systems carries information about how things are around us and so, in some good sense, represents how things are around us.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nx1fqilyvzw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Do we have one concept of representation at work in these examples, or two, or three? How should we understand it or them? To what extent should we think of this enterprise as analyzing an existing concept or concepts\u2014or should we approach the question as conceptual engineers focused on finding the concept or concepts needed for one or another purpose? This is a place where philosophers and cognitive scientists have found fruitful interchange, demonstrating the relevance of conceptual analysis for ongoing interdisciplinary work.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2a1wi9ybs6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Finally, there are important connections between conceptual analysis and the methodology of\u00a0cognitive science. Cognitive science deals in constructs: unobservable entities postulated to have causal powers that explain observed behavior ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ns7hf3r0qs7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2q8dcccpz2\" data-reactroot=\"\">Cronbach, L. J., &amp; Meehl, P. E. (1955). Construct validity in psychological tests. <em>Psychological Bulletin,</em> <em>52</em>(4), 281\u2013302. <a href=\"https://doi.org/10.1037/h0040957\" target=\"_blank\">https://doi.org/10.1037/h0040957</a></p>",
+              "customLabel": "Cronbach & Meehl, 1955",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0 To test constructs, cognitive scientists propose an operationalization: something that can be measured that would naturally count as a measure of the construct ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nn9egtfcpbc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nymap6s9yus\" data-reactroot=\"\">Frank, M. C., Braginsky, M., Cachia, J., Coles, N., Hardwicke, T. E., Hawkins, R. D., Mathur, M. B., &amp; Williams, R. (2024). <em>Experimentology: An open science approach to experimental psychology methods</em>. MIT Press.</p>",
+              "customLabel": "Frank et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The early stages of operationalization are often similar to the process of conceptual analysis, though tests are typically refined empirically.\u00a0\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "na1fqp7cm38",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nkwh0i47o8i",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Braddon-Mitchell, D., & Nola, R. (Eds.). (2009). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Conceptual analysis and philosophical naturalism"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". MIT Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nm3wi8d7mrr",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Isaac, M.G., Koch, S., & Neftd, R. (2022). Conceptual engineering: A road map to practice. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Philosophy Compass"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "17"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(10). https://doi.org/10.1111/phc3.12879"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "naz1f38tqbv",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jackson, F. (1998). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "From metaphysics to ethics: A defence of conceptual analysis"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Oxford University Press. https://doi.org/10.1093/0198250614.001.0001 "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "ncinpbae97n",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Urmson, J. O. (1956). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Philosophical analysis: Its development between the two world wars"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Oxford University Press."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

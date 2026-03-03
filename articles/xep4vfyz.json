@@ -1,0 +1,4242 @@
+{
+  "id": "032c68ca-f219-4208-ab78-a9cdbee59a25",
+  "slug": "xep4vfyz",
+  "title": "Phonology",
+  "url": "https://oecs.mit.edu/pub/xep4vfyz",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "032c68ca-f219-4208-ab78-a9cdbee59a25",
+    "slug": "xep4vfyz",
+    "title": "Phonology",
+    "htmlTitle": "Phonology",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.032c68ca",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "2r4him9c",
+    "editHash": "i0poapxv",
+    "reviewHash": "stic7d67",
+    "commentHash": "vqgzhjnd",
+    "draftId": "ffa0cf2f-0568-4d77-8239-a7bc2ad973da",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "876292a5-9938-4b69-af3d-963bfd8b0736",
+    "scopeSummaryId": "36b5cee0-ad82-4a9c-815f-557e11671639",
+    "createdAt": "2025-04-21T13:05:50.782Z",
+    "updatedAt": "2025-05-27T15:07:33.697Z",
+    "attributions": [
+      {
+        "id": "ff11d9ff-40ef-4132-b967-9bd4915d8358",
+        "name": "Juliette Blevins",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "The Graduate Center, City University of New York",
+        "orcid": "0000-0002-2063-4778",
+        "userId": null,
+        "pubId": "032c68ca-f219-4208-ab78-a9cdbee59a25",
+        "createdAt": "2025-04-21T13:06:23.659Z",
+        "updatedAt": "2025-04-21T13:06:39.300Z",
+        "user": null
+      },
+      {
+        "id": "8ad7f1ff-adaa-47d8-bad3-5ce719fbf70f",
+        "name": "Evan Kidd",
+        "avatar": null,
+        "title": null,
+        "order": 0.625,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "The Australian National University",
+        "orcid": "0000-0003-4301-2290",
+        "userId": null,
+        "pubId": "032c68ca-f219-4208-ab78-a9cdbee59a25",
+        "createdAt": "2025-04-23T22:26:12.345Z",
+        "updatedAt": "2025-04-23T22:26:33.549Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "ffa0cf2f-0568-4d77-8239-a7bc2ad973da",
+      "latestKeyAt": "2025-05-27T20:29:54.633Z",
+      "firebasePath": "drafts/draft-ffa0cf2f-0568-4d77-8239-a7bc2ad973da",
+      "createdAt": "2025-04-21T13:05:50.766Z",
+      "updatedAt": "2025-06-06T17:01:36.557Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmim70japqd",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Phonology is the study of sound patterns in spoken language. These patterns include contrastive sound inventories, regularities in sound distribution, and alternations of sounds. Components of sound patterns are usually expressed in terms of five basic phonological category types: (1) "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "distinctive features"
+          },
+          {
+            "type": "text",
+            "text": ", which are thought to be the smallest identifiable elements; (2) contrastive segments or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "phonemes"
+          },
+          {
+            "type": "text",
+            "text": " (vowels, consonants, glides), which are typically composed of features; (3) contrastive tones or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "tonemes"
+          },
+          {
+            "type": "text",
+            "text": "; (4) "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "timing "
+          },
+          {
+            "type": "text",
+            "text": "or"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " weight units"
+          },
+          {
+            "type": "text",
+            "text": ", which are abstract units of duration that can be associated to features, segments, and tones; and (5) "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "prosodic constituents"
+          },
+          {
+            "type": "text",
+            "text": ", which are groupings of features and segments into larger units like syllables, metrical feet, and intonational phrases. The arrangement of syllables into feet, feet into prosodic words, words into phrases, and phrases into utterances is referred to as the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "prosodic hierarchy"
+          },
+          {
+            "type": "text",
+            "text": ". Phonology is distinct from phonetics, which investigates physical properties of speech sounds, be they acoustic, aerodynamic, articulatory, or auditory, although there is overlap between the two fields. "
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n8cwa58f9wq",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The study of sound patterns has a long tradition going back more than 2,000 years to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Tholkaappiyam"
+          },
+          {
+            "type": "text",
+            "text": ", an anonymous Old Tamil [oldt1248] grammar, and to P\u0101\u1e47ini\u2019"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "s"
+          },
+          {
+            "type": "text",
+            "text": " grammar of Sanskrit [sans1269] from ca. 350 BCE."
+          },
+          {
+            "type": "footnote",
+            "attrs": {
+              "id": "n4fctd0ry4n",
+              "href": null,
+              "value": "<p id=\"n0yzzz2g8d5\" data-reactroot=\"\">In this entry, named languages are followed by Glottolog language codes in brackets, which provide unique, stable identifiers for all known human languages (see <a href=\"https://glottolog.org/\">https://glottolog.org/</a>).</p>",
+              "structuredValue": "",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " P\u0101\u1e47ini\u2019"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "s"
+          },
+          {
+            "type": "text",
+            "text": " grammar formulated a contrastive sound inventory, a list of natural classes of sounds, rules of pronunciation targeting these classes, and ordering principles for these rules. About 1,000 years later, Sibawayh\u2019s 8th century treatise on Arabic [stan1318] grammar included a discussion of sound patterns distinct from phonetics and emphasized the rule-governed nature of alternations."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nstrmivwbq9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Alhough many aspects of modern phonology were introduced in these ancient texts, the term "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "phoneme"
+          },
+          {
+            "type": "text",
+            "text": " (or a translation equivalent), referring to a minimal unit of contrast, and the modern view of phonology rooted in these units of contrast were formalized only in the late 19th century. These ideas were central to the work of Jan Baudouin de Courtenay of the Kazan School and later to Prague School phonology of the 20th century, led by Nicolai Trubetzkoy and Roman Jakobson ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n93nb24m7jr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq8pu52x88b\" data-reactroot=\"\">Anderson, S. R. (2021). <em>Phonology in the twentieth century: Second edition, revised and expanded</em>. Language Science Press.</p>",
+              "customLabel": "Anderson, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Prague School phonology gave rise to generative phonology ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njjiqgb260c",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nm4mlxoj7dc\" data-reactroot=\"\">Goldsmith, J. A., &amp; Laks, B. (2023). Generative phonology: Its origins, its principles, and its successors. In L. R. Waugh, M. Monville-Burston, &amp; J. E. Joseph (Eds.), <em>The Cambridge history of linguistics </em>(pp. 704-727). Cambridge University Press. <a href=\"https://doi.org/10.1017/9780511842788.035\" target=\"_blank\">https://doi.org/10.1017/9780511842788.035</a></p><p id=\"npij00yoq4x\" data-reactroot=\"\"></p>",
+              "customLabel": "Goldsmith & Laks, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), most closely associated with Morris Halle (professor of linguistics at the Massachusetts Institute of Technology from 1951 to 1996), his many students and colleagues, and the theory detailed in "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The Sound Pattern of English"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntgfah1wm76",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n32uo00wfii\" data-reactroot=\"\">Chomsky, N., &amp; Halle, M. (1968). <em>The sound pattern of English</em>. Harper &amp; Row.</p>",
+              "customLabel": "Chomsky & Halle, 1968",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The 20th century also saw independent developments in prosodic, metrical, and tonal phonology. At the University of London, John Rupert Firth proposed autonomous prosodies including tone, nasality, and voice quality, informed by African and Asian languages ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvn3i4skqdr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5pid5pctbe\" data-reactroot=\"\">Firth, J. R. (1948). Sounds and prosodies. <em>Transactions of the Philological Society</em>, <em>47</em>(1), 127-152. <a href=\"https://doi.org/10.1111/j.1467-968X.1948.tb00556.x\" target=\"_blank\">https://doi.org/10.1111/j.1467-968X.1948.tb00556.x</a></p>",
+              "customLabel": "Firth, 1948",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh0u8slaqkv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1t8csww2rm\" data-reactroot=\"\">Firth, J. R. (1957). <em>Papers in linguistics: 1934\u20131951</em>. Oxford University Press.</p>",
+              "customLabel": "1957",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These features were independent of specific vowels or consonants and could be associated with larger domains like syllable and word. In the Americas, Kenneth L. Pike\u2019s work on the complex tone patterns of San Miguel El Grande Mixtec [sanm1295] inspired his framework of Tagmemics, bringing phonology into a wider context of language structure and use ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngowdqzn7yl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntqoym4wgap\" data-reactroot=\"\">Pike, K. L. (1948). <em>Tone languages: A technique for determining the number and type of pitch contrasts in language, with studies in tonemic substitution and fusion</em>. University of Michigan Press.</p>",
+              "customLabel": "Pike, 1948",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhkvumys10z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsukm3cvvad\" data-reactroot=\"\">Pike, K. L. (1967). <em>Language in relation to a unifed theory of the structure of human behavior</em>. Mouton.</p>",
+              "customLabel": "1967",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In addition, Pike\u2019s techniques for identifying phonological components were used for many years to train Summer Institute of Linguistics fieldworkers, yielding hundreds of detailed phonological descriptions of the world\u2019s languages."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "distinctive-features",
+          "id": "distinctive-features",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Distinctive features"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhq4c5i8azk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Although contrasts are typically embodied by phonemes and tonemes, the minimal units of contrast in phonological systems are distinctive features that compose or describe segments. Most phonologists assume a set of 25 to 35 features to describe all contrastive sounds in the world\u2019s languages. To illustrate how features operate, consider the consonant phonemes of Central Rotokas [roto1249]: /p t k b d g/ ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxl4yzq6o93",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nphpjtvtno0\" data-reactroot=\"\">Firchow, I. B., &amp; Firchow, J. (1969). An abbreviated phonemic inventory. <em>Anthropological Linguistics</em>, <em>11</em>(9), 271-276.</p>",
+              "customLabel": "Firchow & Firchow, 1969",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3iieg31gu5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n03btxz7qya\" data-reactroot=\"\">Robinson, S. (2006). The phoneme inventory of the Aita dialect of Rotokas. <em>Oceanic Linguistics</em>, <em>45</em>(1), 206-209. <a href=\"https://doi.org/10.1353/ol.2006.0018\" target=\"_blank\">https://doi.org/10.1353/ol.2006.0018</a></p>",
+              "customLabel": "Robinson, 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). A minimal analysis of this system of consonantal contrasts makes use of only three binary-valued features, as shown in "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xep4vfyz#n8gr4k1pafb",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Table 1"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "attrs": {
+          "id": "n8gr4k1pafb",
+          "hideLabel": false,
+          "align": null,
+          "size": null,
+          "smallerFont": true,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 7,
+                  "rowspan": 1,
+                  "colwidth": [
+                    188.84375,
+                    83.375,
+                    83.375,
+                    72.828125,
+                    83.375,
+                    69.828125,
+                    83.375
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nx5rvxpe71r",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Consonant phonemes of Central Rotokas"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    188.84375
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "njnqovrwspg",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.375
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nmqmlixhs6l",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "p"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.375
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n7bh7ko1xnw",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "t"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    72.828125
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n18760dafac",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "k"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.375
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nt9a2wul32t",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "b"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    69.828125
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nuge80ejsf7",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "d"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.375
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "ng1tz5wqou6",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "g"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    188.84375
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nnkps0vv9jm",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "[voice]"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.375
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n5js4mrozfj",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "-"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.375
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nrfsilrvg8m",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "-"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    72.828125
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nykc2t42bgv",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "-"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.375
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nirfbdy1m4x",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "+"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    69.828125
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nkss5oipr13",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "+"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.375
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nd2ssq3wcb0",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "+"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    188.84375
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nhjb21f5n6n",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "[labial]"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.375
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "npmiug83jfo",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "+"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.375
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nccsn9beayg",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "-"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    72.828125
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n6hednli745",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "-"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.375
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nzerelvm9z5",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "+"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    69.828125
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "neaxgilempp",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "-"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.375
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n2sdshruyrj",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "-"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    188.84375
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n6mhqtpgom8",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "[coronal]"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.375
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "no05nj5770p",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "-"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.375
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "ngnsk91obis",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "+"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    72.828125
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nz6hwviknka",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "-"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.375
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nmeubpk90v0",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "-"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    69.828125
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "ne491ik5f2j",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "+"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.375
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "npyvct4sae9",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "-"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxs2z4mmbel",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The distinctive feature [+voice] specifies /b d g/ as the natural class of sounds produced with vocal fold vibration, whereas /p t k/ are [-voice]. Place of articulation is also contrastive in Rotokas: [+labial] distinguishes /p b/ (made with the lips) from other consonants, whereas [+coronal] distinguishes /t d/ (made with the tongue tip) from other consonants. Although abbreviated as /p/, the phonological representation of this Central Rotokas phoneme is a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "feature matrix"
+          },
+          {
+            "type": "text",
+            "text": " or feature list: /p/ can be described abstractly as [-voiced, +labial, -coronal] in contrast to /b/, which is [+voiced, +labial, "
+          },
+          {
+            "type": "hard_break",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "-coronal]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "segments-and-autosegments",
+          "id": "segments-and-autosegments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Segments and autosegments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ntt2g06obvg",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "All spoken human languages make use of distinct vowels and consonants to distinguish words from each other. Vowels and consonants together are referred to as segments, and the study of segments and the features that compose them is called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "segmental phonology"
+          },
+          {
+            "type": "text",
+            "text": ". There is great diversity in the segmental phonologies of the world\u2019s languages: in Central Rotokas, there are only six distinct consonants ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xep4vfyz#n8gr4k1pafb",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Table 1"
+          },
+          {
+            "type": "text",
+            "text": "), whereas in Ubykh [ubyk1235], there are 80; in Nuer dialects [nuer1246], there are more than 20 distinctive vowels, whereas in some Abkhaz-Adyge languages, there are only two."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nt04vc4ec58",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "All spoken languages also make use of intonation encoded phonologically as sequences of level tones. These tone melodies are distinctive fundamental frequency (F"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "0"
+          },
+          {
+            "type": "text",
+            "text": ") contours that express meaningful differences at the level of the phrase. For example, in many languages a sentence is interpreted as a statement if it has a falling (high-to-low) pitch but as a question if the same segmental string has a rising (low-to-high) pitch. The study of tone and other features that take domains larger than the segment is called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "autosegmental phonology"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4jwbu4vzoe",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The most common autosegmental feature is tone. Languages in which relative F"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "0"
+          },
+          {
+            "type": "text",
+            "text": " values on vowels, moras, or syllables encode lexical and grammatical distinctions are called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "tone languages"
+          },
+          {
+            "type": "text",
+            "text": ". As with segments, there is great diversity in the tonal phonologies of the world\u2019s languages: Shona [shon1251] has a minimal tonal contrast between high and low tone; Nuer distinguishes high, mid, and low; and Utunyoso Trique [sanm1298] has nine tonal contrasts on monosyllables, analyzed as level tones 1, 2, 3, and 4 and contour tones 31, 32, 43, 13, and 35, in which 1 is the lowest pitch level and 5 the highest."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqsulq563ad",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Other common autosegments are features for (vowel) backing, rounding, tongue root advancement, and nasality. When any one of these features is associated with multiple syllables, or an entire word, the sound pattern is referred to as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "harmony"
+          },
+          {
+            "type": "text",
+            "text": ". Turkish [nucl1301] has rounding and backing harmony, Paraguayan Guarani [para1311] has nasal harmony, and Akan [akan1250] has advanced tongue root harmony."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "phonological-length-and-segments-vs.-clusters",
+          "id": "phonological-length-and-segments-vs.-clusters",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Phonological length and segments vs. clusters"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfjotmsl03s",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Many languages distinguish short and long segments. In rare cases, as in Agar Dinka [sout2833], three degrees of length are found. The representation of phonological length is illustrated in "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xep4vfyz#nqu4lwu8fh3",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Figure 1"
+          },
+          {
+            "type": "text",
+            "text": ", in which X is an abstract timing unit, and the string of Xs is referred to as the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "timing tier"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "nqu4lwu8fh3",
+          "url": "https://assets.pubpub.org/2hwj3pit/oecs_phonology_fig1-51746730729925.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"ntqkb71n85k\" data-reactroot=\"\">Representing phonological length with timing units (X = one unit)</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvcjduprrb7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Short, long, and extra-long segments are compared with sequences of short segments, and short complex segments like diphthongs and affricates are compared with segment sequences. Many-to-one and one-to-many mappings between features or segments and the timing tier can encode many other contrasts, including prenasalized stops vs. nasal-stop clusters, aspirated stops vs. stop-h sequences, complex labio-velar stops vs. labial-velar stop sequences, and contour tones vs. sequences of level tones. These contrasts are supported by phonological evidence in many languages, despite the fact that a single segment like /t\u0361\u0283/ and a cluster like /t\u0283/ may be phonetically indistinguishable."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "phonotactics",
+          "id": "phonotactics",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Phonotactics"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7huklm5pze",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Rules governing possible phoneme sequences are called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "phonotactics"
+          },
+          {
+            "type": "text",
+            "text": ". In Central Rotokas, every consonant must be followed by a vowel; there are no consonant sequences. This phonotactic may be expressed in terms of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "syllable"
+          },
+          {
+            "type": "text",
+            "text": " template (C)V, in which parentheses indicate optionality."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "prosodic-constituents",
+          "id": "prosodic-constituents",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Prosodic constituents"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngjn6djpo28",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Prosodic constituents"
+          },
+          {
+            "type": "text",
+            "text": " are groupings of features or segments into larger units. The most widely recognized prosodic constituents, from smaller to larger, are "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "syllable"
+          },
+          {
+            "type": "text",
+            "text": " (with sub-constituents nucleus, onset, coda), "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "metrical foot"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "prosodic word"
+          },
+          {
+            "type": "text",
+            "text": " (known also as phonological word), "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "phonological phrase"
+          },
+          {
+            "type": "text",
+            "text": ", and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "intonational phrase"
+          },
+          {
+            "type": "text",
+            "text": ". Grouping segments into prosodic or metrical constituents makes use of many kinds of phonological evidence, from native speaker intuitions to language play, text-to-tune mappings, stress patterns, intonation contours, and prosodically conditioned alternations, and may also be determined by syntactic constituency ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny6u31901qx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj8grn8cr33\" data-reactroot=\"\">Lahiri, A., &amp; Plank, F. (2022). Phonological phrasing: Approaches to grouping at lower levels of the prosodic hierarchy. In B. E. Dresher &amp; H. van der Hulst (Eds.), <em>The Oxford history of phonology </em>(pp. 134-162). <a href=\"https://doi.org/10.1093/oso/9780198796800.003.0007\" target=\"_blank\">https://doi.org/10.1093/oso/9780198796800.003.0007</a></p>",
+              "customLabel": "Lahiri & Plank, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Prosodic structure in Yine [yine1238] is shown for the utterance in the first row of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xep4vfyz#ny072oeukj0",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Table 2"
+          },
+          {
+            "type": "text",
+            "text": ", in which periods mark syllable boundaries (based on native speaker slow/careful speech), and parentheses delineate metrical feet. Yine feet are trochaic: the first syllable is strong, and the second is weak. Penultimate "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "primary stress"
+          },
+          {
+            "type": "text",
+            "text": " and alternating "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "secondary stress"
+          },
+          {
+            "type": "text",
+            "text": " from the beginning of the word demonstrate that the utterance constitutes a single prosodic word ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n56lrqpyn57",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmzhgizve34\" data-reactroot=\"\">Hanson, R. (2010). <em>A grammar of Yine (Piro)</em> [Doctoral dissertation, La Trobe University]. Open at La Trobe. <a href=\"https://opal.latrobe.edu.au/articles/thesis/A_grammar_of_Yine_Piro_/21847407?file=38770605\">https://opal.latrobe.edu.au/articles/thesis/A_grammar_of_Yine_Piro_/21847407?file=38770605</a> </p>",
+              "customLabel": "Hanson, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", 25\u201327, 37; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nv68vdvyqgl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nt5b71boa0e\" data-reactroot=\"\">Matteson, E. (1965). <em>The Piro (Arawakan) language</em>. University of California Press.</p>",
+              "customLabel": "Matteson, 1965",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Note that the prosodic structure is built on a word that lacks certain vowels (in bold in the morphological structure) that are "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "underlyingly present"
+          },
+          {
+            "type": "text",
+            "text": " in constituent morphemes (see below) [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/k0l9s1hf",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Morphology"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "attrs": {
+          "id": "ny072oeukj0",
+          "hideLabel": false,
+          "align": null,
+          "size": null,
+          "smallerFont": false,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 2,
+                  "rowspan": 1,
+                  "colwidth": [
+                    221.15789473684208,
+                    427.8421052631579
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nfj7m7v95c8",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Phonological constituents of a Yine utterance including prosodic structure"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    221.15789473684208
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nofuuacpb2d",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Prosodic structure"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    427.8421052631579
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "npiqmjgtg87",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "[(\u02ccsa.\u00e7ri).(\u02cckhi.ma).(\u02cctka.na).kta.(\u02c8tka.na)]"
+                      },
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "sub"
+                          }
+                        ],
+                        "text": "ProsodicWord"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    221.15789473684208
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nbxrr9mlxzk",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\u2003morphological structure"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    427.8421052631579
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n7e18d0mzqf",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\u00d8-sa\u00e7r\u0268k"
+                      },
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "strong"
+                          }
+                        ],
+                        "text": "a"
+                      },
+                      {
+                        "type": "text",
+                        "text": "-hima-t"
+                      },
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "strong"
+                          }
+                        ],
+                        "text": "a"
+                      },
+                      {
+                        "type": "text",
+                        "text": "-ka-na-kta-tka-na"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    221.15789473684208
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n2fngtch2fx",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\u2003morph-by-morph gloss"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    427.8421052631579
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nyj6zcilk2q",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "3-surround-QUOT-VCL-PASS-CMPV-GENZ-PFV-3PL"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    221.15789473684208
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nnp89fmqsob",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\u2003translation"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    427.8421052631579
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nj4gvce49lr",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "'they were completely surrounded everywhere, reportedly'"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "alternations",
+          "id": "alternations",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Alternations"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nk29gr82tp7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Sometimes phonemes have different phonetic realizations that are "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "noncontrastive"
+          },
+          {
+            "type": "text",
+            "text": ". These "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "allophonic variants"
+          },
+          {
+            "type": "text",
+            "text": " can occur for many reasons. For instance, their realization may depend on linguistic context (e.g., preceding or following sounds, position within the syllable, position within the word) or rate of speech, or they might be conditioned by sociolinguistic variables or vary freely amongst speakers of the language [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/5wqto9iq",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Linguistic Variation"
+          },
+          {
+            "type": "text",
+            "text": "]"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "."
+          },
+          {
+            "type": "text",
+            "text": " In Central Rotokas, each of the voiced phonemes /b d g/ in "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xep4vfyz#n8gr4k1pafb",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Table 1"
+          },
+          {
+            "type": "text",
+            "text": " has a range of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "allophones"
+          },
+          {
+            "type": "text",
+            "text": ": /b/ can be pronounced as [b], [m], or [\u03b2]; /d/ as [d], [n], [l], or [\u027e]; and /g/ as [g], [\u014b], or [\u0263]. The alternations between these sounds highlight a strength of the phonological analysis shown in "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xep4vfyz#n8gr4k1pafb",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Table 1"
+          },
+          {
+            "type": "text",
+            "text": ": nasality and continuancy are not contrastive features in Central Rotokas, therefore, pronunciation of /b d g/ can vary along these dimensions without compromising segmental discriminability. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1yfksayf7q",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "When a phoneme has distinct "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "non-allophonic"
+          },
+          {
+            "type": "text",
+            "text": " realizations that are contextually determined, these are referred to as ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "non-allophonic"
+          },
+          {
+            "type": "text",
+            "text": ") "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "alternations"
+          },
+          {
+            "type": "text",
+            "text": ". Alternations are often neutralizing, eliminating contrast in a specific environment. Alternations may also involve deletion or insertion of a feature or segment, like the loss of bolded medial vowels in Yine in "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xep4vfyz#nqu4lwu8fh3",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Figure 1"
+          },
+          {
+            "type": "text",
+            "text": ". In cases like this, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "underlying forms"
+          },
+          {
+            "type": "text",
+            "text": ", distinct from surface forms, are motivated. Within generative phonology and its descendants, contextually predictable alternations, whether allophonic or non-allophonic, are captured by "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "phonological rules"
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "phonological constraints"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "phonology-in-other-domains",
+          "id": "phonology-in-other-domains",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Phonology in other domains"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1myla202og",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The study of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "historical phonology"
+          },
+          {
+            "type": "text",
+            "text": " is primarily focused on the reconstruction of contrastive sound inventories and regularities in sound distribution and on sound changes as they have occurred over time. Specialists in "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "language acquisition"
+          },
+          {
+            "type": "text",
+            "text": " [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xohbfbix",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Language Acquisition"
+          },
+          {
+            "type": "text",
+            "text": "] study how phonological systems are acquired, whereas "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "laboratory phonologists"
+          },
+          {
+            "type": "text",
+            "text": " design experimental conditions to test phonological hypotheses."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nu9190dd6y3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Nearly every central tenet of modern phonological theory has been questioned over the last half-century. Take, for example, the proposal in "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The Sound Pattern of English"
+          },
+          {
+            "type": "text",
+            "text": " that distinctive features are innate properties of the human language faculty ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9xdownlga3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n32uo00wfii\" data-reactroot=\"\">Chomsky, N., &amp; Halle, M. (1968). <em>The sound pattern of English</em>. Harper &amp; Row.</p>",
+              "customLabel": "Chomsky & Halle, 1968",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). A careful review of segment inventories and alternations in hundreds of languages suggests that no single distinctive feature system is adequate and that phonological features are most likely emergent, learned properties of grammar ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntdyv7k389k",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"noywaoj7481\" data-reactroot=\"\">Mielke, J. (2008). <em>The emergence of distinctive features</em>. Oxford University Press.</p>",
+              "customLabel": "Mielke, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncb90c6unhm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A wider question in phonology is whether universal tendencies should be directly encoded in phonological grammars or attributed to aspects of general cognition and language use. Consider the universal preference for voiceless sounds like /p t k/ in "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xep4vfyz#n8gr4k1pafb",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Table 1"
+          },
+          {
+            "type": "text",
+            "text": " over voiced sounds like /b d g/, which was emphasized in Prague School work of the early 20th century ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nm0ad2u49av",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq8pu52x88b\" data-reactroot=\"\">Anderson, S. R. (2021). <em>Phonology in the twentieth century: Second edition, revised and expanded</em>. Language Science Press.</p>",
+              "customLabel": "Anderson, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", 126\u2013132). Some approaches, like "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "optimality theory"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrep96chemr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6vdv15h5zm\" data-reactroot=\"\">Kager, R. (1999). <em>Optimality theory</em>. Cambridge University Press.</p>",
+              "customLabel": "Kager, 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "noci2va2tsg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntbnv5e873r\" data-reactroot=\"\">Prince, A., &amp; Smolensky, P. (1993). <em>Optimality theory: Constraint interaction in generative grammar</em>. Rutgers University. <a href=\"https://doi.org/10.7282/T34M92MV\">https://doi.org/10.7282/T34M92MV</a> </p>",
+              "customLabel": "Prince & Smolensky, 1993",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") encode this preference as an explicit constraint type in the grammar: a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "markedness constraint"
+          },
+          {
+            "type": "text",
+            "text": " determines that /p t k/ are in some sense better segments than /b d g/. Alternative approaches, including "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "laboratory phonology"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nopbujllkrq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"np4xdv6gtss\" data-reactroot=\"\">Ohala, J. J. (1974). Phonetic explanation in phonology. In A. Bruck, R. A. Fox, &amp; M. W. LaGaly (Eds.),\u00a0<em>Papers from the parasession on natural phonology </em>(pp. 251-274). Chicago Linguistic Society.</p>",
+              "customLabel": "Ohala, 1974",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "niit54rmsjo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1ven0y0q9a\" data-reactroot=\"\">Ohala, J. J. (1983). The origin of sound patterns in vocal tract constraints. In P. F. MacNeilage (Ed.),\u00a0<em>The production of speech</em> (pp. 189-216). Springer-Verlag. <a href=\"https://doi.org/10.1007/978-1-4613-8202-7_9\" target=\"_blank\">https://doi.org/10.1007/978-1-4613-8202-7_9</a></p>",
+              "customLabel": "1983",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "evolutionary phonology"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb0pegov57p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngddgjbualk\" data-reactroot=\"\">Blevins, J. (2004). <em>Evolutionary phonology: The emergence of sound patterns</em>. Cambridge University Press.</p>",
+              "customLabel": "Blevins, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "typological usage-based frameworks"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n529unpgcsh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ncqyoe1boj9\" data-reactroot=\"\">Evans, N., &amp; Levinson, S. C. (2009). The myth of language universals: Language diversity and its importance for cognitive science. <em>Behavioral and Brain Sciences</em>, <em>32</em>(5), 429-492. <a href=\"https://doi.org/10.1017/S0140525X0999094X\" target=\"_blank\">https://doi.org/10.1017/S0140525X0999094X</a></p>",
+              "customLabel": "Evans & Levinson, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlxkk6lvd31",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv1al8921mp\" data-reactroot=\"\">Haspelmath, M. (2006). Against markedness (and what to replace it with). <em>Journal of Linguistics</em>, <em>42</em>(1), 25-70. <a href=\"https://doi.org/10.1017/S0022226705003683\" target=\"_blank\">https://doi.org/10.1017/S0022226705003683</a></p>",
+              "customLabel": "Haspelmath, 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), suggest extra-grammatical explanations for this and many other universal tendencies. In this particular case, the cross-linguistic preference for voiceless oral stops in sound inventories and neutralizing alternations follows from several factors: the aerodynamics of oral stop production that inhibit vocal cord vibration ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntf76utjmf9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"neg5yf3lcv5\" data-reactroot=\"\">Ohala, J. J. (1997). Aerodynamics of phonology. In <em>Proceedings of the 4th Seoul International Conference on Linguistics</em> (pp. 92-97). Linguistic Society of Korea.</p>",
+              "customLabel": "Ohala, 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and phonetic contexts in which stop voicing is less likely to be produced or perceived ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nf6g1fjckb4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ne0j2pm3wvq\" data-reactroot=\"\">Blevins, J. (2006). A theoretical synopsis of evolutionary phonology. <em>Theoretical Linguistics</em>, <em>32</em>(2), 117-166. <a href=\"https://doi.org/10.1515/TL.2006.009\" target=\"_blank\">https://doi.org/10.1515/TL.2006.009</a></p>",
+              "customLabel": "Blevins, 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). As these controversies continue, increased synergy between phonology and phonetics, especially in laboratory phonology and language documentation and description, provides a basis for incremental progress ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n347ancg7r2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrc138gm815\" data-reactroot=\"\">Blevins, J., Egurtzegi, A., &amp; Ullrich, J. (2020). Final obstruent voicing in Lakota: Phonetic evidence and phonological implications. <em>Language</em>, <em>96</em>(2), 294-337. <a href=\"https://doi.org/10.1353/lan.2020.0022\">https://doi.org/10.1353/lan.2020.0022</a> </p>",
+              "customLabel": "Blevins et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n35yr17kwk3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Although phonologists generally focus on human sounds and sound patterns, there are natural human languages that do not use sound. These are sign languages [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/l60gyowl",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Sign Language"
+          },
+          {
+            "type": "text",
+            "text": "]. Linguistic work on sign language phonology suggests that it is subject to many of the same cognitive and communicative pressures that guide the development of spoken languages. These findings may shed new light on the controversies mentioned above."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nzklg7vl8sb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "While human languages have sounds and sound patterns, phonology may not be unique to our species. Segmental contrasts and prosodic structure may be found in birdsong, and mammalian vocal tracts may be ready to talk, if they only had the cognitive capacity to do so ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nabdhy44t1o",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngh486v5po1\" data-reactroot=\"\">Fitch, W. T. (2018). What animals can teach us about human language: The phonological continuity hypothesis. <em>Current Opinion in Behavioral Sciences</em>, <em>21</em>, 68-75. <a href=\"https://doi.org/10.1016/j.cobeha.2018.01.014\" target=\"_blank\">https://doi.org/10.1016/j.cobeha.2018.01.014</a></p><p id=\"nix24fzfjjf\" data-reactroot=\"\"></p>",
+              "customLabel": "Fitch, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh3x97zogix",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf9d9m6xcnx\" data-reactroot=\"\">Fitch, W. T., de Boer, B., Mathur, N., &amp; Ghazanfar, A. A. (2016). Monkey vocal tracts are speech-ready. <em>Science Advances</em> 2(12), e1600723. <a href=\"https://doi.org/10.1126/sciadv.1600723\" target=\"_blank\">https://doi.org/10.1126/sciadv.1600723</a></p>",
+              "customLabel": "Fitch et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1d6dzbrho8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzaxladd6bi\" data-reactroot=\"\">Mann, D. C., Fitch, W. T., Tu, H. W., &amp; Hoeschele, M<em>.</em> (2021).\u00a0Universal principles underlying segmental structures in parrot song and human speech.\u00a0<em>Scientific Reports</em>,\u00a0<em>11</em>, 776. <a href=\"https://doi.org/10.1038/s41598-020-80340-y\">https://doi.org/10.1038/s41598-020-80340-y</a> </p>",
+              "customLabel": "Mann et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1rf2727vzp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzjpqauj6eh\" data-reactroot=\"\">Wohlgemuth, M. J., Sober, S. J., &amp; Brainard, M. S. (2010). Linked control of syllable sequence and phonology in birdsong. <em>Journal of Neuroscience</em>, <em>30</em>(39), 12936-12949. <a href=\"https://doi.org/10.1523/JNEUROSCI.2690-10.2010\">https://doi.org/10.1523/JNEUROSCI.2690-10.2010</a> </p>",
+              "customLabel": "Wohlgemuth et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nfl2bcus39n",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nwwjkdp1o11",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bybee, J. (2001). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Phonology and language use"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Cambridge University Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n4rhjusksw0",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Goldsmith, J. A., Riggle, J., & Yu, A. C. L. (Eds.) (2011). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The handbook of phonological theory"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (2nd ed.). Blackwell."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nrz61jkjwu2",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Liberman, M. (2018). Towards progress in theories of language sound structure. In D. Brentari and J. Lee (Eds.), "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Shaping phonology "
+                  },
+                  {
+                    "type": "text",
+                    "text": "(pp. 201-222). University of Chicago Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "ns46cq3v6ny",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Odden, D. (2013). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Introducing phonology"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (2nd ed.). Cambridge University Press."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

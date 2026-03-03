@@ -1,0 +1,3058 @@
+{
+  "id": "2bb20e3c-e5d7-4543-b6a4-9a8024820dd3",
+  "slug": "zp5n8ivs",
+  "title": "Large Language Models",
+  "url": "https://oecs.mit.edu/pub/zp5n8ivs",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "2bb20e3c-e5d7-4543-b6a4-9a8024820dd3",
+    "slug": "zp5n8ivs",
+    "title": "Large Language Models",
+    "htmlTitle": "Large Language Models",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": "2024-07-24T00:00:00.000Z",
+    "doi": "10.21428/e2759450.2bb20e3c",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "1eacbflz",
+    "editHash": "pkomgpk4",
+    "reviewHash": "7yov6e0p",
+    "commentHash": "a6j3ikwe",
+    "draftId": "6cef245e-36d9-4ba5-9f23-806e7893e3ff",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "ced5c3ea-a812-4d3a-8c59-65865bc9f2ad",
+    "scopeSummaryId": "56abcde7-ff0e-4c3a-bfcb-f93a843e98b4",
+    "createdAt": "2024-07-10T17:36:26.926Z",
+    "updatedAt": "2024-07-24T13:03:17.232Z",
+    "attributions": [
+      {
+        "id": "8b59d466-123b-4a9a-b2bb-d8465055c47a",
+        "name": "Melanie Mitchell",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Santa Fe Institute",
+        "orcid": "0000-0001-8881-3505",
+        "userId": null,
+        "pubId": "2bb20e3c-e5d7-4543-b6a4-9a8024820dd3",
+        "createdAt": "2024-07-10T17:38:45.454Z",
+        "updatedAt": "2024-07-10T17:38:55.449Z",
+        "user": null
+      },
+      {
+        "id": "5b312ede-acfb-44ea-af7a-b6a77ba4e243",
+        "name": "Thomas L. Griffiths",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Princeton University",
+        "orcid": "0000-0002-5138-7255",
+        "userId": null,
+        "pubId": "2bb20e3c-e5d7-4543-b6a4-9a8024820dd3",
+        "createdAt": "2024-07-23T21:39:47.747Z",
+        "updatedAt": "2024-07-23T21:40:04.115Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "6cef245e-36d9-4ba5-9f23-806e7893e3ff",
+      "latestKeyAt": "2024-07-24T15:04:02.752Z",
+      "firebasePath": "drafts/draft-6cef245e-36d9-4ba5-9f23-806e7893e3ff",
+      "createdAt": "2024-07-10T17:36:26.922Z",
+      "updatedAt": "2025-04-08T01:47:14.897Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nuy22rjdf0b",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "large language model"
+          },
+          {
+            "type": "text",
+            "text": " (LLM) is a computational system, typically a deep neural network with a large number of tunable parameters (i.e., weights), that implements a mathematical function called a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "language model"
+          },
+          {
+            "type": "text",
+            "text": ". A "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "language model"
+          },
+          {
+            "type": "text",
+            "text": " (LM), in its most general form, is a probability distribution over possible sequences of words and other elements in a language. For example, given a sequence "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "1"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": ", w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "2"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": ", ..., w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "m"
+          },
+          {
+            "type": "text",
+            "text": ", an LM gives the probability "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "P"
+          },
+          {
+            "type": "text",
+            "text": " of that sequence: "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "P"
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "1"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": ", w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "2"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": ", ..., w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "m"
+          },
+          {
+            "type": "text",
+            "text": "). In a natural language context, sequence elements\u2014referred to as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "tokens"
+          },
+          {
+            "type": "text",
+            "text": "\u2014can be words, word parts, punctuation, or other symbols. In practice, LMs can be used to predict unseen tokens in a sequence. For example, given sequence "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "1"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": ", w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "2"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": ", ... w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "m\u20131"
+          },
+          {
+            "type": "text",
+            "text": ", the probability that "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "w"
+          },
+          {
+            "type": "text",
+            "text": " is the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "m"
+          },
+          {
+            "type": "text",
+            "text": "th token in this sequence can be computed as the conditional probability "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "P"
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "w "
+          },
+          {
+            "type": "text",
+            "text": "|"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "1"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": ", w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "2"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": ", ..., w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "m\u20131"
+          },
+          {
+            "type": "text",
+            "text": "). LMs have been used extensively in many areas of natural language processing, ranging from speech recognition and translation to text generation and chatbots. The neural networks underlying LLMs are trained using broad collections of text typically obtained from websites, digitized books, and other digital resources."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nifaqwjoelz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A central concept in language modeling is the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Markov Chain"
+          },
+          {
+            "type": "text",
+            "text": ", a mathematical model of stochastic processes developed by Andrey Markov in the early 1900s ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8g6mnjbxf9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nttsirugxgb\" data-reactroot=\"\">Gagniuc, P. A. (2017). <em>Markov Chains: From theory to implementation and experimentation</em>. John Wiley &amp; Sons. <a href=\"https://doi.org/10.1002/9781119387596\" target=\"_blank\">https://doi.org/10.1002/9781119387596</a></p>",
+              "customLabel": "Gagniuc, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), in which the probability of a token in a sequence depends only on a fixed number of immediately preceding tokens."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "npqaj9iu680",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n45qasuumke",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"np06mo1qwnd\" data-reactroot=\"\">Shannon, C. E. (1948). A mathematical theory of communication. <em>The Bell System Technical Journal,</em> <em>27</em>(3), 379\u2013423. <a href=\"https://doi.org/10.1002/j.1538-7305.1948.tb01338.x\" target=\"_blank\">https://doi.org/10.1002/j.1538-7305.1948.tb01338.x</a></p>",
+              "customLabel": "Shannon (1948)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " adopted a Markov chain framework to propose language modeling with "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "n"
+          },
+          {
+            "type": "text",
+            "text": "-"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "grams,"
+          },
+          {
+            "type": "text",
+            "text": " or sequences of length "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "n"
+          },
+          {
+            "type": "text",
+            "text": ". Given a vocabulary of tokens from which sequences can be formed, a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "unigram"
+          },
+          {
+            "type": "text",
+            "text": " model ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "n = "
+          },
+          {
+            "type": "text",
+            "text": "1) is a table that gives the probability "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "P"
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "i"
+          },
+          {
+            "type": "text",
+            "text": ") of each token independently; a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "bigram"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "n = "
+          },
+          {
+            "type": "text",
+            "text": "2) model gives, for each pair of tokens "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "i"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": ", w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "j"
+          },
+          {
+            "type": "text",
+            "text": ", the probability that "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "j"
+          },
+          {
+            "type": "text",
+            "text": " will follow "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "i"
+          },
+          {
+            "type": "text",
+            "text": " in a sequence; and a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "trigram"
+          },
+          {
+            "type": "text",
+            "text": " model ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "n = "
+          },
+          {
+            "type": "text",
+            "text": "3) similarly gives conditional probabilities that each token will follow a particular sequence of two tokens, and so on."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7ej2e9ipm5",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Using a bigram model, for example, the probability of any sequence "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "1"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": ",w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "2"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": ", ... w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "m"
+          },
+          {
+            "type": "text",
+            "text": " can be estimated as P(w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "1"
+          },
+          {
+            "type": "text",
+            "text": ")P(w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "2"
+          },
+          {
+            "type": "text",
+            "text": " | w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "1"
+          },
+          {
+            "type": "text",
+            "text": ")...P(w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "m"
+          },
+          {
+            "type": "text",
+            "text": " | "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "w"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "m\u20131"
+          },
+          {
+            "type": "text",
+            "text": "), and given a sequence, the next token can be sampled from the probability distribution over tokens following the previous two tokens. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "N"
+          },
+          {
+            "type": "text",
+            "text": "-gram models are the simplest form of language modeling. The probabilities that make up an "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "n"
+          },
+          {
+            "type": "text",
+            "text": "-gram model are estimated by measuring the frequencies of token co-occurrences in text corpora; these values are then stored in a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "probability table"
+          },
+          {
+            "type": "text",
+            "text": ", from which the probability of each possible word following a given sequence can be quickly retrieved. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntaeqyil0po",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxl42nk3b6z\" data-reactroot=\"\">Shannon, C. E. (1951). Prediction and entropy of printed English. <em>The Bell System Technical Journal,</em> <em>30</em>(1), 50\u201364. <a href=\"https://doi.org/10.1002/j.1538-7305.1951.tb01366.x\" target=\"_blank\">https://doi.org/10.1002/j.1538-7305.1951.tb01366.x</a></p>",
+              "customLabel": "Shannon (1951)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " showed how "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "n"
+          },
+          {
+            "type": "text",
+            "text": "-gram models can be used to estimate the entropy of natural languages, where "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "entropy"
+          },
+          {
+            "type": "text",
+            "text": " measures the average degree to which a word can be predicted from the sequence of words that precedes it."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nt47xjyb25g",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In the decades following Shannon\u2019s work, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "n"
+          },
+          {
+            "type": "text",
+            "text": "-grams and other statistical language models were used extensively in natural language processing. However, among other limitations, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "n"
+          },
+          {
+            "type": "text",
+            "text": "-gram models suffer from the \u201ccurse of dimensionality\u201d: the size of the model\u2019s probability table increases exponentially with "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "n"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nh2zor7l09h",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In the 1990s and 2000s, several groups showed that neural networks could be trained to implement language models more efficiently and accurately than "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "n"
+          },
+          {
+            "type": "text",
+            "text": "-gram models. Most notably, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5m6k2k6yn3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nd37ess4hyp\" data-reactroot=\"\">Bengio, Y., Ducharme, R., &amp; Vincent, P. (2000). A neural probabilistic language model. <em>Advances in Neural Information Processing Systems</em>, 13 (pp. 893-899).</p>",
+              "customLabel": "Bengio et al. (2000)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " proposed the basic structure for neural language modeling still used today: given an input sequence of tokens from a text, the neural network is trained to predict the probability that each token in the model\u2019s vocabulary will be the next token in the sequence. Tokens are represented by numerical vectors ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "embeddings"
+          },
+          {
+            "type": "text",
+            "text": ") whose values are also learned from data."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "np90remfkwk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Language models based on "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "n"
+          },
+          {
+            "type": "text",
+            "text": "-grams and on traditional feedforward neural networks allow only a fixed number of tokens\u2014the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "context"
+          },
+          {
+            "type": "text",
+            "text": "\u2014to be used in predicting next-token probabilities. The invention of recurrent neural networks (RNNs), in which tokens in a sequence are input to the network over a series of time steps, enabled neural language modeling with unlimited context length. However, such networks have difficulty capturing longer-range relationships between tokens in a sequence. To address this problem, versions of RNNs were created with features that enhanced their short-term memory ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nll5i7pq2ug",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntqvfocjap0\" data-reactroot=\"\">Hochreiter, S., &amp; Schmidhuber, J. (1997). Long short-term memory. <em>Neural Computation,</em> <em>9</em>(8), 1735\u20131780. https://doi.org/10.1162/neco.1997.9.8.1735</p>",
+              "customLabel": "Hochreiter & Schmidhuber, 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhg1tjgtemn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8lfcqeo40t\" data-reactroot=\"\">Cho, K., Van Merri\u00ebnboer, B., Bahdanau, D., &amp; Bengio, Y. (2014). On the properties of neural machine translation: Encoder-decoder approaches. In D. Wu, M. Carpuat, X. Carreras, &amp; E. M. Vecchi (Eds.), <em>Proceedings of the eighth workshop on syntax, semantics and structure in statistical translation </em>(pp. 103\u2013111). Association for Computational Linguistics. <a href=\"https://doi.org/10.3115/v1/W14-4012\" target=\"_blank\">https://doi.org/10.3115/v1/W14-4012</a></p>",
+              "customLabel": "Cho et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nh4c4lbpuuo",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In 2017, researchers at Google proposed a novel type of neural network, called a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "transformer architecture"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrper5yn66o",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj7fpepfws6\" data-reactroot=\"\">Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, L., &amp; Polosukhin, I. (2017). Attention is all you need. <em>Advances in Neural Information Processing Systems,</em> 31.</p>",
+              "customLabel": "Vaswani et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), that was entirely feedforward (meaning that it had no recurrence) but captured long-range dependencies among sequence tokens via a mechanism called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "attention"
+          },
+          {
+            "type": "text",
+            "text": ". Transformers substantially outperformed previous RNNs on language modeling. Moreover, unlike RNNs, many aspects of the transformer architecture are easily parallelizable on specialized hardware, enabling substantial scaling of training and inference processes. At present, nearly all LLMs use transformer architectures, the largest having one trillion or more parameters. "
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "npr125je8m9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "LLMs are "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "generative models"
+          },
+          {
+            "type": "text",
+            "text": ", which, given a prompt (decomposed into tokens), compute a probability distribution over the model\u2019s vocabulary and probabilistically select the next token to generate. This process can be iterated by appending the generated token to the original prompt and using this new prompt to choose the next token, and so on, to generate new text of any length. LLMs typically have a fixed-length "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "context window"
+          },
+          {
+            "type": "text",
+            "text": " for their input, in which the original prompt and added tokens are stored; when the context window is full, a token is dropped from the beginning in order to add a new token at the end."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "npyz71f6fze",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "LLMs are built on the transformer architecture, which consists of layers of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "transformer blocks"
+          },
+          {
+            "type": "text",
+            "text": ". Each block contains an "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "attention layer"
+          },
+          {
+            "type": "text",
+            "text": " that feeds into a traditional multilayer perceptron. Each attention layer can have multiple "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "attention heads"
+          },
+          {
+            "type": "text",
+            "text": ", each of which computes new token embeddings that incorporate some aspect of the context of other tokens in the sequence. The final output of the network is a probability distribution over all tokens in the vocabulary, from which new tokens can be probabilistically selected. As an example of the scale of LLMs, OpenAI\u2019s GPT-3 model has 96 layers of transformer blocks, each of which contains 96 attention heads, with a total of 175 billion tunable parameters ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx1u6hjpom1",
+              "href": null,
+              "value": "@inproceedings{BrownMRSKDNSSAA20,\n  title = {Language Models are Few-Shot Learners},\n  author = {Tom B. Brown and Benjamin Mann and Nick Ryder and Melanie Subbiah and Jared Kaplan and Prafulla Dhariwal and Arvind Neelakantan and Pranav Shyam and Girish Sastry and Amanda Askell and Sandhini Agarwal and Ariel Herbert-Voss and Gretchen Krueger and Tom Henighan and Rewon Child and Aditya Ramesh and Daniel M. Ziegler and Jeffrey Wu 0003 and Clemens Winter and Christopher Hesse and Mark Chen and Eric Sigler and Mateusz Litwin and Scott Gray and Benjamin Chess and Jack Clark and Christopher Berner and Sam McCandlish and Alec Radford and Ilya Sutskever and Dario Amodei},\n  year = {2020},\n  url = {https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html},\n  researchr = {https://researchr.org/publication/BrownMRSKDNSSAA20},\n  cites = {0},\n  citedby = {0},\n  booktitle = {Advances in Neural Information Processing Systems 33: Annual Conference on Neural Information Processing Systems 2020, NeurIPS 2020, December 6-12, 2020, virtual},\n  editor = {Hugo Larochelle and Marc'Aurelio Ranzato and Raia Hadsell and Maria-Florina Balcan and Hsuan-Tien Lin},\n}",
+              "unstructuredValue": "",
+              "customLabel": "Brown et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). More recent models have one trillion or more parameters ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n93xvn97cic",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nna5nhlldkp\" data-reactroot=\"\">Minaee, S., Mikolov, T., Nikzad, N., Chenaghlu, M., Socher, R., Amatriain, X., &amp; Gao, J. (2024). <em>Large language models: A survey</em>. arXiv. https://doi.org/10.48550/arXiv.2402.06196</p>",
+              "customLabel": "Minaee et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n24ea2jv0vm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "LLMs are trained on large corpora of text data. A masked training method was used for the early LLM BERT ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbaxaaogibn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnbh7pbh91p\" data-reactroot=\"\">Devlin, J., Chang, M. W., Lee, K., &amp; Toutanova, K. (2018). BERT: Pre-training of deep bidirectional transformers for language understanding. In J. Burstein, C. Doran, &amp; T. Solorio (Eds.), <em>Proceedings of the 2019 conference of the North American chapter of the Association for Computational Linguistics: human language technologies</em>, <em>Volume 1</em> (pp. 4171\u20134186). Association for Computational Linguistics.</p>",
+              "customLabel": "Devlin et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "): certain tokens in the input text are omitted, and the training objective is to predict these \u201cmasked\u201d tokens. OpenAI\u2019s GPT models use an autoregressive training method: the last token in an input text is omitted, and the model\u2019s objective is to predict that token."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nb6rz2zntwf",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Such "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "self"
+          },
+          {
+            "type": "text",
+            "text": "-"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "supervised"
+          },
+          {
+            "type": "text",
+            "text": " training, without any specific task objective, is called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "pre-training"
+          },
+          {
+            "type": "text",
+            "text": ". The pre-trained model is called a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "base model"
+          },
+          {
+            "type": "text",
+            "text": " or a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "foundation model"
+          },
+          {
+            "type": "text",
+            "text": ". For many applications, the model must be fine-tuned (i.e., additionally trained) on data that is designed or collected for a specific task. Such fine-tuning takes several forms. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Supervised fine-tuning"
+          },
+          {
+            "type": "text",
+            "text": " uses curated texts with human-created labels that are relevant to specific tasks an LLM might be adapted for, such as summarization or sentiment analysis. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Instruction tuning"
+          },
+          {
+            "type": "text",
+            "text": " uses datasets with human-created examples in which prompts contain instructions and the desired responses show the model how to carry out the instructions. Similar curated datasets are also used to train LLMs to engage in conversation (e.g., become chatbots). Other fine-tuning methods include "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "reinforcement learning from human feedback"
+          },
+          {
+            "type": "text",
+            "text": ", often used to train LLMs to avoid biased, inappropriate, or other unwanted outputs. Like pre-training, all such fine-tuning methods result in a model that predicts new tokens in response to a prompt, but by tuning weights to create a friendly, nontoxic chatbot that obeys instructions (e.g., OpenAI\u2019s ChatGPT), they go beyond the language-modeling objective that simply relies on statistics of natural language found in general text corpora."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "successes-and-limitations-of-llms",
+          "id": "successes-and-limitations-of-llms",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Successes and limitations of LLMs"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "np92ifn1ain",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "LLMs have been remarkably successful, both in their abilities to model and generate natural language and in their benefits as foundations on which more general AI systems can be built (hence the term "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "foundation models"
+          },
+          {
+            "type": "text",
+            "text": "). LLMs now dominate applications in natural language processing and have been applied to many areas beyond language, including computer code generation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvsbp2d7y3l",
+              "href": null,
+              "value": "https://doi.org/10.48550/arXiv.2304.13187",
+              "unstructuredValue": "",
+              "customLabel": "Poldrack et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nf3z9bzflw4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n80ylyf0buh\" data-reactroot=\"\">Rozi\u00e8re, B., Gehring, J., Gloeckle, F., Sootla, S., Gat, I., Tan, X. E., Adi, Y., Liu, J., Sauvestre, R., Remez, T., Rapin, J., Kozhevnikov, A., Evtimov, I., Bitton, J., Bhatt, M., Canton Ferrer, C., Grattafiori, A., Xiong, W., D\u00e9fossez, A., . . . Synnaeve, G. (2023). <em>Code Llama: Open foundation models for code</em>. arXiv. https://doi.org/10.48550/arXiv.2308.12950</p>",
+              "customLabel": "Roziere et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), medical applications ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n46qqc5hhbb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2tqxkm5zb8\" data-reactroot=\"\">Zhou, H., Liu, F., Gu, B., Zou, X., Huang, J., Wu, J., Li, Y., Chen, S. S., Zhou, P., Liu, J., Hua, Y., Mao, C., You, C., Wu, X., Zheng, Y., Clifton, L., Li, Z., Luo, J., &amp; Clifton, D. A. (2023). <em>A survey of large language models in medicine: Progress, application, and challenge</em>. arXiv. https://doi.org/10.48550/arXiv.2311.05112</p>",
+              "customLabel": "Zhou et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), robotics ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrc6m5iibij",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0un9ty4owr\" data-reactroot=\"\">Vemprala, S. H., Bonatti, R., Bucker, A., &amp; Kapoor, A. (2023). ChatGPT for robotics: Design principles and model abilities. <em>Microsoft Autonomous Systems and Robots Research. </em>https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf</p>",
+              "customLabel": "Vemprala et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), financial prediction ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nu4ta40ibnj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njc566lfvgi\" data-reactroot=\"\">Yu, X., Chen, Z., Ling, Y., Dong, S., Liu, Z., &amp; Lu, Y. (2023). <em>Temporal data meets LLM: Explainable financial time series forecasting</em>. arXiv. https://doi.org/10.48550/arXiv.2306.11025</p>",
+              "customLabel": "Yu et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and other diverse applications."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfzk8otpr5s",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "However, in spite of their successes, these models have several weaknesses that have limited their widespread deployment. Because their pretraining objective is to generate statistically likely next tokens, they are prone to what have been called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "hallucinations"
+          },
+          {
+            "type": "text",
+            "text": ": generating (often plausible-sounding) untrue statements or information ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3c3a1hr2zq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmmkeh1s51g\" data-reactroot=\"\">Xu, Z., Jain, S., &amp; Kankanhalli, M. (2024). <em>Hallucination is inevitable: An innate limitation of large language models</em>. arXiv. https://doi.org/10.48550/arXiv.2401.11817</p>",
+              "customLabel": "Xu et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). LLMs have also absorbed human-like biases concerning race, gender, and other attributes. In spite of fine-tuning designed to mitigate such biases, models built on LLMs have exhibited such biases in both explicit and subtle ways ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb2nmk2lfpu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqfo8bajmy9\" data-reactroot=\"\">Weidinger, L., Uesato, J., Rauh, M., Griffin, C., Huang, P., Mellor, J., Glaese, A., Cheng, M., Balle, B., Kasirzadeh, A., Biles, C., Brown, S., Kenton, Z., Hawkins, W., Stepleton, T., Birhane, A., Hendricks, L., Rimell, L., Isaac, W., . . . Gabriel, I. (2022). Taxonomy of risks posed by language models. In <em>Proceedings of the 2022 ACM conference on fairness, accountability, and transparency</em> (pp. 214\u2013229). Association for Computing Machinery. <a href=\"https://doi.org/10.1145/3531146.3533088\" target=\"_blank\">https://doi.org/10.1145/3531146.3533088</a></p>",
+              "customLabel": "Weidinger et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Other liabilities of LLMs include the possibly illegal inclusion of copyrighted materials in their training data and their outputs ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlqyils4mtz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfv7ipfoqtg\" data-reactroot=\"\">Karamolegkou, A., Li, J., Zhou, L., &amp; S\u00f8gaard, A. (2023). <em>Copyright violations and large language models</em>. arXiv. https://doi.org/10.48550/arXiv.2310.13771</p>",
+              "customLabel": "Karamolegkou et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), the possibility of security risks and privacy violations by such models ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw1dkw08h8d",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzl1rroi3at\" data-reactroot=\"\">Yao, Y., Duan, J., Xu, K., Cai, Y., Sun, Z., &amp; Zhang, Y. (2024). A survey on large language model (LLM) security and privacy: The good, the bad, and the ugly. <em>High-Confidence Computing</em>, <em>4</em>(2). https://doi.org/10.1016/j.hcc.2024.100211</p>",
+              "customLabel": "Yao et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), the use of such models to spread disinformation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndpy383p5pa",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nu98xtxvbms\" data-reactroot=\"\">Jiang, B., Tan, Z., Nirmal, A., &amp; Liu, H. (2024). Disinformation detection: An evolving challenge in the age of LLMs. <em>Proceedings of the 2024 SIAM International Conference on Data Mining (SDM)</em>, 427\u2013435. <a href=\"https://doi.org/10.1137/1.9781611978032.50\" target=\"_blank\">https://doi.org/10.1137/1.9781611978032.50</a></p>",
+              "customLabel": "Jiang et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and the requirement for unsustainable amounts of electricity, water, and other resources needed for their operation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nix0iaujt66",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nupkzo1yjki\" data-reactroot=\"\">Luccioni, A. S., Jernite, Y., &amp; Strubell, E. (2023). <em>Power hungry processing: Watts driving the cost of AI deployment?</em> arXiv. https://doi.org/10.48550/arXiv.2311.16863</p>",
+              "customLabel": "Luccioni et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "evaluation-of-llms",
+          "id": "evaluation-of-llms",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Evaluation of LLMs"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nsb99gbrppm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The quality of pre-trained LLMs is often evaluated in terms of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "perplexity"
+          },
+          {
+            "type": "text",
+            "text": ", an information-theoretic measure that captures how well LLMs perform at predicting tokens that follow given sequences ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwal0jy9oc7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwd4vr9wd4u\" data-reactroot=\"\">Rosenfeld, R. (2000). Two decades of statistical language modeling: Where do we go from here? <em>Proceedings of the IEEE,</em> <em>88</em>(8), 1270\u20131278. <a href=\"https://doi.org/10.1109/5.880083\" target=\"_blank\">https://doi.org/10.1109/5.880083</a></p>",
+              "customLabel": "Rosenfeld, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, perplexity does not always correlate well with the capability of LLMs (and their fine-tuned versions) to perform specific tasks. Thus, these models are typically tested on standard benchmarks that assess abilities to perform diverse tasks involving language and reasoning as well as on standardized tests designed for humans ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no8b5g38jvz",
+              "href": null,
+              "value": "https://doi.org/10.48550/arXiv.2307.03109",
+              "unstructuredValue": "",
+              "customLabel": "Chang et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). There has been considerable controversy over how informative such evaluations are. Some issues with benchmark-based evaluations are (1) the possibility of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "data contamination"
+          },
+          {
+            "type": "text",
+            "text": "\u2014whether parts of these benchmarks (or very similar items) are contained in the models\u2019 training data, which is often impossible to determine, as commercial companies typically don\u2019t reveal training data; (2) the possibility of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "shortcuts"
+          },
+          {
+            "type": "text",
+            "text": "\u2014unintended statistical associations in tests that might be used by the model to predict answers without actually performing the underlying general ability being tested; and (3) the issue of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "test validity"
+          },
+          {
+            "type": "text",
+            "text": "\u2014whether scoring high on a benchmark translates into similar performance in real-world tasks."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "scaling-and-emergent-capabilities-in-llms",
+          "id": "scaling-and-emergent-capabilities-in-llms",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Scaling and emergent capabilities in LLMs"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ni7s0ttber7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Many studies have shown that the quality of LLMs, measured both in terms of perplexity and in improvement on benchmarks, scales in predictable ways with model size (number of parameters), amount of pre-training data, and computational resources for training ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ne2fjjydf30",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqkxv4rc3i3\" data-reactroot=\"\">Kaplan, J., McCandlish, S., Henighan, T., Brown, T. B., Chess, B., Child, R., Gray, S., Radford, A., Wu, J., &amp; Amodei, D. (2020). <em>Scaling laws for neural language models</em>. arXiv. https://doi.org/10.48550/arXiv.2001.08361</p>",
+              "customLabel": "Kaplan et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Other studies have shown that certain capabilities in LLMs seem to emerge only at certain scales ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nj01c72ccgz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk1h1w99dfi\" data-reactroot=\"\">Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., Yogatama, D., Bosma, M., Zhou, D., Metzler, D., Chi, E. H., Hashimoto, T., Vinyals, O., Liang, P., Dean, J., &amp; Fedus, W. (2022a). <em>Emergent abilities of large language models</em>. arXiv. https://doi.org/10.48550/arXiv.2206.07682</p>",
+              "customLabel": "Wei et al., 2022a",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, other studies have proposed that the apparent abrupt emergence of such capabilities is an artifact of the evaluation metrics used, not an intrinsic property of scaling ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxzusuuz9gc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmmcyibykhd\" data-reactroot=\"\">Schaeffer, R., Miranda, B., &amp; Koyejo, S. (2024). A<em>re emergent abilities of large language models a mirage?</em> arXiv. https://doi.org/10.48550/arXiv.2304.15004</p>",
+              "customLabel": "Schaeffer et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "reasoning-and-planning-in-llms",
+          "id": "reasoning-and-planning-in-llms",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Reasoning and planning in LLMs"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhq00cf95za",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The abilities of fine-tuned LLMs to reason and plan have been widely debated and remain controversial. Numerous studies have claimed that LLMs can perform sophisticated mathematical and other types of reasoning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nt6a4q4a0vi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nty1ov5tijo\" data-reactroot=\"\">Huang, J., &amp; Chang, K. C. C. (2023). Towards reasoning in large language models: A survey. In A. Rogers, J. Boyd-Graber, N. Okazaki (Eds.), <em>Findings of the Association for Computational Linguistics: ACL </em>(pp. 1049\u20131065). Association for Computational Linguistics. <a href=\"https://doi.org/10.18653/v1/2023.findings-acl.67\" target=\"_blank\">https://doi.org/10.18653/v1/2023.findings-acl.67</a></p>",
+              "customLabel": "Huang & Chang, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and that their abilities can be improved via "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Chain-of-Thought"
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "prompting"
+          },
+          {
+            "type": "text",
+            "text": ", in which they are prompted with examples of reasoning patterns and are prompted to \u201cthink step-by-step\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "neif9n76age",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nc8hgzsb4sw\" data-reactroot=\"\">Wei, J., Wang, X., Schuurmans, D., Bosma, M., Ichter, B., Xia, F., Chi, E. H., Le, Q. V., &amp; Zhou, D. (2022b). Chain-of-thought prompting elicits reasoning in large language models. <em>Advances in Neural Information Processing Systems,</em> <em>35</em>, 24824\u201324837.</p>",
+              "customLabel": "Wei et al., 2022b",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx4kiomek77",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npj6g7ca6l9\" data-reactroot=\"\">Kojima, T., Gu, S. S., Reid, M., Matsuo, Y., &amp; Iwasawa, Y. (2022). Large language models are zero-shot reasoners. <em>Advances in Neural Information Processing Systems,</em> <em>35</em>, 22199\u201322213.</p>",
+              "customLabel": "Kojima et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, other studies have pointed to many limitations in LLMs\u2019 capacity for reasoning and planning and have questioned the generality and robustness of such abilities in LLMs ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrwfevish1r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngz22itlyd2\" data-reactroot=\"\">McCoy, R. T., Yao, S., Friedman, D., Hardy, M., &amp; Griffiths, T. L. (2023). <em>Embers of autoregression: Understanding large language models through the problem they are trained to solve</em>. arXiv. https://doi.org/10.48550/arXiv.2309.13638</p>",
+              "customLabel": "McCoy, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5af0y8ui4b",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3su9e7tiry\" data-reactroot=\"\">Wu, Z., Qiu, L., Ross, A., Aky\u00fcrek, E., Chen, B., Wang, B., Kim, N., Andreas, J., &amp; Kim, Y. (2023). <em>Reasoning or reciting? Exploring the capabilities and limitations of language models through counterfactual tasks</em>. arXiv. https://doi.org/10.48550/arXiv.2307.02477</p>",
+              "customLabel": "Wu et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), hypothesizing that these systems\u2019 performance on certain problems is due to \u201capproximate retrieval\u201d of similar reasoning patterns in their training data ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4oqkwh4gb0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7b1z80q8h6\" data-reactroot=\"\">Kambhampati, S. (2024). Can large language models reason and plan? <em>Annals of the New York Academy of Sciences,</em> <em>1534</em>(1), 15\u201318. <a href=\"https://doi.org/10.1111/nyas.15125\" target=\"_blank\">https://doi.org/10.1111/nyas.15125</a></p>",
+              "customLabel": "Kambhampati, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") rather than abstract reasoning abilities."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "extensions-to-llms",
+          "id": "extensions-to-llms",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Extensions to LLMs"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n93qy67zet4",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In order to improve and increase their capabilities, LLMs are being extended in many ways, such as being given the ability to call on \u201cscratchpads\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nj7ft8323pb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n65ds13npkd\" data-reactroot=\"\">Nye, M., Andreassen, A. J., Gur-Ari, G., Michalewski, H., Austin, J., Bieber, D., Dohan, D., Lewkowycz, A., Bosma, M., Luan, D., Sutton, C., &amp; Odena, A. (2021). <em>Show your work: Scratchpads for intermediate computation with language models</em>. arXiv. https://doi.org/10.48550/arXiv.2112.00114</p>",
+              "customLabel": "Nye et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), code interpreters, symbolic calculators, and other external tools, to search the web and use the results to back up claims ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni11fu964yu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2hjf1xfqrx\" data-reactroot=\"\">Gao, Y., Xiong, Y., Gao, X., Jia, K., Pan, J., Bi, Y., Dai, Y., Sun, J., Wang, M., &amp; Wang, H. (2023). <em>Retrieval-augmented generation for large language models: A survey</em>. arXiv. https://doi.org/10.48550/arXiv.2312.10997</p>",
+              "customLabel": "Gao et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and to perform actions on the internet. In addition, LLMs are being extended to be "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "multimodal\u2014"
+          },
+          {
+            "type": "text",
+            "text": "that is, to integrate language with data in other modalities, such as images and videos ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngigezljmrf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1ombra50a8\" data-reactroot=\"\">Koh, J. Y., Salakhutdinov, R., &amp; Fried, D. (2023). Grounding language models to images for multimodal inputs and outputs. <em>Proceedings of the 40th International Conference on Machine Learning (ICML)</em>, 17283\u201317300.</p>",
+              "customLabel": "Koh et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nis6ylh6jvt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7nznf22t8z\" data-reactroot=\"\">Liu, Y., Zhang, K., Li, Y., Yan, Z., Gao, C., Chen, R., Yuan, Z., Huang, Y., Sun, H., Gao, J., He, L., &amp; Sun, L. (2024). <em>Sora: A review on background, technology, limitations, and opportunities of large vision models</em>. arXiv. https://doi.org/10.48550/arXiv.2402.17177</p>",
+              "customLabel": "Liu et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6x6hf8d7up",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "LLMs have touched on nearly all areas of cognitive science and have played many roles, including (among others) as proof of principle for or against linguistic hypotheses [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xohbfbix",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Language Acquisition"
+          },
+          {
+            "type": "text",
+            "text": "] ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nu03ve8b9oj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n21at9cyhvn\" data-reactroot=\"\">Mahowald, K., Ivanova, A. A., Blank, I. A., Kanwisher, N., Tenenbaum, J. B., &amp; Fedorenko, E. (2024). Dissociating language and thought in large language models. <em>Trends in Cognitive Sciences,</em> <em>28</em>, 517\u2013540. <a href=\"https://doi.org/10.1016/j.tics.2024.01.011\" target=\"_blank\">https://doi.org/10.1016/j.tics.2024.01.011</a></p>",
+              "customLabel": "Mahowald et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny264tuxwsi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbn3geastfe\" data-reactroot=\"\">Piantadosi, S. (2023). Modern language models refute Chomsky\u2019s approach to language. <a href=\"https://lingbuzz.net/lingbuzz/007180\" target=\"xrefwindow\">https://lingbuzz.net/lingbuzz/007180</a></p>",
+              "customLabel": "Piantadosi, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), as models of neuroscientific and cognitive processes ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlovzgunxqp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n18xoqu3226\" data-reactroot=\"\">Hardy, M., Sucholutsky, I., Thompson, B., &amp; Griffiths, T. (2023). Large language models meet cognitive science: LLMs as tools, models, and participants. <em>Proceedings of the Annual Meeting of the Cognitive Science Society, 45</em>.</p>",
+              "customLabel": "Hardy et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n943upkp5wd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf85lv2irij\" data-reactroot=\"\">Schrimpf, M., Blank, I., Tuckute, G., Kauf, C., Hosseini, E. A., Kanwisher, N., Tenenbaum, J., &amp; Fedorenko, E. (2020). <em>Artificial neural networks accurately predict language processing in the brain</em>. BioRxiv. https://doi.org/10.1101/2020.06.26.174482</p>",
+              "customLabel": "Schrimpf et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), as proposed replacements for human participants in experiments ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvdl8v83xfc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngzasf2qp1d\" data-reactroot=\"\">Crockett, M., &amp; Messeri, L. (2023). <em>Should large language models replace human participants?</em> PsyArXiv. <a href=\"https://doi.org/10.31234/osf.io/4zdx9\">https://doi.org/10.31234/osf.io/4zdx9</a></p>",
+              "customLabel": "Crockett & Messeri, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqbbu3rw6dz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npd4gn8zi2a\" data-reactroot=\"\">Dillion, D., Tandon, N., Gu, Y., &amp; Gray, K. (2023). Can AI language models replace human participants? <em>Trends in Cognitive Sciences,</em> <em>27</em>(7), 597\u2013600. <a href=\"https://doi.org/10.1016/j.tics.2023.04.008\" target=\"_blank\">https://doi.org/10.1016/j.tics.2023.04.008</a></p>",
+              "customLabel": "Dillion et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and as foils for showing how humans and machines differ ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no1uvlhu7np",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkemmoy82n0\" data-reactroot=\"\">Mitchell, M., Palmarini, A. B., &amp; Moskvichev, A. (2023).<em> Comparing humans, GPT-4, and GPT-4V on abstraction and reasoning tasks</em>. arXiv. https://doi.org/10.48550/arXiv.2311.09247</p>",
+              "customLabel": "Mitchell et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnwjid5elew",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3k54br9o89\" data-reactroot=\"\">West, P., Lu, X., Dziri, N., Brahman, F, Li, L., Hwang, J. D., Jiang, L., Fisher, J, Ravichander, A., Raghavi Chandu, K., Newman, B., Koh, P. W., Ettinger, A., and Choi, Y. (2023). The generative AI paradox: \u201cWhat it can create, it may not understand\u201d. <em>The Twelfth International Conference on Learning Representations</em>.</p>",
+              "customLabel": "West et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6x4jaw6rwg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0v67nclaut\" data-reactroot=\"\">Yiu, E., Kosoy, E., &amp; Gopnik, A. (2023). Transmission versus truth, imitation versus innovation: What children can do that large language and language-and-vision models cannot (yet). <em>Perspectives on Psychological Science</em>.<em> </em><a href=\"https://doi.org/10.1177/17456916231201401\" target=\"_blank\">https://doi.org/10.1177/17456916231201401</a></p>",
+              "customLabel": "Yiu et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading "
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "ncyv9ilwj2s",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nto4o9stl2u",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Child, R. Ramesh, A., Ziegler, D. M., Wu, J., Winter, C., Hesse, C., Chen, M., Sigler, E., Litwin, M., Gray, S., Chess, B., Clark, J., Berner, C. McCandlish, S., Radford, A., Sutskever, I., & Amodei, D. (2020). Language models are few-shot learners. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Advances in Neural Information Processing Systems"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "33"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 1877\u20131901."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nbjlcyugjxq",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, L. & Polosukhin, I. (2017). Attention is all you need. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Advances in Neural Information Processing Systems"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "31"
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

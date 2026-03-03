@@ -1,0 +1,3125 @@
+{
+  "id": "57de91a4-6aac-4561-9cf2-6ce86fa6e7a9",
+  "slug": "h0rivqh3",
+  "title": "Face Perception",
+  "url": "https://oecs.mit.edu/pub/h0rivqh3",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "57de91a4-6aac-4561-9cf2-6ce86fa6e7a9",
+    "slug": "h0rivqh3",
+    "title": "Face Perception",
+    "htmlTitle": "Face Perception",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": "2024-07-24T00:00:00.000Z",
+    "doi": "10.21428/e2759450.57de91a4",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "vclp0src",
+    "editHash": "cgc3fzw0",
+    "reviewHash": "smuravd9",
+    "commentHash": "n6hrwcrz",
+    "draftId": "9b39e592-65ea-451c-b9b2-5059c425c5a6",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "2ad710c0-3fd9-4b95-b035-05daf43db7ab",
+    "scopeSummaryId": "b249c9da-6c86-4b24-b05c-cc3a1f2dd4a2",
+    "createdAt": "2024-04-17T19:27:02.804Z",
+    "updatedAt": "2024-07-24T13:00:43.299Z",
+    "attributions": [
+      {
+        "id": "48d6fca6-6d4a-4ce6-9c51-0cb81339e1f4",
+        "name": "A. Mike Burton",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of York, UK and Bond University, Australia",
+        "orcid": "0000-0002-2035-2084",
+        "userId": null,
+        "pubId": "57de91a4-6aac-4561-9cf2-6ce86fa6e7a9",
+        "createdAt": "2024-04-23T16:22:53.795Z",
+        "updatedAt": "2024-04-23T16:23:48.762Z",
+        "user": null
+      },
+      {
+        "id": "ae41f7d8-b0e1-4503-a1f1-7bba48d0a982",
+        "name": "Asifa Majid",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "University of Oxford",
+        "orcid": "0000-0003-0132-216X",
+        "userId": null,
+        "pubId": "57de91a4-6aac-4561-9cf2-6ce86fa6e7a9",
+        "createdAt": "2024-07-23T21:25:44.623Z",
+        "updatedAt": "2024-07-23T21:25:59.662Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "9b39e592-65ea-451c-b9b2-5059c425c5a6",
+      "latestKeyAt": "2024-07-23T11:14:25.552Z",
+      "firebasePath": "drafts/draft-9b39e592-65ea-451c-b9b2-5059c425c5a6",
+      "createdAt": "2024-04-17T19:27:02.785Z",
+      "updatedAt": "2024-07-24T13:00:06.445Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nlpbi6k49ti",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The human face sends many different signals. We can identity somebody, if we happen to know them, but we can also judge their emotional state from their expression, perhaps read their lips if they are speaking, or follow their gaze. We can make broad judgments about somebody\u2019s age, gender, and perhaps cultural background, all in signals from the face. The core question in face research is to understand how the perceptual system decodes all this information carried in the visual signal. Researchers have drawn from multiple techniques to understand how different parts of the perceptual system are organized. There is also a growing understanding of the neural structures involved in face recognition and the ways in which these are integrated into our more general knowledge about people. There remain some mysteries about how we recognize each other, but research in face recognition has generated some robust findings, now adopted into forensic and security settings."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncwr21jykxl",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A key research ambition in the study of face perception has been to understand how the many different sources of information in a face are processed. For example, when recognizing a smiling friend, how do we compute that we are seeing a friend and seeing a smile, and to what extent are the same processes involved when we see a smiling stranger? Does the analysis of facial information occur in a fixed sequence, or do some processes occur in parallel? Early functional accounts of face perception culminated in the "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nej5qb8azjh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7xel52p4ea\" data-reactroot=\"\">Bruce, V., &amp; Young, A. (1986). Understanding face recognition. <em>British Journal of Psychology,</em> <em>77</em>, 305\u2013327. <a href=\"https://doi.org/10.1111/j.2044-8295.1986.tb02199.x\" target=\"_blank\">https://doi.org/10.1111/j.2044-8295.1986.tb02199.x</a></p>",
+              "customLabel": "Bruce and Young (1986)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " model, which set out to delineate the various cognitive processes involved in face perception and to place these in the context of word and object recognition\u2014about which much more was known at the time. This same approach, differentiating perception of different signals, was later taken when uncovering the neural architecture supporting face perception, such as in the influential model of "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkrle1ttnmo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5uoz98486i\" data-reactroot=\"\">Haxby, J. V., Hoffman, E. A., &amp; Gobbini, M. I. (2000). The distributed human neural system for face perception. <em>Trends in Cognitive Sciences,</em> <em>4</em>(6), 223\u2013233. <a href=\"https://doi.org/10.1016/S1364-6613(00)01482-0\" target=\"_blank\">https://doi.org/10.1016/S1364-6613(00)01482-0</a></p>",
+              "customLabel": "Haxby et al. (2000)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4ahm54nn36",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The degree to which we all experience similar perceptions of faces has been a longstanding research question in the field. For example, early research by "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n85soiv2ph9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nahk04tfs69\" data-reactroot=\"\">Ekman, P., &amp; Friesen, W. V. (1971). Constants across cultures in the face and emotion. <em>Journal of Personality and Social Psychology,</em> <em>17</em>(2), 124\u2013129. <a href=\"https://doi.org/10.1037/h0030377\" target=\"_blank\">https://doi.org/10.1037/h0030377</a></p>",
+              "customLabel": "Ekman and Friesen (1971)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " suggested that the generation of emotional expression, and consequently its perception, was to some extent shared across all human cultures, an idea that had earlier been expressed by Charles Darwin. Similarly, the idea that all human viewers might find the same faces attractive has been much studied\u2014an idea that is also found in ancient civilizations, including early Egyptian and Greek cultures who sought formulaic descriptions of facial beauty. The extent to which these, and other, perceptions of faces are indeed universal, societal, or personal remains a topic of detailed study today."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9je3d3guiz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Much of the early psychological research in face recognition focused on the problem of eyewitness memory. It has been known for many years that witnesses observing an event may subsequently make errors in good faith, either failing to recognize someone present at the event or misidentifying someone who was not present ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nex869nuwr0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7wgd3b077x\" data-reactroot=\"\">Wells, G. L., &amp; Olson, E. A. (2003). Eyewitness testimony. <em>Annual Review of Psychology,</em> <em>54</em>(1), 277\u2013295. <a href=\"https://doi.org/10.1146/annurev.psych.54.101601.145028\" target=\"_blank\">https://doi.org/10.1146/annurev.psych.54.101601.145028</a></p>",
+              "customLabel": "Wells & Olson, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). From the 1960s onward, researchers have aimed to reduce these errors, for example, by making recommendations about lineup procedures or interview techniques. While this research has been influential in jurisdictions around the world, the fallible nature of eyewitness testimony remains a significant problem."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqqyj6z83ci",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "At the same time that researchers began to study poor face recognition in the real world, an apparently contradictory body of evidence was accumulating in laboratory-based memory. A number of researchers reported extremely good memory for photographs; for example, people could identify several thousand photographs seen for the first time a few days earlier ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndwgs5x8dnp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nar4gp0q25m\" data-reactroot=\"\">Standing, L., Conezio, J., &amp; Haber, R. N. (1970). Perception and memory for pictures: Single-trial learning of 2500 visual stimuli. <em>Psychonomic Science,</em> <em>19</em>(2), 73\u201374. <a href=\"https://doi.org/10.3758/BF03337426\" target=\"_blank\">https://doi.org/10.3758/BF03337426</a></p>",
+              "customLabel": "Standing et al., 1970",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This apparently excellent memory performance was especially marked for pictures of faces, which seemed much better than memory for images of other stimuli, such as houses or snowflakes ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no675s4ilyj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyknyolf54y\" data-reactroot=\"\">Goldstein, A. G., &amp; Chance, J. E. (1971). Visual recognition memory for complex configurations. <em>Perception &amp; Psychophysics,</em> <em>9</em>(2), 237\u2013241. <a href=\"https://doi.org/10.3758/BF03212641\" target=\"_blank\">https://doi.org/10.3758/BF03212641</a></p>",
+              "customLabel": "Goldstein & Chance, 1971",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This apparent paradox, good memory for faces in the laboratory alongside frequent well-documented memory errors in the real world, attracted experimental psychologists to the field."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nao1jkgukus",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In modern times, face perception research has recruited findings from a wide variety of methods, including laboratory experiments, cognitive neuropsychology, developmental psychology, computational modeling, cognitive neuroscience, and, more recently, individual differences. As the sophistication of these techniques has developed, technical advances have been incorporated into experiment and theory. A coherent theoretical understanding of the processes underlying face perception has emerged slowly and remains incomplete. Progress has typically occurred through consensus based on converging evidence from numerous sources rather than discrete \u201cbreakthroughs,\u201d though, of course, many theoretical debates are ongoing."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "familiarity-and-recognition",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Familiarity and recognition"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfopub31oo7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Most humans are extremely good at recognizing the people they know. With seemingly no conscious effort, we interact with our family, friends, and colleagues, rarely puzzling over their identity, and we can identify these people even in very poor images ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nljol8ymuwe",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1t287afp9v\" data-reactroot=\"\">Burton, A. M., Wilson, S., Cowan, M., &amp; Bruce, V. (1999). Face recognition in poor-quality video: Evidence from security surveillance. <em>Psychological Science,</em> <em>10</em>(3), 243\u2013248. <a href=\"https://doi.org/10.1111/1467-9280.00144\" target=\"_blank\">https://doi.org/10.1111/1467-9280.00144</a></p>",
+              "customLabel": "Burton et al., 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, this ability stands in stark contrast to our recognition of unfamiliar people. As noted, witnesses asked to recognize someone who was seen for the first time during some critical incident are often mistaken. In fact, while a great deal of research on eyewitness memory has focused on fallible memory, it turns out that people are poor at recognizing unfamiliar faces, even in situations that do not require memory."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrbj565durn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In face matching tasks, viewers are asked to indicate whether faces presented simultaneously belong to the same person or not. These tasks might be presented as lineups (e.g., \u201cWhich of these people is the target face?\u201d) or simple paired tasks (e.g., \u201cAre these two photos the same person?\u201d). These types of decisions are commonplace in everyday life, such as when proving one\u2019s identity using a passport or other photo ID. Matching is also important in more specialist settings, such as when police officers attempt to identify someone captured on CCTV. However, despite the fact that face matching is commonplace, research consistently shows that people are generally poor at matching unfamiliar faces, making frequent errors, even with good quality photographs taken recently ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsafzvjbz1b",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyc7k8v3enx\" data-reactroot=\"\">Bruce, V., Henderson, Z., Greenwood, K., Hancock, P. J. B., Burton, A. M., &amp; Miller, P. (1999). Verification of face identities from images captured on video. <em>Journal of Experimental Psychology. Applied,</em> <em>5</em>(4), 339\u2013360. <a href=\"https://doi.org/10.1037/1076-898X.5.4.339\" target=\"_blank\">https://doi.org/10.1037/1076-898X.5.4.339</a></p>",
+              "customLabel": "Bruce et al., 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Perhaps even more surprising is the fact that professional people who use face matching in daily life (e.g., passport officers, notaries, check-out staff) are typically no better at the task than anyone else ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nu4em7b7xza",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7sf1btkwiw\" data-reactroot=\"\">White, D., Kemp, R. I., Jenkins, R., Matheson, M., &amp; Burton, A. M. (2014). Passport officers\u2019 errors in face matching. <em>PLoS One,</em> <em>9</em>(8), e103510. <a href=\"https://doi.org/10.1371/journal.pone.0103510\" target=\"_blank\">https://doi.org/10.1371/journal.pone.0103510</a></p>",
+              "customLabel": "White et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4u69az4wmb",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The large discrepancy between our perceptual abilities with familiar and unfamiliar faces remains a critical aspect of face perception. One key observation is that we can recognize familiar faces over a wide range of photographs (e.g., changes in view, lighting, age, expression, and so forth), whereas representations of people we do not know are more tied to specific images. For example, in memory experiments, people are good at remembering faces if the same image is used at learning and test. But if a different a photograph is used on the two occasions, familiar face recognition remains good while unfamiliar face recognition is much reduced ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nygzh5mg24h",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nx9fz15a2z9\" data-reactroot=\"\">Bruce, V. (1982). Changing faces: Visual and non-visual coding processes in face recognition. <em>British Journal of Psychology,</em> <em>73</em>(Pt 1), 105\u2013116. <a href=\"https://doi.org/10.1111/j.2044-8295.1982.tb01795.x\" target=\"_blank\">https://doi.org/10.1111/j.2044-8295.1982.tb01795.x</a></p>",
+              "customLabel": "Bruce, 1982",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This finding resolves the paradox raised in the History section: Why is laboratory-based face memory so good when memory in the field seems so poor? In short, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "picture memory"
+          },
+          {
+            "type": "text",
+            "text": " is excellent for all faces, but "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "face memory"
+          },
+          {
+            "type": "text",
+            "text": ", generalizing across different pictures, is only good for the people we already know."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nnkqv7h9y5h",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Modern studies of familiar face recognition incorporate generalizability by highlighting both between-person variability (people look different from each other) and within-person variability (the same person looks different on different occasions) ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3jxcn2re15",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n715m6howv1\" data-reactroot=\"\">Jenkins, R., White, D., Van Montfort, X., &amp; Mike Burton, A. (2011). Variability in photos of the same face. <em>Cognition,</em> <em>121</em>(3), 313\u2013323. <a href=\"https://doi.org/10.1016/j.cognition.2011.08.001\" target=\"_blank\">https://doi.org/10.1016/j.cognition.2011.08.001</a></p>",
+              "customLabel": "Jenkins et al., 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The problem of face recognition, then, incorporates both "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "telling people together"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "telling people apart"
+          },
+          {
+            "type": "text",
+            "text": ", processes which can be tracked as faces are learned and as children develop these skills ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nyf9kq08wp7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0gfa4vbyjv\" data-reactroot=\"\">Laurence, S., &amp; Mondloch, C. J. (2016). That\u2019s my teacher! Children\u2019s ability to recognize personally familiar and unfamiliar faces improves with age. <em>Journal of Experimental Child Psychology,</em> <em>143</em>, 123\u2013138. <a href=\"https://doi.org/10.1016/j.jecp.2015.09.030\" target=\"_blank\">https://doi.org/10.1016/j.jecp.2015.09.030</a></p>",
+              "customLabel": "Laurence & Mondloch, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "the-inversion-effect-holistic-and-configural-processing",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The inversion effect, holistic and configural processing"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n42t0gtk3om",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "It is easy to demonstrate that recognizing upside-down faces is difficult\u2014just present a friend with an inverted image of somebody famous. However, researchers studying the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "face inversion effect"
+          },
+          {
+            "type": "text",
+            "text": " go beyond this demonstration to investigate the claim that faces are not only difficult to process upside down but "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "particularly"
+          },
+          {
+            "type": "text",
+            "text": " difficult\u2014that is, perception of faces is affected more by inversion than are other visual stimuli. This is a longstanding idea ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxqofie5n9u",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhwuwabv7rz\" data-reactroot=\"\">Yin, R. K. (1969). Looking at upside-down faces. <em>Journal of Experimental Psychology,</em> <em>81</em>(1), 141\u2013145. <a href=\"https://doi.org/10.1037/h0027474\" target=\"_blank\">https://doi.org/10.1037/h0027474</a></p>",
+              "customLabel": "Yin, 1969",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and has been a key component of many theoretical developments within the field, including the concepts of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "configural"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "holistic"
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "processing"
+          },
+          {
+            "type": "text",
+            "text": ". There are many definitions of these terms, but the field has largely adopted those of "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvhj8siv201",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng7uusx9x87\" data-reactroot=\"\">Maurer, D., Grand, R. L., &amp; Mondloch, C. J. (2002). The many faces of configural processing. <em>Trends in Cognitive Sciences,</em> <em>6</em>(6), 255\u2013260. <a href=\"https://doi.org/10.1016/S1364-6613(02)01903-4\" target=\"_blank\">https://doi.org/10.1016/S1364-6613(02)01903-4</a></p>",
+              "customLabel": "Maurer et al. (2002)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ": "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Holistic processing"
+          },
+          {
+            "type": "text",
+            "text": " coheres facial features into a perceptual gestalt, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "first order configural processing"
+          },
+          {
+            "type": "text",
+            "text": " involves detection of the basic layout of a face (eyes above nose above mouth), and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "second order configural processing"
+          },
+          {
+            "type": "text",
+            "text": " is sensitive to the spatial layout of the facial features."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nzgonesjgxb",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Holistic processing is often demonstrated using the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "composite face effect"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nq427jy9erk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzn8wsh3n9d\" data-reactroot=\"\">Young, A. W., Hellawell, D., &amp; Hay, D. C. (1987). Configurational information in face perception. <em>Perception,</em> <em>16</em>(6), 747\u2013759. <a href=\"https://doi.org/10.1068/p160747\" target=\"_blank\">https://doi.org/10.1068/p160747</a></p>",
+              "customLabel": "Young et al., 1987",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). If we take the top half of one face and position it over the bottom half of another, then the two halves appear to fuse into an entirely novel identity\u2014even if the two constituent faces are well-known. (Try it.) This seems to indicate that our perceptual system is somehow designed to perceive the identity of whole faces, as though some kind of template were triggered when a face shape appears. The illusion is quickly destroyed if the two half-faces are inverted or slightly misaligned."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nevgsy6lxnm",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Holistic and configural processing have often been contrasted with "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "featural"
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "processing"
+          },
+          {
+            "type": "text",
+            "text": "\u2014a putative strategy in which individual features (eyes, noses, etc.) form the components of one\u2019s representation for a particular individual. In contrast, the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "face superiority effect"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nso91punx04",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk87hjmt0no\" data-reactroot=\"\">Tanaka, J. W., &amp; Farah, M. J. (1993). Parts and wholes in face recognition. <em>The Quarterly Journal of Experimental Psychology. A, Human Experimental Psychology,</em> <em>46</em>(2), 225\u2013245. <a href=\"https://doi.org/10.1080/14640749308401045\" target=\"_blank\">https://doi.org/10.1080/14640749308401045</a></p>",
+              "customLabel": "Tanaka & Farah, 1993",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") demonstrates the importance of a whole face. When asked to remember a particular nose, for example, viewers are more accurate when the nose appears within a whole face than when it appears in isolation or in a face in which the features have been jumbled up. The whole face context supports recognition, even though the participants are only required to remember one feature\u2014good evidence for the role of a whole-face representation."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7i98j5po3f",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Configural processing is held to underlie the face inversion effect. When turned upside down, it becomes harder to discern configural changes (moving features slightly within a face) than featural changes (e.g., swapping one set of eyes for another) ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "neuv3t5gby7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7holwrq1le\" data-reactroot=\"\">Le Grand, R., Mondloch, C. J., Maurer, D., Brent, H. P., Le Grand, R., Mondloch, C. J., Maurer, D., &amp; Brent, H. P. (2001). Neuroperception. Early visual experience and face processing. <em>Nature,</em> <em>410</em>, 890\u2013890. <a href=\"https://doi.org/10.1038/35073749\" target=\"_blank\">https://doi.org/10.1038/35073749</a></p>",
+              "customLabel": "Le Grand et al., 2001",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This leads to the hypothesis that inversion disproportionately affects configural processing and, since face recognition is held to rely on configural processing, explains why faces are particularly hard to recognize upside down. This is a very popular theoretical position, but it remains somewhat unproven in the absence of a generally agreed measure of configural processing that can be taken independently of inversion. It also remains unclear whether configural processing underlies all face processing or only processing for certain tasks. For example, are configural processes recruited equally for familiar and unfamiliar faces? And what role do they play in judgments of expression or identity?"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "the-neural-system-supporting-face-perception",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The neural system supporting face perception"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nycnhu62uq9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Advances in functional brain imaging have brought considerable progress in understanding the neural systems involved in face processing. Before imaging data became available, scientists had relied on information from neuropsychological patients whose deficits in face perception were associated with specific patterns of brain damage and on single-cell recordings made in monkeys. These sources had suggested that face perception involves the temporal cortex and is supported bilaterally in the brain but with a greater emphasis on processing in the right hemisphere."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9xjlaa49rn",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Imaging data have revealed a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "core network"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhm5snid0zw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"na4mbms4ovp\" data-reactroot=\"\">Haxby, J. V., Hoffman, E. A., &amp; Gobbini, M. I. (2000). The distributed human neural system for face perception. <em>Trends in Cognitive Sciences,</em> <em>4</em>(6), 223\u2013233. <a href=\"https://doi.org/10.1016/S1364-6613(00)01482-0\" target=\"_blank\">https://doi.org/10.1016/S1364-6613(00)01482-0</a></p>",
+              "customLabel": "Haxby et al., 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") of three brain areas that are particularly responsive to faces: the occipital face area (OFA), the fusiform face area (FFA), and the superior temporal sulcus (STS). The OFA is held to be involved in early visual processing of facial features and seems to act as an entry point to the distributed network for face processing. The FFA shows sensitivity to faces over many other classes of object (e.g., animals, houses, or jumbled faces) ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnjvtmlm2ku",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlo9orx7vq0\" data-reactroot=\"\">Kanwisher, N., McDermott, J., &amp; Chun, M. M. (1997). The fusiform face area: A module in human extrastriate cortex specialized for face perception. <em>The Journal of Neuroscience : The Official Journal of the Society for Neuroscience,</em> <em>17</em>(11), 4302\u20134311. <a href=\"https://doi.org/10.1523/JNEUROSCI.17-11-04302.1997\" target=\"_blank\">https://doi.org/10.1523/JNEUROSCI.17-11-04302.1997</a></p>",
+              "customLabel": "Kanwisher et al., 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). It is held to code those aspects of a face that are invariant, or at least change very slowly, such as a person\u2019s identity. The STS, on the other hand, is known to be involved in many social processes ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nr4v8ni5bvh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkswgfahzwo\" data-reactroot=\"\">Pitcher, D., &amp; Ungerleider, L. G. (2021). Evidence for a third visual pathway specialized for social perception. <em>Trends in Cognitive Sciences,</em> <em>25</em>(2), 100\u2013110. <a href=\"https://doi.org/10.1016/j.tics.2020.11.006\" target=\"_blank\">https://doi.org/10.1016/j.tics.2020.11.006</a></p>",
+              "customLabel": "Pitcher & Ungerleider, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and appears to be closely associated with changeable aspects of the face, such as the perception of eye gaze, expression, and lip movements\u2014all critical to our social interactions."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "npbmrsj5v6l",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Of course, our interactions with others rely on many complex sources of information and not simply on visual analysis of faces  (see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/8q02cvue",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Theory of Mind"
+          },
+          {
+            "type": "text",
+            "text": "). For the people we know, there is a large store of individual knowledge, and our relationship with the person also informs the way we behave\u2014for example, with a family member versus a colleague. For people we do not know, we nevertheless make judgments about their attitude to us based in part on their appearance. This complex array of personal information is processed in the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "extended face network"
+          },
+          {
+            "type": "text",
+            "text": ", which includes a more extensive range of brain areas, many of them not specialized for visual input. For example, it is now well-established that areas including the amygdala, anterior temporal cortex, and auditory cortex can all be recruited in our social interactions, and these are functionally connected to the core face areas FFA and STS in complex ways that are still being explored."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n8ig89fr5ak",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "While neuroimaging techniques have enabled researchers to understand "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "where"
+          },
+          {
+            "type": "text",
+            "text": " in the brain faces are analyzed, they are poorer at revealing how this process unfolds over time. In contrast, the study of event-related potentials (ERPs), which have high temporal but low spatial resolution, has shown some responses that are sensitive to faces. The best-studied ERP component is the N170\u2014a pattern of electrical negativity on the scalp that is observed roughly 170 ms after the presentation of a face, most clearly on electrodes mounted over posterior temporal sites ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nz4plxbg81n",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"np5zp0ikc3y\" data-reactroot=\"\">Bentin, S., Allison, T., Puce, A., Perez, E., &amp; McCarthy, G. (1996). Electrophysiological studies of face perception in humans. <em>Journal of Cognitive Neuroscience,</em> <em>8</em>(6), 551\u2013565. <a href=\"https://doi.org/10.1162/jocn.1996.8.6.551\" target=\"_blank\">https://doi.org/10.1162/jocn.1996.8.6.551</a></p>",
+              "customLabel": "Bentin et al., 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The N170 is generally elicited by the presentation of all faces, whether they are familiar to the viewer or not. Later components, appearing around 250 ms and 400 ms following presentation, have been hypothesized to reflect visual and then conceptual knowledge about the person shown, respectively ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npfm7ff8sel",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nc7r9jvx2z8\" data-reactroot=\"\">Wiese, H., Schipper, M., Popova, T., Burton, A. M., &amp; Young, A. W. (2023). Personal familiarity of faces, animals, objects, and scenes: Distinct perceptual and overlapping conceptual representations. <em>Cognition,</em> <em>241</em>, 105625. <a href=\"https://doi.org/10.1016/j.cognition.2023.105625\" target=\"_blank\">https://doi.org/10.1016/j.cognition.2023.105625</a></p>",
+              "customLabel": "Wiese et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "individual-differences-in-face-perception",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Individual differences in face perception"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nswg1bku2rk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "There are widespread differences in people\u2019s abilities in face perception. While there is some evidence for differing abilities in recognizing familiar people or identifying emotional expressions, the majority of work in individual differences focuses on unfamiliar face identity processing ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzwubky2xz7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0kxrtqg7cn\" data-reactroot=\"\">White, D., &amp; Burton, A. M. (2022). Individual differences and the multidimensional nature of face perception. <em>Nature Reviews Psychology,</em> <em>1</em>(5), 287\u2013300. <a href=\"https://doi.org/10.1038/s44159-022-00041-3\" target=\"_blank\">https://doi.org/10.1038/s44159-022-00041-3</a></p>",
+              "customLabel": "White & Burton, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This reflects the fact that there are some well-established tests of unfamiliar face recognition, such as the Cambridge Face Memory Test ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n77kkanhcsf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ni6owz65jq3\" data-reactroot=\"\">Duchaine, B., &amp; Nakayama, K. (2006). The Cambridge Face Memory Test: Results for neurologically intact individuals and an investigation of its validity using inverted face stimuli and prosopagnosic participants. <em>Neuropsychologia,</em> <em>44</em>(4), 576\u2013585. <a href=\"https://doi.org/10.1016/j.neuropsychologia.2005.07.001\" target=\"_blank\">https://doi.org/10.1016/j.neuropsychologia.2005.07.001</a></p>",
+              "customLabel": "Duchaine & Nakayama, 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), that have well-documented psychometric properties and relatively high levels of test\u2013retest reliability, making them good tools for work in individual differences."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmrga4qc0n5",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "There is considerable research focus on the extremes of face perception ability. Prosopagnosia refers to a deficit in which the patient cannot recognize the faces of others. In its acquired form, people may have suffered head injury or stroke. While it is often associated with other perceptual problems, some relatively \u201cpure\u201d cases exist, in which patients have no difficulty making other judgments about a face (i.e., they can point to features, estimate age, etc.) and can recognize familiar people from other cues (voices, clothes, etc.). Over recent years, there has been growing interest in "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "developmental prosopagnosia"
+          },
+          {
+            "type": "text",
+            "text": ", the condition in which people cannot recognize faces but have no known brain pathology ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8kgnap065x",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3pwwjq69jv\" data-reactroot=\"\">Barton, J. J. S., &amp; Corrow, S. L. (2016). The problem of being bad at faces. <em>Neuropsychologia,</em> <em>89</em>, 119\u2013124. <a href=\"https://doi.org/10.1016/j.neuropsychologia.2016.06.008\" target=\"_blank\">https://doi.org/10.1016/j.neuropsychologia.2016.06.008</a></p>",
+              "customLabel": "Barton & Corrow, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This condition is sometimes known as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "face blindness"
+          },
+          {
+            "type": "text",
+            "text": " and can result in social challenges associated with failing to recognize known people."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3hvq5z2xas",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "At the other end of the scale are people with extremely good face recognition abilities, labeled "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "super-recognizers"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntgvi62b4jq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"naa6zyp3ovo\" data-reactroot=\"\">Russell, R., Duchaine, B., &amp; Nakayama, K. (2009). Super-recognizers: People with extraordinary face recognition ability. <em>Psychonomic Bulletin &amp; Review,</em> <em>16</em>(2), 252\u2013257. <a href=\"https://doi.org/10.3758/PBR.16.2.252\" target=\"_blank\">https://doi.org/10.3758/PBR.16.2.252</a></p>",
+              "customLabel": "Russell et al., 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These individuals consistently score much higher than the average participant on tests of unfamiliar face identification (memory and matching) and have sometimes been recruited to specialist forensic and security organizations to support their operations. Nevertheless, this enhanced ability can come at some cost, and some super-recognizers report hiding their abilities in order not to stand out from the ordinary expectations of others."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nchtdezee82",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "While those lying at each end of the ability continuum are interesting, the full scale of abilities is utilized for research into fundamental aspects of face perception. For example, correlational studies can be used to explore the relationship between face recognition and other perceptual and cognitive abilities ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6lri74ntie",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nscvl5n43li\" data-reactroot=\"\">Yovel, G., Wilmer, J. B., &amp; Duchaine, B. (2014). What can individual differences reveal about face processing? <em>Frontiers in Human Neuroscience,</em> <em>8</em>(August), 562. <a href=\"https://doi.org/10.3389/fnhum.2014.00562\" target=\"_blank\">https://doi.org/10.3389/fnhum.2014.00562</a></p>",
+              "customLabel": "Yovel et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In fact, only relatively modest associations have been reported between face and general ability in object perception, whereas performance on different face perception tasks tends to correlate more strongly ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni9uzusf2kp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnizwv5kxja\" data-reactroot=\"\">Verhallen, R. J., Bosten, J. M., Goodbourn, P. T., Lawrance-Owen, A. J., Bargary, G., &amp; Mollon, J. D. (2017). General and specific factors in the processing of faces. <em>Vision Research,</em> <em>141</em>, 217\u2013227. <a href=\"https://doi.org/10.1016/j.visres.2016.12.014\" target=\"_blank\">https://doi.org/10.1016/j.visres.2016.12.014</a></p>",
+              "customLabel": "Verhallen et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Measures of individual differences can also be used to examine the genetic underpinnings of face recognition. Large-scale studies, including twin studies, conclude that face recognition is highly heritable ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nt2um35ygsp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nu5aa12x0cf\" data-reactroot=\"\">Wilmer, J. B., Germine, L., Chabris, C. F., Chatterjee, G., Williams, M., Loken, E., Nakayama, K., &amp; Duchaine, B. (2010). Human face recognition ability is specific and highly heritable. <em>Proceedings of the National Academy of Sciences of the United States of America,</em> <em>107</em>(11), 5238\u20135241. <a href=\"https://doi.org/10.1073/pnas.0913053107\" target=\"_blank\">https://doi.org/10.1073/pnas.0913053107</a></p>",
+              "customLabel": "Wilmer et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Furthermore, correlations have been observed between face recognition ability and aspects of an individual\u2019s neural anatomy ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nu76ryetk7a",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nx0fjr1tuoz\" data-reactroot=\"\">Elbich, D. B., &amp; Scherf, S. (2017). Beyond the FFA: Brain-behavior correspondences in face recognition abilities. <em>NeuroImage,</em> <em>147</em>, 409\u2013422. <a href=\"https://doi.org/10.1016/j.neuroimage.2016.12.042\" target=\"_blank\">https://doi.org/10.1016/j.neuroimage.2016.12.042</a></p>",
+              "customLabel": "Elbich & Scherf, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), though this association remains controversial."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "first-impressions-and-social-attribution",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "First impressions and social attribution"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nebyvio1ugi",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The idea that people\u2019s faces reveal aspects of their character is an ancient one that has little currency in modern science. However, contemporary research has been able to uncover robust associations between the physical structure of faces and our tendency to make "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "judgments"
+          },
+          {
+            "type": "text",
+            "text": " about them ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkifazw86eh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1klg1qoj2h\" data-reactroot=\"\">Todorov, A., Olivola, C. Y., Dotsch, R., &amp; Mende-Siedlecki, P. (2015). Social attributions from faces: Determinants, consequences, accuracy, and functional significance. <em>Annual Review of Psychology,</em> <em>66</em>, 519\u2013545. <a href=\"https://doi.org/10.1146/annurev-psych-113011-143831\" target=\"_blank\">https://doi.org/10.1146/annurev-psych-113011-143831</a></p>",
+              "customLabel": "Todorov et al., 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Researchers have sometimes asked participants to make free descriptions of faces or sometimes to rate them on multiple dimensions. In either case, their attributions can be summarized as lying along a small number of core dimensions that seem to capture social judgments. Ratings based on carefully controlled computer-generated faces\u2014that is, without the visual \u201cnoise\u201d introduced in natural photographs\u2014suggest a two-factor model in which most of the variance in social attributions is described by "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "dominance"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "trustworthiness"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npfp3ns625d",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0gga5jbd85\" data-reactroot=\"\">Oosterhof, N. N., &amp; Todorov, A. (2008). The functional basis of face evaluation. <em>Proceedings of the National Academy of Sciences of the United States of America,</em> <em>105</em>(32), 11087\u201311092. <a href=\"https://doi.org/10.1073/pnas.0805664105\" target=\"_blank\">https://doi.org/10.1073/pnas.0805664105</a></p>",
+              "customLabel": "Oosterhof & Todorov, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Later work, using naturally varying images gathered from the internet, has also reported a structure using these two factors but with a third important judgment dimension: "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "youthful attractiveness"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3gwfwma5ux",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvj35whaov5\" data-reactroot=\"\">Sutherland, C. A. M., Oldmeadow, J. A., Santos, I. M., Towler, J., Michael Burt, D., &amp; Young, A. W. (2013). Social inferences from faces: Ambient images generate a three-dimensional model. <em>Cognition,</em> <em>127</em>(1), 105\u2013118. <a href=\"https://doi.org/10.1016/j.cognition.2012.12.001\" target=\"_blank\">https://doi.org/10.1016/j.cognition.2012.12.001</a></p>",
+              "customLabel": "Sutherland et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nav3zkodh7g",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Social judgments of faces are made very fast. For example, people apply attributes to photographs shown for 100 ms, or even less, and these tend to not change given longer exposures. This implies a quite fundamental, reflexive relationship between the structure of the face and the nature of the attribution\u2014the display time is simply too short to allow for more complex decision-making. There is also a high level of agreement among participants on these attributions. The same faces tend to be viewed as highly trustworthy, for example, by most viewers. Once again, this suggests a strong association between physical face structure and social judgments."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9hkfqs0q0i",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One of the most puzzling aspects of social perception is that the judgments made to faces have poor validity. Despite the fact that most people will agree about whether or not a person seems agreeable (say), there is very little correspondence between the attribution and the person\u2019s actual agreeableness. This is an important concern because there is clear evidence that people are willing to make serious real-world decisions on the basis of their first impressions. For example, judgments of competence, made solely on someone\u2019s face, have been shown to predict real election results ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvhqtqc1u0e",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntxhmc7i02y\" data-reactroot=\"\">Olivola, C. Y., &amp; Todorov, A. (2010). Elected in 100 milliseconds: Appearance-based trait inferences and voting. <em>Journal of Nonverbal Behavior,</em> <em>34</em>(2), 83\u2013110. <a href=\"https://doi.org/10.1007/s10919-009-0082-1\" target=\"_blank\">https://doi.org/10.1007/s10919-009-0082-1</a></p>",
+              "customLabel": "Olivola & Todorov, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and judgments of facial trustworthiness predict real sentencing decisions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nevyb5b36p0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrcc55yyjsq\" data-reactroot=\"\">Wilson, J. P., &amp; Rule, N. O. (2015). Facial trustworthiness predicts extreme criminal-sentencing outcomes. <em>Psychological Science,</em> <em>26</em>(8), 1325\u20131331. <a href=\"https://doi.org/10.1177/0956797615590992\" target=\"_blank\">https://doi.org/10.1177/0956797615590992</a></p>",
+              "customLabel": "Wilson & Rule, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). It is therefore critical that we understand the nature of these biases in settings where they have the potential to influence important social outcomes."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "automatic-face-recognition-systems",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Automatic face recognition systems"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvu6o87zxf6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Alongside research focused on understanding human face perception, a large body of work based in engineering and computer sciences aims to recognize faces accurately, without necessarily trying to emulate the human system. Automatic face recognition systems are now commonplace at passport checks, secure access locations, and on personal technology such as phones and laptops."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nosckszyt59",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The development of deep convolutional neural networks (DCNNs) has led to striking improvements in face recognition technology in recent years. These systems are now able to recognize faces over natural variations in viewing conditions (e.g., lighting, viewpoint, expression, etc.) with high levels of accuracy. They are based on multiple highly interconnected layers of simple processing units that are trained on very large numbers of faces\u2014typically millions gathered over the internet. In simple face-matching tasks (\u201cdo these two images show the same person?\u201d), these systems are now reliably more accurate than most human viewers ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npdosr3mtqa",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxm3asp2iqs\" data-reactroot=\"\">O\u2019Toole, A. J., &amp; Castillo, C. D. (2021). Face recognition by humans and machines: Three fundamental advances from deep learning. <em>Annual Review of Vision Science,</em> <em>7</em>, 543\u2013570. <a href=\"https://doi.org/10.1146/annurev-vision-093019-111701\" target=\"_blank\">https://doi.org/10.1146/annurev-vision-093019-111701</a></p>",
+              "customLabel": "O\u2019Toole & Castillo, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nonqcgaf5u3",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Automatic face recognition is normally used in settings in which a human viewer "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "unfamiliar"
+          },
+          {
+            "type": "text",
+            "text": " with the faces would traditionally make a decision (e.g., checking photo ID). While machines comfortably outperform most humans on such tasks, it remains unclear how they can perform against "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "familiar"
+          },
+          {
+            "type": "text",
+            "text": " viewers, who typically achieve very high accuracy rates when recognizing the people they know. Nonetheless, the high levels of accuracy in some face tasks have led some researchers to ask what is common between representations used in human cognition and in the DCNNs ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nr6vnton2ow",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"naxh8q9lik7\" data-reactroot=\"\">Nestor, A., Lee, A. C. H., Plaut, D. C., &amp; Behrmann, M. (2020). The face of image reconstruction: Progress, pitfalls, prospects. <em>Trends in Cognitive Sciences,</em> <em>24</em>, 747\u2013759. <a href=\"https://doi.org/10.1016/j.tics.2020.06.006\" target=\"_blank\">https://doi.org/10.1016/j.tics.2020.06.006</a></p>",
+              "customLabel": "Nestor et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nufivw593gz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxm3asp2iqs\" data-reactroot=\"\">O\u2019Toole, A. J., &amp; Castillo, C. D. (2021). Face recognition by humans and machines: Three fundamental advances from deep learning. <em>Annual Review of Vision Science,</em> <em>7</em>, 543\u2013570. <a href=\"https://doi.org/10.1146/annurev-vision-093019-111701\" target=\"_blank\">https://doi.org/10.1146/annurev-vision-093019-111701</a></p>",
+              "customLabel": "O\u2019Toole & Castillo, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and this remains an active research question in cognitive science. In more practical terms, the technology for face recognition is now ubiquitous in many countries, being widely used in security and law enforcement. While accuracy is high, systems are not perfect, and serious concerns have been raised about the potential for biases, particularly racial biases, reflecting the nature of the training sets on which these systems are based ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nflbrld7ur5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndb3bqdka5k\" data-reactroot=\"\">Birhane, A. (2022). The unseen Black faces of AI algorithms. <em>Nature,</em> <em>610</em>(7932), 451\u2013452. <a href=\"https://doi.org/10.1038/d41586-022-03050-7\" target=\"_blank\">https://doi.org/10.1038/d41586-022-03050-7</a></p>",
+              "customLabel": "Birhane, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-new-developments",
+          "id": "questions-controversies-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "are-faces-special",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Are faces special?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nyo4pbj2opu",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One of the most controversial debates in the field of face perception has focused on the degree to which faces are \u201cspecial\u201d for perception. The key question is whether the human perceptual system has resources dedicated to face processing, including dedicated neural hardware, or whether the visual system is equipped with general mechanisms for making fine-scale discriminations between similar objects that are recruited by face perception but are also available for other visual discriminations we might make. For example, if someone is an expert in judging dog shows or collecting stamps, that person makes fine-scale discriminations among similar items (e.g., dogs, stamps), which might make perceptual demands similar to face perception. Brain systems could have evolved for more general purposes, which are then used for face perception, but not exclusively."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3n2gh6cy5d",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The debate around this issue has elicited strong arguments on either side ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nz2logchrxq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"notu64jynnl\" data-reactroot=\"\">Gauthier, I., Skudlarski, P., Gore, J. C., &amp; Anderson, A. W. (2000). Expertise for cars and birds recruits brain areas involved in face recognition. <em>Nature Neuroscience,</em> <em>3</em>(2), 191\u2013197. <a href=\"https://doi.org/10.1038/72140\" target=\"_blank\">https://doi.org/10.1038/72140</a></p>",
+              "customLabel": "Gauthier et al., 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx7x60vb8ra",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkrqrndpvbz\" data-reactroot=\"\">Grill-Spector, K., Knouf, N., &amp; Kanwisher, N. (2004). The fusiform face area subserves face perception, not generic within-category identification. <em>Nature Neuroscience,</em> <em>7</em>(5), 555\u2013562. <a href=\"https://doi.org/10.1038/nn1224\" target=\"_blank\">https://doi.org/10.1038/nn1224</a></p>",
+              "customLabel": "Grill-Spector et al., 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Evidence has been gathered from the study of visual experts in various specialties, neuroimaging, neuropsychological patients, and perception of artificial stimuli designed to capture some of the characteristics of faces. While the issue has not been conclusively resolved, the growing popularity of studies on individual differences suggests a rather isolated trait of face recognition, which does not correlate highly with other traits. However, since all such studies are inherently correlational, a final resolution seems unlikely. Many of the topics studied by researchers in face perception are orthogonal to the question of whether or not faces are special, and the field is now less focused on this question than in previous years."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "the-cognitive-neuroscience-of-familiarity-and-learning",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The cognitive neuroscience of familiarity and learning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5k5ybqvtsz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "As discussed in the section "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/h0rivqh3#familiarity-and-recognition",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Familiarity and recognition"
+          },
+          {
+            "type": "text",
+            "text": ", there are large differences between the processing of familiar and unfamiliar faces\u2014such that viewers are typically good at recognizing multiple photographs of a familiar person but show more image-specific responses to unfamiliar faces. These effects can be observed over a range of behavioral measures, including memory for faces, face matching, and identity sorting (i.e., categorizing together multiple photographs of the same person). We might therefore expect equally large effects in neuroimaging, for example, showing differences in activation levels of key brain areas when viewing unfamiliar versus familiar faces. Interestingly, results of studies seeking simple location-based neural correlates of face familiarity have been equivocal."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9igqrk3gsu",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One approach to this puzzle has been to propose that studies based on regions of interest in the brain are too simplistic and that instead, a whole brain approach is more likely to reveal key differences between processing familiar and unfamiliar faces ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nry7nhjndz3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ne7zo6q0dbq\" data-reactroot=\"\">Kov\u00e1cs, G. (2020). Getting to know someone: Familiarity, person recognition, and identification in the human brain. <em>Journal of Cognitive Neuroscience,</em> <em>32</em>(12), 2205\u20132225. <a href=\"https://doi.org/10.1162/jocn_a_01627\" target=\"_blank\">https://doi.org/10.1162/jocn_a_01627</a></p>",
+              "customLabel": "Kov\u00e1cs, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Network analyses tend to reveal clearer effects of familiarity in the extended face processing network (see section "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/h0rivqh3#the-neural-system-supporting-face-perception",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "The neural system supporting face perception"
+          },
+          {
+            "type": "text",
+            "text": ") than the core visual areas. Of course, becoming familiar with new people involves much more than learning about their faces\u2014we also come to learn information about them and perhaps develop an emotional response to them. One might therefore expect to see the involvement of extended network areas as we learn someone new, particularly in naturalistic settings rather than through tightly controlled laboratory-based exposure to repeated face images."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngpmbyh89n4",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Studies of naturalistic learning are beginning to emerge, which track the perceptual changes that occur as a new person becomes familiar. For example, ERP evidence suggests that it can take many months to develop conceptual representations of new people but a shorter time to build robust visual representations of their faces ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmy1x34twj9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny7z3pojxlg\" data-reactroot=\"\">Popova, T., &amp; Wiese, H. (2022). The time it takes to truly know someone: Neurophysiological correlates of face and identity learning during the first two years. <em>Biological Psychology,</em> <em>170</em>, 108312. <a href=\"https://doi.org/10.1016/j.biopsycho.2022.108312\" target=\"_blank\">https://doi.org/10.1016/j.biopsycho.2022.108312</a></p>",
+              "customLabel": "Popova & Wiese, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Such studies are consistent with neuroimaging research and reinforce the idea that there is no simple neural correlate of familiarity. Instead, what seems like a straightforward concept from behavioral evidence turns out to be more complex when studied physiologically."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "own--and-other-group-effects",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Own- and other-group effects"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "np98p33rkma",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "It has been known for many years that memory for members of one\u2019s own group is better than memory for people outside this group. Most of the research in this field has concentrated on the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "other-race effect"
+          },
+          {
+            "type": "text",
+            "text": ", in which members of different ethnic groups show a memory advantage for faces of their own ethnicity ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5df8nzm2ck",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntectmv0nod\" data-reactroot=\"\">Meissner, C. A., &amp; Brigham, J. C. (2001). Thirty years of investigating the own-race bias in memory for faces: A meta-analytic review. <em>Psychology, Public Policy, and Law</em>. <em>An Official Law Review of the University of Arizona College of Law and the University of Miami School of Law,</em> <em>7</em>(1), 3\u201335.</p>",
+              "customLabel": "Meissner & Brigham, 2001",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Though generally demonstrated in memory experiments, this effect is also present for other tasks such as face matching or making perceptual decisions about composite faces. Explanations for the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "other-race effect"
+          },
+          {
+            "type": "text",
+            "text": " have typically focused on perceptual experience; for example, the faces one sees while growing up will vary in particular ways, so viewers become sensitive to variation along those dimensions but not the dimensions along which faces from another ethnicity vary ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni3b3fm0ijo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4kijm3z5gb\" data-reactroot=\"\">Valentine, T. (1991). A unified account of the effects of distinctiveness, inversion, and race in face recognition. <em>The Quarterly Journal of Experimental Psychology. A, Human Experimental Psychology,</em> <em>43</em>(2), 161\u2013204. <a href=\"https://doi.org/10.1080/14640749108400966\" target=\"_blank\">https://doi.org/10.1080/14640749108400966</a></p>",
+              "customLabel": "Valentine, 1991",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This is consistent with studies showing that children adopted between different cultural contexts show reversed "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "other-race effects"
+          },
+          {
+            "type": "text",
+            "text": ", taking on the same patterns of memory as the adoptive culture ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7iu6wr2de9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n24bduq2ola\" data-reactroot=\"\">Sangrigoli, S., Pallier, C., Argenti, A.-M., Ventureyra, V. A. G., &amp; de Schonen, S. (2005). Reversibility of the other-race effect in face recognition during childhood. <em>Psychological Science,</em> <em>16</em>(6), 440\u2013444. <a href=\"https://doi.org/10.1111/j.0956-7976.2005.01554.x\" target=\"_blank\">https://doi.org/10.1111/j.0956-7976.2005.01554.x</a></p>",
+              "customLabel": "Sangrigoli et al., 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "na0t2zqk37e",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In fact, analogous face processing biases are also observed elsewhere. For example, both own-age and own-gender biases have been reported, each of which could plausibly arise from differential experience. However, a challenge to the perceptual account of these effects arises from studies that show similar biases across social groups. For example, when shown faces ostensibly from one\u2019s own or another university, students tend to remember the faces from their own institution, suggesting that in-group faces are encoded better than out-group faces, independently of any physical differences. Furthermore, the other-race effect can be eliminated by instructing viewers explicitly to individuate all faces when encountering them for the first time\u2014suggesting that people may not dedicate as much attention to out-group faces, leading to subsequent poorer memory for them."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nk1n175wnw6",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The explanation for these effects remains contentious, and there have been some attempts to integrate theories ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx74ract71z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntwanagpkey\" data-reactroot=\"\">Sporer, S. L. (2001). Recognizing faces of other ethnic groups: An integration of theories. <em>Psychology, Public Policy, and Law</em>. <em>An Official Law Review of the University of Arizona College of Law and the University of Miami School of Law,</em> <em>7</em>(1), 36\u201397.</p>",
+              "customLabel": "Sporer, 2001",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), though "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "other-race effects"
+          },
+          {
+            "type": "text",
+            "text": " have been easier to replicate than some "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "other-group effects"
+          },
+          {
+            "type": "text",
+            "text": ", suggesting they may be more robust. Furthermore, an analogous problem in automatic face recognition has recently arisen (see section "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/h0rivqh3#automatic-face-recognition-systems",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Automatic face recognition systems"
+          },
+          {
+            "type": "text",
+            "text": "). The accuracy of algorithms in everyday use is affected by the training set faces used to build face recognition systems, and this can lead to biased outcomes\u2014an issue of pressing concern to current developers of these systems ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5zxf8n6bss",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n09at2cn90i\" data-reactroot=\"\">Cavazos, J. G., Phillips, P. J., Castillo, C. D., &amp; O\u2019Toole, A. J. (2021). Accuracy comparison across face recognition algorithms: Where are we on measuring race bias? <em>IEEE Transactions on Biometrics, Behavior, and Identity Science,</em> <em>3</em>(1), 101\u2013111. <a href=\"https://doi.org/10.1109/TBIOM.2020.3027269\" target=\"_blank\">https://doi.org/10.1109/TBIOM.2020.3027269</a></p>",
+              "customLabel": "Cavazos et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0dyimp9ke5",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "While the study of face perception has its beginnings in witness reliability, there remain strong ties between those attempting to understand how human viewers process faces and those working in judicial and security settings. Despite advances in other biometrics, including fingerprint, iris, and voice recognition, faces are still an important cue used to identify people in many settings. The psychological study of individual differences has supported the development of recruitment tools for people working in these fields, and the use of combined human/computer decision-making is under active investigation."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrtzvgusek8",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A common criticism of laboratory-based research in face recognition is that the tasks used in experiments typically do not reflect recognition in the real world adequately. When we recognize someone in the workplace, for example, we might simultaneously have access to information about their face, voice, gait, and clothing and contextual information about where we expect to meet particular people. There is a substantial body of research in voice recognition that shares many of the same problems with face recognition. For example, to recognize speakers, we must be able to tell people apart (to the extent that different people sound different) and tell them together (to the extent that the same person can sound different on different occasions). How information is combined across audio and visual channels, and the potential use of real-life redundancy across identity cues, is an active topic for current research ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "np5b2owpt1k",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbzwyvdxrrm\" data-reactroot=\"\">Lavan, N., Smith, H. M. J., &amp; McGettigan, C. (2022). Unimodal and cross-modal identity judgements using an audio-visual sorting task: Evidence for independent processing of faces and voices. <em>Memory &amp; Cognition,</em> <em>50</em>(1), 216\u2013231. <a href=\"https://doi.org/10.3758/s13421-021-01198-7\" target=\"_blank\">https://doi.org/10.3758/s13421-021-01198-7</a></p>",
+              "customLabel": "Lavan et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnyl6yxcywx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8qgzsyh3ic\" data-reactroot=\"\">Young, A. W., Fr\u00fchholz, S., &amp; Schweinberger, S. R. (2020). Face and voice perception: Understanding commonalities and differences. <em>Trends in Cognitive Sciences,</em> <em>24</em>(5), 398\u2013410. <a href=\"https://doi.org/10.1016/j.tics.2020.02.001\" target=\"_blank\">https://doi.org/10.1016/j.tics.2020.02.001</a></p>",
+              "customLabel": "Young et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nllqmohnrc4",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "More broadly, the study of face recognition is beginning to move out of the laboratory and into natural settings. As with other areas of cognition, there is a growing acknowledgment that the advantages of laboratory experiment (e.g., the ability to control stimuli precisely) can sometimes obscure key aspects of the problem under study. In the engineering domain, face recognition \u201cin the wild\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "na3afh4bap8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n42ibh4z275\" data-reactroot=\"\">Huang, G., Ramesh, M., Berg, T., &amp; Learned-Miller, E. (2007). Labeled faces in the wild: A database for studying face recognition in unconstrained environments.</p>",
+              "customLabel": "Huang et al., 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") has now become the standard problem to be solved. This is not yet the case for studies of human cognition, where demands of experimental control, and particularly replicability, make real-world studies difficult to carry out. Nevertheless, there is a growing acknowledgment that to understand how we recognize people, it will be necessary to combine our knowledge from multiple sources, including detailed study of real-life recognition."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "ngc578ydxb5",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "niox4x7cel8",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bruce, V., & Young, A. (1986). Understanding face recognition. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "British Journal of Psychology,"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "77"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 305\u2013327. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1111/j.2044-8295.1986.tb02199.x",
+                          "title": null,
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1111/j.2044-8295.1986.tb02199.x"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nvm63o3b4yu",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Haxby, J. V., Hoffman, E. A., & Gobbini, M. I. (2000). The distributed human neural system for face perception. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Trends in Cognitive Sciences,"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "4"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(6), 223\u2013233. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/S1364-6613(00)01482-0",
+                          "title": null,
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/S1364-6613(00)01482-0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nalikvf96ff",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Maurer, D., Grand, R. L., & Mondloch, C. J. (2002). The many faces of configural processing. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Trends in Cognitive Sciences,"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "6"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(6), 255\u2013260. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/S1364-6613(02)01903-4",
+                          "title": null,
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/S1364-6613(02)01903-4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nok1f17e585",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Todorov, A., Olivola, C. Y., Dotsch, R., & Mende-Siedlecki, P. (2015). Social attributions from faces: Determinants, consequences, accuracy, and functional significance. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Annual Review of Psychology,"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "66"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 519\u2013545. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1146/annurev-psych-113011-143831",
+                          "title": null,
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1146/annurev-psych-113011-143831"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

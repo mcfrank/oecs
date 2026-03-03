@@ -1,0 +1,1453 @@
+{
+  "id": "626f4797-e641-4540-bebb-68b50d168b99",
+  "slug": "7gukl3db",
+  "title": "Speech Recognition",
+  "url": "https://oecs.mit.edu/pub/7gukl3db",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "626f4797-e641-4540-bebb-68b50d168b99",
+    "slug": "7gukl3db",
+    "title": "Speech Recognition",
+    "htmlTitle": "Speech Recognition",
+    "description": "",
+    "htmlDescription": "James M. McQueen (ORCID: 0000-0003-3734-6286)Donders Institute for Brain, Cognition and Behaviour, Radboud University",
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.626f4797",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "z4o8w7lq",
+    "editHash": "bqo7aryd",
+    "reviewHash": "qgrdsynm",
+    "commentHash": "tzmosqb6",
+    "draftId": "b3876e30-662c-4868-82e5-60e6fb1725a1",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "6f278c8e-2122-46f9-ba5d-9d9cc89c0c7b",
+    "scopeSummaryId": "e8630b95-2475-4ab5-b54c-8d0b826c9eca",
+    "createdAt": "2025-03-05T11:40:02.037Z",
+    "updatedAt": "2025-05-27T15:00:52.984Z",
+    "attributions": [
+      {
+        "id": "e9aad188-2365-4d3c-84da-5dc1639cfdf3",
+        "name": "James M. McQueen",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Donders Institute for Brain, Cognition and Behaviour, Radboud University",
+        "orcid": "0000-0003-3734-6286",
+        "userId": null,
+        "pubId": "626f4797-e641-4540-bebb-68b50d168b99",
+        "createdAt": "2025-03-05T11:40:50.395Z",
+        "updatedAt": "2025-03-05T11:41:06.873Z",
+        "user": null
+      },
+      {
+        "id": "24b11604-4bd4-4a2a-b057-8c593da0524b",
+        "name": "Evan Kidd",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "The Australian National University",
+        "orcid": "0000-0003-4301-2290",
+        "userId": null,
+        "pubId": "626f4797-e641-4540-bebb-68b50d168b99",
+        "createdAt": "2025-03-05T21:32:32.336Z",
+        "updatedAt": "2025-03-05T21:32:53.433Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "b3876e30-662c-4868-82e5-60e6fb1725a1",
+      "latestKeyAt": "2025-05-22T23:09:09.735Z",
+      "firebasePath": "drafts/draft-b3876e30-662c-4868-82e5-60e6fb1725a1",
+      "createdAt": "2025-03-05T11:40:02.016Z",
+      "updatedAt": "2025-05-27T15:00:26.255Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxverj1t4t9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "For listeners to understand speech, they must recognize the constituent words of spoken utterances. The cognitive science of speech recognition has therefore focused on developing theories of how words are recognized and on constructing computational models instantiating those theories. Researchers have sought to discover solutions to core computational problems, including how listeners deal with the enormous physical variability of speech, how they cope with the fact that words usually sound like many other words, and how they segment continuous speech into discrete words. Researchers have also asked about the nature of lexical (word) representations, about their constituent parts (representations of vowels and consonants and of prosodic structures such as syllables and lexical stress patterns), and about the cognitive processes all these representations engage in. Controversies and current issues include the following: (1) Is there lexical\u2013prelexical feedback? (2) Are there individual differences in speech recognition? (3) How are words recognized in multimodal settings? (4) What is the neurobiology of speech recognition?"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncwt2bmim7e",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Research on speech recognition contributed to the formation of the field of cognitive science. For example, core theoretical questions (e.g., the role of contextual information, the nature of perceptual representations) were already being asked in the 1950s ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n52f5vw8e4d",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl7k3doovbs\" data-reactroot=\"\">Ladefoged, P., &amp; Broadbent, D. E. (1957). Information conveyed by vowels. <em>Journal of the Acoustical Society of America, 29</em>(1), 98\u2013104. <a href=\"https://doi.org/10.1121/1.1908694\">https://doi.org/10.1121/1.1908694</a> </p>",
+              "customLabel": "Ladefoged & Broadbent, 1957",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n77ddgx3pis",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8xepauu3t7\" data-reactroot=\"\">Liberman, A. M, Harris, K. S., Hoffman, H. S., &amp; Griffith, B. C. (1957). The discrimination of speech sounds within and across phoneme boundaries. <em>Journal of Experimental Psychology, 54</em>, 358\u2013368. <a href=\"https://doi.org/10.1037/h0044417\">https://doi.org/10.1037/h0044417</a> </p>",
+              "customLabel": "Liberman et al., 1957",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ng3kckv6k0e",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njt4edi15k5\" data-reactroot=\"\">Miller, G. A., Heise, G. A., &amp; Lichten, W. (1951). The intelligibility of speech as a function of the context of the test materials. <em>Journal of Experimental Psychology, 41</em>, 329\u2013335. <a href=\"https://doi.org/10.1037/h0062491\">https://doi.org/10.1037/h0062491</a> </p>",
+              "customLabel": "Miller et al., 1951",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Work since then can broadly be characterized as reflecting increasing awareness about the richness of acoustic phonetic information (e.g., spoken words are not strings of phonemes like written words are strings of letters) and about the need for cross-linguistic comparisons testing the language universality of theoretical claims."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ndmfbm66oiw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The field\u2019s history can also be traced in the development of computational models [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/hexmhaj8",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Computational Models of Language Learning"
+          },
+          {
+            "type": "text",
+            "text": "]. Later models included new insights (e.g., the cohort model was more attuned to the temporally continuous nature of spoken-word recognition than the older Logogen model) and greater plausibility (e.g., Shortlist had a more realistically sized lexicon\u201420,000 words\u2014than the older TRACE model\u2014200 words). For references to and summaries of these and other models, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n01lb2bxlc7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nm2z8s418at\" data-reactroot=\"\">Weber, A., &amp; Scharenborg, O. (2012). Models of spoken-word recognition. <em>WIREs Cognitive Science, 3</em>(3), 387\u2013401. <a href=\"https://doi.org/10.1002/wcs.1178\">https://doi.org/10.1002/wcs.1178</a> </p>",
+              "customLabel": "Weber and Scharenborg (2012)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "variability-problem",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Variability problem"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "neaisy1h4hi",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Words sound different when spoken by talkers varying, for example, in age, gender, and (regional or foreign) accent. Even within one talker, the realization of the same word will vary as a function of, amongst other things, speaking rate, accentuation, and speaking style. The solution to this variability problem appears to be partially representational (e.g., listeners store variant forms of phonetically reduced words; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhbfqmykafm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlsejrmftjj\" data-reactroot=\"\">Ernestus, M., Baayen, H., &amp; Schreuder, R. (2002). The recognition of reduced word forms. <em>Brain and Language, 81</em>, 162\u2013173. <a href=\"https://doi.org/10.1006/brln.2001.2514\">https://doi.org/10.1006/brln.2001.2514</a> </p>",
+              "customLabel": "Ernestus et al., 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), partially procedural (e.g., mechanisms adapt to the acoustic consequences of differences in the shape of talkers\u2019 vocal tracts; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8cze3yx5xb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl7k3doovbs\" data-reactroot=\"\">Ladefoged, P., &amp; Broadbent, D. E. (1957). Information conveyed by vowels. <em>Journal of the Acoustical Society of America, 29</em>(1), 98\u2013104. <a href=\"https://doi.org/10.1121/1.1908694\">https://doi.org/10.1121/1.1908694</a> </p>",
+              "customLabel": "Ladefoged & Broadbent, 1957",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and partially a mixture (e.g., listeners store knowledge about talkers\u2019 ways of speaking and use it to adapt to those talkers; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngcuw91k5n5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"no8udenxv7o\" data-reactroot=\"\">Zhang, X., &amp; Holt, L. L. (2018). Simultaneous tracking of coevolving distributional regularities in speech. <em>Journal of Experimental Psychology: Human Perception and Performance, 44</em>, 1760\u20131779. <a href=\"https://doi.org/10.1037/xhp0000569\">https://doi.org/10.1037/xhp0000569</a> </p>",
+              "customLabel": "Zhang & Holt, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "lexical-embedding-problem",
+          "id": "lexical-embedding-problem",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Lexical embedding problem"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwg5tmqc34f",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Because lexica with tens of thousands of words are built from phoneme inventories with rarely more than 40 entries, words necessarily sound like other words. Word recognition thus entails the parallel evaluation of multiple lexical hypotheses (similar-sounding words that [partially] match the input; e.g., hypotheses \u201cblue,\u201d \u201cglue,\u201d \u201cbloom,\u201d and \u201cmoon\u201d given the input \u201cblue moon\u201d). Most researchers agree there is a form of competition among those hypotheses ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nn4luo16pxq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsoi79vy5z4\" data-reactroot=\"\">McClelland, J. L., &amp; Elman, J. L. (1986). The TRACE model of speech perception. <em>Cognitive Psychology, 18</em>, 1\u201386. <a href=\"https://doi.org/10.1016/0010-0285(86)90015-0\">https://doi.org/10.1016/0010-0285(86)90015-0</a> </p>",
+              "customLabel": "McClelland & Elman, 1986",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "segmentation-problem",
+          "id": "segmentation-problem",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Segmentation problem"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6ku2j0mfdp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Unlike the words in this text, the boundaries between words are not reliably marked; continuous speech must thus be segmented into discrete words. Listeners solve this segmentation problem in multiple ways ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxvdmowe0cc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk2ela9y0go\" data-reactroot=\"\">Mattys, S. L., White, L., &amp; Melhorn, J. F. (2005). Integration of multiple speech segmentation cues: A hierarchical framework. <em>Journal of Experimental Psychology: General</em>, <em>134</em>, 477\u2013500. <a href=\"https://doi.org/10.1037/0096-3445.134.4.477\">https://doi.org/10.1037/0096-3445.134.4.477</a> </p>",
+              "customLabel": "Mattys et al., 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "): they use lexical competition (e.g., if \u201cblue\u201d wins in competition with \u201cbloom,\u201d it follows that there is a word boundary before the [m]) and a variety of cues to likely word boundary locations (e.g., metrical cues; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "norkcg7cvkn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqp5teolsx0\" data-reactroot=\"\">Cutler, A., &amp; Norris, D. (1988). The role of strong syllables in segmentation for lexical access. <em>Journal of Experimental Psychology: Human Perception and Performance, 14</em>, 113\u2013121. <a href=\"https://doi.org/10.1037/0096-1523.14.1.113\">https://doi.org/10.1037/0096-1523.14.1.113</a> </p>",
+              "customLabel": "Cutler & Norris, 1988",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "cognitive-architecture-representations",
+          "id": "cognitive-architecture-representations",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Cognitive architecture: Representations"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nuj0xkr4ed3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Researchers have asked about the nature of lexical representations. One extreme view was that they are phonologically abstract (e.g., phoneme strings with no acoustic detail); another was that they are episodic memory traces (e.g., memories of exactly what was said in full acoustic detail). Neither extreme appears tenable; models are probably abstractionist\u2013episodic hybrids that store some but not all acoustic details ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "niwhlkc0zs4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyynyiyd7bp\" data-reactroot=\"\">McQueen, J. M., Cutler, A., &amp; Norris, D. (2006). Phonological abstraction in the mental lexicon. <em>Cognitive Science, 30</em>, 1113\u20131126. <a href=\"https://doi.org/10.1207/s15516709cog0000_79\">https://doi.org/10.1207/s15516709cog0000_79</a></p>",
+              "customLabel": "McQueen et al., 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). A separate question concerns how morphologically complex words are represented ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqg2iwuwfdf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbteqrkdxbe\" data-reactroot=\"\">Marslen-Wilson, W., Tyler, L. K., Waksler, R., &amp; Older, L. (1994). Morphology and meaning in the English mental lexicon. <em>Psychological Review, 101</em>(1), 3\u201333. <a href=\"https://doi.org/10.1037/0033-295X.101.1.3\">https://doi.org/10.1037/0033-295X.101.1.3</a> </p>",
+              "customLabel": "Marslen-Wilson et al., 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/k0l9s1hf",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Morphology"
+          },
+          {
+            "type": "text",
+            "text": "]. Relatedly, researchers have asked about words\u2019 phonological constituents: Are vowels and consonants represented as, for example, phonemes, allophones, or (bundles of) phonetic features? This question remains unanswered ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnos9dppmtt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrf05ajyy9q\" data-reactroot=\"\">Samuel, A. G. (2020). Psycholinguists should resist the allure of linguistic units as perceptual units. <em>Journal of Memory and Language, 111</em>, 104070. <a href=\"https://doi.org/10.1016/j.jml.2019.104070\">https://doi.org/10.1016/j.jml.2019.104070</a> </p>",
+              "customLabel": "Samuel, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), although it is clear that, in addition to these segmental constituents, words also have suprasegmental (prosodic) constituents (e.g., syllables, and varying cross-linguistically, stress, and tonal patterns). Segmental processing is informed by suprasegmental processing, and vice versa ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd5rz2klt6f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrkf6b4e0pm\" data-reactroot=\"\">Mitterer, H., Cho, T., &amp; Kim, S. (2016). How does prosody influence speech categorization? <em>Journal of Phonetics, 54</em>, 68-79. <a href=\"https://doi.org/10.1016/j.wocn.2015.09.002\">https://doi.org/10.1016/j.wocn.2015.09.002</a> </p>",
+              "customLabel": "Mitterer et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "cognitive-architecture-processes",
+          "id": "cognitive-architecture-processes",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Cognitive architecture: Processes"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxx0plafnv0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Researchers have also asked which computations are performed, in what order, during word recognition and how information flows between representations. Computations include different forms of abstraction, normalization, compensation, integration, adaptation, and prediction. These processes often interrelate; for example, abstract perceptual categories adapt to changing input, supporting cross-talker generalization ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nteb47uhe8j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrskpoaee6w\" data-reactroot=\"\">Kleinschmidt, D. F., &amp; Jaeger, T. F. (2015). Robust speech perception: Recognize the familiar, generalize to the similar, and adapt to the novel. <em>Psychological Review</em>, <em>122</em>(2), 148\u2013203. <a href=\"https://doi.org/10.1037/a0038695\">https://doi.org/10.1037/a0038695</a> </p>",
+              "customLabel": "Kleinschmidt & Jaeger, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). It is agreed that word recognition is modulated by the information in the sentential (syntactic, prosodic, semantic, pragmatic) context but not which computations (e.g., prediction vs. integration) are responsible. There is broad consensus that there is cascaded (continuous) bottom-up flow of information from the prelexical to the lexical level, such that, for example, lexical processing is not delayed until prelexical (e.g., phonemic) decisions have been made ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nj5zr4xypvq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ncffa1kt1nw\" data-reactroot=\"\">Andruski, J. E., Blumstein, S. E., &amp; Burton, M. (1994). The effect of subphonetic differences on lexical access. <em>Cognition, 52</em>, 163\u2013187. <a href=\"https://doi.org/10.1016/0010-0277(94)90042-6\">https://doi.org/10.1016/0010-0277(94)90042-6</a> </p>",
+              "customLabel": "Andruski et al., 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nnisdcnymkf",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "(1) It remains controversial whether there is top-down feedback, whereby lexical processing (which words have been accessed) influences prelexical processing (i.e., the processing that led to lexical access). Evidence suggests there is off-line lexical\u2013prelexical feedback for perceptual learning (reviewed in "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nr2ga1ntah2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrskpoaee6w\" data-reactroot=\"\">Kleinschmidt, D. F., &amp; Jaeger, T. F. (2015). Robust speech perception: Recognize the familiar, generalize to the similar, and adapt to the novel. <em>Psychological Review</em>, <em>122</em>(2), 148\u2013203. <a href=\"https://doi.org/10.1037/a0038695\">https://doi.org/10.1037/a0038695</a> </p>",
+              "customLabel": "Kleinschmidt & Jaeger, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), but there is continuing debate on whether there is feedback during on-line processing ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbeb25ll4qv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nc3yw1nptzo\" data-reactroot=\"\">Luthra, S., Crinnion, A. M., Saltzman, D. S., &amp; Magnuson, J. S. (2024). Do they know it\u2019s Christmash? Lexical knowledge directly impacts speech perception. <em>Cognitive Science, 48</em>, e13449. <a href=\"https://doi.org/10.1111/cogs.13449\">https://doi.org/10.1111/cogs.13449</a> </p>",
+              "customLabel": "Luthra et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "na9l2mgc4qs",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "(2) Are there individual differences in speech recognition [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/5wqto9iq",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Linguistic Variation"
+          },
+          {
+            "type": "text",
+            "text": "]? There has been increasing interest in whether listeners differ in how they recognize speech and, if so, whether those differences are stable listener traits ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n161ucg4oxp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf68n5fe0z4\" data-reactroot=\"\">Giovannone, N., &amp; Theodore, R. M. (2023). Do individual differences in lexical reliance reflect states or traits? <em>Cognition, 232</em>, 105320. <a href=\"https://doi.org/10.1016/j.cognition.2022.105320\">https://doi.org/10.1016/j.cognition.2022.105320</a> </p>",
+              "customLabel": "Giovannone & Theodore, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Much remains to be discovered here because most earlier research on speech recognition focused on highly educated young (predominantly female) adults, simply because they were the easiest to recruit [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/spow8trw",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "WEIRD"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfvmznalntm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "(3) Much current research focuses on multimodal language. How do listeners recognize words in natural conversational settings where there is not only auditory speech information but also visual information available (e.g., lip movements and hand gestures; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb8lp8zxj8q",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl67bb9ovyi\" data-reactroot=\"\">Holler, J., &amp; Levinson, S. C. (2019). Multimodal language processing in human communication. <em>Trends in Cognitive Sciences, 23</em>(8), 639-652. <a href=\"https://doi.org/10.1016/j.tics.2019.05.006\">https://doi.org/10.1016/j.tics.2019.05.006</a> </p>",
+              "customLabel": "Holler & Levinson, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/usvwqp80",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Gesture"
+          },
+          {
+            "type": "text",
+            "text": "]?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ne1a5xzulfg",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "(4) Neuroscientific methods have been used to address the issues summarized above and to localize speech recognition to particular brain regions and networks ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbfp5lu70vj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyxzz44o8y1\" data-reactroot=\"\">Hickok, G., &amp; Poeppel, D. (2007). The cortical organization of speech processing. <em>Nature Reviews Neuroscience, 8</em>, 393\u2013402. <a href=\"https://doi.org/10.1038/nrn2113\">https://doi.org/10.1038/nrn2113</a> </p>",
+              "customLabel": "Hickok & Poeppel, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/3bgjh908",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Neuroscience of Language"
+          },
+          {
+            "type": "text",
+            "text": "]. An important open question is how the biophysical properties of neurons support the computations necessary to recognize words."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1lg873bpr4",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Speech recognition has similarities and dissimilarities with reading and speech production [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/e9aapok3",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Language Production"
+          },
+          {
+            "type": "text",
+            "text": "]. A core question is whether the same representations and processes support language use across modalities (speech vs. print, recognition vs. production). Another connection is that to language acquisition: How did the adult recognition system develop? A final connection is to automatic speech recognition: Which aspects of current recognition technology have psychological or biological plausibility?"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading "
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "ns09wzketi8",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n7d30kp0c3u",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Kleinschmidt, D. F., & Jaeger, T. F. (2015). Robust speech perception: Recognize the familiar, generalize to the similar, and adapt to the novel. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Psychological Review"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "122"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(2), 148\u2013203. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1037/a0038695",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1037/a0038695"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n9fmf3809lz",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "McClelland, J. L., & Elman, J. L. (1986). The TRACE model of speech perception. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Cognitive Psychology, 18"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 1\u201386. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/0010-0285(86)90015-0",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/0010-0285(86)90015-0"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nfdgwr7cid2",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Norris, D., & McQueen, J. M. (2008). Shortlist B: A Bayesian model of continuous speech recognition. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Psychological Review, 115"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(2), 357-395. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1037/0033-295X.115.2.357",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1037/0033-295X.115.2.357"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n4fojr3jdr4",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Weber, A., & Scharenborg, O. (2012). Models of spoken-word recognition. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "WIREs Cognitive Science, 3"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(3), 387\u2013401. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1002/wcs.1178",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1002/wcs.1178"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

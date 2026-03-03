@@ -1,0 +1,1307 @@
+{
+  "id": "d3359a9d-5cac-4c2c-8d1a-5812ba3fd2e1",
+  "slug": "zf1nbs6d",
+  "title": "Consciousness and AI",
+  "url": "https://oecs.mit.edu/pub/zf1nbs6d",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "d3359a9d-5cac-4c2c-8d1a-5812ba3fd2e1",
+    "slug": "zf1nbs6d",
+    "title": "Consciousness and AI",
+    "htmlTitle": "Consciousness and AI",
+    "description": "",
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.d3359a9d",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "51ml3dzy",
+    "editHash": "pf74nj0o",
+    "reviewHash": "qf721tc8",
+    "commentHash": "c2ec9090",
+    "draftId": "749224fe-5f51-4c3b-8ec1-eca24a81437b",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "d03e8405-5a7d-4e24-89ea-c1617ff08748",
+    "scopeSummaryId": "b3c1e1fe-e3ea-4cba-a978-5bbf72e6c173",
+    "createdAt": "2026-01-23T01:54:06.809Z",
+    "updatedAt": "2026-02-05T17:06:47.456Z",
+    "attributions": [
+      {
+        "id": "7add7563-5ce3-48e8-af9a-8b0fb0d7daf3",
+        "name": "Patrick Butlin",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Eleos AI",
+        "orcid": "0000-0001-5837-5057",
+        "userId": null,
+        "pubId": "d3359a9d-5cac-4c2c-8d1a-5812ba3fd2e1",
+        "createdAt": "2026-01-23T01:55:15.451Z",
+        "updatedAt": "2026-01-23T01:56:02.198Z",
+        "user": null
+      },
+      {
+        "id": "752b0646-0649-42e2-a743-5dc759f08cf7",
+        "name": "Adrian Alsmith",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "King's College London",
+        "orcid": "0000-0002-1557-4133",
+        "userId": null,
+        "pubId": "d3359a9d-5cac-4c2c-8d1a-5812ba3fd2e1",
+        "createdAt": "2026-01-23T01:56:39.612Z",
+        "updatedAt": "2026-01-23T01:57:02.787Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "749224fe-5f51-4c3b-8ec1-eca24a81437b",
+      "latestKeyAt": "2026-01-28T18:11:29.431Z",
+      "firebasePath": "drafts/draft-749224fe-5f51-4c3b-8ec1-eca24a81437b",
+      "createdAt": "2026-01-23T01:54:06.804Z",
+      "updatedAt": "2026-02-05T17:06:07.697Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nawakzxnh27",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Consciousness is what distinguishes the familiar thoughts, emotions, and sensory experiences of waking life from the processes that go on in our brains without our awareness. Conscious experiences feel some way for the subject and seem to afford the subject a distinctive form of first-person access. Consciousness is often seen as the mark of true intelligence and is also thought to be of great ethical significance, so it is natural to ask whether artificial intelligence (AI) systems could be conscious. Addressing this question is crucial to understanding the kind of change that might be brought about by progress in AI\u2014on one perspective, consciousness would be the difference between systems that are merely sophisticated tools and ones that are our peers. The question also gives new focus to long-standing philosophical debates about the nature and grounds of consciousness."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nne79ue5186",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Early pioneers of AI were optimistic about building thinking machines, but the field\u2019s founding documents largely set consciousness aside. Alan "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7gvkesaiuq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7dj99jiy98\" data-reactroot=\"\">Turing, A. (1950). Computing machinery and intelligence. <em>Mind, 59</em>(236), 433-460. <a href=\"https://doi.org/10.1093/mind/LIX.236.433\">https://doi.org/10.1093/mind/LIX.236.433</a> </p>",
+              "customLabel": "Turing (1950)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " urged the field to study behavioral capacities rather than explicitly investigating consciousness, and early manifestos defined the objectives of AI research without mentioning it ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nc6otj5p40q",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntqnkl02jqt\" data-reactroot=\"\">McCarthy, J., Minsky, M. L., Rochester, N., &amp; Shannon, C. E. (2006). A proposal for the Dartmouth summer research project on artificial intelligence: August 31, 1955. <em>AI Magazine</em>, <em>27</em>(4), 12-14. <a href=\"https://doi.org/10.1609/aimag.v27i4.1904\">https://doi.org/10.1609/aimag.v27i4.190</a></p>",
+              "customLabel": "McCarthy et al., 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni24wvbd1qk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrwzhpan27r\" data-reactroot=\"\">Minsky, M. (1961). Steps toward artificial intelligence.\u00a0<em>Proceedings of the IRE</em>,\u00a0<em>49</em>(1), 8-30. <a href=\"https://doi.org/10.1109/JRPROC.1961.287775\">https://doi.org/10.1109/JRPROC.1961.287775</a> </p>",
+              "customLabel": "Minsky, 1961",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/uli3iiu9",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "The Turing Test"
+          },
+          {
+            "type": "text",
+            "text": "]. However, subsequent projects have aimed to build conscious systems or investigated consciousness as a route to improved performance ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngueg5mq642",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfm48df3w6n\" data-reactroot=\"\">Bengio, Y. (2017). The consciousness prior.\u00a0<em>arXiv. </em><a href=\"https://doi.org/10.48550/arXiv.1709.08568\">https://doi.org/10.48550/arXiv.1709.08568</a> </p>",
+              "customLabel": "Bengio, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuajlx2vw8b",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6ssdq9hhd6\" data-reactroot=\"\">Dennett, D. C. (1994). The practical requirements for making a conscious robot.\u00a0<em>Philosophical Transactions of the Royal Society of London. Series A: Physical and Engineering Sciences</em>,\u00a0<em>349</em>(1689), 133-146. <a href=\"https://doi.org/10.1098/rsta.1994.0118\">https://doi.org/10.1098/rsta.1994.0118</a> </p>",
+              "customLabel": "Dennett, 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8nbos0btcs",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlr8pynwb99\" data-reactroot=\"\">Franklin, S., Ramamurthy, U., D\u2019Mello, S. K., McCauley, L., Negatu, A., Silva L., R., &amp; Datla, V. (2007). LIDA: A computational model of global workspace theory and developmental learning. <em>Proceedings of the AAAI Fall Symposium on Artificial Intelligence and Consciousness</em>. <a href=\"https://ccrg.cs.memphis.edu/assets/papers/LIDA%20paper%20Fall%20AI%20Symposium%20Final.pdf\">https://ccrg.cs.memphis.edu/assets/papers/LIDA%20paper%20Fall%20AI%20Symposium%20Final.pdf</a> </p>",
+              "customLabel": "Franklin et al., 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n68gze78hdi",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Philosophy of mind in the second half of the 20th century was dominated by functionalism, the view that minds are defined by their functional organization ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nth0jrwzpat",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nohmkbow6ze\" data-reactroot=\"\">Putnam, H. (1975). The nature of mental states. In H. Putnam (Ed.), <em>Mind, language and reality: Philosophical papers, volume 2 </em>(pp. 429-440). Cambridge University Press.</p>",
+              "customLabel": "Putnam, 1975",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This position is friendly to AI minds and consciousness. Putnam\u2019s functionalism was motivated partly by a belief in multiple realizability, the claim that mental phenomena could be realized in very different kinds of physical systems. Perhaps the most influential challenge to AI minds was "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "naem4mqgj72",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9izroemqba\" data-reactroot=\"\">Searle, J. R. (1980). Minds, brains, and programs.\u00a0<em>Behavioral and Brain Sciences</em>,\u00a0<em>3</em>(3), 417-424. <a href=\"https://doi.org/10.1017/S0140525X00005756\">https://doi.org/10.1017/S0140525X00005756</a> </p>",
+              "customLabel": "Searle's (1980)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " \u201cChinese room\u201d thought experiment. Searle described a person who manipulates symbols according to a book of instructions, and thereby generates apt Chinese utterances, yet does not thereby understand Chinese; he concluded that symbol manipulation is insufficient for intelligence, including consciousness. Functionalists rejected this argument, but it spurred interest in alternative views and in the importance of the mind\u2019s connections with the body and environment."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nzobt6yr6kh",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Whether AI consciousness is possible depends on what properties of physical systems are necessary and sufficient for consciousness. The two leading families of views on this question are "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "computational functionalism"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "biological naturalism"
+          },
+          {
+            "type": "text",
+            "text": ". Computational functionalism claims that implementing computations of the right kind is sufficient for consciousness. This does not straightforwardly imply that AI consciousness is possible because some forms of computation are not possible on the conventional hardware currently used for AI (e.g., analog computation). However, computational functionalism is often motivated by proposed explanations of consciousness in terms of broad functional features of the brain such as its use of gating mechanisms that select information for further distribution and processing. It appears to be possible to implement such features in conventional systems ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nt5x04yzve6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfhoi2k53an\" data-reactroot=\"\">Baars, B. J. (1993). <em>A cognitive theory of consciousness</em>. Cambridge University Press.</p>",
+              "customLabel": "Baars, 1993",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwer64zsbr8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7gsn6py9bs\" data-reactroot=\"\">Dehaene, S., Lau, H., &amp; Kouider, S. (2017). What is consciousness, and could machines have it? <em>Science</em>, <em>358</em>(6362), 486-492. <a href=\"https://doi.org/10.1126/science.aan8871\">https://doi.org/10.1126/science.aan8871</a> </p>",
+              "customLabel": "Dehaene et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nws5tfg3l4p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n71xegho2cb\" data-reactroot=\"\">Lau, H. (2022). <em>In consciousness we trust: The cognitive neuroscience of subjective experience</em>. Oxford University Press.</p>",
+              "customLabel": "Lau, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3fngvmas1h",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In contrast, biological naturalism claims that an organic, living substrate is necessary for consciousness ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwmz0q6xtpo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvt9topfe1n\" data-reactroot=\"\">Seth, A. (2025). Conscious artificial intelligence and biological naturalism. <em>Behavioral and Brain Sciences</em>. Published online April 21, 2025. <a href=\"https://doi.org/10.1017/S0140525X25000032\">https://doi.org/10.1017/S0140525X25000032</a> </p>",
+              "customLabel": "Seth, 2025",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This implies that conscious artificial systems would have to be very different from today\u2019s AI. There are many possible versions of both computational functionalism and biological naturalism and other views that are different from either; for example, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "integrated information theory"
+          },
+          {
+            "type": "text",
+            "text": " claims that consciousness depends on properties that are neither computational nor distinctively biological ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8reaxwo3ml",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb5cplaw919\" data-reactroot=\"\">Albantakis, L., Barbosa, L., Findlay, G., Grasso, M., Haun, A. M., Marshall, W., Mayner, W. G. P., Zaeemzadeh, A., Boly M., Juel, B. E., Sasai, S., Fujii, K., David, I., Hendren, J., Lang, J. P., &amp; Tononi, G. (2023). Integrated information theory (IIT) 4.0: Formulating the properties of phenomenal existence in physical terms. <em>PLoS Computational Biology</em>, <em>19</em>(10), e1011465. <a href=\"https://doi.org/10.1371/journal.pcbi.1011465\">https://doi.org/10.1371/journal.pcbi.1011465</a> </p>",
+              "customLabel": "Albantakis et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6ajplkyila",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "If AI consciousness is possible, a further question is how to determine whether particular AI systems are conscious. Methods to test for consciousness in other challenging cases, such as nonhuman animals and patients with brain damage, are usually based on either behavior or brain recordings (e.g., functional magnetic resonance imaging or electroencephalogram; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbrj64r16go",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhzradkkfrc\" data-reactroot=\"\">Bayne, T., Seth, A. K., Massimini, M., Shepherd, J., Cleeremans, A., Fleming, S. M., Malach, R., Mattingley, J. B., Menon, D. K., Owen, A. M., Peters, M. A. K., Razi, A., &amp; Mudrik, L. (2024). Tests for consciousness in humans and beyond. <em>Trends in Cognitive Sciences</em>, <em>28</em>(5), 454-466. <a href=\"https://doi.org/10.1016/j.tics.2024.01.010\">https://doi.org/10.1016/j.tics.2024.01.010</a> </p>",
+              "customLabel": "Bayne et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, brain-based methods are likely to be inapplicable in the AI case, and behavioral methods face the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "gaming problem"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n38o72y5azo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nasff51qcff\" data-reactroot=\"\">Birch, J. (2024). <em>The edge of sentience: Risk and precaution in humans, other animals, and AI.</em> Oxford University Press.</p>",
+              "customLabel": "Birch, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This is the problem that AI behavior may be generated in very different ways from similar behavior in humans or animals and thus may not provide good evidence of comparable inner processes. This problem is particularly salient when assessing AI systems, like large language models, that have been trained to mimic aspects of human behavior [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrr8zbfrkh1",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "To address the gaming problem, one option is to draw on neuroscientific theories of consciousness, which often describe functional features associated with consciousness in humans. The presence or absence of similar functional features in AI systems may provide evidence about whether they are conscious ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb1y5gqg7sd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nh67o2ggrnx\" data-reactroot=\"\">Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., Constant, A., Deane, G., Fleming, S. M., Frith, C., Ji, X., Kanai, R., Klein, C., Lindsay G., Michel, M., Mudrik, L., Peters, M. A. K., Schwitzgebel, E., Simon, J., &amp; VanRullen, R. (2023). Consciousness in artificial intelligence: Insights from the science of consciousness. <em>arXiv.</em> <a href=\"https://doi.org/10.48550/arXiv.2308.08708\">https://doi.org/10.48550/arXiv.2308.08708</a> </p>",
+              "customLabel": "Butlin et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For example, global workspace theory claims that consciousness depends on the presence of a shared, limited capacity \u201cworkspace\u201d that links multiple specialized subsystems ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8n3urtgr7u",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfhoi2k53an\" data-reactroot=\"\">Baars, B. J. (1993). <em>A cognitive theory of consciousness</em>. Cambridge University Press.</p>",
+              "customLabel": "Baars, 1993",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nt205mo79d4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb2o7cchnzq\" data-reactroot=\"\">Mashour, G. A., Roelfsema, P., Changeux, J. P., &amp; Dehaene, S. (2020). Conscious processing and the global neuronal workspace hypothesis.\u00a0<em>Neuron</em>,\u00a0<em>105</em>(5), 776-798. <a href=\"https://doi.org/10.1016/j.neuron.2020.01.026\">https://doi.org/10.1016/j.neuron.2020.01.026</a> </p>",
+              "customLabel": "Mashour et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, it is questionable whether the evidence for these theories, which is largely drawn from studies on humans and primates, supports their extension to the case of AI. In particular, these studies seemingly cannot tell us how similar, in what respects, the features of interest need to be to suffice for consciousness ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlsbep9hruo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nr2u4gnbr26\" data-reactroot=\"\">Shevlin, H. (2021). Non\u2010human consciousness and the specificity problem: A modest theoretical proposal. <em>Mind &amp; Language</em>, <em>36</em>(2), 297-314. <a href=\"https://doi.org/10.1111/mila.12338\">https://doi.org/10.1111/mila.12338</a> </p>",
+              "customLabel": "Shevlin, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwcs8jy1g39",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Relatedly, philosophers have recently argued that, for some AI systems, it could be neither true nor false that they are conscious ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n78y8h9gzh2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2i1q138nyg\" data-reactroot=\"\">Carruthers, P. (2019). <em>Human and animal minds: The consciousness questions laid to rest</em>. Oxford University Press.</p>",
+              "customLabel": "Carruthers, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ns3x4i6p8he",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlrsp9gashn\" data-reactroot=\"\">Papineau, D. (in press). Consciousness is not the key to moral standing. In G. Lee &amp; A. Pautz (Eds.), <em>The importance of being conscious. </em>Oxford University Press.</p>",
+              "customLabel": "Papineau, in press",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). According to reductive materialism, to be conscious just is to instantiate the physical properties that constitute consciousness in humans [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/7fjwb5k3",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "The Mind\u2013Body Problem"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/be5ufmz2",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Physicalism"
+          },
+          {
+            "type": "text",
+            "text": "]. AI systems may have some of these properties and not others\u2014for instance, they may have similar functional features differently realized. In this situation, the philosophers claim, it may be indeterminate whether the systems are conscious."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvokklbp57x",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Meanwhile, AI systems are increasingly giving the impression of consciousness to some users ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7eleu907qf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7qrwrskciv\" data-reactroot=\"\">Colombatto, C., &amp; Fleming, S. M. (2024). Folk psychological attributions of consciousness to large language models. <em>Neuroscience of Consciousness</em>, <em>2024</em>(1), niae013. <a href=\"https://doi.org/10.1093/nc/niae013\">https://doi.org/10.1093/nc/niae013</a> </p>",
+              "customLabel": "Colombatto & Fleming, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nq0lsc1ra7i",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngpvcj73bp9\" data-reactroot=\"\">Shevlin, H. (2024). All too human? Identifying and mitigating ethical risks of social AI. <em>Law, Ethics and Technology, 1</em>(2), 0003. <a href=\"https://doi.org/10.55092/let20240003\">https://doi.org/10.55092/let20240003</a> </p>",
+              "customLabel": "Shevlin, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This raises empirical questions about the effects of interaction with conscious-seeming systems and ethical questions about their deployment. The social consequences of perceptions of consciousness in AI are difficult to predict, but they give new urgency to the philosophical and scientific problems mentioned here."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nk0brb159ij",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Two further branches of cognitive science can also contribute to debates about AI consciousness. First, ideas about embodied and situated cognition, predictive processing, and the free energy principle may shed light on the possibility and conditions for consciousness in AI [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/my8vpqih",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "The Free Energy Principle"
+          },
+          {
+            "type": "text",
+            "text": "]. Second, the issues may be instructively compared with those about consciousness in distant animals such as insects [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/rbmlimm5",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Animal Cognition"
+          },
+          {
+            "type": "text",
+            "text": "]. Finally, if AI systems are conscious, it is also important to investigate the nature of their conscious experiences\u2014such as whether they experience human-like emotions."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nibqkthsamg",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nquq4tyo0sh",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Andrews, K., & Birch, J. (2023, February 23). What has feelings? "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Aeon."
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://aeon.co/essays/to-understand-ai-sentience-first-understand-it-in-animals",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://aeon.co/essays/to-understand-ai-sentience-first-understand-it-in-animals"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nstusyd2gi7",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., Constant, A., Deane, G., Fleming, S. M., Frith, C., Ji, X., Kanai, R., Klein, C., Lindsay G., Michel, M., Mudrik, L., Peters, M. A. K., Schwitzgebel, E., Simon, J., & VanRullen, R. (2023). Consciousness in artificial intelligence: Insights from the science of consciousness. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "arXiv."
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.48550/arXiv.2308.08708",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.48550/arXiv.2308.08708"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n8q7lio15ws",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Chalmers, D. J. (2023, August 9). Could a large language model be conscious? "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Boston Review"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.bostonreview.net/articles/could-a-large-language-model-be-conscious/",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://www.bostonreview.net/articles/could-a-large-language-model-be-conscious/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "na7426l0nly",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Seth, A. (2025). Conscious artificial intelligence and biological naturalism. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Behavioral and Brain Sciences"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Published online April 21, 2025. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1017/S0140525X25000032",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1017/S0140525X25000032"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

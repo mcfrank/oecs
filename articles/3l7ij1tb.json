@@ -1,0 +1,1589 @@
+{
+  "id": "ffa13e9c-415f-4f3b-91fb-5ab18e395d77",
+  "slug": "3l7ij1tb",
+  "title": "Infant-Directed Speech",
+  "url": "https://oecs.mit.edu/pub/3l7ij1tb",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "ffa13e9c-415f-4f3b-91fb-5ab18e395d77",
+    "slug": "3l7ij1tb",
+    "title": "Infant-Directed Speech",
+    "htmlTitle": "Infant-Directed Speech",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": null,
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "i5kn8qit",
+    "editHash": "dgc5xpi3",
+    "reviewHash": "zk2uvcy0",
+    "commentHash": "l1ttpgqn",
+    "draftId": "57e5c5ce-ec2f-464a-8021-8c47a64ea278",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": null,
+    "scopeSummaryId": "6caf3a05-c60f-40c3-b394-32774852fbed",
+    "createdAt": "2026-01-24T01:19:37.264Z",
+    "updatedAt": "2026-01-24T01:19:52.104Z",
+    "attributions": [
+      {
+        "id": "e274efc9-ceae-4ebf-9de3-a2b6f08d01cf",
+        "name": "Eon-Suk Ko",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Chosun University",
+        "orcid": "0000-0003-3963-4492",
+        "userId": null,
+        "pubId": "ffa13e9c-415f-4f3b-91fb-5ab18e395d77",
+        "createdAt": "2026-01-24T01:20:13.486Z",
+        "updatedAt": "2026-01-24T01:20:33.615Z",
+        "user": null
+      },
+      {
+        "id": "bf4e04ab-2f49-4aa4-b565-c04e6224a767",
+        "name": "Michael C. Frank",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Stanford University",
+        "orcid": "0000-0002-7551-4378",
+        "userId": null,
+        "pubId": "ffa13e9c-415f-4f3b-91fb-5ab18e395d77",
+        "createdAt": "2026-01-24T01:22:27.112Z",
+        "updatedAt": "2026-01-24T01:22:37.914Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "57e5c5ce-ec2f-464a-8021-8c47a64ea278",
+      "latestKeyAt": "2026-01-24T01:21:20.607Z",
+      "firebasePath": "drafts/draft-57e5c5ce-ec2f-464a-8021-8c47a64ea278",
+      "createdAt": "2026-01-24T01:19:37.262Z",
+      "updatedAt": "2026-01-28T21:35:47.491Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nf2mp6wfofq",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "When communicating with infants, we use infant-directed speech, a specialized way of speaking characterized by a higher pitch, exaggerated intonation, short utterances, and frequent repetition. The language tends to be grammatically simpler, and the vocabulary is often tailored to topics relevant to the child\u2019s world. Sometimes referred to as \u201cbaby talk,\u201d this kind of speech is not just playful but conveys emotional warmth and supports early language acquisition. Across many cultures, infants consistently show a preference for infant-directed speech over the speech adults use with one another, and this preference appears to promote greater attention and learning. As children develop, caregivers subtly tune their speech, gradually reducing prosodic exaggeration and increasing linguistic complexity in response to children\u2019s growing perceptual and cognitive abilities. Thus, infant-directed speech serves both as a cue for social connection and as a learning environment that adapts to developmental change."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ni691p0qcb1",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Researchers have long been interested in how caregivers talk to infants, and one influential early contribution was Charles Ferguson\u2019s (1964) description of \u201cbaby talk\u201d as a structured speech register observed across many languages. In the decades that followed, especially during the 1970s and 1980s, interest in this topic grew alongside claims that children\u2019s language input was too limited to explain how quickly and accurately they acquire grammar (Chomsky, 1965) [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xohbfbix/release/2?readingCollection=9dd2a47d",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "LANGUAGE ACQUISITION"
+          },
+          {
+            "type": "text",
+            "text": "]. These concerns led to new questions about whether caregivers adjust their speech in ways that support learning (Cooper & Aslin, 1990). Around the same time, researchers also suggested that the melodic quality of infant-directed speech might communicate emotion (Fernald, 1989) and that clear pronunciation could help infants hear and process sounds more effectively (Kuhl et al., 1997). While early studies yielded mixed results, recent work using large datasets and new analytic tools has shown that caregivers do adjust their speech in systematic ways (Cox et al., 2023). Ongoing research from neuroscience, eye tracking, and speech analysis continues to show how these adjustments support learning in real time and help shape how infants respond to language in their environment (Nencheva & Lew-Williams, 2022)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nsjdcthauuz",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Infant-directed speech supports early language learning through its distinctive acoustic and linguistic characteristics. [Copy editor please embed "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://osf.io/9qxdc",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://osf.io/9qxdc"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "with the caption \u201cAn example audio stimulus from the infant-directed speech condition of ManyBabies Consortium (2020), providing a collage of several different North American Englis-speaking mothers speaking to infants.] Its heightened pitch, slower tempo, and rhythmic prosody not only draw infants\u2019 attention but also signal emotional engagement (see Soderstrom, 2007, for a review). According to the hyperarticulation hypothesis (e.g., Kuhl et al., 1997), caregivers may exaggerate sound contrasts to support early speech perception. Such features enhance the perceptual clarity of speech, and make it easier to process. Infant-directed speech also features simplified grammar and more clearly articulated sounds (Ko & Jun, 2024). These adjustments can help infants identify word boundaries and build phonological categories."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nre920j2f44",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "From early in life, infants show a preference for infant-directed speech over adult-directed speech. This tendency has been observed within the first months of life (Cooper & Aslin, 1990) and replicated across a variety of experimental methods (ManyBabies Consortium, 2020). The prosodic salience of infant-directed speech appears crucial for maintaining infants\u2019 attention (Fernald, 1989); however, the acoustic characteristics of infant-directed speech not only lead to a preference but also have implications for learning. Infants are more likely to detect phrase boundaries and segment words when listening to infant-directed speech (Thiessen et al., 2005). They also learn new word-object pairings more easily when words are presented in infant-directed speech (Shi et al., 2022), and show stronger brain responses to familiar words in infant-directed speech than in adult-directed speech (Zangle & Mills, 2007)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqmne943tid",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The amount and nature of linguistic input that infant-directed speech provides also matter for development. Children who are engaged in more verbal interactions with caregivers tend to develop larger vocabularies and stronger language skills over time (Hart & Risley, 1995) [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/h07kwvxo/release/1?readingCollection=9dd2a47d",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "INTERACTION ENGINE"
+          },
+          {
+            "type": "text",
+            "text": "]. While early work emphasized differences in the quantity of input by socioeconomic status and how they predict children\u2019s language outcome, recent findings suggest a more nuanced picture: input-outcome associations are robust yet modest (Coffey & Snedeker, 2025), and the structure of input itself varies substantially across cultures (e.g., Casillas et al., 2020). In addition to quantity, features such as lexical diversity, syntactic complexity (Huttenlocher et al., 2010), and how well caregiver speech matches the child\u2019s attention (Schroer & Yu, 2022) have all been linked to vocabulary and grammatical growth."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqcl73n0q1j",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Understanding the functions of infant-directed speech and the extent to which they are universal continues to be a major focus of research in developmental science. One key question is whether the features of infant-directed speech, such as expanded vowel space, are designed to help infants learn language or whether they simply reflect caregivers\u2019 emotions, indirectly shaping features of speech. Some researchers argue that these modifications support infants in perceiving and learning speech sounds. Others suggest they may arise naturally from positive emotional states, like smiling, which can alter vocal tract shape and affect the sound of speech. Evidence points to both roles: infant-directed speech engages infants emotionally and supports learning, with its form shaped by cultural practices and children\u2019s developmental needs."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "noaugzxp4fh",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cross-cultural studies suggest that the features of infant-directed speech vary across languages and communities. Much of what we know about infant-directed speech comes from studies of English-speaking families and research conducted in other WEIRD settings [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/spow8trw/release/1",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "WEIRD"
+          },
+          {
+            "type": "text",
+            "text": "]. Yet findings from more diverse contexts reveal a more complex picture. Some communities provide relatively little direct speech to young children, with much of their early language input coming from overheard speech (Shneidman & Goldin-Meadow, 2012). Cross-linguistic research further shows that grammatical structures thought to be difficult, such as passives, are acquired earlier in some languages than others (Armon-Lotem et al., 2016). Recent work has begun to extend the use of daylong recording methods, such as those based on the Language ENvironment Analysis (LENA) system (see Greenwood et al., 2018, for a review) and similar wearable technologies (Casillas et al., 2020), to capture more ecologically sound and culturally varied patterns of language experience. This presents new chances to improve theories of language learning in a global setting."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nq32mnlk22n",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Infant-directed speech has become a focus of interest not only in developmental science but also in artificial intelligence. One striking contrast lies in how efficiently children acquire language compared to large language models (LLMs) [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs/release/1?readingCollection=9dd2a47d",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "L"
+          },
+          {
+            "type": "text",
+            "text": "arge Language Models]. While LLMs require exposure to vast amounts of data, young children learn from a relatively small amount of variable and noisy input (Frank, 2023). This contrast has sparked renewed interest in whether the structure of infant-directed speech plays a role in making that learning possible. Researchers investigate how its features might guide infants\u2019 attention and highlight patterns in language. When speech is presented with cues like gaze, gesture, touch, and prosodic modulation, learning seems to be particularly successful. Moments with coordination among cues like these support both attention and comprehension and may even align infants\u2019 brain activity with speech (Nencheva & Lew-Williams, 2022). Such findings underscore the importance of social interaction in learning and offer insights for designing more human-like AI systems."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "acknowledgments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Acknowledgments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "norphuk5v3t",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This work was supported by the National Research Foundation of Korea (NRF-2025S1A6B5A02004207). OpenAI\u2019s ChatGPT (GPT-5) was used to refine the grammar and phrasing. The author reviewed and edited all suggestions to ensure that the text represents the author\u2019s original ideas."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n0xy5j0gymt",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nultmvwijlf",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Casillas, M., Brown, P., & Levinson, S. C. (2020). Early Language Experience in a Tseltal Mayan Village. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Child Development, 91(5)"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 1819\u20131835. https://doi.org/10.1111/cdev.13349"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n1170x02oic",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ManyBabies Consortium. (2020). Quantifying sources of variability in infancy research using the infant-directed speech preference. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Advances in Methods and Practices in Psychological Science, 3(1)"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 24\u201352. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1177/2515245919900809",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1177/2515245919900809"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n92ed9iakqy",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Soderstrom, M. (2007). Beyond babytalk: Re-evaluating the nature and content of speech input to preverbal infants. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Developmental Review, 27(4)"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 501-532. https://doi.org/10.1016/j.dr.2007.06.002"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "references",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "References"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ni7mcipr4pa",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Armon-Lotem, S., Haman, E., Jensen de L\u00f3pez, K., Smoczynska, M., Yatsushiro, K., Szczerbinski, M., \u2026 van der Lely, H. (2016). A large-scale cross-linguistic investigation of the acquisition of passive."
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " Language Acquisition"
+          },
+          {
+            "type": "text",
+            "text": ", 23(1), 27\u201356. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.1080/10489223.2015.1047095",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.1080/10489223.2015.1047095"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nl470w0jzn2",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Chomsky, N. (1965). "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Aspects of the theory of syntax"
+          },
+          {
+            "type": "text",
+            "text": ". Cambridge, MA: MIT Press."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njms0rto2ks",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Casillas, M., Brown, P., & Levinson, S. C. (2020). Early Language Experience in a Tseltal Mayan Village. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Child Development, 91(5)"
+          },
+          {
+            "type": "text",
+            "text": ", 1819\u20131835. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.1111/cdev.13349",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.1111/cdev.13349"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nuwkhfxb342",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Coffey, J. R., & Snedeker, J. (2025). How strong is the relationship between caregiver speech and language development? A meta-analysis. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Journal of Child Language"
+          },
+          {
+            "type": "text",
+            "text": ", 1\u201336. doi:10.1017/S0305000924000692"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ninug0rsw4i",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cooper, R. P., & Aslin, R. N. (1990). Preference for infant-directed speech in the first month after birth. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Child Development, 61"
+          },
+          {
+            "type": "text",
+            "text": "(5), 1584\u20131595."
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.2307/1130766",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": " https://doi.org/10.2307/1130766"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nnrawznuyjb",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cox, C., Bergmann, C., Fowler, E., Keren-Portnoy, T., Roepstorff, A., Bryant, G., & Fusaroli, R. (2023). A systematic review and Bayesian meta-analysis of the acoustic features of infant-directed speech. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Nature Human Behaviour"
+          },
+          {
+            "type": "text",
+            "text": ", 7(1), 114\u2013133. https://doi.org/10.1038/s41562-022-01452-1"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrooq87jz5o",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Fernald A. (1989). Intonation and communicative intent in mothers' speech to infants: is the melody the message?. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Child development"
+          },
+          {
+            "type": "text",
+            "text": ", 60(6), 1497\u20131510."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfrlmg8pb98",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Frank M. C. (2023). Bridging the data gap between children and large language models. Trends in cognitive sciences, 27(11), 990\u2013992. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.1016/j.tics.2023.08.007",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.1016/j.tics.2023.08.007"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nw4vlr6i724",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Greenwood, C. R., Schnitz, A. G., Irvin, D., Tsai, S. F., & Carta, J. J. (2018). Automated Language Environment Analysis: A Research Synthesis. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "American Journal of Speech-Language Pathology, 27(2)"
+          },
+          {
+            "type": "text",
+            "text": ", 853\u2013867. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.1044/2017_AJSLP-17-0033",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.1044/2017_AJSLP-17-0033"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5c9u8uohi2",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Hart, B., & Risley, T. R. (1995). "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Meaningful differences in the everyday experience of young American children"
+          },
+          {
+            "type": "text",
+            "text": ". Baltimore, MD: Paul H. Brookes Publishing."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nz7eineb9jr",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Huttenlocher, J., Waterfall, H., Vasilyeva, M., Vevea, J., & Hedges, L. V. (2010). Sources of variability in children\u2019s language growth. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Cognitive Psychology, 61"
+          },
+          {
+            "type": "text",
+            "text": "(4), 343\u2013365."
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.1016/j.cogpsych.2010.08.002",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": " https://doi.org/10.1016/j.cogpsych.2010.08.002"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1911ozrwj2",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Ko, E.-S., & Jun, J. (2024). Phonological variation in child-directed speech is modulated by lexical frequency. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Journal of Child Language, 51(2)"
+          },
+          {
+            "type": "text",
+            "text": ", 288\u2013313. doi:10.1017/S0305000923000466"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nz3yiw56cab",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Kuhl, P. K., Andruski, J. E., Chistovich, I. A., Chistovich, L. A., Kozhevnikova, E. V., Ryskina, V. L., ... & Lacerda, F. (1997). Cross-language analysis of phonetic units in language addressed to infants. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Science, 277"
+          },
+          {
+            "type": "text",
+            "text": "(5326), 684\u2013686."
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.1126/science.277.5326.684",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": " https://doi.org/10.1126/science.277.5326.684"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxv50uw0t9t",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "ManyBabies Consortium. (2020). Quantifying sources of variability in infancy research using the infant-directed speech preference. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Advances in Methods and Practices in Psychological Science, 3"
+          },
+          {
+            "type": "text",
+            "text": "(1), 24\u201352."
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.1177/2515245919900809",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": " https://doi.org/10.1177/2515245919900809"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nizkvydizz4",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Nencheva, M. L., & Lew-Williams, C. (2022). Understanding why infant-directed speech supports learning: A dynamic attention perspective. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Developmental Review"
+          },
+          {
+            "type": "text",
+            "text": ", 66, 101047. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.1016/j.dr.2022.101047",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.1016/j.dr.2022.101047"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrat26cnuby",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Schroer, S. E., & Yu, C. (2022). The real-time effects of parent speech on infants' multimodal attention and dyadic coordination. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Infancy : the official journal of the International Society on Infant Studies"
+          },
+          {
+            "type": "text",
+            "text": ", 27(6), 1154\u20131178. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.1111/infa.12500",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.1111/infa.12500"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nh32bbvfrh2",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Shi, J., Gu, Y., & Vigliocco, G. (2023). Prosodic modulations in child-directed language and their impact on word learning. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Developmental Science"
+          },
+          {
+            "type": "text",
+            "text": ", 26(4), e13357."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nw72gp2aoh8",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Shneidman, L. A., & Goldin-Meadow, S. (2012). Language input and acquisition in a Mayan village: how important is directed speech?. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Developmental Science, 15(5)"
+          },
+          {
+            "type": "text",
+            "text": ", 659\u2013673. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.1111/j.1467-7687.2012.01168.x",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.1111/j.1467-7687.2012.01168.x"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nzzk4euc8lq",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Soderstrom, M. (2007). Beyond babytalk: Re-evaluating the nature and content of speech input to preverbal infants. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Developmental Review, 27(4)"
+          },
+          {
+            "type": "text",
+            "text": ", 501-532. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.1016/j.dr.2007.06.002",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://doi.org/10.1016/j.dr.2007.06.002"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njvouqu25ws",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Thiessen, E. D., Hill, E. A., & Saffran, J. R. (2005). Infant-Directed Speech Facilitates Word Segmentation. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Infancy, 7(1)"
+          },
+          {
+            "type": "text",
+            "text": ", 53\u201371. https://doi.org/10.1207/s15327078in0701_5"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nyqdk5c2jjc",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Zangl, R., & Mills, D. L. (2007). Increased Brain Activity to Infant-Directed Speech in 6-and 13-Month-Old Infants."
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " Infancy, 11(1)"
+          },
+          {
+            "type": "text",
+            "text": ", 31\u201362. https://doi.org/10.1207/s15327078in1101_2"
+          }
+        ]
+      }
+    ]
+  }
+}

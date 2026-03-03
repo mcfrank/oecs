@@ -1,0 +1,1537 @@
+{
+  "id": "6ddb1c41-38d0-4f71-b6fb-968d0063ae5b",
+  "slug": "1bu7sqv2",
+  "title": "Cognitive Ontology",
+  "url": "https://oecs.mit.edu/pub/1bu7sqv2",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "6ddb1c41-38d0-4f71-b6fb-968d0063ae5b",
+    "slug": "1bu7sqv2",
+    "title": "Cognitive Ontology",
+    "htmlTitle": "Cognitive Ontology",
+    "description": "",
+    "htmlDescription": "Colin Klein (0000-0002-7406-4010)The Australian National University",
+    "avatar": null,
+    "customPublishedAt": "2024-07-24T00:00:00.000Z",
+    "doi": "10.21428/e2759450.6ddb1c41",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "8nayp3gu",
+    "editHash": "b2r83uk8",
+    "reviewHash": "nbz0x3ot",
+    "commentHash": "nws0iaki",
+    "draftId": "30960e64-9b5e-4059-8ff0-4f78aec94861",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "26916afe-7ef7-4e01-85c7-da274907052d",
+    "scopeSummaryId": "5222ca56-e9ee-40aa-87d1-36a533e1e3a7",
+    "createdAt": "2024-04-17T19:37:20.627Z",
+    "updatedAt": "2024-07-24T12:18:26.486Z",
+    "attributions": [
+      {
+        "id": "308d4093-18ab-4e6a-ab08-60f694e10955",
+        "name": "Colin Klein",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "The Australian National University",
+        "orcid": "0000-0002-7406-4010",
+        "userId": null,
+        "pubId": "6ddb1c41-38d0-4f71-b6fb-968d0063ae5b",
+        "createdAt": "2024-04-22T17:41:13.145Z",
+        "updatedAt": "2024-04-22T17:41:47.810Z",
+        "user": null
+      },
+      {
+        "id": "17a81f45-9e69-4185-957c-5ec9db98b032",
+        "name": "Adrian Alsmith",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "King's College London",
+        "orcid": null,
+        "userId": null,
+        "pubId": "6ddb1c41-38d0-4f71-b6fb-968d0063ae5b",
+        "createdAt": "2024-07-23T21:05:39.811Z",
+        "updatedAt": "2024-07-23T21:06:01.733Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "30960e64-9b5e-4059-8ff0-4f78aec94861",
+      "latestKeyAt": "2024-07-23T21:07:14.830Z",
+      "firebasePath": "drafts/draft-30960e64-9b5e-4059-8ff0-4f78aec94861",
+      "createdAt": "2024-04-17T19:37:20.622Z",
+      "updatedAt": "2024-07-24T12:17:50.458Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbqocd0acs8",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Scientific theories always presuppose an "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "ontology:"
+          },
+          {
+            "type": "text",
+            "text": " a set of entities, relationships, and processes that together form the basic building blocks of theories. Chemistry has atoms, molecules, and ways of making and breaking bonds. Evolutionary biology has species and processes of reproduction, competition, and natural selection. A "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cognitive ontology"
+          },
+          {
+            "type": "text",
+            "text": " is the set of entities presupposed by a theory in the behavioral and cognitive sciences. A theory that postulates a lexical and a phonological route for reading written words, for example, posits two decoding processes, each of which is part of a larger process of reading. Debates about the correct ontology are as old as cognitive theorizing itself, but the term "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cognitive ontology"
+          },
+          {
+            "type": "text",
+            "text": " is usually discussed in the context of challenges to traditional ontologies stemming from neuroimaging research beginning in the early 2000s. The extent to which traditional cognitive theorizing must line up with discoveries in cognitive neuroscience remains a central question in the cognitive ontology debate."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n95k03zj442",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Every cognitive theory implies an ontology, so there is a sense in which cognitive scientists have always debated about the right cognitive ontology. The current use of the term, however, largely dates to a paper by "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbiue872o1o",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny47k2dehnz\" data-reactroot=\"\">Price, C. J., &amp; Friston, K. J. (2005). Functional ontologies for cognition: The systematic definition of structure and function. <em>Cognitive Neuropsychology,</em> <em>22</em>(3), 262\u2013275. <a href=\"https://doi.org/10.1080/02643290442000095\" target=\"_blank\">https://doi.org/10.1080/02643290442000095</a></p>",
+              "customLabel": "Price and Friston (2005)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". They argued that neuroimaging results tend to not line up neatly with brain activation. In particular, cognitive processes that any traditional theory would distinguish\u2014such as naming pictures, making braille discriminations, and deciding whether words rhyme\u2014activate the very same brain regions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3yhpv3slmt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ninktua12o8\" data-reactroot=\"\">Price, C. J., &amp; Friston, K. J. (2005). Functional ontologies for cognition: The systematic definition of structure and function. <em>Cognitive Neuropsychology,</em> <em>22</em>(3), 262\u2013275. <a href=\"https://doi.org/10.1080/02643290442000095\" target=\"_blank\">https://doi.org/10.1080/02643290442000095</a></p>",
+              "customLabel": "Price & Friston, 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nv1lzlk2uqa",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl73yhnsuxb\" data-reactroot=\"\">Anderson, M.L. (2014)  <em>After Phrenology: Neural Reuse and the Interactive Brain. </em>MIT Press</p>",
+              "customLabel": "Anderson, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Conversely, what ought to be instances of the same cognitive process can be associated with the activation of very different brain regions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmwyoj4ssnv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmbxl5bp8p4\" data-reactroot=\"\">Price, C. J., &amp; Friston, K. J. (2002). Degeneracy and cognitive anatomy. <em>Trends in Cognitive Sciences,</em> <em>6</em>(10), 416\u2013421. <a href=\"https://doi.org/10.1016/S1364-6613(02)01976-9\" target=\"_blank\">https://doi.org/10.1016/S1364-6613(02)01976-9</a></p>",
+              "customLabel": "Price & Friston, 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nca2hj02k19",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Such findings suggest that the ontologies embodied in traditional cognitive science might be mistaken. The most radical responses to the lack of alignment between cognitive terms and brain regions suggested that we are in the same position as medieval alchemy was to modern chemistry: We are mostly carving up the world wrong, and when we do get it right, it\u2019s for the wrong reasons. Price and Friston themselves suggested as much. This revisionist agenda was pursued most vigorously by Poldrack and his collaborators, who suggested that we should rebuild our cognitive ontologies in a bottom-up, data-driven way (cf. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nen74ipya3r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzvya5evpfp\" data-reactroot=\"\">Yarkoni, T., Poldrack, R. A., Van Essen, D. C., &amp; Wager, T. D. (2010). Cognitive neuroscience 2.0: Building a cumulative science of human brain function. <em>Trends in Cognitive Sciences,</em> <em>14</em>(11), 489\u2013496. <a href=\"https://doi.org/10.1016/j.tics.2010.08.004\" target=\"_blank\">https://doi.org/10.1016/j.tics.2010.08.004</a></p>",
+              "customLabel": "Yarkoni et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This position is reminiscent of philosopher Paul Churchland\u2019s earlier advocacy of Eliminative Materialism, that is, the thesis that common-sense psychology is a false theory that will be completely replaced by cognitive science ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n32xx0z5v12",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1h7axgs4ys\" data-reactroot=\"\">Churchland, P. (1981). Eliminative materialism and the propositional attitudes. <em>The Journal of Philosophy,</em> <em>78</em>(2), 67\u201390.</p>",
+              "customLabel": "Churchland, 1981",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") but with more empirical grounding. A less radical response is that traditional ontologies might need to be revised but that neuroimaging can show us which things can be reliably discriminated and so retained ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndvk7e9e04p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbwweluk1kj\" data-reactroot=\"\">Lenartowicz, A., Kalar, D. J., Congdon, E., &amp; Poldrack, R. A. (2010). Towards an ontology of cognitive control. <em>Topics in Cognitive Science,</em> <em>2</em>(4), 678\u2013692. <a href=\"https://doi.org/10.1111/j.1756-8765.2010.01100.x\" target=\"_blank\">https://doi.org/10.1111/j.1756-8765.2010.01100.x</a></p>",
+              "customLabel": "Lenartowicz et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nh666yya294",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The term "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cognitive ontology"
+          },
+          {
+            "type": "text",
+            "text": " has been used to refer to three closely related but distinct concepts ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9en0lwaxei",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4s00mf4hey\" data-reactroot=\"\">Janssen, A., Klein, C., &amp; Slors, M. (2017). What is a cognitive ontology, anyway? <em>Philosophical Explorations,</em> <em>20</em>(2), 123\u2013128. <a href=\"https://doi.org/10.1080/13869795.2017.1312496\" target=\"_blank\">https://doi.org/10.1080/13869795.2017.1312496</a></p>",
+              "customLabel": "Janssen et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nyuxbt4360a",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "First, an "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "ontology"
+          },
+          {
+            "type": "text",
+            "text": " can mean a particular proposal about which cognitive states there are and how they are related. This is ontology in Quine\u2019s sense of \u201cwhat there is\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhzkovexcdn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nct965r5mpz\" data-reactroot=\"\">Quine, W. V. (1948). On what there is. <em>The Review of Metaphysics,</em> <em>2</em>(5), 21\u201338.</p>",
+              "customLabel": "Quine, 1948",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "): the things that theories talk about, observe, and measure. This is the way in which this article uses the term and is the most common usage in philosophy and cognitive science."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5wfpwofta4",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Second, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "ontology"
+          },
+          {
+            "type": "text",
+            "text": " can refer to a particular, standardized set of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "terminology"
+          },
+          {
+            "type": "text",
+            "text": " used for talking about cognitive states. This is a sense of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "ontology"
+          },
+          {
+            "type": "text",
+            "text": " inherited from data science and is becoming more common where cognitive science meets large-scale automated meta-analyses. Consistent terminology is very important: If some labs call a brain region \u201cV5\u201d and others \u201cMT,\u201d then it will be difficult to coordinate results across labs."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nueh7d1xioe",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Third, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "ontology"
+          },
+          {
+            "type": "text",
+            "text": " can refer to very abstract proposals about the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "types"
+          },
+          {
+            "type": "text",
+            "text": " of entities admissible in a cognitive theory: processes versus states, innate modules versus learned associations, or feedforward computations versus predictive feedback. This sense of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "ontology"
+          },
+          {
+            "type": "text",
+            "text": " is mostly used by philosophers, and debates tend to be more theoretical than empirical."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9s7d84jd94",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The three uses are distinct but closely related. For example, if you think that cognitive scientists ought to build a cognitive ontology using empirical data, then the question of how we name and organize that data becomes pressing. Someone who thinks that the basic type of mental entity is a dynamic, continuous process will probably give a very different catalog of mental states than one who thinks that there are innate computational modules."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "naj1rd25hly",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The classic controversies over cognitive ontology involve the relative role of top-down versus bottom-up approaches to theorizing. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzdl09jurwj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny47k2dehnz\" data-reactroot=\"\">Price, C. J., &amp; Friston, K. J. (2005). Functional ontologies for cognition: The systematic definition of structure and function. <em>Cognitive Neuropsychology,</em> <em>22</em>(3), 262\u2013275. <a href=\"https://doi.org/10.1080/02643290442000095\" target=\"_blank\">https://doi.org/10.1080/02643290442000095</a></p>",
+              "customLabel": "Price and Friston (2005)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " raise an implicit challenge to top-down theorizing: Whatever our traditional psychological ontologies are, they must ultimately line up with sensible neural ontologies. Revisionary projects go further: Having accepted that constraint, they conclude we ought to just start with the brain and rebuild our ontologies in a way that guarantees alignment."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nr9eu7jei21",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Yet many have challenged the assumption that the mapping between cognitive states and the brain needs to be one-to-one. Most obviously, a number of tasks will be performed by conjunctions of basic operations: As "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nphxww42biz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ncr9eqdyrwy\" data-reactroot=\"\">Petersen, S. E., &amp; Fiez, J. A. (1993). The processing of single words studied with positron emission tomography. <em>Annual Review of Neuroscience,</em> <em>16</em>, 509\u2013530. <a href=\"https://doi.org/10.1146/annurev.ne.16.030193.002453\" target=\"_blank\">https://doi.org/10.1146/annurev.ne.16.030193.002453</a></p>",
+              "customLabel": "Petersen and Fietz (1993)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " point out, there is no \u201ctennis forehand area\u201d to be discovered in the brain. Even basic cognitive activities, whatever those are, need not have a simple relationship to the brain. We do not find a one-to-one mapping between levels in other scientific domains, including the computational ones that inspire cognitive psychology ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqotlivxwei",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhegghmyjkg\" data-reactroot=\"\">Roskies, A. (2009). Brain-mind and structure-function relationships: A methodological response to Coltheart. <em>Philosophy of Science,</em> <em>76</em>, 927\u2013939. <a href=\"https://doi.org/10.1086/605815\" target=\"_blank\">https://doi.org/10.1086/605815</a></p>",
+              "customLabel": "Roskies, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n89mw8etklt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5whup77obm\" data-reactroot=\"\">Jonas, E., &amp; Kording, K. P. (2017). Could a neuroscientist understand a microprocessor? <em>PLoS Computational Biology,</em> <em>13</em>(1), e1005268. <a href=\"https://doi.org/10.1371/journal.pcbi.1005268\" target=\"_blank\">https://doi.org/10.1371/journal.pcbi.1005268</a></p>",
+              "customLabel": "Jonas & Kording, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrm2inq0e8o",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ncau8oe18i4\" data-reactroot=\"\">McCaffrey, J. B. (2023). Evolving concepts of functional localization. <em>Philosophy Compass,</em> <em>18</em>, 12914. <a href=\"https://doi.org/10.1111/phc3.12914\" target=\"_blank\">https://doi.org/10.1111/phc3.12914</a></p>",
+              "customLabel": "McCaffrey, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The influential philosophical thesis of nonreductive physicalism explicitly denies there ought to be a simple mapping. So there remains real debate about the constraints on building cognitive ontologies."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n36qiphmxep",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "More recent work has emphasized the role of broader context in settling ontologies. It is possible, for example, that the best characterization of a brain region\u2019s function itself depends on what is going on elsewhere in the brain ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nn2r54x2kqj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl73yhnsuxb\" data-reactroot=\"\">Anderson, M.L. (2014)  <em>After Phrenology: Neural Reuse and the Interactive Brain. </em>MIT Press</p>",
+              "customLabel": "Anderson, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlw5rechckc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfo3ihzj9r7\" data-reactroot=\"\">Dewhurst, J. (2018). Context-sensitive ontologies for a non-reductionist cognitive neuroscience. <em>Australasian Philosophical Review,</em> <em>2</em>(2), 224\u2013228. <a href=\"https://doi.org/10.1080/24740500.2018.1552102\" target=\"_blank\">https://doi.org/10.1080/24740500.2018.1552102</a></p>",
+              "customLabel": "Dewhurst, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Several authors have also emphasized that one cannot really distinguish an ontology of cognition from an ontology of tasks ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlrn2fb94q1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nehamppp123\" data-reactroot=\"\">Figdor, C. (2011). Semantics and metaphysics in informatics: Toward an ontology of tasks. <em>Topics in Cognitive Science,</em> <em>3</em>(2), 222\u2013226. <a href=\"https://doi.org/10.1111/j.1756-8765.2011.01133.x\" target=\"_blank\">https://doi.org/10.1111/j.1756-8765.2011.01133.x</a></p>",
+              "customLabel": "Figdor, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbht1spapk6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nprjh01enni\" data-reactroot=\"\">Klein, C. (2012). Cognitive ontology and region- versus network-oriented analyses. <em>Philosophy of Science,</em> <em>79</em>(5), 952\u2013960. <a href=\"https://doi.org/10.1086/667843\" target=\"_blank\">https://doi.org/10.1086/667843</a></p>",
+              "customLabel": "Klein, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npji04iwsp0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nttcf1vjnsn\" data-reactroot=\"\">Burnston, D. C. (2021). Cognitive ontologies, task ontologies, and explanation in cognitive neuroscience. In J. Bickle, C. F. Craver, &amp; A.-S. Barwich (Eds.), <em>The Tools of neuroscience experiment</em> (pp. 259\u2013283). Routledge. <a href=\"https://doi.org/10.4324/9781003251392-16\" target=\"_blank\">https://doi.org/10.4324/9781003251392-16</a></p>",
+              "customLabel": "Burnston, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). If a researcher thinks that recognizing faces is just a kind of object recognition, for example, they will use different methods (and potentially come to a different ontology) than one who thinks it is a wholly distinct task [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/h0rivqh3",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Face Perception"
+          },
+          {
+            "type": "text",
+            "text": "]. The ways we operationalize psychological functions both embody and shape assumptions about the underlying realizers, sometimes in unexpected ways."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nk15eniqsm0",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A final open question, coming from philosophy of science, concerns the extent to which a cognitive ontology can be pluralist. If one author says face recognition is a distinct, modular process while another says that it is a specialized function of a broader distributed system ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndjnozdxkj6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nur7p8z2a5o\" data-reactroot=\"\">Haxby, J. V., Gobbini, M. I., Furey, M. L., Ishai, A., Schouten, J. L., &amp; Pietrini, P. (2001). Distributed and overlapping representations of faces and objects in ventral temporal cortex. <em>Science,</em> <em>293</em>(5539), 2425\u20132430. <a href=\"https://doi.org/10.1126/science.1063736\" target=\"_blank\">https://doi.org/10.1126/science.1063736</a></p>",
+              "customLabel": "Haxby et al., 2001",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), do they really disagree? Or can we carve up cognition in many different but equally valid ways? There are strong arguments that other areas of science (such as biology) admit multiple overlapping taxonomies ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2264gzys5m",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npntca145q2\" data-reactroot=\"\">Dupr\u00e9, J. (1993). <em>The disorder of things: Metaphysical foundations of the disunity of science</em>. Harvard University Press.</p>",
+              "customLabel": "Dupr\u00e9, 1993",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "); perhaps many apparent debates in cognitive science might dissolve if we embrace similar pluralism ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncimgz1j7mv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv8rgslh7om\" data-reactroot=\"\">Dale, R., Dietrich, E., &amp; Chemero, A. (2009). Explanatory pluralism in cognitive science. <em>Cognitive Science,</em> <em>33</em>(5), 739\u2013742. <a href=\"https://doi.org/10.1111/j.1551-6709.2009.01042.x\" target=\"_blank\">https://doi.org/10.1111/j.1551-6709.2009.01042.x</a></p>",
+              "customLabel": "Dale et al., 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5alsjxhv2o",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The debate over cognitive ontology has been fruitful because it links to many other topics in philosophy and cognitive science. Some classic debates\u2014such as over the unity or disunity of working memory ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npvc1u1b651",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbno6ixsrmp\" data-reactroot=\"\">Gomez-Lavin, J. (2021). Working memory is not a natural kind and cannot explain central cognition. <em>Review of Philosophy and Psychology,</em> <em>12</em>(2), 199\u2013225. <a href=\"https://doi.org/10.1007/s13164-020-00507-4\" target=\"_blank\">https://doi.org/10.1007/s13164-020-00507-4</a></p>",
+              "customLabel": "Gomez-Lavin, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or the correct level of abstraction at which to describe fusiform face area ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nes81mdpazw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"niz57tfr847\" data-reactroot=\"\">Farah, M. J. (2004). <em>Visual agnosia</em>. MIT press. <a href=\"https://doi.org/10.7551/mitpress/7122.001.0001\" target=\"_blank\">https://doi.org/10.7551/mitpress/7122.001.0001</a></p>",
+              "customLabel": "Farah, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or the proper taxonomy of delusions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0wsy55z5sp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n88iwsf0h0l\" data-reactroot=\"\">Clutton, P., Gadsby, S., &amp; Klein, C. (2017). Taxonomising delusions: Content or aetiology? <em>Cognitive Neuropsychiatry,</em> <em>22</em>(6), 508\u2013527. <a href=\"https://doi.org/10.1080/13546805.2017.1404975\" target=\"_blank\">https://doi.org/10.1080/13546805.2017.1404975</a></p>",
+              "customLabel": "Clutton et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")\u2014are readily cast as debates about cognitive ontology and so can be linked to the philosophical resources developed in that literature."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nu1l5v73phn",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader revisionary projects in cognitive psychology can also be better conceptualized as debates over cognitive ontology rather than as a simple clash of theories. The work of Poldrack and colleagues noted above is one radical version of this. However, non-mainstream theories such as 4E Cognition ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nr36fp84mmm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2y25obqx2h\" data-reactroot=\"\">Chemero, A. (2009). <em>Radical embodied cognitive science</em>. The MIT Press. <a href=\"https://doi.org/10.7551/mitpress/8367.001.0001\" target=\"_blank\">https://doi.org/10.7551/mitpress/8367.001.0001</a></p>",
+              "customLabel": "Chemero, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") can be seen as an attempt to enlarge our cognitive ontology by including Gibsonian affordances\u2014which in turn argues that a full cognitive ontology includes the environment, not just the individual ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nn14fwcq642",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntjybvub82r\" data-reactroot=\"\">Hutto, D. D., Peeters, A., &amp; Segundo-Ortin, M. (2017). Cognitive ontology in flux: The possibility of protean brains. <em>Philosophical Explorations,</em> <em>20</em>(2), 209\u2013223. <a href=\"https://doi.org/10.1080/13869795.2017.1312502\" target=\"_blank\">https://doi.org/10.1080/13869795.2017.1312502</a></p>",
+              "customLabel": "Hutto et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nomf3o2f2qv",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Finally, the debate over cognitive ontology has the potential to inform philosophical debates as well. Much of the traditional work on natural kinds takes as its starting point kinds in chemistry or biology. Yet cognitive processes are arguably natural kinds as well, and ones with unique properties. So thinking about cognitive ontology might provide a richer foundation for philosophical theorizing about the goals of science and of building ontologies in the first place ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no3jum937od",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nanepsh33ce\" data-reactroot=\"\">Francken, J. C., Slors, M., &amp; Craver, C. F. (2022). Cognitive ontology and the search for neural mechanisms: Three foundational problems. <em>Synthese,</em> <em>200</em>(5), 378. <a href=\"https://doi.org/10.1007/s11229-022-03701-2\" target=\"_blank\">https://doi.org/10.1007/s11229-022-03701-2</a></p>",
+              "customLabel": "Francken et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "neux6tdf5ff",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrb2ppv0bzu\" data-reactroot=\"\">Khalidi, M. A. (2023). <em>Cognitive ontology: taxonomic practices in the mind-brain sciences</em>. Cambridge University Press. <a href=\"https://doi.org/10.1017/9781009223645\" target=\"_blank\">https://doi.org/10.1017/9781009223645</a></p>",
+              "customLabel": "Khalidi, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "acknowledgments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Acknowledgments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nnwr5t0gejx",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Work on this paper was supported by a grant from the Templeton World Charity Foundation (TWCF-2020-20539)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "key-references",
+          "id": "key-references",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n87oppek9vj",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nz6khc359eq",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Janssen, A., Klein, C., & Slors, M. (2017). What is a cognitive ontology, anyway? "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Philosophical Explorations,"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "20"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(2), 123\u2013128. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1080/13869795.2017.1312496",
+                          "title": null,
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1080/13869795.2017.1312496"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "ntoazadpk44",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Khalidi, M. A. (2023). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Cognitive ontology: taxonomic practices in the mind-brain sciences"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Cambridge University Press. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1017/9781009223645",
+                          "title": null,
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1017/9781009223645"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n5vxad9659v",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Price, C. J., & Friston, K. J. (2005). Functional ontologies for cognition: The systematic definition of structure and function. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Cognitive Neuropsychology,"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "22"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(3), 262\u2013275. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1080/02643290442000095",
+                          "title": null,
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1080/02643290442000095"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

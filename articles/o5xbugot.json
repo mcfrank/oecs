@@ -1,0 +1,1302 @@
+{
+  "id": "e4a8e626-0dd5-4eeb-8bca-36c950e99be4",
+  "slug": "o5xbugot",
+  "title": "Supervised and Unsupervised Learning ",
+  "url": "https://oecs.mit.edu/pub/o5xbugot",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "e4a8e626-0dd5-4eeb-8bca-36c950e99be4",
+    "slug": "o5xbugot",
+    "title": "Supervised and Unsupervised Learning ",
+    "htmlTitle": "Supervised and Unsupervised Learning ",
+    "description": "",
+    "htmlDescription": "Bradley C. Love (https://orcid.org/0000-0002-7883-7076)\nLos Alamos National Laboratory",
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.e4a8e626",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "m0zvayhq",
+    "editHash": "bmkcyzyz",
+    "reviewHash": "185bovko",
+    "commentHash": "fs56sd57",
+    "draftId": "e312b5a5-ca02-45b4-aec3-df520bb29a02",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "aeaf92ae-e1f0-4c76-bec4-5ed6a361291d",
+    "scopeSummaryId": "d1d24ee3-e088-4550-b344-15efbdbb7a6f",
+    "createdAt": "2025-11-20T20:37:15.308Z",
+    "updatedAt": "2026-01-22T22:32:05.308Z",
+    "attributions": [
+      {
+        "id": "0889a851-b593-4166-b961-5ad49473a398",
+        "name": "Michael C. Frank",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Stanford University",
+        "orcid": "0000-0002-7551-4378",
+        "userId": null,
+        "pubId": "e4a8e626-0dd5-4eeb-8bca-36c950e99be4",
+        "createdAt": "2025-12-03T23:36:26.313Z",
+        "updatedAt": "2025-12-03T23:36:37.920Z",
+        "user": null
+      },
+      {
+        "id": "a410e368-ed78-46b9-ba96-d481b10c7a87",
+        "name": "Bradley C. Love",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Los Alamos National Laboratory",
+        "orcid": "0000-0002-7883-7076",
+        "userId": null,
+        "pubId": "e4a8e626-0dd5-4eeb-8bca-36c950e99be4",
+        "createdAt": "2025-11-20T20:37:54.719Z",
+        "updatedAt": "2025-11-20T20:38:08.548Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "e312b5a5-ca02-45b4-aec3-df520bb29a02",
+      "latestKeyAt": "2026-01-22T21:54:10.566Z",
+      "firebasePath": "drafts/draft-e312b5a5-ca02-45b4-aec3-df520bb29a02",
+      "createdAt": "2025-11-20T20:37:15.306Z",
+      "updatedAt": "2026-01-22T22:31:28.110Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ntoalx6tbdm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Unsupervised learning"
+          },
+          {
+            "type": "text",
+            "text": " is learning that occurs in the absence of feedback from an external teacher, which can be contrasted with "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "supervised learning"
+          },
+          {
+            "type": "text",
+            "text": ", in which an external teacher provides corrective labels during learning. Unsupervised learning is important across domains in cognitive science such as vision, language, and categorization. Although the distinction between supervised and unsupervised learning seems clear, closer examination suggests learning tasks fall along a continuum between these two approaches. "
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nq2brlgnkly",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Unsupervised learning, the discovery of patterns and structure without explicit labels or teaching signals, has a rich history in both psychology and artificial intelligence. In psychology, early evidence came from "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n35lzy8ffzz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9fszwk512h\" data-reactroot=\"\">Tolman, E. C., &amp; Honzik, C. H. (1930). Introduction and removal of reward, and maze performance in rats. <em>University of California Publications in Psychology</em>, <em>4</em>, 257-275.</p>",
+              "customLabel": "Tolman and Honzik's (1930)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " latent learning experiments in which rats explored mazes without reinforcement for several days but, once food rewards were introduced, immediately demonstrated that they had learned the maze layout during the unrewarded trials ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndoe3c3j6vk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngthfus1m47\" data-reactroot=\"\">Tolman, E. C. (1948). Cognitive maps in rats and men. <em>Psychological Review</em>, <em>55</em>(4), 189-208. <a href=\"https://doi.org/10.1037/h0061626\">https://doi.org/10.1037/h0061626</a> </p>",
+              "customLabel": "Tolman, 1948",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In the 1960s, Arthur "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvlrg3t4mmr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndod7phcikn\" data-reactroot=\"\">Reber, A. S. (1967). Implicit learning of artificial grammars. <em>Journal of Verbal Learning and Verbal Behavior</em>, <em>6</em>(6), 855-863. <a href=\"https://doi.org/10.1016/S0022-5371(67)80149-X\">https://doi.org/10.1016/S0022-5371(67)80149-X</a> </p>",
+              "customLabel": "Reber's (1967)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " artificial grammar learning studies demonstrated that people could implicitly extract complex rules from unlabeled letter sequences, establishing that humans acquire structured knowledge without awareness of what they learned. In the 1990s, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngl1jvrtd6n",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngtrjdqq623\" data-reactroot=\"\">Saffran, J. R., Aslin, R. N., &amp; Newport, E. L. (1996). Statistical learning by 8-month-old infants. Science, 274(5294), 1926-1928. <a href=\"https://doi.org/10.1126/science.274.5294.1926\">https://doi.org/10.1126/science.274.5294.1926</a> </p>",
+              "customLabel": "Saffran et al. (1996)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " found that infants could segment words from continuous speech by tracking transitional probabilities between syllables [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/jr9encpg",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Statistical Learning"
+          },
+          {
+            "type": "text",
+            "text": "]. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "noh41nm01js",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsywqpm7aur\" data-reactroot=\"\">Clapper, J. P., &amp; Bower, G. H. (1994). Category invention in unsupervised learning. <em>Journal of Experimental Psychology: Learning, Memory, &amp; Cognition</em>, <em>20</em>(2), 443\u2013460. <a href=\"https://doi.org/10.1037//0278-7393.20.2.443\">https://doi.org/10.1037//0278-7393.20.2.443</a> </p>",
+              "customLabel": "Clapper and Bower's (1994)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " work on category invention demonstrated that people seize on presentation order to discover category structure in an unsupervised fashion rather than passively tracking correlations."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "np2lnm8n3qt",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In parallel, artificial intelligence (AI) research developed formal methods for discovering structure; the term \u201ck-means\u201d (referring to a set of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "k"
+          },
+          {
+            "type": "text",
+            "text": " clusters with distinct mean values) was first used by J. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n52obg9pe01",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njpd4xbw6qm\" data-reactroot=\"\">MacQueen, J. (1967). Some methods for classification and analysis of multivariate observations. In L. M. Le Cam &amp; J. Neyman (Eds.), <em>Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics and Probability</em> (Vol. 1, pp. 281-297). University of California Press.</p>",
+              "customLabel": "MacQueen (1967)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " and was followed by techniques like principal component analysis and Teuvo "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nn0sxc4yftt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nerizv0k9h0\" data-reactroot=\"\">Kohonen, T. (1982). Self-organized formation of topologically correct feature maps. <em>Biological Cybernetics</em>, <em>43</em>(1), 59-69. <a href=\"https://doi.org/10.1007/BF00337288\">https://doi.org/10.1007/BF00337288</a> </p>",
+              "customLabel": "Kohonen's (1982)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " self-organizing maps in the 1970s to 1980s that created topology-preserving representations. Throughout this history, the fields of AI and cognitive science have cross-pollinated; Hebbian learning principles from neuroscience inspired computational algorithms, and AI\u2019s clustering and dimensionality reduction techniques offered formal frameworks for testing psychological theories about how minds extract meaningful structure from experience."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n669bczrjar",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In canonical supervised learning, the target output that the learner should predict is explicitly defined and provided by an external teacher. For instance, in a classification or category-learning task, the learner predicts a class or category label based on a stimulus input. Then, the external teacher provides the correct answer as feedback. For example, a radiology student could be presented with a mammogram, asked whether a tumor is present or not, respond, and then be told the correct answer. The goal in this case is solely to predict the presence or absence of a tumor. In effect, the learner\u2019s task can be formally described as calculating the probability of the class label (e.g., tumor vs. no tumor) given the features of the stimulus ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6qbqzdz3pp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"noh8milz3i0\" data-reactroot=\"\">Ng, A., &amp; Jordan, M. (2001). On discriminative vs. generative classifiers: A comparison of logistic regression and naive Bayes. In T. Dietterich, S. Becker, &amp; Z. Ghahramani (Eds.), <em>Advances in neural information processing systems</em> (Vol. 14). MIT Press.</p>",
+              "customLabel": "Ng & Jordan, 2001",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhxkvnffgsp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In contrast, in purely unsupervised learning, there is no external teacher that provides a supervisory signal, and the learner is tasked with discovering the structure of the domain. For instance, the learner may use a clustering approach or dimensional reduction technique ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8xp8cz0q5v",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nleogc4oq8n\" data-reactroot=\"\">Roads, B. D., &amp; Love, B. C. (2024). The dimensions of dimensionality. <em>Trends in Cognitive Sciences</em>, <em>28</em>(2), 1118-1131. <a href=\"https://doi.org/10.1016/j.tics.2024.07.005\" title=\"\">https://doi.org/10.1016/j.tics.2024.07.005</a></p>",
+              "customLabel": "Roads & Love, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") to characterize how the observable features interrelate with one another. In this case, rather than attempting to discriminate between different class labels (e.g., tumor present or not), the learner aims to discover patterns and relationships among all features without prioritizing any particular prediction task. In the mammogram example, this could correspond to clustering mammograms together based on shared visual patterns and characteristics, which could lead to the discovery of naturally occurring groupings that might or might not align with the presence of tumors."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncjvb9vsc8b",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Learning approaches can exist anywhere between these two extremes of supervised and unsupervised learning. For instance, we could view the category or class label as just another feature to predict from the other features. If the learner only cared about predicting the category label feature, then learning could be characterized as supervised. If the learner cared equally about predicting every feature, then learning could be characterized as unsupervised. Between these extremes, models can be designed to weight the importance of predicting different features to varying degrees, creating a continuous spectrum of learning approaches ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsjbzzscaku",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4bmwlvs7ba\" data-reactroot=\"\">Jones, M., &amp; Love, B. C. (2006). The emergence of multiple learning systems. <em>Proceedings of the Annual Meeting of the Cognitive Science Society</em>, <em>28</em>. <a href=\"https://escholarship.org/uc/item/0rv7d3hx\">https://escholarship.org/uc/item/0rv7d3hx</a> </p>",
+              "customLabel": "Jones & Love, 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkn914kxy24",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "For example, a Bayesian clustering model, the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "rational model"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngba97kj7jg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3yrw4oug60\" data-reactroot=\"\">Anderson, J. R. (1991). The adaptive nature of human categorization. <em>Psychological Review</em>, <em>98</em>(3), 409\u2013429. <a href=\"https://doi.org/10.1037/0033-295X.98.3.409\">https://doi.org/10.1037/0033-295X.98.3.409</a> </p>",
+              "customLabel": "Anderson, 1991",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), operates along related principles [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/lurik5dk",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Rational Analysis"
+          },
+          {
+            "type": "text",
+            "text": "]. The rational model is unsupervised, but it can be made to organize its cluster along certain features, such as the category label, by specifying a narrower prior for these features. Another clustering model, SUSTAIN ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "np5ap9l2t3a",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqbp39hcxop\" data-reactroot=\"\">Love, B. C., Medin, D. L., &amp; Gureckis, T. M. (2004). SUSTAIN: A network model of category learning. <em>Psychological Review</em>, <em>111</em>(2), 309\u2013332. <a href=\"https://doi.org/10.1037/0033-295X.111.2.309\" title=\"\">https://doi.org/10.1037/0033-295X.111.2.309</a></p>",
+              "customLabel": "Love et al., 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), explicitly incorporates unsupervised and supervised learning to achieve related ends by organizing clusters around the learner\u2019s goal (i.e., what the learner is trying to predict). SUSTAIN uses unsupervised learning to update its clusters until the supervisory signal indicates an error that triggers the formation of a new cluster. By these means, SUSTAIN\u2019s internal representations (i.e., clusters) reflect both the structure of the environment and the learner\u2019s goals ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx32qs6sd27",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngw1sfqy7v9\" data-reactroot=\"\">Love, B. C. (2005). Environment and goals jointly direct category acquisition. <em>Current Directions in Psychological Science</em>, <em>14</em>(4), 195\u2013199. <a href=\"https://doi.org/10.1111/j.0963-7214.2005.00363.\">https://doi.org/10.1111/j.0963-7214.2005.00363.</a> </p>",
+              "customLabel": "Love, 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nurbn2yy9sj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Human learners also distort their internal representations in a manner consistent with error-driven learning models that seek to discriminate between responses as opposed to creating a veridical world model ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nse7m5ku9w0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n28xh2f1x4u\" data-reactroot=\"\">Davis, T., &amp; Love, B. C. (2010). Memory for category information is idealized through contrast with competing options. <em>Psychological Science</em>, <em>21</em>(2), 234\u2013242. <a href=\"https://doi.org/10.1177/0956797609357712\">https://doi.org/10.1177/0956797609357712</a> </p>",
+              "customLabel": "Davis & Love, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvb8nyoynxx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nt8zhtyp7m4\" data-reactroot=\"\">Ramscar, M., Yarlett, D., Dye, M., Denny, K., &amp; Thorpe, K. (2010). The effects of feature-label-order and their implications for symbolic learning. <em>Cognitive Science</em>, <em>34</em>(6), 909\u2013957. <a href=\"https://doi.org/10.1111/j.1551-6709.2009.01092.x\" title=\"\">https://doi.org/10.1111/j.1551-6709.2009.01092.x</a></p>",
+              "customLabel": "Ramscar et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In models that incorporate aspects of structure discovery, such as incremental clustering models, the order of items can have strong effects on the representations acquired during learning. Likewise, human learners are strongly affected by item ordering in learning and sorting tasks ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nphk53cn0eq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6oq73274ub\" data-reactroot=\"\">Clapper, J. P., &amp; Bower, G. H. (1994). Category invention in unsupervised learning. <em>Journal of Experimental Psychology: Learning, Memory, &amp; Cognition</em>, <em>20</em>(2), 443\u2013460. <a href=\"https://doi.org/10.1037//0278-7393.20.2.443\">https://doi.org/10.1037//0278-7393.20.2.443</a> </p>",
+              "customLabel": "Clapper & Bower, 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Bayesian models that generalize Anderson\u2019s rational model can show varying degrees of sensitivity to order effects ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrmqnbvtyzd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlfouib6gle\" data-reactroot=\"\">Sanborn, A. N., Griffiths, T. L., &amp; Navarro, D. J. (2010). Rational approximations to rational models: Alternative algorithms for category learning. <em>Psychological Review</em>, <em>117</em>(4), 1144\u20131167. <a href=\"https://doi.org/10.1037/a0020511\" title=\"\">https://doi.org/10.1037/a0020511</a></p>",
+              "customLabel": "Sanborn et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "no41bhit2y0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Self-supervised learning"
+          },
+          {
+            "type": "text",
+            "text": " further blurs the distinction between unsupervised and supervised learning. In self-supervised learning, the learner creates their own teaching signal in the absence of an external teacher. Modern large language models (LLMs) trained on massive text corpora are prominent examples of this approach ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nok6wls94dk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwd2of0fmu5\" data-reactroot=\"\">Devlin, J., Chang, M.-W., Lee, K., &amp; Toutanova, K. (2019). BERT: Pre-training of deep bidirectional transformers for language understanding. <em>arXiv. </em><a href=\"https://doi.org/10.48550/arXiv.1810.04805\">https://doi.org/10.48550/arXiv.1810.04805</a> </p>",
+              "customLabel": "Devlin et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "]. During training, LLMs typically predict the next word based on the words in the preceding context. Notice the learning task that the LLM faces is inherently unsupervised\u2014no teacher is instructing the model on what lessons to draw from the training text. Nevertheless, the training algorithm used by LLMs is supervised. In essence, self-supervision turns an unsupervised learning problem into a supervised learning problem. In psychology, similar approaches have been used to model how people master sequences ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrarlocvjw5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n40t9docbuz\" data-reactroot=\"\">Gureckis, T. M., &amp; Love, B. C. (2010). Direct associations or internal transformations? Exploring the mechanisms underlying sequential learning behavior. <em>Cognitive Science</em>, <em>34</em>(1), 10\u201350. <a href=\"https://doi.org/10.1111/j.1551-6709.2009.01076.x\">https://doi.org/10.1111/j.1551-6709.2009.01076.x</a> </p>",
+              "customLabel": "Gureckis & Love, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ndon9v57e7b",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Unsupervised learning can set the stage for successful supervised learning, particularly because unsupervised training data is often more plentiful. Using data that does not require human annotation, unsupervised learning can discover useful representations that facilitate subsequent supervised learning. For example, LLMs are initially trained on next word prediction, which does not require a teacher. Later training tunes these representations using reinforcement or supervised learning procedures to ensure that LLMs follow instructions and are helpful and polite ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1smvf0wuzu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnowm9lcigj\" data-reactroot=\"\">Rafailov, R., Sharma, A., Mitchell, E., Ermon, S., Manning, C. D., &amp; Finn, C. (2023). Direct preference optimization: Your language model is secretly a reward model. <em>arXiv</em>. <a href=\"https://doi.org/10.48550/ARXIV.2305.18290\">https://doi.org/10.48550/ARXIV.2305.18290</a> </p>",
+              "customLabel": "Rafailov et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Likewise, in object recognition tasks, unsupervised learning may initially be used to learn visual features that are then fine-tuned for the target task ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npl1noyhqqc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0d0gfmtkdq\" data-reactroot=\"\">Chen, T., Kornblith, S., Swersky, K., Norouzi, M., &amp; Hinton, G. (2020). Big self-supervised models are strong semi-supervised learners. <em>arXiv</em>. <a href=\"https://doi.org/10.48550/ARXIV.2006.10029\">https://doi.org/10.48550/ARXIV.2006.10029</a> </p>",
+              "customLabel": "Chen et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6dy0zbp20r",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "For both people and models, in order for unsupervised learning to complement supervised learning, the representations it acquires must align with those needed for subsequent supervised tasks ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "negkrhri1m4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6mnyvqyw6p\" data-reactroot=\"\">Br\u00f6ker, F., Love, B. C., &amp; Dayan, P. (2022). When unsupervised training benefits category learning. <em>Cognition</em>, <em>221</em>, 104984. <a href=\"https://doi.org/10.1016/j.cognition.2021.104984\">https://doi.org/10.1016/j.cognition.2021.104984</a> </p>",
+              "customLabel": "Br\u00f6ker et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nim2zcvvne5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0wbor982b8\" data-reactroot=\"\">Br\u00f6ker, F., Holt, L. L., Roads, B. D., Dayan, P., &amp; Love, B. C. (2024). Demystifying unsupervised learning: How it helps and hurts. <em>Trends in Cognitive Sciences</em>, <em>28</em>(11), 974\u2013986. <a href=\"https://doi.org/10.1016/j.tics.2024.09.005\">https://doi.org/10.1016/j.tics.2024.09.005</a> </p>",
+              "customLabel": "2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8dcn3fobct",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nes5mulomuk\" data-reactroot=\"\">Gibson, B. R., Rogers, T. T., &amp; Zhu, X. (2013). Human semi-supervised learning. <em>Topics in Cognitive Science</em>, <em>5</em>(1), 132\u2013172. <a href=\"https://doi.org/10.1111/tops.12010\">https://doi.org/10.1111/tops.12010</a> </p>",
+              "customLabel": "Gibson et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Intuitively, the distinctions captured in unsupervised learning need to relate to those needed by subsequent supervised learning tasks to be useful. For example, if unsupervised clustering ignores color (i.e., items with different colors are clustered together) and color is vital for subsequent supervised learning, then unsupervised learning may hinder supervised learning. In human and machine learning in real-world scenarios at scale, unsupervised and supervised learning appear to be in concert."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nork6y1m8jy",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Research into learning models\u2014such as Bayesian models, support vector machines, and artificial neural networks\u2014is relevant to both unsupervised and supervised learning, as are data visualization and dimensional reduction techniques. Unsupervised learning also connects with perceptual learning, in which exposure alone improves discrimination abilities without explicit feedback. In developmental psychology, statistical learning mechanisms discovered through unsupervised learning research help explain how infants acquire foundational knowledge about language, objects, and events [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xohbfbix",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Language Acquisition"
+          },
+          {
+            "type": "text",
+            "text": "]. The relationship between unsupervised learning and memory consolidation is also of growing interest, as the brain may extract statistical regularities during sleep and offline periods [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/s41l0yu6",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Memory"
+          },
+          {
+            "type": "text",
+            "text": "]. Additionally, debates about innateness versus learning in cognitive development often hinge on the power and limitations of unsupervised learning mechanisms [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zw60p83x",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Cognitive Development"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading "
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nr2jfzwkyxm",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n5sxe3nls0g",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Br\u00f6ker, F., Holt, L. L., Roads, B. D., Dayan, P., & Love, B. C. (2024). Demystifying unsupervised learning: How it helps and hurts. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Trends in Cognitive Sciences"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 28(11), 974\u2013986. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/j.tics.2024.09.005",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/j.tics.2024.09.005"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nasctma34rg",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ng, A., & Jordan, M. (2001). On discriminative vs. generative classifiers: A comparison of logistic regression and naive Bayes. In T. Dietterich, S. Becker, & Z. Ghahramani (Eds.), "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Advances in neural information processing systems"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (Vol. 14). MIT Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nsfesroxill",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Van Engelen, J. E., & Hoos, H. H. (2020). A survey on semi-supervised learning. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Machine Learning"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "109"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(2), 373\u2013440. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1007/s10994-019-05855-6",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1007/s10994-019-05855-6"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

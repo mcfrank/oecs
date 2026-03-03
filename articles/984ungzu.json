@@ -1,0 +1,1496 @@
+{
+  "id": "7d88329e-0868-4d08-9f53-14c51faa8793",
+  "slug": "984ungzu",
+  "title": "Affordances",
+  "url": "https://oecs.mit.edu/pub/984ungzu",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "7d88329e-0868-4d08-9f53-14c51faa8793",
+    "slug": "984ungzu",
+    "title": "Affordances",
+    "htmlTitle": "Affordances",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": "2024-07-24T00:00:00.000Z",
+    "doi": "10.21428/e2759450.7d88329e",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "y9cz3nri",
+    "editHash": "qb7f9hvg",
+    "reviewHash": "vyhdw6ty",
+    "commentHash": "ees7hpfa",
+    "draftId": "0904cd87-c9f7-443b-b687-a2214267304c",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "17b27615-31e1-46a3-9552-fa1b2357d90f",
+    "scopeSummaryId": "ddcec97a-f866-42b7-94bc-956411d89235",
+    "createdAt": "2024-05-30T21:24:05.847Z",
+    "updatedAt": "2024-07-24T11:52:15.068Z",
+    "attributions": [
+      {
+        "id": "fe901e0e-590d-492a-9d9b-87528a56fdb4",
+        "name": "Anthony Chemero",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of Cincinnati",
+        "orcid": "0000-0001-5987-4106",
+        "userId": null,
+        "pubId": "7d88329e-0868-4d08-9f53-14c51faa8793",
+        "createdAt": "2024-05-30T21:24:33.457Z",
+        "updatedAt": "2024-05-30T21:24:47.412Z",
+        "user": null
+      },
+      {
+        "id": "10672d7c-ab60-40a1-8b9f-ea203a32eb88",
+        "name": "Colin Klein",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "The Australian National University",
+        "orcid": "0000-0002-7406-4010",
+        "userId": null,
+        "pubId": "7d88329e-0868-4d08-9f53-14c51faa8793",
+        "createdAt": "2024-07-23T20:15:39.935Z",
+        "updatedAt": "2024-07-23T20:17:34.412Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "0904cd87-c9f7-443b-b687-a2214267304c",
+      "latestKeyAt": "2024-07-23T11:04:17.094Z",
+      "firebasePath": "drafts/draft-0904cd87-c9f7-443b-b687-a2214267304c",
+      "createdAt": "2024-05-30T21:24:05.844Z",
+      "updatedAt": "2024-12-06T04:37:17.673Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwq9se15gik",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The concept of affordances was introduced by psychologist James J. Gibson as the primary entities that animals, including non-human animals, perceive. For example, rather than perceiving a solid, well-supported surface with an area of approximately 750 cm, approximately 45 cm off the floor, or even a bench, a human typically perceives the affordance for sitting. Similarly, rather than perceiving a glob of honey, an ant perceives affordances for eating. The idea is that perceiving affordances would enable animals to act without first engaging in a complex series of inferential processes. The concept "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "affordance"
+          },
+          {
+            "type": "text",
+            "text": " has been central to the ecological approach in the cognitive sciences and has also played key roles in human-machine interaction, anthropology, the philosophy of mind, the philosophy of science, and across the perceptual and cognitive sciences more broadly. The notion has also been controversial, with ongoing disagreements over how to define the concept affordance, whether affordances are directly or inferentially perceived, and whether there are social affordances or affordances for joint action."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nzf5olm8crl",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The term affordance was introduced in psychology as a name for environmental opportunities for behavior by "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n49h52ahxkt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwtpzaqis7w\" data-reactroot=\"\">Gibson, J. J. (1979). <em>An ecological approach to visual perception</em> (1st ed.). Houghton, Mifflin and Company.</p>",
+              "customLabel": "Gibson (1979)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". The root of the idea is from Gestalt psychology, particularly the idea of valence or demand character\u2014a felt pull to action\u2014inherent in experience. Affordances, unlike valences or demand characters, are not mental; they are features of the environment that do not change given the needs of a perceiver. An apple, for example, still affords eating, even when a perceiver is not hungry. Nonetheless, an apple\u2019s affordance for eating is still in some sense dependent on perceivers. The apple affords eating for most humans but does not afford eating for cats.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1nv85lbwcu",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Gibson\u2019s writing on affordances was sometimes imprecise and it was not clear in his 1979 book what, specifically, he intended the relationship between affordances and perceivers of affordances to be. Sometimes Gibson seemed to say that affordances are properties of objects in the environment; sometimes he seemed to say that affordances are relations between perceivers and objects in the environment. However, it was always clear that for Gibson, affordances are not mental entities; they are directly perceived entities in the environment.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrbls26b5c9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ns3ufw626at",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nakyblrpxe3\" data-reactroot=\"\">Turvey, M. T., Shaw, R. E., Reed, E. S., &amp; Mace, W. M. (1981). Ecological laws of perceiving and acting: In reply to Fodor and Pylyshyn (1981).\u00a0<em>Cognition</em>,\u00a0<em>9</em>(3), 237\u2013304. <a href=\"https://psycnet.apa.org/doi/10.1016/0010-0277(81)90002-0\" target=\"_blank\">https://doi.org/10.1016/0010-0277(81)90002-0</a></p>",
+              "customLabel": "Turvey et al. (1981)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " systematized and formalized the ideas in Gibson\u2019s work. Affordances, in their view, are directly perceivable dispositional properties of objects that are paired with dispositional properties of animals to which they gave the neologism "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "effectivities"
+          },
+          {
+            "type": "text",
+            "text": ". Dispositional properties are properties that are not currently manifest but would become manifest in the right conditions. For example, the dispositional property \u201cfragile\u201d names the tendency of currently intact panes of glass to break when struck sharply. On this understanding of affordances, the affordance \u201cclimbable\u201d pairs with the effectivity \u201cability to climb\u201d to yield climbing behavior. This view of affordances as dispositional properties of objects in the environment has been the standard view since 1981 and is the foundation for most experimental work on affordances."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ng2g9zhnlk3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The first published experimental work specifically on affordances is by "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk1jhy5fere",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nao55g412j1\" data-reactroot=\"\">Warren, W. H., Jr. (1984). Perceiving affordances: Visual guidance of stair climbing.\u00a0<em>Journal of Experimental Psychology: Human Perception and Performance</em>,\u00a0<em>10</em>(5), 683\u2013703. <a href=\"https://doi.org/10.1037/0096-1523.10.5.683\" target=\"_blank\">https://doi.org/10.1037/0096-1523.10.5.683</a></p>",
+              "customLabel": "Warren (1984)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". Warren asked participants to judge whether they could climb stairs of systematically varying heights and found that participants correctly perceived affordances for climbing and that they did so as a function of the lengths of their legs. Since this early work, there have been thousands of empirical studies of affordances and their perception, especially in the context of bodily movement. In addition to exploring the details of specific affordances for activities, it has been shown that participants quickly adapt their affordance perception to changes in their abilities to act ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njdm3quc7pn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhfezilgtx3\" data-reactroot=\"\">Mark, L. S. (1987). Eyeheight-scaled information about affordances: A study of sitting and stair climbing.\u00a0<em>Journal of Experimental Psychology: Human Perception and Performance, 13</em>(3), 361\u2013370. <a href=\"https://doi.org/10.1037/0096-1523.13.3.361\" target=\"_blank\">https://doi.org/10.1037/0096-1523.13.3.361</a></p>",
+              "customLabel": "Mark, 1987",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and that even young children can correctly perceive affordances for other people ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nm0okaxv27j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf4qeb3r9b5\" data-reactroot=\"\">Rochat, P. (1995). Perceived reachability for self and for others by 3- to 5-year-old children and adults. <em>Journal of Experimental Child Psychology, 59</em>(2)<em>, </em>317\u2013333.\u00a0<a href=\"https://doi.org/10.1006/jecp.1995.1014\" target=\"_blank\">https://doi.org/10.1006/jecp.1995.1014</a></p>",
+              "customLabel": "Rochat, 1995",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nr21s6m0f8s",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Affordances continue to be a central topic in design and human-machine interaction. However, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb1bks00l6x",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6jmnbxxncp\" data-reactroot=\"\">Norman, D. A. (1988).\u00a0<em>The psychology of everyday things</em>. Basic Books.</p>",
+              "customLabel": "Norman (1988)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u2019s understanding of affordances was quite different from that of Gibson and the ecological cognitive scientists who followed him in that, for Norman, affordances are not directly perceived but are a kind of mental representation. For Norman, that is, affordances are more like the Gestalt demand characters. This has led to a longstanding disagreement between adherents of the ecological approach, who think that affordances are directly perceivable ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrjtslj1840",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng4jocuhfz8\" data-reactroot=\"\">Turvey, M. T., Shaw, R. E., Reed, E. S., &amp; Mace, W. M. (1981). Ecological laws of perceiving and acting: In reply to Fodor and Pylyshyn (1981).\u00a0<em>Cognition</em>,\u00a0<em>9</em>(3), 237\u2013304. <a href=\"https://psycnet.apa.org/doi/10.1016/0010-0277(81)90002-0\" target=\"_blank\">https://doi.org/10.1016/0010-0277(81)90002-0</a></p>",
+              "customLabel": "Turvey et al., 1981",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and more mainstream cognitive scientists who wish to employ the concept in a representationalist context ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n22gg6rvw4z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny89thmdsek\" data-reactroot=\"\">Vera, A. H., &amp; Simon, H. A. (1993). Situated action: A symbolic interpretation.\u00a0<em>Cognitive Science</em>,\u00a0<em>17</em>(1), 7\u201348. <a href=\"https://doi.org/10.1207/s15516709cog1701_2\" target=\"_blank\">https://doi.org/10.1207/s15516709cog1701_2</a></p>",
+              "customLabel": "Vera & Simon, 1993",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "action-information-and-direct-perception",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Action, information, and direct perception"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ndutmgijezp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Part of the motivation for the creation of the concept of affordances was the contention that perception of affordances is direct, which is to say that it is not the result of mental computation, as most cognitive scientists assume. The explanatory power of affordances is that they enable us to explain action without requiring complex mental processes. For example, if an ant perceives the affordance \u201cedible,\u201d it can guide its actions without first identifying the glob as honey, remembering that honey contains sugar and it can eat sugars and then inferring that it can eat the honey. If the ant perceives \u201cedibility\u201d directly, these mental activities are unnecessary.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkzfiz8pzyn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Claiming that affordances are directly perceived, however, depends on the assumption that there is sufficient information available in the environment for perceiving affordances without further computations. To show that there is sufficient information about affordances, ecological cognitive scientists point to the tight connection between perception and action. From the point of view of ecological cognitive scientists, perception and action are tightly connected and, in many cases, action\u2014for example, moving the eyes, turning the head, moving closer to something\u2014is part of the process of perception. This action generates information for perception, enabling the direct perception of affordances."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "affordances-and-invitations",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Affordances and invitations"
+          },
+          {
+            "type": "text",
+            "text": "\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nraf2zt343b",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Affordances are features of the environment that enable actions for a perceiver. For an individual perceiver, there are thousands of affordances in a typical situation, but most go unnoticed and, of those that are noticed, very few are acted upon. The device you are reading this on affords throwing across the room, the chair you are sitting on affords crawling under, and so on. But affordances like these are not noticed typically.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nyvg0luc5tk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One solution to this challenge is to distinguish between affordances and invitations. To do so, ecological cognitive scientists draw on ecological theories of action ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvh3dpgx1cc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfss8y75jrn\" data-reactroot=\"\">Reed, E. (1996). <em>Encountering the world</em>. Oxford University Press.</p>",
+              "customLabel": "Reed, 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and phenomenological philosophy ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncs3mhuifsz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1vbfcf1oct\" data-reactroot=\"\">Withagen, R., De Poel, H. J., Ara\u00fajo, D., &amp; Pepping, G. J. (2012). Affordances can invite behavior: Reconsidering the relationship between affordances and agency.\u00a0<em>New Ideas in Psychology</em>,\u00a0<em>30</em>(2), 250\u2013258. <a href=\"https://doi.org/10.1016/j.newideapsych.2011.12.003\" target=\"_blank\">https://doi.org/10.1016/j.newideapsych.2011.12.003</a></p>",
+              "customLabel": "Withagen et al., 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Invitations are the small subset of currently relevant actions that an environment affords an agent that the agent notices as possible actions."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "dispositions-versus-relations",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Dispositions versus relations"
+          },
+          {
+            "type": "text",
+            "text": "\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nns7zqi37in",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "As noted above, most adherents of the ecological approach assume that affordances are not mental representation but features of the environment. There is a controversy among ecological psychologists, however, concerning whether affordances are dispositional features of objects in the environment ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nod98qbpa9d",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng4jocuhfz8\" data-reactroot=\"\">Turvey, M. T., Shaw, R. E., Reed, E. S., &amp; Mace, W. M. (1981). Ecological laws of perceiving and acting: In reply to Fodor and Pylyshyn (1981).\u00a0<em>Cognition</em>,\u00a0<em>9</em>(3), 237\u2013304. <a href=\"https://psycnet.apa.org/doi/10.1016/0010-0277(81)90002-0\" target=\"_blank\">https://doi.org/10.1016/0010-0277(81)90002-0</a></p>",
+              "customLabel": "Turvey et al., 1981",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nem1q2wrikd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuywg75sn6p\" data-reactroot=\"\">Turvey, M. T. (1992). Affordances and prospective control: An outline of the ontology.\u00a0<em>Ecological Psychology</em>,\u00a0<em>4</em>(3), 173\u2013187. <a href=\"https://doi.org/10.1207/s15326969eco0403_3\" target=\"_blank\">https://doi.org/10.1207/s15326969eco0403_3</a></p>",
+              "customLabel": "Turvey, 1992",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw173nv8uy1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5o20unml6l\" data-reactroot=\"\">Heras-Escribano, M. (2019).\u00a0<em>The philosophy of affordances</em>. Palgrave Macmillan. <a href=\"https://doi.org/10.1007/978-3-319-98830-6\" target=\"_blank\">https://doi.org/10.1007/978-3-319-98830-6</a></p>",
+              "customLabel": "Heras-Escribano, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or whether affordances are relations between animals and features of the environment ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfclezpup3i",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nilcprrhl9h\" data-reactroot=\"\">Stoffregen, T. (2003). Affordances as properties of the animal-environment system. <em>Ecological Psychology</em>, <em>15</em>, 115\u2013134. <a href=\"https://doi.org/10.1207/S15326969ECO1502_2\" target=\"_blank\">https://doi.org/10.1207/S15326969ECO1502_2</a></p>",
+              "customLabel": "Stoffregen, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n20o7c916qu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9i9ud328z1\" data-reactroot=\"\">Chemero, A. (2003). An outline of a theory of affordances. <em>Ecological Psychology</em>, <em>15</em>(2), 181\u2013195. <a href=\"https://doi.org/10.1207/S15326969ECO1502_5\" target=\"_blank\">https://doi.org/10.1207/S15326969ECO1502_5</a></p>",
+              "customLabel": "Chemero, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). One could think that affordances are dispositions that are inferred via a traditional computational story, rather than directly perceived. Hence,\u00a0the issue turns primarily on whether one is more interested in putting affordances in a rigorous scientific context, as proponents of the dispositional approach do, or more interested in reflecting Gibson\u2019s original intentions on defining the concept."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "social-affordances-and-affordances-for-joint-action",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Social affordances and affordances for joint action"
+          },
+          {
+            "type": "text",
+            "text": "\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvw531ypybi",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In his earliest writing about affordances, Gibson discussed the affordances offered by conspecifics for social interaction. Since then, there has been significant interest in "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "social affordances "
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njlhksbjpcl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n72e72i7pd2\" data-reactroot=\"\">Valenti, S. S., &amp; Gold, J. M. M. (1991). Social affordances and interaction I: Introduction.\u00a0<em>Ecological Psychology</em>,\u00a0<em>3</em>(2), 77\u201398. <a href=\"https://doi.org/10.1207/s15326969eco0302_2\" target=\"_blank\">https://doi.org/10.1207/s15326969eco0302_2</a></p>",
+              "customLabel": "Valenti & Gold, 1991",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), including controversy about how to understand the affordances offered by other people ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncwrykcvdfl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njavcggyb6h\" data-reactroot=\"\">Brancazio, N. (2020). Being perceived and being \u201cseen\u201d: Interpersonal affordances, agency, and selfhood.\u00a0<em>Frontiers in Psychology</em>,\u00a0<em>11</em>, Article 1750. <a href=\"https://doi.org/10.3389/fpsyg.2020.01750\" target=\"_blank\">https://doi.org/10.3389/fpsyg.2020.01750</a></p>",
+              "customLabel": "Brancazio, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nduyv7d7fke",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhhpn4rlhff\" data-reactroot=\"\">Baggs, E. (2021). All affordances are social: Foundations of a Gibsonian social ontology.\u00a0<em>Ecological Psychology</em>,\u00a0<em>33</em>(3-4), 257\u2013278. <a href=\"https://doi.org/10.1080/10407413.2021.1965477\" target=\"_blank\">https://doi.org/10.1080/10407413.2021.1965477</a></p>",
+              "customLabel": "Baggs, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Among the social affordances are opportunities for joint action ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njk43mknbn7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njqahhuplj4\" data-reactroot=\"\">Marsh, K. L., Richardson, M. J., &amp; Schmidt, R. C. (2009). Social connection through joint action and interpersonal coordination.\u00a0<em>Topics in Cognitive Science</em>,\u00a0<em>1</em>(2), 320\u2013339. <a href=\"https://doi.org/10.1111/j.1756-8765.2009.01022.x\" target=\"_blank\">https://doi.org/10.1111/j.1756-8765.2009.01022.x</a></p>",
+              "customLabel": "Marsh et al., 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), which is to say affordances that are available to pairs or groups of people that are not available to individuals, such as carrying a sofa. Joint affordances have been very influential in research on joint action ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ne19bp8432h",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuuqb0h31tf\" data-reactroot=\"\">Davis, T. J., Riley, M. A., Shockley, K., &amp; Cummins-Sebree, S. (2010). Perceiving affordances for joint actions.\u00a0<em>Perception</em>,\u00a0<em>39</em>(12), 1624\u20131644. <a href=\"https://doi.org/10.1068/p6712\" target=\"_blank\">https://doi.org/10.1068/p6712</a></p>",
+              "customLabel": "Davis et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "affordances-design-and-disability",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Affordances, design, and disability"
+          },
+          {
+            "type": "text",
+            "text": "\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxjg6nc0wd7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "As noted above, the concept of affordances has been important in design and human-machine interaction since its introduction. This importance continues to the present day ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n76kvvkhts9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nibaz0dc7ri\" data-reactroot=\"\">Davis, J. L. (2020).\u00a0<em>How artifacts afford: The power and politics of everyday things</em>. MIT Press. <a href=\"https://doi.org/10.7551/mitpress/11967.001.0001\" target=\"_blank\">https://doi.org/10.7551/mitpress/11967.001.0001</a></p>",
+              "customLabel": "Davis, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntlmqe0yvke",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nd4qort62gq\" data-reactroot=\"\">Baber, C. (2022). <em>Embodying design: An applied science of radical embodied cognition</em>. MIT Press. <a href=\"https://doi.org/10.7551/mitpress/12419.001.0001\" target=\"_blank\">https://doi.org/10.7551/mitpress/12419.001.0001</a></p>",
+              "customLabel": "Baber, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Another, newer line of research uses the relationship between affordances and design to explain the experiences of people with disabilities, who regularly must make their own affordances ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nij5js50dwg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n69r66uw6xi\" data-reactroot=\"\">Dokumaci, A. (2023).\u00a0<em>Activist affordances: How disabled people improvise more habitable worlds</em>. Duke University Press.</p>",
+              "customLabel": "Dokumaci, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "affordances-and-the-enactive-approach",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Affordances and the enactive approach"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nt57cztnpz8",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The enactive approach in cognitive science, established in the 1990s, proposes to understand cognition in terms of the self-maintaining activities of all living things ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngnk5xjr6dl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmhhy9tbvtc\" data-reactroot=\"\">Varela, F., Thompson, E., &amp; Rosch, E. (1991). <em>The embodied mind. </em>MIT Press. <a href=\"https://doi.org/10.7551/mitpress/6730.001.0001\" target=\"_blank\">https://doi.org/10.7551/mitpress/6730.001.0001</a></p>",
+              "customLabel": "Varela et al., 1991",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Although the early work on the enactive approach in cognitive science understood itself to be in opposition to the ecological approach, the concept of affordances has since become very important in theoretical development of the approach ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4r6hwwpxys",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj0hjnowr16\" data-reactroot=\"\">Gallagher, S. (2017).\u00a0<em>Enactivist interventions: Rethinking the mind</em>. Oxford University Press. <a href=\"https://doi.org/10.1093/oso/9780198794325.001.0001\" target=\"_blank\">https://doi.org/10.1093/oso/9780198794325.001.0001</a></p>",
+              "customLabel": "Gallagher, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This use of affordances by enactive theorists has enabled a rapprochement between the enactive and ecological approaches in cognitive science ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4mhzj8088z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng39aha985k\" data-reactroot=\"\">Chemero, A. (2009). <em>Radical embodied cognitive science. </em>MIT Press. <a href=\"https://doi.org/10.7551/mitpress/8367.001.0001\" target=\"_blank\">https://doi.org/10.7551/mitpress/8367.001.0001</a></p>",
+              "customLabel": "Chemero, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and hope for a joint ecological-enactive approach to embodied cognition ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4abha3g773",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmw340dhe6l\" data-reactroot=\"\">McGann, M. (2014). Enacting a social ecology: Radically embodied intersubjectivity.\u00a0<em>Frontiers in Psychology</em>,\u00a0<em>5</em>, Article 1321. <a href=\"https://doi.org/10.3389/fpsyg.2014.01321\" target=\"_blank\">https://doi.org/10.3389/fpsyg.2014.01321</a></p>",
+              "customLabel": "McGann, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0mezlplaet",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv3iwejpx39\" data-reactroot=\"\">Rietveld, E., &amp; Kiverstein, J. (2014). A rich landscape of affordances.\u00a0<em>Ecological Psychology</em>,\u00a0<em>26</em>(4), 325\u2013352. <a href=\"https://doi.org/10.1080/10407413.2014.958035\" target=\"_blank\">https://doi.org/10.1080/10407413.2014.958035</a></p>",
+              "customLabel": "Rietveld & Kiverstein, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2iydy27l2w",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npa74u0mp5w\" data-reactroot=\"\">McGann, M., Di Paolo, E. A., Heras-Escribano, M., &amp; Chemero, A. (2020). Editorial: Enaction and ecological psychology: Convergences and complementarities.\u00a0<em>Frontiers in Psychology</em>,\u00a0<em>11</em>, Article 617898. <a href=\"https://doi.org/10.3389/fpsyg.2020.617898\" target=\"_blank\">https://doi.org/10.3389/fpsyg.2020.617898</a></p>",
+              "customLabel": "McGann et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n5ils8fr4kj",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "ngqpa1c8y7u",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gibson, J. J. (1979). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The ecological approach to visual perception"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (1st ed). Houghton, Mifflin and Company."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n5fgwzbwnl5",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Reed, E. (1996). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Encountering the world"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Oxford University Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nnlluginnln",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Turvey, M. T., Shaw, R. E., Reed, E. S., & Mace, W. M. (1981). Ecological laws of perceiving and acting: In reply to Fodor and Pylyshyn (1981).\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Cognition"
+                  },
+                  {
+                    "type": "text",
+                    "text": ",\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "9"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(3), 237\u2013304. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://psycnet.apa.org/doi/10.1016/0010-0277(81)90002-0",
+                          "title": null,
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/0010-0277(81)90002-0"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

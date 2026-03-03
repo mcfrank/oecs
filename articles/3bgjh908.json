@@ -1,0 +1,3009 @@
+{
+  "id": "9793d1ae-c726-4096-bf96-edecba841ed5",
+  "slug": "3bgjh908",
+  "title": "Neuroscience of Language",
+  "url": "https://oecs.mit.edu/pub/3bgjh908",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "9793d1ae-c726-4096-bf96-edecba841ed5",
+    "slug": "3bgjh908",
+    "title": "Neuroscience of Language",
+    "htmlTitle": "Neuroscience of Language",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.9793d1ae",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "w13l7z0t",
+    "editHash": "edx87izr",
+    "reviewHash": "g4p740ki",
+    "commentHash": "wfu6mca8",
+    "draftId": "edd93bcd-5726-4d3a-94a6-8215b67eba96",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "384b9251-a8c8-4ea8-a077-fed38b44986d",
+    "scopeSummaryId": "83fded06-3a1d-4d76-9866-754fc3ec875e",
+    "createdAt": "2024-11-06T21:00:11.829Z",
+    "updatedAt": "2024-11-21T16:43:57.419Z",
+    "attributions": [
+      {
+        "id": "d09a90ff-ce89-4d5c-9362-278feea22234",
+        "name": "Gesa Hartwigsen",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Cognitive and Biological Psychology, Wilhelm Wundt Institute for Psychology, Leipzig University, Germany; Research Group Cognition and Plasticity, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig",
+        "orcid": "0000-0002-8084-1330",
+        "userId": null,
+        "pubId": "9793d1ae-c726-4096-bf96-edecba841ed5",
+        "createdAt": "2024-11-06T21:01:41.162Z",
+        "updatedAt": "2024-11-06T21:02:19.074Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "edd93bcd-5726-4d3a-94a6-8215b67eba96",
+      "latestKeyAt": "2024-11-21T16:10:24.693Z",
+      "firebasePath": "drafts/draft-edd93bcd-5726-4d3a-94a6-8215b67eba96",
+      "createdAt": "2024-11-06T21:00:11.827Z",
+      "updatedAt": "2025-08-27T14:58:05.109Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9kfyguuyi0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Language is a key faculty for human communication. Across the last few decades, neuroimaging work provided insight into the contribution of distributed areas in the brain to different language operations, including the processing of meaning, sound, structure, and speech melody. These studies emphasize the role of left-dominant brain regions in the frontal, temporal, and parietal cortex. Aside from this core language network, recent work highlights the contribution of right-hemispheric regions, primary sensory areas, subcortical and cerebellar regions, and areas that support processing across domains (e.g., working memory). Collectively, these studies emphasize a network perspective on language processing. Such work is complemented by electrophysiological studies that provide insight into the temporal dynamics of language processing. Lesion and neurostimulation studies elucidate the relevance of different areas for specific operations and demonstrate the role of intact network interactions. Studies on patients with stroke-induced lesions provide insight into the potential of the brain to create new connections during recovery. Recent neurostimulation approaches promise facilitatory tools to improve language function in neurological disorders, including post-stroke language impairments. Collectively, these studies suggest that the language network is flexible and can adapt to current needs to maintain or recover efficient processing under challenging conditions."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nuuksjlzjag",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Language is one of the most important human abilities for communication and interaction. During evolution, many animal species have developed different communication systems, some of which also include vocal communication [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/suwgvzqg",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Primate Communication"
+          },
+          {
+            "type": "text",
+            "text": "]. Although some species react to the alarm calls of other species, no communication system as powerful as human language has developed in the animal kingdom outside of the Homo genus. This raises the question of what makes human language special. A key difference to other animals is the ability for morpho-syntactic processing, that is, the flexible combination of elementary linguistic elements into more complex units [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/e222wyjy",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Compositionality"
+          },
+          {
+            "type": "text",
+            "text": "]. Humans can generate an almost infinite number of new words and sentences from linguistic elements."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4c6yg70vdh",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Understanding the neural architecture of language in the brain has been a goal for centuries (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n49mh8ytwtp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1ziv9il63q\" data-reactroot=\"\">Hickok, G., &amp; Small S. L. (Eds.). (2016). <em>Neurobiology of language</em>. Elsevier Academic Press. <a href=\"https://www.sciencedirect.com/book/9780124077942/neurobiology-of-language\">https://www.sciencedirect.com/book/9780124077942/neurobiology-of-language</a></p>",
+              "customLabel": "Hickok & Small, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Language is a complex mental operation that engages distributed brain areas resulting in fluent production and comprehension in real time. Efficient communication via language requires rapid processing at several levels (e.g., sound, word, phrase, or sentence) and engages sensory and motor systems as well as memory and control processes. For example, sounds must be associated with meaningful concepts and specific words are usually combined into phrases and sentences (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxpiol4i2sn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfqbegzob4k\" data-reactroot=\"\">Price, C. J. (2000). The anatomy of language: Contributions from functional neuroimaging. <em>Journal of Anatomy</em>, <em>197</em>(3), 335\u2013359. <a href=\"https://doi.org/10.1046/j.1469-7580.2000.19730335.x\">https://doi.org/10.1046/j.1469-7580.2000.19730335.x</a></p>",
+              "customLabel": "Price, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/y1uhdz0y",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Psycholinguistics"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/e9aapok3",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Language Production"
+          },
+          {
+            "type": "text",
+            "text": "]. Many studies investigate how the human brain manages to do so.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n614ai3usqx",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Until the late 19th century, it was commonly believed that the human brain is a single unit without functional-anatomical specialization. This view was challenged by discoveries in patients with stroke-induced brain lesions. Paul Broca and Carl Wernicke are two renowned historical figures in the field of early language research. Their work linked stroke-induced deficits in language production and comprehension with postmortem analyses of patients\u2019 brains (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nza3f44ny3z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnxhlbk48p2\" data-reactroot=\"\">Broca, M. P. (1861). Remarques sur la si\u00e9ge de la facult\u00e9 du langage articul\u00e9, suivies d\u2019une observation d\u2019aph\u00e9mie (perte de la parole). <em>Bulletin de la Soci\u00e9t\u00e9 Anatomique</em>, <em>6</em>, 330\u2013357. <a href=\"https://lib.ugent.be/catalog/rug01:000269594\">https://lib.ugent.be/catalog/rug01:000269594</a></p>",
+              "customLabel": "Broca, 1861",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4tgh1ycute",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz7o1q0te5l\" data-reactroot=\"\">Wernicke, C. (1874). Der aphasische Symptomenkomplex. In C. Wernicke (Ed.), <em>Der aphasische Symptomencomplex: Eine psychologische Studie auf anatomischer Basis</em> (pp. 1\u201370). Springer. <a href=\"https://doi.org/10.1007/978-3-642-65950-8_1\">https://doi.org/10.1007/978-3-642-65950-8_1</a></p>",
+              "customLabel": "Wernicke, 1874",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Broca found that lesions in the anterior part of the left hemisphere (the inferior frontal cortex, later named Broca\u2019s area) were associated with impairments in language production. This observation was complemented by Wernicke\u2019s work, relating lesions in the posterior part of the left hemisphere (the superior temporal cortex, commonly known as Wernicke\u2019s area) to deficits in language comprehension. Wernicke summarized these findings in a first model on the functional neuroanatomy of language, which was further developed by other pioneers in the field of language research, including Lichtheim and Geschwind (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n97cqnvohx0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7nij2kmp7d\" data-reactroot=\"\">Geschwind, N. (1979). Specializations of the human brain. <em>Scientific American</em>, <em>241</em>(3), 180\u2013199. <a href=\"https://doi.org/10.1038/scientificamerican0979-180\">https://doi.org/10.1038/scientificamerican0979-180</a></p>",
+              "customLabel": "Geschwind, 1979",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0gewo2o07w",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4ezpp7hak3\" data-reactroot=\"\">Lichtheim, L. (1885). On aphasia. <em>Brain</em>, 7, 433\u2013484. <a href=\"https://doi.org/10.1093/brain/7.4.433\">https://doi.org/10.1093/brain/7.4.433</a></p>",
+              "customLabel": "Lichtheim, 1885",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This model is often called the \u201cclassic\u201d model of language organization. The main model assumptions are as follows: First, language is predominantly organized in the left hemisphere. Secondly, the left inferior frontal cortex and posterior superior temporal cortex are core areas for language. Third, both areas are connected via a large-scale fiber tract, the arcuate fasciculus. Lichtheim added further areas and connections and linked specific deficits after stroke-induced brain lesions to different areas or connections to explain the variety of stroke-induced language impairments. Localization of language function was further refined by Geschwind, who emphasized the role of additional (parietal) areas, which were posited to be relevant for distinct language operations, including reading and writing."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmdwap2tgz6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The classic model has stimulated language research for about 150 years, although modern models of language are more complex and highlight the role of distributed networks (see the Core Concepts section). These models focus on different aspects of language but generally agree with the idea that language is organized in different subnetworks in the brain, which are specialized for different operations and connected via long-range white matter tracts, including the arcuate fasciculus and other pathways ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9pfzza0vhb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nudo0zkcr73\" data-reactroot=\"\">Friederici, A. D. (2012). The cortical language circuit: From auditory perception to sentence comprehension. <em>Trends in Cognitive Sciences</em>, <em>16</em>(5), 262\u2013268. <a href=\"https://doi.org/10.1016/j.tics.2012.04.001\">https://doi.org/10.1016/j.tics.2012.04.001</a></p>",
+              "customLabel": "Friederici, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni4i4x4pg9g",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzzwpl6c3an\" data-reactroot=\"\">Saur, D., Kreher, B. W., Schnell, S., K\u00fcmmerer, D., Kellmeyer, P., Vry, M.-S., Umarova, R., Musso, M., Glauche, V., Abel, S., Huber, W., Rijntjes, M., Hennig, J., &amp; Weiller, C. (2008). Ventral and dorsal pathways for language. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, <em>105</em>(46), 18035\u201318040. <a href=\"https://doi.org/10.1073/pnas.0805234105\">https://doi.org/10.1073/pnas.0805234105</a></p>",
+              "customLabel": "Saur et al., 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Specialized subnetworks are thought to interact with primary sensory regions and domain-general support areas, supporting an integrative structure that enables fluent communication via language (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7gf8pdhrvr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nx81huompgq\" data-reactroot=\"\">Thiebaut de Schotten, M., &amp; Forkel, S. J. (2022). The emergent properties of the connected brain. <em>Science (New York, N.Y.)</em>, <em>378</em>(6619), 505\u2013510. <a href=\"https://doi.org/10.1126/science.abq2591\">https://doi.org/10.1126/science.abq2591</a></p>",
+              "customLabel": "Thiebaut de Schotten & Forkel, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmia3nlazcr",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Early models were solely based on (postmortem) lesion studies. With the advent of noninvasive neuroimaging techniques in the 20th century, controlled experiments in healthy participants offered new insights. Neuroimaging studies allow the measurement of responses in the whole brain during specific (language) operations, both in patients with brain lesions and healthy volunteers, thereby elucidating the functional architecture of the language network. Such findings are complemented by structural neuroimaging studies, which identify the underlying white-matter pathways. These studies have elucidated distinct language operations, including the processing of meaning of words and sentences (semantics), sound (phonology), grammar and hierarchical sentence structure (syntax), and speech melody and rhythm (prosody; for meta-analyses, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0raj0ha2ak",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nql31an6rnm\" data-reactroot=\"\">Turker, S., Kuhnke, P., Eickhoff, S. B., Caspers, S., &amp; Hartwigsen, G. (2023). Cortical, subcortical, and cerebellar contributions to language processing: A meta-analytic review of 403 neuroimaging experiments. <em>Psychological Bulletin, 149</em>(11-12), 699\u2013723. <a href=\"https://doi.org/10.1037/bul0000403\">https://doi.org/10.1037/bul0000403</a></p>",
+              "customLabel": "Turker et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nda9gq3inew",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nn8x7ey70mg\" data-reactroot=\"\">Vigneau, M., Beaucousin, V., Herv\u00e9, P. Y., Duffau, H., Crivello, F., Houd\u00e9, O., Mazoyer, B., &amp; Tzourio-Mazoyer, N. (2006). Meta-analyzing left hemisphere language areas: Phonology, semantics, and sentence processing. <em>NeuroImage</em>, <em>30</em>(4), 1414\u20131432. <a href=\"https://doi.org/10.1016/j.neuroimage.2005.11.002\">https://doi.org/10.1016/j.neuroimage.2005.11.002</a></p>",
+              "customLabel": "Vigneau et al., 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These results have informed current models of language, arguing for the relevance of functional interactions of distributed areas for efficient language processing.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nggqeqmvia3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A core distinction exists between language and speech. Language refers to the system of rules that people use and determines what they say, how they understand language, and how they communicate. This includes production of spoken, written, or sign language and comprehension. Note that reading can involve both production and comprehension, depending on whether it is done silently or aloud. Another language form is sign language [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/l60gyowl",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Sign Language"
+          },
+          {
+            "type": "text",
+            "text": "], which involves the use of hands, facial expressions, and body movements for communication. In contrast, speech is a complex motor skill that requires the coordination of different muscle groups and places high spatiotemporal demands on our speech apparatus to enable accurate, efficient articulation.\u00a0This article focuses on language."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "functional-anatomical-models",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Functional-anatomical models\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nv2tpp2oh3b",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Inspired by dual-stream model architectures of the visual and auditory system, popular models of language identify two (or more) distinct processing pathways and underscore the relevance of various regions in both hemispheres (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nswkslsz2km",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nudo0zkcr73\" data-reactroot=\"\">Friederici, A. D. (2012). The cortical language circuit: From auditory perception to sentence comprehension. <em>Trends in Cognitive Sciences</em>, <em>16</em>(5), 262\u2013268. <a href=\"https://doi.org/10.1016/j.tics.2012.04.001\">https://doi.org/10.1016/j.tics.2012.04.001</a></p>",
+              "customLabel": "Friederici, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb8pavyk53d",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4gu6s44f9a\" data-reactroot=\"\">Hickok, G., &amp; Poeppel, D. (2004). Dorsal and ventral streams: A framework for understanding aspects of the functional anatomy of language. <em>Cognition</em>, <em>92</em>(1\u20132), 67\u201399. <a href=\"https://doi.org/10.1016/j.cognition.2003.10.011\">https://doi.org/10.1016/j.cognition.2003.10.011</a></p>",
+              "customLabel": "Hickok & Poeppel, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The widely recognized dual-stream model of language differentiates between a dorsal stream for audio-motor mapping and a ventral stream for semantic mapping during auditory language processing ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nt42txmkwkh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4gu6s44f9a\" data-reactroot=\"\">Hickok, G., &amp; Poeppel, D. (2004). Dorsal and ventral streams: A framework for understanding aspects of the functional anatomy of language. <em>Cognition</em>, <em>92</em>(1\u20132), 67\u201399. <a href=\"https://doi.org/10.1016/j.cognition.2003.10.011\">https://doi.org/10.1016/j.cognition.2003.10.011</a></p>",
+              "customLabel": "Hickok & Poeppel, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This model argues that early cortical stages of language perception involve auditory regions in the bilateral superior temporal gyrus, which then split into a dorsal and ventral stream. The dorsal stream, specialized in phonological processing, converts sound into articulation by linking the left temporoparietal cortex with the premotor and inferior frontal cortex. This stream is typically engaged in tasks that require audio-motor transformation, such as speech repetition. Conversely, the ventral stream, which maps sound onto meaning, connects areas involved in conceptual and lexical semantic processing (left anterior temporal regions and bilateral posterior occipitotemporal cortex) and the left inferior frontal cortex, facilitating language comprehension. These streams operate in parallel, with their involvement varying based on the specific language task. The functional division into different processing streams is supported by distinct anatomical fiber connections in the human brain, allowing for interactions between different areas ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndga9oq3xn5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzzwpl6c3an\" data-reactroot=\"\">Saur, D., Kreher, B. W., Schnell, S., K\u00fcmmerer, D., Kellmeyer, P., Vry, M.-S., Umarova, R., Musso, M., Glauche, V., Abel, S., Huber, W., Rijntjes, M., Hennig, J., &amp; Weiller, C. (2008). Ventral and dorsal pathways for language. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, <em>105</em>(46), 18035\u201318040. <a href=\"https://doi.org/10.1073/pnas.0805234105\">https://doi.org/10.1073/pnas.0805234105</a></p>",
+              "customLabel": "Saur et al., 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Some models propose further subdivision that enables syntactic processing ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkni87t1i6d",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzambslmhu4\" data-reactroot=\"\">Friederici, A. D. (2017). <em>Language in our brain: The origins of a uniquely human capacity</em>. The MIT Press. <a href=\"https://doi.org/10.7551/mitpress/11173.001.0001\">https://doi.org/10.7551/mitpress/11173.001.0001</a></p>",
+              "customLabel": "Friederici, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "the-spatial-distribution-of-language-processing-evidence-from-neuroimaging-studies",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The spatial distribution of language processing: Evidence from neuroimaging studies"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n96ocq10n8r",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Neuroimaging studies have advanced knowledge of structure\u2013function relationships in the language network. Several comprehensive meta-analyses have summarized the role of different brain areas for different linguistic functions (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqy9is439hb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvj71c0to6w\" data-reactroot=\"\">Hodgson, V. J., Lambon Ralph, M. A., &amp; Jackson, R. L. (2021). Multiple dimensions underlying the functional organization of the language network. <em>NeuroImage</em>, <em>241</em>, 118444. <a href=\"https://doi.org/10.1016/j.neuroimage.2021.118444\">https://doi.org/10.1016/j.neuroimage.2021.118444</a></p>",
+              "customLabel": "Hodgson et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nyzvte9tmmr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nql31an6rnm\" data-reactroot=\"\">Turker, S., Kuhnke, P., Eickhoff, S. B., Caspers, S., &amp; Hartwigsen, G. (2023). Cortical, subcortical, and cerebellar contributions to language processing: A meta-analytic review of 403 neuroimaging experiments. <em>Psychological Bulletin, 149</em>(11-12), 699\u2013723. <a href=\"https://doi.org/10.1037/bul0000403\">https://doi.org/10.1037/bul0000403</a></p>",
+              "customLabel": "Turker et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nga5b847ykc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nn8x7ey70mg\" data-reactroot=\"\">Vigneau, M., Beaucousin, V., Herv\u00e9, P. Y., Duffau, H., Crivello, F., Houd\u00e9, O., Mazoyer, B., &amp; Tzourio-Mazoyer, N. (2006). Meta-analyzing left hemisphere language areas: Phonology, semantics, and sentence processing. <em>NeuroImage</em>, <em>30</em>(4), 1414\u20131432. <a href=\"https://doi.org/10.1016/j.neuroimage.2005.11.002\">https://doi.org/10.1016/j.neuroimage.2005.11.002</a></p>",
+              "customLabel": "Vigneau et al., 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). One of the first meta-analyses on language provided insight into areas engaged in phonology, semantics, and sentence processing and highlighted the contribution of the left frontal, temporal, and parietal cortex for these processes. Based on differences in activation patterns, distinct parieto-temporo-frontal loops for working memory were identified for each of the three linguistic processes ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnhuzmmp6wr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nn8x7ey70mg\" data-reactroot=\"\">Vigneau, M., Beaucousin, V., Herv\u00e9, P. Y., Duffau, H., Crivello, F., Houd\u00e9, O., Mazoyer, B., &amp; Tzourio-Mazoyer, N. (2006). Meta-analyzing left hemisphere language areas: Phonology, semantics, and sentence processing. <em>NeuroImage</em>, <em>30</em>(4), 1414\u20131432. <a href=\"https://doi.org/10.1016/j.neuroimage.2005.11.002\">https://doi.org/10.1016/j.neuroimage.2005.11.002</a></p>",
+              "customLabel": "Vigneau et al., 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Another meta-analysis focused on the distinction between representation and control during semantic versus phonological processing and emphasized different networks for either process ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlbo3cik4oe",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvj71c0to6w\" data-reactroot=\"\">Hodgson, V. J., Lambon Ralph, M. A., &amp; Jackson, R. L. (2021). Multiple dimensions underlying the functional organization of the language network. <em>NeuroImage</em>, <em>241</em>, 118444. <a href=\"https://doi.org/10.1016/j.neuroimage.2021.118444\">https://doi.org/10.1016/j.neuroimage.2021.118444</a></p>",
+              "customLabel": "Hodgson et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The largest meta-analysis to date shows that aside from distributed cortical areas in frontal, temporal, and parietal cortices, subcortical regions (the basal ganglia and thalamus) and the right cerebellum also contribute to different linguistic operations ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nujf81eqviw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nql31an6rnm\" data-reactroot=\"\">Turker, S., Kuhnke, P., Eickhoff, S. B., Caspers, S., &amp; Hartwigsen, G. (2023). Cortical, subcortical, and cerebellar contributions to language processing: A meta-analytic review of 403 neuroimaging experiments. <em>Psychological Bulletin, 149</em>(11-12), 699\u2013723. <a href=\"https://doi.org/10.1037/bul0000403\">https://doi.org/10.1037/bul0000403</a></p>",
+              "customLabel": "Turker et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This study compared language comprehension and production studies for phonology, semantics, syntax, and prosody and revealed overlap as well as specificity in brain areas. Overall, the results emphasize that domain-specific language areas, as well as sensory motor areas and domain-general control regions, contribute to language.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "the-temporal-dynamics-of-language-processing-evidence-from-electrophysiological-studies",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The temporal dynamics of language processing: Evidence from electrophysiological studies"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nm6i58u1seq",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Functional neuroimaging studies are complemented by electrophysiological studies using electroencephalography and magnetoencephalography that elucidate the temporal dynamics of language processing. These studies have identified distinct event-related potentials associated with specific language operations. For example, the N400, a negativity that occurs approximately 400 ms after the stimulus, is associated with the processing of unexpected words or semantic violations ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5z1vgp9c2b",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"naghzuclo2t\" data-reactroot=\"\">Kutas, M., &amp; Hillyard, S. A. (1980). Reading senseless sentences: Brain potentials reflect semantic incongruity. <em>Science</em>, <em>207</em>(4427), 203\u2013205. <a href=\"https://psycnet.apa.org/doi/10.1126/science.7350657\">https://doi.org/10.1126/science.7350657</a></p>",
+              "customLabel": "Kutas & Hillyard, 1980",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), such as in the sentence \u201cI drink my coffee with milk and soap.\u201d The N400 can also be observed at the word level, for example, when a picture of a dog is paired with the auditorily presented word \u201ccat.\u201d Similarly, certain event-related potentials are associated with sentence formation, such as an early left anterior negativity and late positivity around 600 ms following violations of sentence structure ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0ihf9w54ev",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nw6ppxtffga\" data-reactroot=\"\">Hahne, A., &amp; Friederici, A. D. (1999). Electrophysiological evidence for two steps in syntactic analysis. Early automatic and late controlled processes. <em>Journal of Cognitive Neuroscience</em>, <em>11</em>(2), 194\u2013205. <a href=\"https://doi.org/10.1162/089892999563328\">https://doi.org/10.1162/089892999563328</a></p>",
+              "customLabel": "Hahne & Friederici, 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "niptfsiu319",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ncvzw0m55gf\" data-reactroot=\"\">Osterhout, L., &amp; Holcomb, P. J. (1992). Event-related brain potentials elicited by syntactic anomaly. <em>Journal of Memory and Language, 31(6),</em> 785\u2013806. <a href=\"https://doi.org/10.1016/0749-596X(92)90039-Z\">https://doi.org/10.1016/0749-596X(92)90039-Z</a></p>",
+              "customLabel": "Osterhout & Holcomb, 1992",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhlk2og70be",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Since then, studies have investigated if distinct oscillatory patterns during language processing can be linked to particular operations, such as syntactic structure building and semantic processing ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nm00gl0iltq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndxc6c58wtx\" data-reactroot=\"\">Meyer, L. (2018). The neural oscillations of speech processing and language comprehension: State of the art and emerging mechanisms. <em>The European Journal of Neuroscience</em>, <em>48</em>(7), 2609\u20132621. <a href=\"https://doi.org/10.1111/ejn.13748\">https://doi.org/10.1111/ejn.13748</a></p>",
+              "customLabel": "Meyer, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Although oscillatory patterns are certainly not domain- or even language-specific, linking oscillatory patterns to speech or language functions provides insight into temporal aspects of comprehension and production. Accordingly, neural oscillations seem to subserve the segmentation and identi\ufb01cation of discrete phonological units across a range of oscillatory bands at different time scales, with the operation frequency of these bands corresponding to the frequency of phonological units in the acoustic system. For example, delta-band synchronization may help segmentation or identification of intonation phrases, thereby aiding speech comprehension ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuir8rwe7qp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nygjjmk8zlk\" data-reactroot=\"\">Giraud, A.-L., &amp; Poeppel, D. (2012). Cortical oscillations and speech processing: Emerging computational principles and operations. <em>Nature Neuroscience</em>, <em>15</em>(4), 511\u2013517. <a href=\"https://doi.org/10.1038/nn.3063\">https://doi.org/10.1038/nn.3063</a></p>",
+              "customLabel": "Giraud & Poeppel, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Moreover, neural oscillations also subserve higher-level linguistic processing during language comprehension, including prediction and interpretation of upcoming words. Accordingly, delta-band neural oscillations have been assigned a role in grouping words into phrases ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nu41wnqmg2e",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nib9bsrtewq\" data-reactroot=\"\">Ding, N., Melloni, L., Zhang, H., Tian, X., &amp; Poeppel, D. (2016). Cortical tracking of hierarchical linguistic structures in connected speech. <em>Nature Neuroscience</em>, <em>19</em>(1), 158\u2013164. <a href=\"https://doi.org/10.1038/nn.4186\">https://doi.org/10.1038/nn.4186</a></p>",
+              "customLabel": "Ding et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Different frequency bands may form hierarchical relationships, enabling efficient bottom-up (stimulus-based) and top-down (expectation-based) processing during speech and language comprehension."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "the-functional-relevance-of-key-areas-for-language-evidence-from-lesion-mapping",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The functional relevance of key areas for language: Evidence from lesion mapping"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwgu3mz8sm0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Brain lesions such as stroke can severely impair language function and often cause aphasia, a disorder that affects communication.\u00a0The results of lesion studies contribute essentially to knowledge about the functional neuroanatomy of language. Numerous studies use voxel-based lesion behavior mapping (VLBM; sometimes also called voxel-based lesion symptom mapping) techniques to explain language impairment based on specific lesion patterns in patients with stroke ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmt8z8tgn26",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ns3pxhuuquo\" data-reactroot=\"\">Karnath, H.-O., Sperber, C., &amp; Rorden, C. (2019). Reprint of: Mapping human brain lesions and their functional consequences. <em>NeuroImage</em>, <em>190</em>, 4\u201313. <a href=\"https://doi.org/10.1016/j.neuroimage.2019.01.044\">https://doi.org/10.1016/j.neuroimage.2019.01.044</a></p>",
+              "customLabel": "Karnath et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This approach aims to identify which brain regions are critical for a particular function. VLBM studies are usually performed in the chronic phase after stroke (i.e., at least 6\u201312 months after stroke) when early mechanisms of network disruption and resolution are completed. VLBM studies provide insight into structure\u2013function relationships for language and can explain aphasic symptoms, syndromes, or clusters of behavioral scores. However, the interpretation of the relationship between brain structure and function can be complicated due to reorganization processes. If the brain compensates for impaired functions by engaging other areas more strongly, one might underestimate the relevance of the damaged area for certain brain functions. Moreover, some studies suggest that chronic impairments after stroke are best explained by a wider disruption of neural function than observable with structural neuroimaging alone ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhshwbyief0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n86w560h63t\" data-reactroot=\"\">Thompson, C. K., Walenski, M., Chen, Y., Caplan, D., Kiran, S., Rapp, B., Grunewald, K., Nunez, M., Zinbarg, R., &amp; Parrish, T. B. (2017). Intrahemispheric perfusion in chronic stroke-induced aphasia. <em>Neural Plasticity</em>, <em>2017</em>, 2361691. <a href=\"https://doi.org/10.1155/2017/2361691\">https://doi.org/10.1155/2017/2361691</a></p>",
+              "customLabel": "Thompson et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Consequently, newer approaches use connectome-based lesion behavior mapping to associate specific deficits with functional or structural network disorders (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6fe828vdzj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwhh5ln6mf7\" data-reactroot=\"\">Bonilha, L., Hillis, A. E., Hickok, G., den Ouden, D. B., Rorden, C., &amp; Fridriksson, J. (2017). Temporal lobe networks supporting the comprehension of spoken words. <em>Brain</em>, <em>140</em>(9), 2370\u20132380. <a href=\"https://doi.org/10.1093/brain/awx169\">https://doi.org/10.1093/brain/awx169</a></p>",
+              "customLabel": "Bonilha et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This allows linking the deficit to dysfunctional remote regions (that is, connected areas) or white matter disconnection, even if the region itself is not affected by the stroke."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "the-functional-relevance-of-key-areas-for-language-evidence-from-neurostimulation",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The functional relevance of key areas for language: Evidence from neurostimulation"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nye7s2uutnv",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Noninvasive brain stimulation (NIBS) is a powerful tool to modulate cognitive functions. Across the last few decades, different NIBS approaches have been increasingly used to modulate language functions. The two most widely used approaches in the study of language are transcranial magnetic stimulation (TMS) and transcranial electrical stimulation (TES), with the latter summarizing transcranial direct current stimulation (TDCS) and transcranial alternating current stimulation (TACS).\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2ysyeiu0w2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "TMS was initially developed in the motor system ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxvt1zs01wa",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n49zmk87snt\" data-reactroot=\"\">Barker, A. T., Jalinous, R., &amp; Freeston, I. L. (1985). Non-invasive magnetic stimulation of human motor cortex. <em>Lancet</em>, <em>1</em>(8437), 1106\u20131107. <a href=\"https://doi.org/10.1016/S0140-6736(85)92413-4\">https://doi.org/10.1016/S0140-6736(85)92413-4</a></p>",
+              "customLabel": "Barker et al., 1985",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and has been applied in various clinical and research settings. TMS is based on the principle of electromagnetic induction. A brief electric current produces a strong time-varying magnetic field in the TMS coil, which induces an electric current flow in the stimulated tissue under the coil ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no8qpi9s0t3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz8skqymzsj\" data-reactroot=\"\">Hallett, M. (2000). Transcranial magnetic stimulation and the human brain. <em>Nature</em>, <em>406</em>(6792), 147\u2013150. <a href=\"https://doi.org/10.1038/35018000\">https://doi.org/10.1038/35018000</a></p>",
+              "customLabel": "Hallett, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). When applied over the primary motor cortex, single TMS pulses can depolarize corticospinal tract neurons and evoke contralateral hand muscle movements, with the size of such motor-evoked potentials reflecting the excitability of the corticospinal system. Aside from single pulse protocols, TMS can be applied as double pulses, short bursts, or pulse series with different frequencies. Depending on the research question at hand, TMS can be given before a task, during a task, or after a task, with the latter approach modulating consolidation processes during learning. The aftereffect of some protocols can outlast the stimulation duration for periods ranging from several minutes to 1 hr by inducing neuroplasticity in the targeted circuits. Repeated application of such plasticity-inducing protocols is used in clinical settings, for example, to support aphasia recovery after stroke (see the Stimulating Plasticity in the Language Network section). Depending on the timing and the frequency of stimulation, TMS protocols can either result in excitation or inhibition, resulting in behavioral improvement or impairment, but the direction of the effect is often hard to predict outside the motor system. Moreover, applying single pulses or short bursts of TMS can provide insight into the time course of language processing, via an approach referred to as mental chronometry. Chronometric stimulation approaches are particularly interesting for studying language beyond the single word level. For example, such approaches can provide insight into the relevance of distinct areas across the time course of sentence processing."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5l6hkuwigx",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In contrast to TMS, during TES, an electric current is applied to the brain via two (or more) scalp electrodes, a positively charged anode and a negatively charged cathode. Although dating back to the 18th century and psychiatric research, TES was revived for basic research in the human motor system only in the 2000s ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny0lu0iz9u8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4psgbgowmw\" data-reactroot=\"\">Nitsche, M. A., &amp; Paulus, W. (2000). Excitability changes induced in the human motor cortex by weak transcranial direct current stimulation. <em>The Journal of Physiology</em>, <em>527</em>(Pt 3), 633\u2013639. <a href=\"https://physoc.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1469-7793.2000.t01-1-00633.x\">https://physoc.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1469-7793.2000.t01-1-00633.x</a></p>",
+              "customLabel": "Nitsche & Paulus, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). During TDCS, the direction of current flow remains constant. The terms "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "anodal"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cathodal"
+          },
+          {
+            "type": "text",
+            "text": " TDCS describe setups where the anode or cathode, respectively, is placed over the target area, while the other electrode is positioned over a region not believed to be involved in the task. In contrast, during TACS, the current flow changes rhythmically between the two electrodes, which is assumed to entrain ongoing rhythmic neural activity ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ne85w1q9610",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8ackcwmeu8\" data-reactroot=\"\">Herrmann, C. S., Rach, S., Neuling, T., &amp; Str\u00fcber, D. (2013). Transcranial alternating current stimulation: A review of the underlying mechanisms and modulation of cognitive processes. <em>Frontiers in Human Neuroscience</em>, <em>7</em>, 279. <a href=\"https://doi.org/10.3389/fnhum.2013.00279\">https://doi.org/10.3389/fnhum.2013.00279</a></p>",
+              "customLabel": "Herrmann et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Although entrainment only occurs during stimulation, effects on neural oscillations can persist beyond the stimulation period, potentially due to plasticity effects ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2te2eqd9zg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n64wukbirai\" data-reactroot=\"\">Vossen, A., Gross, J., &amp; Thut, G. (2015). Alpha power increase after transcranial alternating current stimulation at alpha frequency (alpha-tACS) reflects plastic changes rather than entrainment. <em>Brain Stimulation</em>, <em>8</em>(3), 499\u2013508. <a href=\"https://doi.org/10.1016/j.brs.2014.12.004\">https://doi.org/10.1016/j.brs.2014.12.004</a></p>",
+              "customLabel": "Vossen et al., 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nux6z3nx6g6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Although NIBS approaches are powerful tools to modulate language function, it should be borne in mind that with both TMS and TES, only cortical areas at the surface can be stimulated directly, as the induced electric field decreases with increasing distance from the stimulation coil or electrodes. Deep brain structures can only be targeted indirectly via connections."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n8rx74mnt1q",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Most NIBS studies aim to perturb selected language areas with (presumably) inhibitory protocols to probe their functional relevance for a specific language task. Complementing studies in patients with brain lesions, these studies follow the so-called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "virtual lesion"
+          },
+          {
+            "type": "text",
+            "text": " approach ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmgp469wkgp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf9fec1nzbk\" data-reactroot=\"\">Pascual-Leone, A., Bartres-Faz, D., &amp; Keenan, J. P. (1999). Transcranial magnetic stimulation: Studying the brain-behaviour relationship by induction of \u2018virtual lesions\u2019. <em>Philosophical Transactions of the Royal Society of London B: Biological Sciences</em>, <em>354</em>(1387), 1229\u20131238. <a href=\"https://doi.org/10.1098/rstb.1999.0476\">https://doi.org/10.1098/rstb.1999.0476</a></p>",
+              "customLabel": "Pascual-Leone et al., 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), arguing that disruption of specific language operations during or after perturbation of a target region demonstrates the causal relevance of that region for the disrupted operation. If the targeted area is causally relevant for the task, then perturbation of this region should result in a measurable change in behavior. Virtual lesion studies mainly use TMS. Relative to the study of patients with structural brain lesions, perturbing the brain with NIBS has the advantage that the perturbation is focal (approximately 0.5\u20132 cm resolution) and transient (short-lasting). Moreover, the immediate impact of NIBS is not confounded by recovery processes, allowing for a direct mapping of structure\u2013function relationships. Finally, NIBS can be applied in healthy participants, enabling well-controlled within-subject designs. Notably, the impact of a transient, focal perturbation is not comparable to a brain lesion and NIBS studies often result in subtle effects or null results. Nevertheless, this approach has made significant contributions to language research and elucidated the role of many language areas for distinct linguistic operations. TMS studies helped to distinguish the functional relevance of different areas across the time course of language production and revealed functional-anatomical specializations of areas for different language operations. For example, NIBS studies provided insight into functional-anatomical dissociations in the left inferior frontal and inferior parietal cortex for language comprehension and the role of different frontal and temporal cortex during language production (for review, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnt1os6se1f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njrpnzmu9ae\" data-reactroot=\"\">Hartwigsen, G. (2015). The neurophysiology of language: Insights from non-invasive brain stimulation in the healthy human brain. <em>Brain and Language</em>, <em>148</em>, 81\u201394. <a href=\"https://doi.org/10.1016/j.bandl.2014.10.007\">https://doi.org/10.1016/j.bandl.2014.10.007</a></p>",
+              "customLabel": "Hartwigsen, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6ojbpey62n",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Importantly, aside from perturbing language functions, some NIBS protocols also improve specific language operations, which is particularly interesting for therapeutic applications during stroke rehabilitation (see the Stimulating Plasticity in the Language Network section). For example, anodal TDCS has been demonstrated to improve associative word learning or verbal fluency in healthy volunteers (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni049sngbf8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n67ilyvq1qf\" data-reactroot=\"\">Meinzer, M., J\u00e4hnigen, S., Copland, D. A., Darkow, R., Grittner, U., Avirame, K., Rodriguez, A. D., Lindenberg, R., &amp; Fl\u00f6el, A. (2014). Transcranial direct current stimulation over multiple days improves learning and maintenance of a novel vocabulary. <em>Cortex</em>, <em>50</em>, 137\u2013147. <a href=\"https://doi.org/10.1016/j.cortex.2013.07.013\">https://doi.org/10.1016/j.cortex.2013.07.013</a></p>",
+              "customLabel": "Meinzer et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Although NIBS studies have made significant contributions to language research, the modulatory effects of different protocols are more complex than often assumed and depend on the interactions of numerous internal factors (such as the individual brain state, hormonal and genetic factors, baseline performance, age, or training effects) and external factors (such as stimulation protocol, frequency, and intensity) that are usually ignored. The complex interaction between factors often results in unexpected effects and strong interindividual variability in NIBS studies across participants."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "plasticity-in-the-language-network-language-recovery-after-brain-lesions",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Plasticity in the language network: Language recovery after brain lesions"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nl7eir6c1fd",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Stroke-induced language impairments (aphasia) are the consequence of tissue damage and associated decreases in blood flow resulting in network dysfunction. However, the brain has a remarkable potential for reorganization and recovery. This potential is likely driven by a high degree of neuroplasticity in the language network and beyond. Functional neuroimaging is an ideal tool to map changing patterns of language activation in response to stroke-induced brain lesions across the time course of language recovery at the systems level."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nc9vqpqi3l9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The few longitudinal neuroimaging studies on language recovery after stroke usually distinguish between an early, acute phase (first days after stroke), a subacute phase (first weeks to months), and a chronic phase (from 6 or 12 months onward; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "noxjgxmbcj3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3sgb4nyx42\" data-reactroot=\"\">Saur, D., Lange, R., Baumgaertner, A., Schraknepper, V., Willmes, K., Rijntjes, M., &amp; Weiller, C. (2006). Dynamics of language reorganization after stroke. <em>Brain</em>, <em>129</em>(Pt 6), 1371\u20131384. <a href=\"https://doi.org/10.1093/brain/awl090\">https://doi.org/10.1093/brain/awl090</a></p>",
+              "customLabel": "Saur et al., 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxcl2nu5o8u",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsxcwm18cew\" data-reactroot=\"\">Stockert, A., Wawrzyniak, M., Klingbeil, J., Wrede, K., K\u00fcmmerer, D., Hartwigsen, G., Kaller, C. P., Weiller, C., &amp; Saur, D. (2020). Dynamics of language reorganization after left temporo-parietal and frontal stroke. <em>Brain</em>, <em>143</em>(3), 844\u2013861. <a href=\"https://doi.org/10.1093/brain/awaa023\">https://doi.org/10.1093/brain/awaa023</a></p>",
+              "customLabel": "Stockert et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). An important mechanism that contributes to sudden and impressive improvements in the early acute phase is the reperfusion of the ischemic penumbra. This means that brain tissue neighboring the lesion that initially showed critical decreases in blood flow after stroke regains its functionality through restoration of blood flow ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnw5k0z1scz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxpx9bkry0j\" data-reactroot=\"\">Hillis, A. E., Kleinman, J. T., Newhart, M., Heidler-Gary, J., Gottesman, R., Barker, P. B., Aldrich, E., Llinas, R., Wityk, R., &amp; Chaudhry, P. (2006). Restoring cerebral blood flow reveals neural regions critical for naming. <em>The Journal of Neuroscience: The Official Journal of the Society for Neuroscience</em>, <em>26</em>(31), 8069\u20138073. <a href=\"https://doi.org/10.1523/JNEUROSCI.2088-06.2006\">https://doi.org/10.1523/JNEUROSCI.2088-06.2006</a></p>",
+              "customLabel": "Hillis et al., 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). A first longitudinal neuroimaging study on language recovery after stroke investigated the mechanisms of spontaneous recovery from the acute to chronic phase ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ne5o64mt5n4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3sgb4nyx42\" data-reactroot=\"\">Saur, D., Lange, R., Baumgaertner, A., Schraknepper, V., Willmes, K., Rijntjes, M., &amp; Weiller, C. (2006). Dynamics of language reorganization after stroke. <em>Brain</em>, <em>129</em>(Pt 6), 1371\u20131384. <a href=\"https://doi.org/10.1093/brain/awl090\">https://doi.org/10.1093/brain/awl090</a></p>",
+              "customLabel": "Saur et al., 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Relative to healthy controls, people with aphasia showed overall reduced activation during language perception in the acute phase after stroke. The overall reduction of activity likely reflected global network dysfunction, which can affect both the lesioned area and functionally or anatomically connected regions. In the subacute phase after stroke, people with aphasia showed bilateral increases in language activation, with a peak in the right frontal cortex. The upregulation of these areas may indicate that preserved parts of the language network regain their function. Stronger activity increases in right frontal areas may also reflect compensation of dysfunction via recruitment of domain-general frontal areas ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfk6g82gayu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ncs8aa9buoj\" data-reactroot=\"\">Brownsett, S. L., Warren, J. E., Geranmayeh, F., Woodhead, Z., Leech, R., &amp; Wise, R. J. (2014). Cognitive control and its impact on recovery from aphasic stroke. <em>Brain</em>, <em>137</em>(Pt 1), 242\u2013254. <a href=\"https://doi.org/10.1093/brain/awt289\">https://doi.org/10.1093/brain/awt289</a></p>",
+              "customLabel": "Brownsett et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Importantly, domain-general areas for cognitive support functions like attention, cognitive control, or working memory [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xdqgwrkq",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Attention"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/1rgtz41v",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Working Memory"
+          },
+          {
+            "type": "text",
+            "text": "] are known to contribute to language processing when cognitive load increases, for example, in dual-task designs when a participant needs to focus on several cognitive operations simultaneously ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngwy79zodey",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nw6v5v0cgwb\" data-reactroot=\"\">Worringer, B., Langner, R., Koch, I., Eickhoff, S. B., Eickhoff, C. R., &amp; Binkofski, F. C. (2019). Common and distinct neural correlates of dual-tasking and task-switching: A meta-analytic review and a neuro-cognitive processing model of human multitasking. <em>Brain Structure &amp; Function</em>, <em>224</em>(5), 1845\u20131869. <a href=\"https://doi.org/10.1007/s00429-019-01870-4\">https://doi.org/10.1007/s00429-019-01870-4</a></p>",
+              "customLabel": "Worringer et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhdp6gnosvn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Finally, in the chronic phase after stroke, people with aphasia showed a normalization of activity, that is, more left-lateralized activation that resembled the pattern in healthy control participants more closely. Such normalization of activity supports the idea that favorable long-term recovery might be related to a reshift toward perilesional language areas (areas around the lesion) in the left hemisphere ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nobu9i1xz51",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nn42tiozs4s\" data-reactroot=\"\">Heiss, W. D., &amp; Thiel, A. (2006). A proposed regional hierarchy in recovery of post-stroke aphasia. <em>Brain and Language</em>, <em>98</em>(1), 118\u2013123. <a href=\"https://doi.org/10.1016/j.bandl.2006.02.002\">https://doi.org/10.1016/j.bandl.2006.02.002</a></p>",
+              "customLabel": "Heiss & Thiel, 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Importantly, increased activity in right-hemispheric areas in the subacute phase and later normalization of activity to the language-dominant left hemisphere was associated with better language recovery, providing insight into the behavioral relevance of dynamic reorganization patterns ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nj9syl34b2j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3sgb4nyx42\" data-reactroot=\"\">Saur, D., Lange, R., Baumgaertner, A., Schraknepper, V., Willmes, K., Rijntjes, M., &amp; Weiller, C. (2006). Dynamics of language reorganization after stroke. <em>Brain</em>, <em>129</em>(Pt 6), 1371\u20131384. <a href=\"https://doi.org/10.1093/brain/awl090\">https://doi.org/10.1093/brain/awl090</a></p>",
+              "customLabel": "Saur et al., 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "np10fw4m5n9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsxcwm18cew\" data-reactroot=\"\">Stockert, A., Wawrzyniak, M., Klingbeil, J., Wrede, K., K\u00fcmmerer, D., Hartwigsen, G., Kaller, C. P., Weiller, C., &amp; Saur, D. (2020). Dynamics of language reorganization after left temporo-parietal and frontal stroke. <em>Brain</em>, <em>143</em>(3), 844\u2013861. <a href=\"https://doi.org/10.1093/brain/awaa023\">https://doi.org/10.1093/brain/awaa023</a></p>",
+              "customLabel": "Stockert et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "np3o0yy34la",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Aside from functional changes, structural plasticity of the underlying gray matter is also associated with better recovery. For example, increases of the gray matter in the right temporal cortex have been demonstrated to be correlated with language improvements ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvi8vw80z5r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4kggj1og5v\" data-reactroot=\"\">Hope, T. M. H., Leff, A. P., Prejawa, S., Bruce, R., Haigh, Z., Lim, L., Ramsden, S., Oberhuber, M., Ludersdorfer, P., Crinion, J., Seghier, M. L., &amp; Price, C. J. (2017). Right hemisphere structural adaptation and changing language skills years after left hemisphere stroke. <em>Brain</em>, <em>140</em>(6), 1718\u20131728. <a href=\"https://doi.org/10.1093/brain/awx086\">https://doi.org/10.1093/brain/awx086</a></p>",
+              "customLabel": "Hope et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nh7jj0iuqmo",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Other studies have used resting-state functional neuroimaging to identify network dynamics after stroke. A large study identified a general network phenotype of stroke injury that explained the impact of stroke across different cognitive and motor domains and predicted behavioral deficits ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkdinqpd22n",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk58hu4ux9d\" data-reactroot=\"\">Siegel, J. S., Ramsey, L. E., Snyder, A. Z., Metcalf, N. V., Chacko, R. V., Weinberger, K., Baldassarre, A., Hacker, C. D., Shulman, G. L., &amp; Corbetta, M. (2016). Disruptions of network connectivity predict impairment in multiple behavioral domains after stroke. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, <em>113</em>(30), E4367\u2013E4376. <a href=\"https://doi.org/10.1073/pnas.1521083113\">https://doi.org/10.1073/pnas.1521083113</a></p>",
+              "customLabel": "Siegel et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In that study, a unique observation was that language-related impairments depended on decreased interhemispheric interactions as well as decreased intrahemispheric interactions in the left hemisphere, supporting the notion of aphasia as a network disorder.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nv3jwo8p2ta",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Another line of research focuses on outcome prediction, which is highly relevant for therapeutic purposes. Aside from the initial severity of the language deficit, age, and lesion size, language activation in the subacute phase also contributes to predicting language recovery after stroke ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nri24iu8bpn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqiinxaxtg6\" data-reactroot=\"\">Saur, D., Ronneberger, O., K\u00fcmmerer, D., Mader, I., Weiller, C., &amp; Kl\u00f6ppel, S. (2010). Early functional magnetic resonance imaging activations predict language outcome after stroke. <em>Brain</em>, <em>133</em>(Pt 4), 1252\u20131264. <a href=\"https://doi.org/10.1093/brain/awq021\">https://doi.org/10.1093/brain/awq021</a></p>",
+              "customLabel": "Saur et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Other studies suggest that anatomical connections of large fiber tracts, such as the arcuate fascicle that connects different language-related areas, further contribute to predicting language recovery after stroke ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2127balshk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"newaiv0nwta\" data-reactroot=\"\">Forkel, S. J., Thiebaut de Schotten, M., Dell\u2019Acqua, F., Kalra, L., Murphy, D. G., Williams, S. C., &amp; Catani, M. (2014). Anatomical predictors of aphasia recovery: A tractography study of bilateral perisylvian language networks. <em>Brain</em>, <em>137</em>, 2027\u20132039. <a href=\"https://doi.org/10.1093/brain/awu113\">https://doi.org/10.1093/brain/awu113</a></p>",
+              "customLabel": "Forkel et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "stimulating-plasticity-in-the-language-network-evidence-from-neurostimulation",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Stimulating plasticity in the language network: Evidence from neurostimulation"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n8tocgexg3t",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Studies have examined treatment-induced plasticity following speech and language therapy (e.g., for an overview, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntkmf6do70x",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nayo4o9fpag\" data-reactroot=\"\">Crinion, J. T., &amp; Leff, A. P. (2015). Using functional imaging to understand therapeutic effects in poststroke aphasia. <em>Current Opinion in Neurology</em>, <em>28</em>(4), 330\u2013337. <a href=\"https://doi.org/10.1097/WCO.0000000000000217\">https://doi.org/10.1097/WCO.0000000000000217</a></p>",
+              "customLabel": "Crinion & Leff, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Most studies administered therapy during the chronic phase after stroke because treatment-related improvements in the early phases can interact with spontaneous recovery effects. Studies show that language recovery can significantly improve even several years after a stroke ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngglowpeaik",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"naxa6bh99ig\" data-reactroot=\"\">Breitenstein, C., Grewe, T., Fl\u00f6el, A., Ziegler, W., Springer, L., Martus, P., Huber, W., Willmes, K., Ringelstein, E., Haeusler, K. G., Abel, S., Glindemann, R., Domahs, F., Regenbrecht, F., Schlenck, K. J., Thomas, M., Obrig, H., de Langen, E., Rocker, R., . . . Baumgaertner, A., for the FCET2EC study group. (2017). Intensive speech and language therapy in patients with chronic aphasia after stroke: A randomised, open-label, blinded-endpoint, controlled trial in a health-care setting. <em>Lancet</em>, <em>389</em>(10078), 1528\u20131538. <a href=\"https://doi.org/10.1016/S0140-6736(17)30067-3\">https://doi.org/10.1016/S0140-6736(17)30067-3</a></p>",
+              "customLabel": "Breitenstein et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, the precise role of specific brain areas in both hemispheres remains unclear, as some studies have associated positive treatment effects with increased activity in either the left or right hemisphere, whereas other studies have linked language improvement to increased activity in bilateral regions or decreased activity in right hemisphere regions (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkinnpwf90m",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf6r8yqiedh\" data-reactroot=\"\">Hartwigsen, G., &amp; Saur, D. (2019). Neuroimaging of stroke recovery from aphasia \u2013 Insights into plasticity of the human language network. <em>NeuroImage</em>, <em>190</em>, 14\u201331. <a href=\"https://doi.org/10.1016/j.neuroimage.2017.11.056\">https://doi.org/10.1016/j.neuroimage.2017.11.056</a></p>",
+              "customLabel": "Hartwigsen & Saur, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The heterogeneity of results may best be explained by differences in the lesion size and location, aphasia type, the language process under study, task difficulty, and the nature and intensity of the treatment. Indeed, it was demonstrated that individual reorganization profiles during aphasia recovery strongly depend on the lesion pattern. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nztwynv2f8f",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Other studies found increased activity in bilateral areas before language therapy that was taken to reflect efforts to compensate for the disruption (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlohee7kwu0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5m017ptiji\" data-reactroot=\"\">Abel, S., Weiller, C., Huber, W., Willmes, K., &amp; Specht, K. (2015). Therapy-induced brain reorganization patterns in aphasia. <em>Brain</em>, <em>138</em>, 1097\u20131112. <a href=\"https://doi.org/10.1093/brain/awv022\">https://doi.org/10.1093/brain/awv022</a></p>",
+              "customLabel": "Abel et al., 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Therapy-induced improvements were associated with a decrease in functional activity in language regions and domain-general areas, which can be attributed to increased processing efficiency (less effortful processing). The interplay between ipsilesional (areas in the same hemisphere as the lesion) and contralesional regions (areas in the opposite hemisphere) highlights that reorganization is a dynamic process, with changes in the contribution of language-related and domain-general areas occurring during different phases of recovery. To assess the behavioral relevance for recovery, it is important to link changes in activity or interactions between areas or larger networks across the time course of recovery with behavioral improvements. However, it should be noted that not all patients experience behavioral improvement following therapy."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nm27a2nw2tm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "More and more studies have explored the potential of noninvasive brain stimulation to support language recovery after stroke (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwkpxax909x",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf6r8yqiedh\" data-reactroot=\"\">Hartwigsen, G., &amp; Saur, D. (2019). Neuroimaging of stroke recovery from aphasia \u2013 Insights into plasticity of the human language network. <em>NeuroImage</em>, <em>190</em>, 14\u201331. <a href=\"https://doi.org/10.1016/j.neuroimage.2017.11.056\">https://doi.org/10.1016/j.neuroimage.2017.11.056</a></p>",
+              "customLabel": "Hartwigsen & Saur, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In general, results look promising, but effects of therapeutic NIBS approaches in the field of aphasia recovery are still small, and there are no general recommendations when to use which specific protocol yet (for details, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwaolltq7yk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf6r8yqiedh\" data-reactroot=\"\">Hartwigsen, G., &amp; Saur, D. (2019). Neuroimaging of stroke recovery from aphasia \u2013 Insights into plasticity of the human language network. <em>NeuroImage</em>, <em>190</em>, 14\u201331. <a href=\"https://doi.org/10.1016/j.neuroimage.2017.11.056\">https://doi.org/10.1016/j.neuroimage.2017.11.056</a></p>",
+              "customLabel": "Hartwigsen & Saur, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n79xzn8fs8g",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrwv1svyk7v\" data-reactroot=\"\">Harvey, D. Y., &amp; Hamilton, R. (2022). Noninvasive brain stimulation to augment language therapy for poststroke aphasia. <em>Handbook of Clinical Neurology</em>, <em>185</em>, 241\u2013250. <a href=\"https://doi.org/10.1016/B978-0-12-823384-9.00012-8\">https://doi.org/10.1016/B978-0-12-823384-9.00012-8</a></p>",
+              "customLabel": "Harvey & Hamilton, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Most previous studies focused on the chronic phase after stroke when spontaneous recovery should be complete. Some studies also applied neurostimulation in the (late) subacute phase. In contrast, there are currently no neurostimulation studies on aphasia recovery in the acute phase.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6riucebjk1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In general, these studies suggest that it is most promising to combine neurostimulation with language therapy (rather than replace language therapy by neurostimulation) to support aphasia recovery. The exact protocol and approach may need to change over time. The early (acute) phase after stroke is usually characterized as network disorder ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7njr88micl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsxcwm18cew\" data-reactroot=\"\">Stockert, A., Wawrzyniak, M., Klingbeil, J., Wrede, K., K\u00fcmmerer, D., Hartwigsen, G., Kaller, C. P., Weiller, C., &amp; Saur, D. (2020). Dynamics of language reorganization after left temporo-parietal and frontal stroke. <em>Brain</em>, <em>143</em>(3), 844\u2013861. <a href=\"https://doi.org/10.1093/brain/awaa023\">https://doi.org/10.1093/brain/awaa023</a></p>",
+              "customLabel": "Stockert et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") with massively decreased activity and potentially also connectivity in the language network. Early recruitment of domain-general and homologous language areas in the right prefrontal cortex seems to be associated with good recovery. Consequently, facilitation of these areas in the late acute or early subacute phase is promising. Potential candidate areas include the right prefrontal cortex and midline structures (the supplementary motor area; see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnmhcrelsh1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf6r8yqiedh\" data-reactroot=\"\">Hartwigsen, G., &amp; Saur, D. (2019). Neuroimaging of stroke recovery from aphasia \u2013 Insights into plasticity of the human language network. <em>NeuroImage</em>, <em>190</em>, 14\u201331. <a href=\"https://doi.org/10.1016/j.neuroimage.2017.11.056\">https://doi.org/10.1016/j.neuroimage.2017.11.056</a></p>",
+              "customLabel": "Hartwigsen & Saur, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb2evsmpmu3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsxcwm18cew\" data-reactroot=\"\">Stockert, A., Wawrzyniak, M., Klingbeil, J., Wrede, K., K\u00fcmmerer, D., Hartwigsen, G., Kaller, C. P., Weiller, C., &amp; Saur, D. (2020). Dynamics of language reorganization after left temporo-parietal and frontal stroke. <em>Brain</em>, <em>143</em>(3), 844\u2013861. <a href=\"https://doi.org/10.1093/brain/awaa023\">https://doi.org/10.1093/brain/awaa023</a></p>",
+              "customLabel": "Stockert et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In contrast, persisting activity in right prefrontal areas in the later phase of recovery (late subacute or chronic phase) may rather reflect failure to recover and is sometimes called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "maladaptive plasticity"
+          },
+          {
+            "type": "text",
+            "text": ". Consequently, inhibition of the right prefrontal cortex in the (late) subacute phase by inhibitory TMS was associated with better language performance after stroke ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "neey90644ia",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nm5scqkmn2f\" data-reactroot=\"\">Zumbansen, A., Kneifel, H., Lazzouni, L., Ophey, A., Black, S. E., Chen, J. L., Edwards, D., Funck, T., Hartmann, A. E., Heiss, W.-D., Hildesheim, F., Lanthier, S., Lesp\u00e9rance, P., Mochizuki, G., Paquette, C., Rochon, E., Rubi-Fessen, I., Valles, J., Wortman-Jutt, S., &amp; Thiel, A., on behlaf of &amp; the NORTHSTAR-study group. (2022). Differential effects of speech and language therapy and rTMS in chronic versus subacute post-stroke aphasia: Results of the NORTHSTAR-CA trial. <em>Neurorehabilitation and Neural Repair</em>, <em>36</em>(4\u20135), 306\u2013316. <a href=\"https://doi.org/10.1177/15459683211065448\">https://doi.org/10.1177/15459683211065448</a></p>",
+              "customLabel": "Zumbansen et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Later inhibition of right hemispheric areas may be combined with facilitation of perilesional language areas in the left hemisphere (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh1gzthuvcv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n92mff1r013\" data-reactroot=\"\">Khedr, E. M., Abo El-Fetoh, N., Ali, A. M., El-Hammady, D. H., Khalifa, H., Atta, H., &amp; Karim, A. A. (2014). Dual-hemisphere repetitive transcranial magnetic stimulation for rehabilitation of poststroke aphasia: A randomized, double-blind clinical trial. <em>Neurorehabilitation and Neural Repair</em>, <em>28</em>(8), 740\u2013750. <a href=\"https://doi.org/10.1177/1545968314521009\">https://doi.org/10.1177/1545968314521009</a></p>",
+              "customLabel": "Khedr et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") to support the reshift of activity to the language-dominant hemisphere. Perilesional facilitation is associated with good recovery (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "najac9eyry4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf6r8yqiedh\" data-reactroot=\"\">Hartwigsen, G., &amp; Saur, D. (2019). Neuroimaging of stroke recovery from aphasia \u2013 Insights into plasticity of the human language network. <em>NeuroImage</em>, <em>190</em>, 14\u201331. <a href=\"https://doi.org/10.1016/j.neuroimage.2017.11.056\">https://doi.org/10.1016/j.neuroimage.2017.11.056</a></p>",
+              "customLabel": "Hartwigsen & Saur, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Finally, some studies show that stimulation of areas outside the language network may support language recovery. Aside from domain-general control regions, promising candidate regions for facilitatory stimulation are the primary motor cortex and the cerebellum, which have dense interactions and connections with the language network ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqmm33xkjxl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvphsekkc5r\" data-reactroot=\"\">Meinzer, M., Darkow, R., Lindenberg, R., &amp; Fl\u00f6el, A. (2016). Electrical stimulation of the motor cortex enhances treatment outcome in post-stroke aphasia. <em>Brain</em>, <em>139</em>(Pt 4), 1152\u20131163. <a href=\"https://doi.org/10.1093/brain/aww002\">https://doi.org/10.1093/brain/aww002</a></p>",
+              "customLabel": "Meinzer et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsomn1f23iz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndwi1hynkxt\" data-reactroot=\"\">Turkeltaub, P. E., Swears, M. K., D\u2019Mello, A. M., &amp; Stoodley, C. J. (2016). Cerebellar tDCS as a novel treatment for aphasia? Evidence from behavioral and resting-state functional connectivity data in healthy adults. <em>Restorative Neurology and Neuroscience</em>, <em>34</em>(4), 491\u2013505. <a href=\"https://doi.org/10.3233/RNN-150633\">https://doi.org/10.3233/RNN-150633</a></p>",
+              "customLabel": "Turkeltaub et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nzz0fx08rqk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "With the advent of modern noninvasive techniques to study and modulate brain function, knowledge about the neuroscience of language has greatly improved. Despite great progress, several questions remain open. For example, no functional-anatomical model of language fully captures all linguistic processes or includes both comprehension and production, as well as visual and auditory language processing. Particularly little is known about the neural correlates of pragmatic processing, that is, how language is used in social interactions, how context contributes to meaning, and what types of speech acts a speaker employs since the number of neuroimaging studies on pragmatic processing is still scarce.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "naokvq4yt74",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The (dynamic) role of brain regions beyond the core language network for language function and recovery after stroke is also unclear. Multifocal stimulation of several nodes within the language network or within the language and domain-general networks is promising to further deepen knowledge about the relevance of such interactions and establish novel tools for treatment of network disorders, including post-stroke aphasia or developmental disorders such as dyslexia (impaired reading and writing).\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "no6qx60q78t",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Another promising avenue is the use of novel neurostimulation techniques that are currently being established for application in the human brain, including transcranial ultrasound and temporal interference stimulation. Such approaches are particularly promising for reaching deep brain structures noninvasively.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ng3uvfyxrhd",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Other approaches include the combination of different techniques that allow multimodal assessment of language functions. For example, the concurrent combination of NIBS and functional neuroimaging or electroencephalography offers exciting possibilities to study network interactions and dynamics and understand how the language network responds to focal perturbations or facilitatory effects.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nnmaicc9yoj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Language is a core faculty of human communication that does not work in isolation. Efficient language processing requires the interaction of numerous cognitive domains, including cognitive control, working memory, and attention. Future research will benefit from studying the complex interactions between these domains and addressing general and unique processing principles to better understand human cognition. This includes investigating shared mechanisms of network interactions and adaptation principles in response to neurostimulation and brain lesions. Some mechanisms of adaptation to brain lesions, such as the recruitment of premotor areas during recovery, may be shared across the language and motor domain, and identifying such similarities and core principles may help to increase overall knowledge of brain functions and adaptation at the systems level.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nl6391e4pon",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Notably, in the era of personalized medicine, a promising avenue would be to consider individual lesion and impairment profiles to establish individualized stimulation and therapy approaches during language recovery after stroke."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nl3fog3ik1v",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Finally, the potential of large language models to successfully predict brain responses to language has recently been demonstrated (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nq2wa1bb2lk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzgijk7v8x8\" data-reactroot=\"\">Tuckute, G., Sathe, A., Srikant, S., Taliaferro, M., Wang, M., Schrimpf, M., Kay, K., &amp; Fedorenko, E. (2024). Driving and suppressing the human language network using large language models. <em>Nature Human Behaviour</em>, <em>8</em>(3), 544\u2013561. <a href=\"https://doi.org/10.1038/s41562-023-01783-7\">https://doi.org/10.1038/s41562-023-01783-7</a></p>",
+              "customLabel": "Tuckute et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "]. Exciting future avenues include the use of such models to predict responses to neurostimulation and brain lesions to better understand the relevance of specific circuits for language and their interaction with domain-general networks. Likewise, large language models may also prove helpful to understand changes in brain dynamics after language therapy.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "acknowledgements",
+          "id": "acknowledgements",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Acknowledgments "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmke2ohkse0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This work was supported by the European Research Council (ERC-2021-COG 101043747)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading "
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nhnyfxu80f3",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "np3f8b4fa54",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Friederici, A. D. (2017). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Language in our brain: The origins of a uniquely human capacity"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". The MIT Press. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.7551/mitpress/11173.001.0001",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.7551/mitpress/11173.001.0001"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nqmkb52cned",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hickok, G., & Poeppel, D. (2004). Dorsal and ventral streams: A framework for understanding aspects of the functional anatomy of language. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Cognition"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "92"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(1\u20132), 67\u201399. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/j.cognition.2003.10.011",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/j.cognition.2003.10.011"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n0dyqnti8rf",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hickok, G., & Small S. L. (Eds.). (2016). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Neurobiology of language"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Elsevier Academic Press. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.sciencedirect.com/book/9780124077942/neurobiology-of-language",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://www.sciencedirect.com/book/9780124077942/neurobiology-of-language"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nw71pbypsxg",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Turker, S., Kuhnke, P., Eickhoff, S. B., Caspers, S., & Hartwigsen, G. (2023). Cortical, subcortical, and cerebellar contributions to language processing: A meta-analytic review of 403 neuroimaging experiments. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Psychological Bulletin, 149"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(11-12), 699\u2013723. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1037/bul0000403",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1037/bul0000403"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

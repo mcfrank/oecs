@@ -1,0 +1,3695 @@
+{
+  "id": "b3e7ef9b-adb2-403c-992e-786994f9b085",
+  "slug": "x0sk7df7",
+  "title": "Mental Representation",
+  "url": "https://oecs.mit.edu/pub/x0sk7df7",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "b3e7ef9b-adb2-403c-992e-786994f9b085",
+    "slug": "x0sk7df7",
+    "title": "Mental Representation",
+    "htmlTitle": "Mental Representation",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.b3e7ef9b",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "1gi3rzj8",
+    "editHash": "gk3v4w2j",
+    "reviewHash": "0mfykc0p",
+    "commentHash": "3sgfwgd5",
+    "draftId": "bdc2e68a-3dba-4e76-8cce-a4ee99cf4304",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "a5f5c421-0c4f-4792-b2c2-473735432353",
+    "scopeSummaryId": "5ec3fa5a-a857-4c6c-b617-798b18d4645b",
+    "createdAt": "2025-03-31T17:11:45.107Z",
+    "updatedAt": "2025-04-28T13:24:19.624Z",
+    "attributions": [
+      {
+        "id": "6d0ff620-768c-4366-a19d-c3d6a865338c",
+        "name": "Manolo Mart\u00ednez",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Universitat de Barcelona",
+        "orcid": "0000-0002-6194-7121",
+        "userId": null,
+        "pubId": "b3e7ef9b-adb2-403c-992e-786994f9b085",
+        "createdAt": "2025-03-31T17:12:43.642Z",
+        "updatedAt": "2025-03-31T17:13:39.039Z",
+        "user": null
+      },
+      {
+        "id": "b2bc6906-4721-47c7-bdb7-7972565df0ca",
+        "name": "Fr\u00e9d\u00e9rique de Vignemont",
+        "avatar": null,
+        "title": null,
+        "order": 0.8125,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Institut Jean Nicod, ENS-PSL University, EHESS, CNRS",
+        "orcid": "0009-0006-1354-1553",
+        "userId": null,
+        "pubId": "b3e7ef9b-adb2-403c-992e-786994f9b085",
+        "createdAt": "2025-04-02T19:31:39.794Z",
+        "updatedAt": "2025-04-02T19:32:01.768Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "bdc2e68a-3dba-4e76-8cce-a4ee99cf4304",
+      "latestKeyAt": "2025-07-08T17:24:03.892Z",
+      "firebasePath": "drafts/draft-bdc2e68a-3dba-4e76-8cce-a4ee99cf4304",
+      "createdAt": "2025-03-31T17:11:45.104Z",
+      "updatedAt": "2025-11-05T17:03:00.045Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9toqo2t5di",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cognitive scientists often try to provide explanations of how a human, animal, or artificial cognitive system manages to perform a certain cognitive task. For this, they often find it useful to postulate the existence of entities, localized somewhere within that cognitive system, that stand for, or are about others, often localized outside of it. These are the entities that are called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "mental representations"
+          },
+          {
+            "type": "text",
+            "text": ". Explanations of cognitive function try to work out how computations over these representations may result in the successful performance of a certain task. Mental representations are a central, if not uncontested, theoretical posit in cognitive science."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4e7j9x3hce",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "More than two millennia ago, Aristotle already suggested that we think of the way that senses take in the external world as analogous to how \u201ca piece of wax takes on the imprint of the signet ring without the iron or gold\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npzgm3zokv3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nexlcj8mi7s\" data-reactroot=\"\">Aristotle. (1987). <em>De anima (On the soul)</em> (H. Lawson-Tancred, Trans.). Penguin Classics. (Original work published 350 BCE.)</p>",
+              "customLabel": "Aristotle, 350 BCE/1987",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This is not so different from the kind of strategy that many contemporary cognitive scientists deploy when investigating how some task is performed: they try to identify some part of the cognitive system (Aristotle\u2019s piece of wax) that somehow tracks the qualities of some external entity, relevant to the task (Aristotle\u2019s signet), in the hope that they will then be in a position to explain how manipulation of the inner surrogate results in behavior relevant to the external entity. This surrogate is what is called a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "mental representation"
+          },
+          {
+            "type": "text",
+            "text": " of the external entity."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfct0twonmj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Contemporary discussion of mental representations is often taken to start with Franz Brentano\u2019s "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Psychology from an Empirical Standpoint"
+          },
+          {
+            "type": "text",
+            "text": ". Brentano, an Austrian psychologist, famously claimed that the distinguishing feature of mental phenomena, what makes them \u201cmental,\u201d is that they involve \u201cdirection toward an object\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6dwjffcerq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4w67j4f8q9\" data-reactroot=\"\">Brentano, F. (1973). <em>Psychology from an empirical standpoint</em> (A. C. Rancurello &amp; D. B. Terrell, Trans., L. L. McAlister, Ed. &amp; Trans.). Routledge &amp; Kegan Paul. (Original work published 1874)</p>",
+              "customLabel": "Brentano, 1874/1973",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 68). Suppose that a cab is approaching you and that you see it. Seeing it allows you to make your behavior relevant to the cab: you will get out of its way, perhaps, or hail it if it you need a cab. How is it possible that a cab all the way out there makes it possible for you, in here, to form a good (adaptive, etc.) behavioral plan? One popular answer is that you are in a mental state that has the approaching cab as its content: you have a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "mental representation"
+          },
+          {
+            "type": "text",
+            "text": " of the approaching cab. But this does not completely dispel the mystery: the cab is out there in the world, and your mental state is somewhere within the confines of your body, after all. More needs to be said about how the latter manages to be about the former. Much of the recent history of the debate on mental representations can be seen as trying to cash out Aristotle\u2019s signet ring metaphor: what exactly is transmitted from the object of representation to the representation, and how. In the last 40 years, a prominent idea has been that representations must be understood in terms of their biological function. This approach is known as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "teleosemantics"
+          },
+          {
+            "type": "text",
+            "text": " (from the Greek "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "t\u00e9los"
+          },
+          {
+            "type": "text",
+            "text": ", meaning \u201cend\u201d or \u201cgoal\u201d). Although this idea had been anticipated by a few theorists ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nafzzkn8gun",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqndjjtxa53\" data-reactroot=\"\">Stampe, D. W. (1977). Toward a causal theory of linguistic representation. <em>Midwest Studies in Philosophy</em>, <em>2</em>(1), 42\u201363. <a href=\"https://doi.org/10.1111/j.1475-4975.1977.tb00027.x\">https://doi.org/10.1111/j.1475-4975.1977.tb00027.x</a> </p>",
+              "customLabel": "Stampe, 1977",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " among them), the first full formulation of teleosemantics is Ruth Millikan\u2019s immensely influential "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Language, Thought, and Other Biological Categories"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3zizr5fqxj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyf0szkz9ur\" data-reactroot=\"\">Millikan, R. G. (1984). <em>Language, thought, and other biological categories</em>. MIT Press.</p>",
+              "customLabel": "Millikan, 1984",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqkfha3vo5l",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A second, partially overlapping set of discussions that have a bearing on mental representations has to do with devising systems for the more or less mechanical generation of thoughts, starting from a basic vocabulary and a set of transformation rules. Such interest can be found as early as Ramon Llull in the 13th century. Later, Descartes and Leibniz, among many others, made important contributions to this program. For the contemporary study of mental representations, Frege was influential with his "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Begriffsschrift"
+          },
+          {
+            "type": "text",
+            "text": ", a proposal for a formal calculus of thought processes ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7coxyl9a6t",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6i7f5awpsz\" data-reactroot=\"\">Frege, G. (1970). Begriffsschrift, a formula language, modeled upon that of arithmetic, for pure thought. In J. Van Heijenoort (Ed.), <em>Frege and G\u00f6del</em> (pp. 1\u201382). Harvard University Press. (Original work published in 1879.)</p>",
+              "customLabel": "Frege, 1879/1970",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 14)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5h3zmnphxd",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Starting in the 20th century, these ideas have been put to various uses. Most important is perhaps the foundational cognitive scientific project: explaining cognitive function as, at least partly, the processing of and computation over mental representations ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5mjegg5n7z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3ah09rm0vp\" data-reactroot=\"\">Newell, A., &amp; Simon, H. A. (1976). Computer science as empirical inquiry: Symbols and search. <em>Communications of the ACM</em>, <em>19</em>(3), 113\u2013126. <a href=\"https://doi.org/10.1145/360018.36002\">https://doi.org/10.1145/360018.36002</a> </p>",
+              "customLabel": "Newell & Simon, 1976",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1k0p7kqs2f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqzu6u2pzg9\" data-reactroot=\"\">Marr, D. (2010). <em>Vision: A computational investigation into the human representation and processing of visual information</em>. MIT Press. (Original work published in 1982.)</p>",
+              "customLabel": "Marr, 1982/2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Most recently, philosophers and neuroscientists have become interested in bridging the gap between "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "mental"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "neural"
+          },
+          {
+            "type": "text",
+            "text": " representation: that is to say, between the means, broadly conceived, by which minds take in, think about, and act back on the world; and the way in which neural activity comes to carry information about the world and transforms it in ways that are increasingly relevant to the production of behavior ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlc9x7zi9r1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfe15pogb2q\" data-reactroot=\"\">Piccinini, G. (2020). <em>Neurocognitive mechanisms: Explaining biological cognition</em>. Oxford University Press.</p>",
+              "customLabel": "Piccinini, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "representational-content",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Representational content"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3qhi0sjui8",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Representations are parts of a cognitive system that stand for or are about other entities, often (but not always) outside the cognitive system. That which a representation represents is typically called its "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "content"
+          },
+          {
+            "type": "text",
+            "text": ". Having content is often taken to be the defining property of representations. Content is generally used as an umbrella term for any semantic (meaning-related) properties a mental state may have (cf. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwk8d6jchu7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njolbuwp7xp\" data-reactroot=\"\">Cummins, R. (1989). <em>Meaning and mental representation</em>. Bradford Books.</p>",
+              "customLabel": "Cummins, 1989",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 12)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nq904bagu6j",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Many accounts of mental content focus on "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "propositional"
+          },
+          {
+            "type": "text",
+            "text": " content: content that corresponds to (putative) states of affairs or events. For example, a propositional content might be that it is raining here now, that a cab is approaching, that the Earth is flat, that space is flat, and, in general, that "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "p"
+          },
+          {
+            "type": "text",
+            "text": ". Concepts (a paradigmatic example of representation), on the other hand, have "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "subpropositional"
+          },
+          {
+            "type": "text",
+            "text": " contents: the concept dog has dogs (or the property of being a dog) as content; the concept green, greenness (or the property of being green); the (singular) concept bad bunny has the Puerto Rican singer Bad Bunny as content. In general, concepts have as content entities that can in some sense be part of a proposition."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n08g74spx9u",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "What concepts are is a matter of much debate ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb9xtt8kztr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n847fzqnguy\" data-reactroot=\"\">Machery, E. (2009). <em>Doing without concepts</em>. Oxford University Press.</p>",
+              "customLabel": "Machery, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/j39m4jos",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Concepts"
+          },
+          {
+            "type": "text",
+            "text": "]. Still, many theorists believe that a sufficient condition for a certain individual to possess a concept is the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "generality constraint"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfu7r88v2ft",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq2x82o1z4h\" data-reactroot=\"\">Evans, G. (1982). <em>The varieties of reference</em> (J. McDowell, Ed.). Oxford University Press.</p>",
+              "customLabel": "Evans, 1982",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 104): if a system is able to represent ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "conceptual"
+          },
+          {
+            "type": "text",
+            "text": ") contents of the form a is F and b is G, then it must also be able to represent a as G or b as F (cf. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3bopun7g3f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7xvaye5lxa\" data-reactroot=\"\">Toribio, J. (2007). Nonconceptual content. <em>Philosophy Compass</em>, 2(3), 445\u2013460. <a href=\"https://doi.org/10.1111/j.1747-9991.2007.00075.x\">https://doi.org/10.1111/j.1747-9991.2007.00075.x</a> </p>",
+              "customLabel": "Toribio, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 446). Examples of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "nonconceptual"
+          },
+          {
+            "type": "text",
+            "text": " content often include perceptual experience (which appears to be impossible to capture with discursive thought, just like an image cannot be expressed in a thousand words) or the contents of subpersonal representations (e.g., those in the early visual cortex)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxgdg8pivv7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In contemporary accounts of representation, it is common to distinguish between two kinds of content ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nais4jp0tig",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyf0szkz9ur\" data-reactroot=\"\">Millikan, R. G. (1984). <em>Language, thought, and other biological categories</em>. MIT Press.</p>",
+              "customLabel": "Millikan, 1984",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). First, there is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "indicative"
+          },
+          {
+            "type": "text",
+            "text": " content, which is in the business of informing its recipient. Indicative (or descriptive) content is by far the most commonly discussed and studied, but most theorists also recognize an "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "imperative"
+          },
+          {
+            "type": "text",
+            "text": " kind of content that is in the business of getting its recipient to see to it that its content happens. Representations with both indicative and imperative contents are often called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "pushmi-pullyu representations"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb0y8p1h821",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nu724fleydu\" data-reactroot=\"\">Millikan, R. G. (1995). Pushmi-pullyu representations. <em>Philosophical Perspectives</em>, <em>9</em>, 185\u2013200. <a href=\"https://doi.org/10.2307/2214217\">https://doi.org/10.2307/2214217</a> </p>",
+              "customLabel": "Millikan, 1995",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "vehicles",
+          "id": "vehicles",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Vehicles"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "no3iz2n4t8u",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The characterization of representation given here mentions \u201cparts of a cognitive system.\u201d This characterization is purposely vague. Entities as different as events (e.g., neural population activity), objects (e.g.,\u00a0single neurons), mechanisms (e.g.,\u00a0synchronized neural activity), and other perhaps more exotic entities (e.g., the external world, as a result of cognitive offloading or some similar process; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1zj06z7i05",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxmwh591hdo\" data-reactroot=\"\">Beer, R. D., &amp; Williams, P. L. (2015). Information processing and dynamics in minimally cognitive agents. <em>Cognitive Science</em>, <em>39</em>(1),  1\u201338. <a href=\"https://doi.org/10.1111/cogs.12142\">https://doi.org/10.1111/cogs.12142</a> </p>",
+              "customLabel": "Beer & Williams, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") have been postulated as bearers of representational content."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "npfm00aw8me",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Sometimes one needs to talk about these entities without taking a stand on which contents they carry or even if they carry content at all. In such circumstances one calls them "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "vehicles"
+          },
+          {
+            "type": "text",
+            "text": ": (potential) carriers of representational content. Vehicles are usually individuated by how they affect cognitive processing downstream ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nks7y8byp54",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmcgaaewv2q\" data-reactroot=\"\">Drayson, Z. (2018). The realizers and vehicles of mental representation. <em>Studies in History and Philosophy of Science Part A</em>, <em>68</em>, 80\u201387. <a href=\"https://doi.org/10.1016/j.shpsa.2018.01.005\">https://doi.org/10.1016/j.shpsa.2018.01.005</a> </p>",
+              "customLabel": "Drayson, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "format",
+          "id": "format",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Format"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2no8p13tsb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The question about which kinds of computations are made possible by which kinds of vehicles has often been formulated as being about the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "format"
+          },
+          {
+            "type": "text",
+            "text": " of representations. For example, a historically important controversy concerned whether the representations underlying mental imagery have symbolic structure, similar to sentences in a language (sometimes called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "linguistic"
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "propositional"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nct0tcae7yu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqt8xssrfdz\" data-reactroot=\"\">Pylyshyn, Z. W. (2002). Mental imagery: In search of a theory. <em>Behavioral and Brain Sciences</em>, <em>25</em>(2), 157\u2013182. <a href=\"https://doi.org/10.1017/s0140525x02000043\">https://doi.org/10.1017/s0140525x02000043</a> </p>",
+              "customLabel": "Pylyshyn, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), or rather are image-like ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "iconic"
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "imagistic"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrydzk1h76g",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ns2g9lijy7t\" data-reactroot=\"\">Kosslyn, S. M. (1996). <em>Image and brain: The resolution of the imagery debate</em>. MIT Press.</p>",
+              "customLabel": "Kosslyn, 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Although this particular imagery debate has become less central, the question of what representational formats are, and how they affect cognitive processing, has gained prominence in recent years."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrdmx0611g9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One traditional approach to format relies on analogies with public vehicles of representation: iconic formats being thought of as picture-like and propositional formats as language-like. On the other hand, some widely recognized formats are less amenable to this kind of analogy, for example, connectionist architectures or conceptual spaces ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nctwsun9d7w",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6y299cga9s\" data-reactroot=\"\">G\u00e4rdenfors, P. (2000). <em>Conceptual spaces: The geometry of thought</em>. MIT Press.</p>",
+              "customLabel": "G\u00e4rdenfors, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). While particular representational formats are often appealed to in cognitive science ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nte16km6065",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj3t4su2o8y\" data-reactroot=\"\">Larkin, J. H., &amp; Simon, H. A. (1987). Why a diagram is (sometimes) worth ten thousand words. <em>Cognitive Science</em>, <em>11</em>(1), 65\u2013100. <a href=\"https://doi.org/10.1111/j.1551-6708.1987.tb00863.x\">https://doi.org/10.1111/j.1551-6708.1987.tb00863.x</a> </p>",
+              "customLabel": "Larkin & Simon, 1987",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") there are not many theoretical elucidations of format in general (but see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9jpimjh6wb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nknf59vkvmw\" data-reactroot=\"\">Vorms, M. (2011). Formats of representation in scientific theorizing. In P. W. Humphreys &amp; C. Imbert (Eds.), <em>Models, simulations, and representations</em> (pp. 250\u2013273). Routledge.</p>",
+              "customLabel": "Vorms, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njyl0ndkbnh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndbmu6ubd79\" data-reactroot=\"\">Coelho Mollo, D., &amp; Vernazzani, A. (2024). The formats of cognitive representation: A computational account. <em>Philosophy of Science</em>, <em>91</em>(3), 682-701. <a href=\"https://doi.org/10.1017/psa.2023.123\">https://doi.org/10.1017/psa.2023.123</a> </p>",
+              "customLabel": "Coelho Mollo & Vernazzani, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1jc62e6f2t",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Many important distinctions about representations, such as analog versus digital or discrete versus continuous, are best conceived as distinctions about representational format ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlmg9y1l0ct",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4d1ozgbbaw\" data-reactroot=\"\">Maley, C. J. (2011). Analog and digital, continuous and discrete. <em>Philosophical Studies</em>, <em>155</em>, 117\u2013131. <a href=\"https://doi.org/10.1007/s11098-010-9562-8\">https://doi.org/10.1007/s11098-010-9562-8</a> </p>",
+              "customLabel": "Maley, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "structure",
+          "id": "structure",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Structure"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nv5xi4l4l96",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Many of the representations discussed in cognitive science and neuroscience (e.g., hippocampal cognitive maps) are entities whose structure mirrors that of a target phenomenon ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwdq0p167kp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npsa72sm47d\" data-reactroot=\"\">Poldrack, R. A. (2020). The physics of representation. <em>Synthese</em>, <em>199</em>, 1307\u20131325. <a href=\"https://doi.org/10.1007/s11229-020-02793-y\">https://doi.org/10.1007/s11229-020-02793-y</a> </p>",
+              "customLabel": "Poldrack, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These so-called structural representations have become an important topic of discussion ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuajq42ba6v",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n876hojmfbv\" data-reactroot=\"\">G\u0142adziejewski, P., &amp; Mi\u0142kowski, M. (2017). Structural representations: Causally relevant and different from detectors. <em>Biology and Philosophy</em>, <em>32</em>, 337\u2013355. <a href=\"https://doi.org/10.1007/s10539-017-9562-6\">https://doi.org/10.1007/s10539-017-9562-6</a> </p>",
+              "customLabel": "G\u0142adziejewski & Mi\u0142kowski, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nf6retomvmw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhuk081dk2g\" data-reactroot=\"\">Artiga, M. (2023) [Forthcoming]. Understanding structural representations. <em>The British Journal for the Philosophy of Science.</em> <a href=\"https://doi.org/10.1086/728714\">https://doi.org/10.1086/728714</a></p>",
+              "customLabel": "Artiga, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "basic-constraints-on-theories-of-representation",
+          "id": "basic-constraints-on-theories-of-representation",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Basic constraints on theories of representation"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2vuqzabpd1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "These are various widely agreed constraints that theories of representations should respect:"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nb76qxfuu0b",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n58zo3scqko",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Representation and represented roles are asymmetric. That is to say, if A represents B, it does not follow that B represents A."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nlwsv9tetk2",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Theories of representation need to make room for "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "inapt"
+                  },
+                  {
+                    "type": "text",
+                    "text": " representational contents. The most commonly discussed form of inaptness is misrepresentation: many representations purport to present some entity or state of affairs faithfully, yet fail to do so. Scrub jays misled about the location of food caches or humans believing that a certain white wall is actually red provide examples of misrepresentation. Some representations are not in the business of informing but of "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "moving"
+                  },
+                  {
+                    "type": "text",
+                    "text": " its receiver to do something. These imperative representations can also be inapt, not by misrepresenting anything but by being commands that should not be obeyed or advice that should not be heeded."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n4jw8nmpwxf",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "It should be possible for representations to have nonexistent entities as part of their content. Hallucination (as opposed to illusion) is a prominent example; beliefs involving, for example, tree spirits, are (in all likelihood) another."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "novtsgc5u8a",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "It should also be possible for representations to have "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "distal"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (as opposed to proximal) entities as part of their content. For example, many neuroscientists would like to say that at least some neural activity in brain area V4 represents the color of (extramental) stimuli. A theory of representation that attributes to activity in V4 contents involving some concrete activity in, say, V1, as opposed to contents involving the yellowness of some cab, would not meet this distal contents constraint (see "
+                  },
+                  {
+                    "type": "citation",
+                    "attrs": {
+                      "id": "no9en98ehu6",
+                      "href": null,
+                      "value": "",
+                      "unstructuredValue": "<p id=\"njplzidyxne\" data-reactroot=\"\">Schulte, P. (2018). Perceiving the world outside: How to solve the distality problem for informational teleosemantics. <em>The Philosophical Quarterly</em>, <em>68</em>(271), 349\u2013369. <a href=\"https://doi.org/10.1093/pq/pqx052\">https://doi.org/10.1093/pq/pqx052</a> </p>",
+                      "customLabel": "Schulte, 2018",
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ")."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "the-representational-status-question-and-the-content-question",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The representational status question and the content question"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nprovplts4x",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Current debate on mental representations is often organized in terms of two interrelated but different questions. Although some theorists believe that both need to be tackled in tandem ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n233rts3nnf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7uirx5yxnw\" data-reactroot=\"\">Shea, N. (2018). <em>Representation in cognitive science</em>. Oxford University Press.</p>",
+              "customLabel": "Shea, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), many see them as relatively independent."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "npvre6hrob2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "First, the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "representational status"
+          },
+          {
+            "type": "text",
+            "text": " question: What makes some entities (and not others) representational vehicles at all? There are entities, processes, and properties (such as neural activity in V1, hippocampal maps, concepts, or corollary discharges) that many cognitive scientists are willing to claim are representations and very many that they do not, such as, say, the state of individual ion channels or the color of neurons. We would like to have a principled way to tell them apart."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "na1jctp8kuz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Second, the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "content"
+          },
+          {
+            "type": "text",
+            "text": " question: Given that a certain entity is a representation, what should one take its content to be? Many researchers believe that place cell activity (at least sometimes) represents places and not, say, days of the week. We aim at devising principled ways of attributing representations with contents."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "liberality",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Liberality"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nt4799yd4jj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "There is also broad agreement that answers to the representational status question should not be unduly liberal, or unduly restrictive, in the kinds of entities they grant representational status to. Many theorists agree about the extreme, paradigmatic cases (e.g., river pebbles are not representations, and some of the neural activity in the ventral visual pathway probably is), but there is disagreement regarding the large gray area between those extremes. For example, cognitive scientists disagree about whether alarm calls in vervet monkeys are representational, what can be said about quorum sensing in bacteria, and about the status of neural activity in early visual areas. According to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "liberal representationalism"
+          },
+          {
+            "type": "text",
+            "text": ", many of these controversial cases are representations ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n38mfjoin0u",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nt1dx5yircw\" data-reactroot=\"\">Artiga, M. (2016). Liberal representationalism: A deflationist defense. <em>Dialectica</em>, 70(3), 407\u2013430. <a href=\"https://doi.org/10.1111/1746-8361.12152\">https://doi.org/10.1111/1746-8361.12152</a> </p>",
+              "customLabel": "Artiga, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 409). Other theorists hold a more restrictive view, for instance, claiming that representational contents must be shown to be explanatorily useful before they are accepted in accounts of cognitive function ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0cursk2wnu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nm8ygebqd1t\" data-reactroot=\"\">Rescorla, M. (2013). Millikan on honeybee navigation and communication. In D. Ryder, J. Kingsbury, &amp; K. Williford (Eds.), <em>Millikan and her critics</em> (pp. 87\u2013102). Wiley-Blackwell.</p>",
+              "customLabel": "Rescorla, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 93)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "theories-of-representation",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Theories of representation"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nl3b6n9tpd9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "For a first look into the kinds of problems that crop up when trying to come up with answers to the representational status and content questions, consider this toy causation-based response to the content question (which no one has ever endorsed): a representation R has the content that C if and only if C causes R."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbz8iv09nej",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Take a certain candidate representation, a photograph. Consider what the particular distribution of colors across its surface represent. It is at least initially plausible that they represent whatever visible features of whatever object caused that particular distribution of colors. This intuition is vindicated by the above toy causal account. On the other hand, according to this account, a representation has as content whatever caused it to exist, and this means that it cannot be false; if a normally illuminated red wall and a white wall illuminated with a cleverly concealed red light bulb both cause a certain representation R, then R means something like \u201cthis wall is either red or white and illuminated with a red light bulb.\u201d This is sometimes called the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "problem of error"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzch65vlymy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nu0e9426li2\" data-reactroot=\"\">Ryder, D. (2019). Problems of representation II: Naturalizing content. In S. Robbins, J. Symons, &amp; P. Calvo (Eds.), <em>The Routledge companion to philosophy of psychology </em>(pp. 251-279<em>)</em>. Routledge.</p>",
+              "customLabel": "Ryder, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and sometimes the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "disjunction problem"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "neu23hb9dph",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n86oheq7mt2\" data-reactroot=\"\">Fodor, J. A. (1990). <em>A theory of content and other essays</em>. MIT Press.</p>",
+              "customLabel": "Fodor, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") because of the disjunctive \u201cA or B or \u2026\u201d that these content attributions take."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbq0o01ujtg",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This account is too simplistic, but it captures a central intuition of more sophisticated accounts: one needs some way to cash out the idea that representations and their objects are somehow connected. Consider again a cab approaching and the subsequent, perceptually based judgment that a cab is approaching. In which way are cab out there and judgment in here linked together? The notion that representations need to be caused by its object is one way, but there are other ways to ensure this kind of linkage. One important lesson of the above toy causal account is that linkage does not ensure aptness; causal relations, informational relations, and other plausible candidates for linkage are not discriminating. Some extra ingredient is needed to filter out good from bad content candidates."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n19jnmc7l8a",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One of the first attempts at doing this in the contemporary (naturalistic) study of mental representation is in terms of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "fidelity conditions"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6zxadttlvl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqndjjtxa53\" data-reactroot=\"\">Stampe, D. W. (1977). Toward a causal theory of linguistic representation. <em>Midwest Studies in Philosophy</em>, <em>2</em>(1), 42\u201363. <a href=\"https://doi.org/10.1111/j.1475-4975.1977.tb00027.x\">https://doi.org/10.1111/j.1475-4975.1977.tb00027.x</a> </p>",
+              "customLabel": "Stampe, 1977",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For instance, consider the number of rings in a tree stump that can be used as a representation of the number of years that the tree lived. Here, representation (number of rings) and content (number of years) are adequately connected only if the climatic conditions that prevailed during the growth of the tree are normal with no severe climatic stress, but if the tree had to pull through a few severe droughts and fires, then it might have fewer rings. Normal climatic conditions are the fidelity conditions for this representation."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrvmqnaijma",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One problem is that these fidelity conditions seem to be plucked out of thin air. One promise of causal accounts of representation is that one will be able to cash out what it is for something to represent something else in naturalistic terms. However, for example, it is unclear according to which fidelity conditions, decided by whom, activity in V4 represents the color of stimuli. If it is cognitive scientists that decide which fidelity conditions are relevant to any particular representation, in a sense, this is only a theory of what activity in V4 represents for cognitive scientists (cf. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0jetz2ppf0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nckjfe9zqul\" data-reactroot=\"\">Egan, F. (2025). <em>Deflating mental representation</em>. The MIT Press.</p>",
+              "customLabel": "Egan, 2025",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and this is not the kind of theory that one might wish for. What is needed is a theory of what it represents for the cognitive system that hosts such activity"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngz5q4y9b47",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Much contemporary work on representation can be seen as attempting to provide naturalistically acceptable characterizations of the idea of fidelity conditions. Most of it takes place within the so-called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "teleosemantic"
+          },
+          {
+            "type": "text",
+            "text": " program, by far the most popular, most actively developed research program in this area. Teleosemantics can be summarized as the view that what fixes the fidelity conditions of a representation is the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "biological function"
+          },
+          {
+            "type": "text",
+            "text": " of the representational vehicle or mechanism. Hearts pump blood and make thumping noises. Both are useful effects (the latter, for example, for diagnostics), but the heart is for the former, not the latter. Hearts are supposed to pump blood, and when they do not, it is usually said that they malfunction. Many theorists, following "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1kb937anvp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyf0szkz9ur\" data-reactroot=\"\">Millikan, R. G. (1984). <em>Language, thought, and other biological categories</em>. MIT Press.</p>",
+              "customLabel": "Millikan (1984)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", call "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "proper functions"
+          },
+          {
+            "type": "text",
+            "text": ", or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "teleofunctions"
+          },
+          {
+            "type": "text",
+            "text": ", those effects of designed or biological devices that underlie malfunction claims."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrtn0igoppp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Consider the tree example. There is something awkward about thinking of tree rings as representations. Mere onlookers can rely on them to learn about the tree\u2019s age, but nothing in the tree itself reads those rings. They represent nothing to anything in the tree itself. It has been argued that representations are necessarily for something or someone; representations mediate between a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "producer"
+          },
+          {
+            "type": "text",
+            "text": " that brings it into existence and a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "consumer"
+          },
+          {
+            "type": "text",
+            "text": " that puts it to use (see "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "n1ck7xe4kwq",
+              "targetId": "nfhuz9rb9uy",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfgr6sl0cwk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The exact same motif (upstream goings on, a producer, a representation, a consumer, and downstream consequences) is also relied on in the signaling framework ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njxbbhornzj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk6zfmnh4xe\" data-reactroot=\"\">Skyrms, B. (2010). <em>Signals: Evolution, learning, and information</em>. Oxford University Press.</p>",
+              "customLabel": "Skyrms, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), in which producers and consumers are called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "senders"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "receivers"
+          },
+          {
+            "type": "text",
+            "text": ", and again in information theory ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n01ljpu0hb1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk62u30gjek\" data-reactroot=\"\">Shannon, C. E., &amp; Weaver, W. (1998). <em>The mathematical theory of communication</em>. University of Illinois Press. ((Original work published 1949.)</p>",
+              "customLabel": "Shannon & Weaver, 1949/1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), in which they are often called, respectively, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "transmitters"
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "encoders"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "decoders"
+          },
+          {
+            "type": "text",
+            "text": " (cf. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nazvujkze86",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6poxmhfvu7\" data-reactroot=\"\">Cao, R. (2012). A teleosemantic approach to information in the brain. <em>Biology &amp; Philosophy</em>, <em>27</em>, 49\u201371. <a href=\"https://doi.org/10.1007/s10539-011-9292-0\">https://doi.org/10.1007/s10539-011-9292-0</a> </p>",
+              "customLabel": "Cao, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "nfhuz9rb9uy",
+          "url": "https://assets.pubpub.org/h4p90dvc/71743441133987.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"nrx93ko8pi5\" data-reactroot=\"\">Schematic showing that representations are intermediate between producers and consumers of the representation.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nb42165t275",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The teleosemantic response to the representational status question is that a representation is an entity mediating between a producer and a consumer, in which both producer and consumer are mechanisms individuated by their proper function. In the mainstream "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "consumer"
+          },
+          {
+            "type": "text",
+            "text": " development of teleosemantics ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ns3yn3l03ie",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyf0szkz9ur\" data-reactroot=\"\">Millikan, R. G. (1984). <em>Language, thought, and other biological categories</em>. MIT Press.</p>",
+              "customLabel": "Millikan, 1984",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfox5c9oapi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq9os47ws7b\" data-reactroot=\"\">Papineau, D. (1987). <em>Reality and representation</em>. Basil Blackwell.</p>",
+              "customLabel": "Papineau, 1987",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), it is the consumer of the representation that fixes its content. Other prominent approaches aim instead at deriving content from causal informational ties between the representation and its producer. On one version of this idea, a representational system is one that has the function of indicating the states of some extramental phenomenon ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9yt3pqmwa6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv5t123ixa4\" data-reactroot=\"\">Dretske, F. (1988). <em>Explaining behavior. Reasons in a world of causes</em>. MIT Press.</p>",
+              "customLabel": "Dretske, 1988",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 53). Here, the key concepts are "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "function"
+          },
+          {
+            "type": "text",
+            "text": " (which should be understood as meaning proper function) and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "indication"
+          },
+          {
+            "type": "text",
+            "text": ", which is a probabilistic notion: A indicates B if the probability of B is lower than the probability of B conditional on A. A "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "representational system"
+          },
+          {
+            "type": "text",
+            "text": " is what teleosemanticists call a producer (sender, encoder, etc.); it has the function of producing a signal, or entering a state, that correlates with the indicated state of affairs (cf. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqojj653z2s",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnybv083nsi\" data-reactroot=\"\">Neander, K. (2017). <em>A mark of the mental: In defense of informational teleosemantics</em>. MIT Press.</p>",
+              "customLabel": "Neander, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 151)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbw0ew9meix",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "More recently, some theorists have offered what can be seen as more or less purely information theoretic accounts of representation. Recent work on so-called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "signaling games"
+          },
+          {
+            "type": "text",
+            "text": " has aimed at substituting proper functions with game theoretic equilibria or dynamically stable configurations of sender and receiver populations in evolutionary game theoretic models ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nngqknt6pff",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk6zfmnh4xe\" data-reactroot=\"\">Skyrms, B. (2010). <em>Signals: Evolution, learning, and information</em>. Oxford University Press.</p>",
+              "customLabel": "Skyrms, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nj1m9eydipz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The sender\u2013receiver motif is one of those ideas that keeps being rediscovered. One of its early appearances, and perhaps the most influential of all, is in the point-to-point model of information transmission in "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuk5bau2cts",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk62u30gjek\" data-reactroot=\"\">Shannon, C. E., &amp; Weaver, W. (1998). <em>The mathematical theory of communication</em>. University of Illinois Press. ((Original work published 1949.)</p>",
+              "customLabel": "Shannon & Weaver (1949/1998)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " (see "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "nidnfe422sm",
+              "targetId": "nd5j6epa592",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "nd5j6epa592",
+          "url": "https://assets.pubpub.org/x1iol32a/61743441133988.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"nsd1c4osw8u\" data-reactroot=\"\">The Shannon and Weaver model for information transmission.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njduxm50s34",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Some theorists aim at leveraging the full Shannon information transmission model in theories of representation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntm2628pywq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9aylijjclg\" data-reactroot=\"\">Mann, S. F. (2023). The relevance of communication theory for theories of representation. <em>Philosophy and the Mind Sciences</em>, <em>4</em>. <a href=\"https://doi.org/10.33735/phimisci.2023.10992\">https://doi.org/10.33735/phimisci.2023.10992</a> </p>",
+              "customLabel": "Mann, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "are-representations-a-useful-theoretical-posit",
+          "id": "are-representations-a-useful-theoretical-posit",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Are representations a useful theoretical posit?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nlpqrn4dxih",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Mainstream cognitive science relies on representations and computations over them, as central theoretical posits in explanations of cognitive function; however, an increasingly influential family of approaches (sometimes collectively called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "4E cognitive science"
+          },
+          {
+            "type": "text",
+            "text": ") disputes this centrality. For example, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "embodied cognitive science"
+          },
+          {
+            "type": "text",
+            "text": " is the idea that cognition happens both in the brain and the body: cognitive agents act in ways that radically diminish the need for internal information processing ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1mrj291z7t",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nx3twhci5d4\" data-reactroot=\"\">Chemero, A. (2011). <em>Radical embodied cognitive science</em>. MIT Press.</p>",
+              "customLabel": "Chemero, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For example, the task of catching a ball that someone else has thrown might be described as working out (computing) where it will land, given an estimation of its initial position and acceleration, and moving there or, alternatively, might be solved by running in a way so as to make the ball appear to move with constant velocity ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntz2u02gn4t",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxn84ae51go\" data-reactroot=\"\">Wilson, A. D. &amp; Golonka, S. (2013). Embodied cognition is not what you think it is. <em>Frontiers in Psychology</em>, <em>4</em>, 58. <a href=\"https://doi.org/10.3389/fpsyg.2013.00058\">https://doi.org/10.3389/fpsyg.2013.00058</a> </p>",
+              "customLabel": "Wilson & Golonka, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 5). In the second explanation, computations and representations play no meaningful role. They are replaced by clever behavior (the running alongside the ball) that keeps the complexity of the task low all the way through completion. An increasingly important question in contemporary cognitive science is how pervasive this kind of nonrepresentational cognitive strategy is. It has been argued that cognitive science is moving in this nonrepresentationalist direction ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw2y3ipd61b",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ni5ul6pqz48\" data-reactroot=\"\">Ramsey, W. M. (2007). <em>Representation reconsidered</em>. Cambridge University Press.</p>",
+              "customLabel": "Ramsey, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") ."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "niatzs9e2x9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Mental representations are involved in much, perhaps most, research in cognitive science, and many of the central theoretical posits in those research efforts just are representations [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/h0rivqh3",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Face Perception"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/8q02cvue",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Theory of Mind"
+          },
+          {
+            "type": "text",
+            "text": ", and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/j39m4jos",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Concepts"
+          },
+          {
+            "type": "text",
+            "text": "]. The main source of evidence in favor of or against theories of representation comes from the way representations are relied on in cognitive science research."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nseeg9o7mju",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "It is also very common for theories in cognitive science, which do not necessarily take a stand on the representational status of their theoretical posits, to be interrogated as regards that status; a prominent recent example is work on the Free Energy Principle, with theorists arguing whether the principle should be read representationally (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "neru5w7httt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"no37qshytrn\" data-reactroot=\"\">Figdor, C. (2020). Shannon + Friston = Content: Intentionality in predictive signaling systems. <em>Synthese</em>, <em>199</em>, 2793-2816. <a href=\"https://doi.org/10.1007/s11229-020-02912-9\">https://doi.org/10.1007/s11229-020-02912-9</a> </p>",
+              "customLabel": "Figdor, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or nonrepresentationally (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnt29qwn6d6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzwboypbnql\" data-reactroot=\"\">Bruineberg, J., Kiverstein, J., &amp; Rietveld, E. (2018). The anticipating brain is not a scientist: The free-energy principle from an ecological-enactive perspective. <em>Synthese</em>, 195, 2417\u20132444. <a href=\"https://doi.org/10.1007/s11229-016-1239-1\">https://doi.org/10.1007/s11229-016-1239-1</a> </p>",
+              "customLabel": "Bruineberg et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/my8vpqih",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "The Free Energy Principle"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6es6n0cxhn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "While most philosophical research on mental representations is qualitative, and makes little use of formal tools, there are theoretical projects that do; game theoretic work on signaling has established a fruitful dialogue with theories of mental representation [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/s37heqam",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Signaling"
+          },
+          {
+            "type": "text",
+            "text": "]. Bayesian models of cognition are also explicitly representational [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/lwxmte1p",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Bayesian Models of Cognition"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nh7tave2h3l",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "There are various approaches in computational neuroscience to unveiling and understanding representation in the brain: encoding and decoding models, representational similarity analysis ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nm8q3soex41",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq4i7q4a7x3\" data-reactroot=\"\">Kriegeskorte, N., &amp; Douglas, P. M. (2019). Interpreting encoding and decoding models. <em>Current Opinion in Neurobiology</em>, <em>55</em>, 167\u2013179. <a href=\"https://doi.org/10.1016/j.conb.2019.04.002\">https://doi.org/10.1016/j.conb.2019.04.002</a> </p>",
+              "customLabel": "Kriegeskorte & Douglas, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), or analyses based on deep learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nyuxm924y7z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"niy0qne6dib\" data-reactroot=\"\">Richards, B. A., Lillicrap, T. P., Beaudoin, P., Bengio, W., Bogacz, R., Christensen, A., Clopath, C., Ponte Costa, R., de Berker, A., Ganguli, S., Gillon, C. J., Hafner, D., Kepecs, A., Kriegeskorte, N., Latham, P., Lindsay, G. W., Miller, K. D., Naud, R., Pack, C. C., \u2026 Kording, K. P. (2019). A deep learning framework for neuroscience. <em>Nature Neuroscience</em>, <em>22</em>, 1761\u20131770. <a href=\"https://doi.org/10.1038/s41593-019-0520-2\">https://doi.org/10.1038/s41593-019-0520-2</a> </p>",
+              "customLabel": "Richards et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). There has been philosophical work on these approaches, but more cross-talk is desirable ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nat3v03caal",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nevd6mafz8l\" data-reactroot=\"\">Roskies, A. L. (2021). Representational similarity analysis in neuroimaging: Proxy vehicles and provisional representations. <em>Synthese</em>, <em>199</em>, 5917\u20135935. <a href=\"https://doi.org/10.1007/s11229-021-03052-4\">https://doi.org/10.1007/s11229-021-03052-4</a> </p>",
+              "customLabel": "Roskies, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnvzkil6ig2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8hp244l1ws\" data-reactroot=\"\">Suboti\u0107, V. (2024). Exploring, expounding &amp; ersatzing: A three-level account of deep learning models in cognitive neuroscience. <em>Synthese</em>, <em>203</em>, 94. <a href=\"https://doi.org/10.1007/s11229-024-04514-1\">https://doi.org/10.1007/s11229-024-04514-1</a> </p>",
+              "customLabel": "Suboti\u0107, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nlc7ntznksw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Finally, an important research program in the philosophical study of consciousness is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "representationalism"
+          },
+          {
+            "type": "text",
+            "text": ": the idea that the phenomenal character of conscious states depends on, or perhaps is identical to, representational content ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ns6c80ybq2f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbrn9nxqgue\" data-reactroot=\"\">Tye, M. (2000). <em>Consciousness, color and content</em>. MIT Press.</p>",
+              "customLabel": "Tye, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Glossing over the many different representationalist approaches to consciousness, this research program proposes that representational roles (and not, say, causal roles, synchronized activity, or firing patterns) provide the optimal \u201cfineness of grain\u201d on cognitive function for the purposes of understanding consciousness."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvsz996tt1l",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "On the other hand, the main claim in the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "phenomenal intentionality"
+          },
+          {
+            "type": "text",
+            "text": " research program is that the representational properties of mental states are grounded on their phenomenal profile: because they are conscious, they are representational ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8xsdn9hcdh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnda6mexrwp\" data-reactroot=\"\">Mendelovici, A. A. (2018). <em>The phenomenal basis of intentionality</em>. Oxford University Press.</p>",
+              "customLabel": "Mendelovici, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Representationalism and phenomenal intentionality seem incompatible approaches to consciousness. Which one (if any) should carry the day or whether they could be, after all, reconciled are important open questions."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n01bkzakou4",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "npztn0c4xti",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Kriegeskorte, N., & Diedrichsen, J. (2019). Peeling the onion of brain representations. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Annual Review of Neuroscience"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "42"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 407\u2013432. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1146/annurev-neuro-080317-061906",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1146/annurev-neuro-080317-061906"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "npwnl44x7jn",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Millikan, R. G. (1984). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Language, thought and other biological categories"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". MIT Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n2wqikyn8iy",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Schulte, P. (2023). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Mental content"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Cambridge University Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nh9mouldnwg",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Shea, N. (2018). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Representation in cognitive science"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Oxford University Press."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

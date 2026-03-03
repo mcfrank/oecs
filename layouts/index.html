@@ -1,0 +1,17 @@
+{{ define "title" }}{{ .Site.Title }}{{ end }}
+{{ define "main" }}
+<div class="oecs-home">
+  {{ .Content }}
+  {{ $iframe := "" }}
+  {{ if .Site.Params.semantic_network_iframe_url }}
+    {{ $iframe = .Site.Params.semantic_network_iframe_url }}
+  {{ else if .Site.Data.iframe_semantic_network }}
+    {{ $iframe = .Site.Data.iframe_semantic_network.url }}
+  {{ end }}
+  {{ if $iframe }}
+  <div class="oecs-iframe-container">
+    <iframe src="{{ $iframe }}" title="OECS semantic network" allowfullscreen></iframe>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

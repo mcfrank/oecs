@@ -1,0 +1,1241 @@
+{
+  "id": "399d520e-a36c-4f88-922f-a23bb20a44aa",
+  "slug": "1cafk2cg",
+  "title": "Proxemics",
+  "url": "https://oecs.mit.edu/pub/1cafk2cg",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "399d520e-a36c-4f88-922f-a23bb20a44aa",
+    "slug": "1cafk2cg",
+    "title": "Proxemics",
+    "htmlTitle": "Proxemics",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.399d520e",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "3hup4fh2",
+    "editHash": "8d6jj1ft",
+    "reviewHash": "xdjdobit",
+    "commentHash": "dqa8pyrx",
+    "draftId": "0a9bdf32-b074-43ee-8dbf-19f0a16a6204",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "07ee7a2e-c741-43a6-816c-258b0f6c73d2",
+    "scopeSummaryId": "bb4d0aca-f92b-400b-bcd6-ead9fdafd0df",
+    "createdAt": "2024-07-08T15:10:05.727Z",
+    "updatedAt": "2024-07-24T13:19:43.186Z",
+    "attributions": [
+      {
+        "id": "120e6bef-c228-4272-9202-f3e7a2d5b01e",
+        "name": "Cade McCall",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Department of Psychology, University of York (UK)",
+        "orcid": "0000-0003-0746-8899",
+        "userId": null,
+        "pubId": "399d520e-a36c-4f88-922f-a23bb20a44aa",
+        "createdAt": "2024-07-08T15:11:07.431Z",
+        "updatedAt": "2024-07-08T15:11:25.026Z",
+        "user": null
+      },
+      {
+        "id": "7684e93f-a945-4fc5-b753-96e4cfe99a92",
+        "name": "Asifa Majid",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "section editor"
+        ],
+        "affiliation": "University of Oxford",
+        "orcid": "0000-0003-0132-216X",
+        "userId": null,
+        "pubId": "399d520e-a36c-4f88-922f-a23bb20a44aa",
+        "createdAt": "2024-07-23T21:54:35.043Z",
+        "updatedAt": "2024-08-09T21:00:34.002Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "0a9bdf32-b074-43ee-8dbf-19f0a16a6204",
+      "latestKeyAt": "2024-07-23T11:31:04.783Z",
+      "firebasePath": "drafts/draft-0a9bdf32-b074-43ee-8dbf-19f0a16a6204",
+      "createdAt": "2024-07-08T15:10:05.724Z",
+      "updatedAt": "2024-08-09T21:00:26.411Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n28tjphiab9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Proxemics is the study of how people use and experience physical space during social interactions. Proxemic analyses focus on interpersonal distancing and orienting as well as individuals\u2019 subjective and physiological responses to the proximity of others. The methodological approaches to studying proxemics vary widely, including self-report, digital motion tracking, and qualitative analyses of interactions. Proxemics research spans many disciplines and has examined the way in which people\u2019s use of physical space during interactions expresses cultural norms, power relations, interpersonal attitudes, and individual dispositions. In recent years, proxemics research has been applied to a variety of fields, including interactive robotics design."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nd7l4tlgqem",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The term "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "proxemics"
+          },
+          {
+            "type": "text",
+            "text": " was originally coined by anthropologist Edward C. Hall, who referred to it as the study of \u201cuse of space as a specialized elaboration of culture\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no6mvm2ad4v",
+              "href": null,
+              "value": "@book{Hall1966Hidden,\n\tnote = {[Online; accessed 2023-10-27]},\n\taddress = {Garden City},\n\tauthor = {Hall, Edward T.},\n\tyear = {1966},\n\tpublisher = {Doubleday},\n\ttitle = {The {hidden} {dimension}.},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Hall, 1966",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", page 1). In subsequent years, proxemics research has focused on people\u2019s use and experience of physical space during social interactions. Proxemics research now spans a variety of disciplines, including communications, social psychology, cognitive neuroscience, sociology, and robotics. This research has addressed basic questions about the key factors that determine proxemic behavior and preferences as well as more applied questions about how proxemic behavior can contribute to effective face-to-face communication."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nz3fwq5li00",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Proxemic research uses a variety of measurement approaches. Self-report measures assess proxemic preferences and subjective experiences of proxemic events (such as intrusions into personal space). Detailed, third-party coding of physical behaviors provides richly detailed accounts of actual behavior during an interaction "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n57er8abhls",
+              "href": null,
+              "value": "\n",
+              "unstructuredValue": "<p id=\"nfgj0p3283a\" data-reactroot=\"\">Harrigan, J. A. (2005). Proxemics, kinesics, and gaze. In J. A. Harrigan, R. Rosenthal, &amp; K. R. Scherer (Eds.), <em>The new handbook of methods in nonverbal behavior research</em> (pp. 137\u2013198). Oxford University Press.</p>",
+              "customLabel": "(Harrigan, 2005)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". More quantitative approaches include one-shot measures of behavior, such as how close an individual sits to a target individual, as well as more precise and continuous measures using digital tracking technology ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2w1x7avlcc",
+              "href": null,
+              "value": "@article{Bailenson2003Interpersonal,\n\tauthor = {Bailenson, Jeremy N. and Blascovich, Jim and Beall, Andrew C. and Loomis, Jack M.},\n\tjournal = {Personality and Social Psychology Bulletin},\n\tnumber = {7},\n\tyear = {2003},\n\tmonth = {7},\n\tpages = {819--833},\n\ttitle = {Interpersonal {distance} in {immersive} {virtual} {environments}},\n\tvolume = {29},\n}\n\n",
+              "unstructuredValue": "<p id=\"no42lzmwq4e\" data-reactroot=\"\"><a href=\"https://doi.org/10.1177/0146167203029007002\">https://doi.org/10.1177/0146167203029007002</a> </p>",
+              "customLabel": "Bailenson et al., 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nr2nper3akg",
+              "href": null,
+              "value": "@article{Lahnakoski2020Unobtrusive,\n\tauthor = {Lahnakoski, Juha M and Forbes, Paul AG and McCall, Cade and Schilbach, Leonhard},\n\tjournal = {Royal Society Open Science},\n\tnumber = {8},\n\tyear = {2020},\n\tpages = {191815},\n\tpublisher = {The Royal Society},\n\ttitle = {Unobtrusive tracking of interpersonal orienting and distance predicts the subjective quality of social interactions},\n\tvolume = {7},\n}\n\n",
+              "unstructuredValue": "<p id=\"nnpmhvj55di\" data-reactroot=\"\"><a href=\"https://doi.org/10.1098/rsos.191815\">https://doi.org/10.1098/rsos.191815</a> </p>",
+              "customLabel": "Lahnakoski et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see also "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/2vci5sg1",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Virtual Reality"
+          },
+          {
+            "type": "text",
+            "text": "]. Neuroimaging ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9izgeh802e",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl3lmw0408c\" data-reactroot=\"\">Hunley, S. B., &amp; Lourenco, S. F. (2018). What is peripersonal space? An examination of unresolved empirical issues and emerging findings. <em>Wiley Interdisciplinary Reviews Cognitive Science</em>, <em>9</em>(6), e1472. <a href=\"https://doi.org/0.1002/wcs.1472\">https://doi.org/0.1002/wcs.1472</a></p>",
+              "customLabel": "Hunley & Lourenco, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ns620qra4s7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl9qrv8kp5j\" data-reactroot=\"\">Kennedy, D. P., Gl\u00e4scher, J., Tyszka, J. M., &amp; Adolphs, R. (2009). Personal space regulation by the human amygdala. <em>Nature Neuroscience</em>, <em>12</em>(10), 1226-1227. <a href=\"https://doi.org/10.1038/nn.2381\">https://doi.org/10.1038/nn.2381</a>   </p>",
+              "customLabel": "Kennedy et al., 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and psychophysiological measures "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw0ptufiszd",
+              "href": null,
+              "value": "@article{Candini2021physiological,\n\tauthor = {Candini, Michela and Battaglia, Simone and Benassi, Mariagrazia and di Pellegrino, Giuseppe and Frassinetti, Francesca},\n\tjournal = {Scientific Reports},\n\tnumber = {1},\n\tyear = {2021},\n\tmonth = {jan 28},\n\tpages = {2611},\n\tpublisher = {Nature Publishing Group},\n\ttitle = {The physiological correlates of interpersonal space},\n\tvolume = {11},\n}\n\n",
+              "unstructuredValue": "<p id=\"ncxrwu4kit0\" data-reactroot=\"\"><a href=\"https://doi.org/10.1038/s41598-021-82223-2\">https://doi.org/10.1038/s41598-021-82223-2</a> </p>",
+              "customLabel": "(Candini et al., 2021)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " have also been used to explore the physiological correlates of interpersonal proximity. "
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "personal-space",
+          "id": "personal-space",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Personal space"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nj96myi6w00",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Some of the earliest work on proxemics described proxemic zones "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd6d6q2rwwk",
+              "href": null,
+              "value": "@book{Hall1966Hidden,\n\tnote = {[Online; accessed 2023-10-27]},\n\taddress = {Garden City},\n\tauthor = {Hall, Edward T.},\n\tyear = {1966},\n\tpublisher = {Doubleday},\n\ttitle = {The {hidden} {dimension}.},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "(Hall, 1966)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", each of which is defined by the distance from the individual. Hall proposed that people interact at different distances, depending upon the nature of their relationship. Proxemic zones range from intimate distance (for interactions involving touching), personal distance (for interactions with family or friends), social distance (for interactions with acquaintances or strangers), and public distance (for public speaking or speaking to groups). Subsequent research has frequently focused on the \u201cpersonal space bubble\u201d comprised of the inner zones. Breaches of this bubble are likely to elicit discomfort or anger, such as when a stranger stands unnecessarily close "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nljogxqnhlo",
+              "href": null,
+              "value": "@article{Hayduk1983Personal,\n\tauthor = {Hayduk, Leslie A},\n\tjournal = {Psychological Bulletin},\n\tnumber = {2},\n\tyear = {1983},\n\tpages = {293-335},\n\ttitle = {Personal space: Where we now stand},\n\tvolume = {94},\n}\n\n",
+              "unstructuredValue": "<p id=\"nebdotpz65k\" data-reactroot=\"\"><a href=\"https://doi.org/10.1037/0033-2909.94.2.293\">https://doi.org/10.1037/0033-2909.94.2.293</a> </p>",
+              "customLabel": "(Hayduk, 1983)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "equilibrium",
+          "id": "equilibrium",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Equilibrium"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nuheya7nn3e",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Interpersonal distance, bodily orientation, and gaze are all proxemic variables, but they are often studied and discussed separately. Nevertheless, proxemics research demonstrates that these facets of nonverbal behavior are interdependent. For example, when strangers are forced into close proximity in an elevator, they tend to avoid orienting toward each other or engaging in mutual gaze. Equilibrium theory suggests that interpersonal proximity, mutual gaze, and other variables all contribute to the level of intimacy in an interaction "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n11gyrf9ew6",
+              "href": null,
+              "value": "@article{Argyle1965Eye,\n\tauthor = {Argyle, Michael and Dean, Janet},\n\tjournal = {Sociometry},\n\tnumber = {3},\n\tyear = {1965},\n\tmonth = {9},\n\tpages = {289-304},\n\ttitle = {Eye-{contact}, {distance} and {affiliation}},\n\tvolume = {28},\n}\n\n",
+              "unstructuredValue": "<p id=\"n51kpgjw32x\" data-reactroot=\"\"><a href=\"https://doi.org/10.2307/2786027\">https://doi.org/10.2307/2786027</a> </p>",
+              "customLabel": "(Argyle & Dean, 1965)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". To maintain the desired level of intimacy, a shift in one variable (e.g., the increase in proximity in the elevator) necessitates a shift in another variable (e.g., away from mutual gaze). Although support for this theory is mixed, treating proxemics as a multivariate construct has nevertheless proven fruitful in providing a more comprehensive picture of proxemic behavior ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2gq7rp8d53",
+              "href": null,
+              "value": "@article{Hayduk1983Personal,\n\tauthor = {Hayduk, Leslie A},\n\tjournal = {Psychological Bulletin},\n\tnumber = {2},\n\tyear = {1983},\n\tpages = {293-335},\n\ttitle = {Personal space: Where we now stand},\n\tvolume = {94},\n}\n\n",
+              "unstructuredValue": "<p id=\"nebdotpz65k\" data-reactroot=\"\"><a href=\"https://doi.org/10.1037/0033-2909.94.2.293\">https://doi.org/10.1037/0033-2909.94.2.293</a> </p>",
+              "customLabel": "Hayduk, 1983",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwg79r04o4l",
+              "href": null,
+              "value": "@article{McCall2015Facing,\n\tauthor = {McCall, Cade and Singer, Tania},\n\tjournal = {PloS one},\n\tnumber = {2},\n\tyear = {2015},\n\tpages = {e0117532},\n\tpublisher = {Public Library of Science San Francisco, CA USA},\n\ttitle = {Facing off with unfair others: Introducing proxemic imaging as an implicit measure of approach and avoidance during social interaction},\n\tvolume = {10},\n}\n\n",
+              "unstructuredValue": "<p id=\"nafwms4w8d8\" data-reactroot=\"\"><a href=\"https://doi.org/10.1371/journal.pone.0117532\">https://doi.org/10.1371/journal.pone.0117532</a> </p>",
+              "customLabel": "McCall & Singer, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "attitudes",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Attitudes"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n8ec3qdadw4",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Research has long suggested that proxemic behavior implicitly reveals how an individual feels about the people with whom they are interacting "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nse6cgg64u2",
+              "href": null,
+              "value": "@article{Mehrabian1968Relationship,\n\tauthor = {Mehrabian, Albert},\n\tjournal = {Journal of Personality and Social Psychology},\n\tnumber = {1},\n\tyear = {1968},\n\tpages = {26},\n\ttitle = {Relationship of attitude to seated posture, orientation, and distance},\n\tvolume = {10},\n}\n\n",
+              "unstructuredValue": "<p id=\"np0mqbh5a0w\" data-reactroot=\"\"><a href=\"https://doi.org/10.1037/h0026384\">https://doi.org/10.1037/h0026384</a> </p>",
+              "customLabel": "(Mehrabian, 1968)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". This pattern is most evident in research on attitudes whereby negative attitudes are associated with physical avoidance in terms of both interpersonal distance and orienting. Studies along these lines suggest that avoidance reveals prejudices against disability "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmtokfwop5k",
+              "href": null,
+              "value": "@article{Worthington1974Personal,\n\tauthor = {Worthington, Mary E},\n\tjournal = {Environment and Behavior},\n\tnumber = {3},\n\tyear = {1974},\n\tpages = {289--294},\n\ttitle = {Personal space as a function of the stigma effect},\n\tvolume = {6},\n}\n\n",
+              "unstructuredValue": "<p id=\"naersf9g10w\" data-reactroot=\"\"><a href=\"https://doi.org/10.1177/0013916574006003\">https://doi.org/10.1177/0013916574006003</a> </p>",
+              "customLabel": "(Worthington, 1974)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", obesity "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqy4zjyyyvz",
+              "href": null,
+              "value": "@article{Bessenoff2000Automatic,\n\tauthor = {Bessenoff, Gayle R and Sherman, Jeffrey W},\n\tjournal = {Social Cognition},\n\tnumber = {4},\n\tyear = {2000},\n\tpages = {329--353},\n\ttitle = {Automatic and controlled components of prejudice toward fat people: Evaluation versus stereotype activation},\n\tvolume = {18},\n}\n\n",
+              "unstructuredValue": "<p id=\"nteu04fx4t5\" data-reactroot=\"\"><a href=\"https://doi.org/10.1521/soco.2000.18.4.329\">https://doi.org/10.1521/soco.2000.18.4.329</a> </p>",
+              "customLabel": "(Bessenoff & Sherman, 2000)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", and ethnicity "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6gc37prpa0",
+              "href": null,
+              "value": "@article{Dovidio1997On,\n\tauthor = {Dovidio, John F and Kawakami, Kerry and Johnson, Craig and Johnson, Brenda and Howard, Adaiah},\n\tjournal = {Journal of experimental social psychology},\n\tnumber = {5},\n\tyear = {1997},\n\tpages = {510--540},\n\ttitle = {On the nature of prejudice: Automatic and controlled processes},\n\tvolume = {33},\n}\n\n",
+              "unstructuredValue": "<p id=\"nypbotgb07v\" data-reactroot=\"\"><a href=\"https://doi.org/10.1006/jesp.1997.1331\">https://doi.org/10.1006/jesp.1997.1331</a> </p>",
+              "customLabel": "(Dovidio et al., 1997)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", even when individuals may not explicitly acknowledge those biases."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nu5ae4i970l",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "From its inception, proxemics researchers have been interested in identifying systematic cultural differences in behavior "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1ma3xlpvsw",
+              "href": null,
+              "value": "@book{Hall1966Hidden,\n\tnote = {[Online; accessed 2023-10-27]},\n\taddress = {Garden City},\n\tauthor = {Hall, Edward T.},\n\tyear = {1966},\n\tpublisher = {Doubleday},\n\ttitle = {The {hidden} {dimension}.},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "(Hall, 1966)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". Nevertheless, questions remain as to if and why such differences exist "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntt8ymoq2hk",
+              "href": null,
+              "value": "@article{Sorokowska2017Preferred,\n\tauthor = {Sorokowska, Agnieszka and Sorokowski, Piotr and Hilpert, Peter and Cantarero, Katarzyna and Frackowiak, Tomasz and Ahmadi, Khodabakhsh and Alghraibeh, Ahmad M. and Aryeetey, Richmond and Bertoni, Anna and Bettache, Karim and Blumen, Sheyla and B\\l{}a{\\. z}ejewska, Marta and Bortolini, Tiago and Butovskaya, Marina and Castro, Felipe Nalon and Cetinkaya, Hakan and Cunha, Diana and David, Daniel and David, Oana A. and Dileym, Fahd A. and Dom{\\' i}nguez Espinosa, Alejandra del Carmen and Donato, Silvia and Dronova, Daria and Dural, Seda and Fialov{\\' a}, Jitka and Fisher, Maryanne and Gulbetekin, Evrim and Hamamc\\i{}o{\\u g}lu Akkaya, Asl\\i{}han and Hromatko, Ivana and Iafrate, Raffaella and Iesyp, Mariana and James, Bawo and Jaranovic, Jelena and Jiang, Feng and Kimamo, Charles Obadiah and Kjelvik, Grete and Ko{\\c c}, F\\i{}rat and Laar, Amos and de Ara{\\' u}jo Lopes, F{\\' i}via and Macbeth, Guillermo and Marcano, Nicole M. and Martinez, Rocio and Mesko, Norbert and Molodovskaya, Natalya and Moradi, Khadijeh and Motahari, Zahrasadat and M{\\\" u}hlhauser, Alexandra and Natividade, Jean Carlos and Ntayi, Joseph and Oberzaucher, Elisabeth and Ojedokun, Oluyinka and Omar-Fauzee, Mohd Sofian Bin and Onyishi, Ike E. and Paluszak, Anna and Portugal, Alda and Razumiejczyk, Eugenia and Realo, Anu and Relvas, Ana Paula and Rivas, Maria and Rizwan, Muhammad and Salki{\\v c}evi{\\' c}, Svjetlana and Sarm{\\' a}ny-Schuller, Ivan and Schmehl, Susanne and Senyk, Oksana and Sinding, Charlotte and Stamkou, Eftychia and Stoyanova, Stanislava and {\\v S}ukolov{\\' a}, Denisa and Sutresna, Nina and Tadinac, Meri and Teras, Andero and Tinoco Ponciano, Edna L{\\' u}cia and Tripathi, Ritu and Tripathi, Nachiketa and Tripathi, Mamta and Uhryn, Olja and Yamamoto, Maria Em{\\' i}lia and Yoo, Gyesook and Pierce, J D., Jr.},\n\tjournal = {Journal of Cross-Cultural Psychology},\n\tnumber = {4},\n\tyear = {2017},\n\tmonth = {may 1},\n\tpages = {577--592},\n\tpublisher = {SAGE Publications Inc},\n\ttitle = {Preferred {interpersonal} {distances}: A {global} {comparison}},\n\tvolume = {48},\n}\n\n",
+              "unstructuredValue": "<p id=\"nkz0e6ozyj4\" data-reactroot=\"\"><a href=\"https://doi.org/10.1177/0022022117698039\">https://doi.org/10.1177/0022022117698039</a> </p>",
+              "customLabel": "(Sorokowska et al., 2017)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". Similarly, researchers have long examined identity-based differences in proxemic behavior (e.g., gender; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrzmu0b16wu",
+              "href": null,
+              "value": "@article{Hayduk1983Personal,\n\tauthor = {Hayduk, Leslie A},\n\tjournal = {Psychological Bulletin},\n\tnumber = {2},\n\tyear = {1983},\n\tpages = {293-335},\n\ttitle = {Personal space: Where we now stand},\n\tvolume = {94},\n}\n\n",
+              "unstructuredValue": "<p id=\"ncktn1l8czs\" data-reactroot=\"\"><a href=\"https://doi.org/10.1037/0033-2909.94.2.293\">https://doi.org/10.1037/0033-2909.94.2.293</a> </p>",
+              "customLabel": "Hayduk, 1983",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), again with mixed results. In more recent years, research on individual differences has focused on clinical phenomena such as autism, social anxiety, and schizophrenia. For example, findings suggest that autistic individuals may have unusually rigid preferences for interpersonal space over time "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nexexns1a4n",
+              "href": null,
+              "value": "\n",
+              "unstructuredValue": "<p id=\"ng4nged6jiz\" data-reactroot=\"\">Asada, K., Akechi, H., Kikuchi, Y., Tojo, Y., Hakarino, K., Saito, A., Hasegawa, T., &amp; Kumagaya, S. (2024). Longitudinal study of personal space in autism. <em>Child Neuropsychology</em>. Advance online publication. <a href=\"https://doi.org/10.1080/09297049.2024.2337753\">https://doi.org/10.1080/09297049.2024.2337753</a> </p>",
+              "customLabel": "(Asada et al., 2024)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " and across situations "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0xse27d31m",
+              "href": null,
+              "value": "@article{Candini2020plasticity,\n\tauthor = {Candini, Michela and di Pellegrino, Giuseppe and Frassinetti, Francesca},\n\tjournal = {Neuropsychologia},\n\tyear = {2020},\n\tmonth = {oct 1},\n\tpages = {107589},\n\ttitle = {The plasticity of the interpersonal space in autism spectrum disorder},\n\tvolume = {147},\n}\n\n",
+              "unstructuredValue": "<p id=\"n0fhawyzhq8\" data-reactroot=\"\"><a href=\"https://doi.org/10.1016/j.neuropsychologia.2020.107589\">https://doi.org/10.1016/j.neuropsychologia.2020.107589</a> </p>",
+              "customLabel": "(Candini et al., 2020)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". Nevertheless, behavior varies widely across autistic individuals and may be better explained by other phenomena such as social anxiety "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsqhjwx3y2o",
+              "href": null,
+              "value": "@article{Perry2015Interpersonal,\n\tauthor = {Perry, Anat and Levy-Gigi, Einat and Richter-Levin, Gal and Shamay-Tsoory, Simone G},\n\tjournal = {Social neuroscience},\n\tnumber = {4},\n\tyear = {2015},\n\tpages = {354--365},\n\ttitle = {Interpersonal distance and social anxiety in autistic spectrum disorders: A behavioral and {ERP} study},\n\tvolume = {10},\n}\n\n",
+              "unstructuredValue": "<p id=\"nigm3mjnxyt\" data-reactroot=\"\"><a href=\"https://doi.org/10.1080/17470919.2015.1010740\">https://doi.org/10.1080/17470919.2015.1010740</a> </p>",
+              "customLabel": "(Perry et al., 2015)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvahd77uc4z",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In recent years, proxemics research has extended to the field of robotics. Here, researchers have applied findings from the research of humans to better understand how robots can be designed to interact in a safe and trustworthy manner with humans ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ns8kgha9jag",
+              "href": null,
+              "value": "@article{Rios2015From,\n\tauthor = {Rios-Martinez, J. and Spalanzani, A. and Laugier, C.},\n\tjournal = {International Journal of Social Robotics},\n\tnumber = {2},\n\tyear = {2015},\n\tmonth = {apr 1},\n\tpages = {137--153},\n\ttitle = {From {proxemics} {theory} to {socially}-{aware} {navigation}: A {survey}},\n\tvolume = {7},\n}\n\n",
+              "unstructuredValue": "<p id=\"nsgaytgh47c\" data-reactroot=\"\"><a href=\"https://doi.org/10.1007/s12369-014-0251-1\">https://doi.org/10.1007/s12369-014-0251-1</a> </p>",
+              "customLabel": "Rios-Martinez et al., 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Work in this area also aims to model human proxemics so that autonomous systems can better predict and respond to human behavior "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwt7n8bwm3s",
+              "href": null,
+              "value": "\n",
+              "unstructuredValue": "<p id=\"na3mb1k1czz\" data-reactroot=\"\">Patompak, P., Jeong, S., Nilkhamhang, I., &amp; Chong, N. Y. (2020). Learning proxemics for personalized human\u2013robot social interaction. <em>International Journal of Social Robotics</em>, <em>12</em>(1), 267\u2013280. <a href=\"https://doi.org/10.1007/s12369-019-00560-9\">https://doi.org/10.1007/s12369-019-00560-9</a> </p>",
+              "customLabel": "(Patompak et al., 2020)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqu1lmsew95",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Recent research has also raised questions regarding the relationship between the ideas explored in proxemics research and those explored in research on cognitive and neural representations of physical space [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/or750iar",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Spatial Cognition"
+          },
+          {
+            "type": "text",
+            "text": "]. Peripersonal space, the space immediately around the body, has primarily been studied with regards to attention and action. It remains to be seen if and how peripersonal space relates to people\u2019s use and experience of space during social interactions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmo22iexm3d",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl3lmw0408c\" data-reactroot=\"\">Hunley, S. B., &amp; Lourenco, S. F. (2018). What is peripersonal space? An examination of unresolved empirical issues and emerging findings. <em>Wiley Interdisciplinary Reviews Cognitive Science</em>, <em>9</em>(6), e1472. <a href=\"https://doi.org/0.1002/wcs.1472\">https://doi.org/0.1002/wcs.1472</a></p>",
+              "customLabel": "Hunley & Lourenco, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading "
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n0gedp0eo0h",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nfgj0p3283a",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Harrigan, J. A. (2005). Proxemics, kinesics, and gaze. In J. A. Harrigan, R. Rosenthal, & K. R. Scherer (Eds.), "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The new handbook of methods in nonverbal behavior research"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (pp. 137\u2013198). Oxford University Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nlp10xy9uyx",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "McCall, C., & Singer, T. (2015). Facing off with unfair others: Introducing proxemic imaging as an implicit measure of approach and avoidance during social interaction. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "PloS One"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "10"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(2), e0117532. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1371/journal.pone.0117532",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1371/journal.pone.0117532"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "na3mb1k1czz",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Patompak, P., Jeong, S., Nilkhamhang, I., & Chong, N. Y. (2020). Learning proxemics for personalized human\u2013robot social interaction. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "International Journal of Social Robotics"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "12"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(1), 267\u2013280. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1007/s12369-019-00560-9",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1007/s12369-019-00560-9"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

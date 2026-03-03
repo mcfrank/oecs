@@ -1,0 +1,1787 @@
+{
+  "id": "b0757e8d-0354-4d42-b94f-5a388d6948f9",
+  "slug": "dtatgf1j",
+  "title": "AI Model Evaluation",
+  "url": "https://oecs.mit.edu/pub/dtatgf1j",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "b0757e8d-0354-4d42-b94f-5a388d6948f9",
+    "slug": "dtatgf1j",
+    "title": "AI Model Evaluation",
+    "htmlTitle": "AI Model Evaluation",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.b0757e8d",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "slhvjaor",
+    "editHash": "inteqkhx",
+    "reviewHash": "r0g4hwff",
+    "commentHash": "n2u2yhjw",
+    "draftId": "b09fa7ec-696c-46be-891b-bafed296f6d3",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "2bcb6345-7925-4b98-a88d-d4f83dda51ba",
+    "scopeSummaryId": "678cdfac-12e9-423a-a8fb-b0d926d7568c",
+    "createdAt": "2026-01-09T20:54:47.677Z",
+    "updatedAt": "2026-02-05T17:09:24.147Z",
+    "attributions": [
+      {
+        "id": "c432bb74-bbb1-4a92-b0c1-2089cd216799",
+        "name": "Michael C. Frank",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Stanford University",
+        "orcid": "0000-0002-7551-4378",
+        "userId": null,
+        "pubId": "b0757e8d-0354-4d42-b94f-5a388d6948f9",
+        "createdAt": "2026-01-15T16:22:12.947Z",
+        "updatedAt": "2026-01-15T16:22:23.412Z",
+        "user": null
+      },
+      {
+        "id": "5d80bce1-ffec-475f-884c-1de87cd3d040",
+        "name": "Jennifer Hu",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Johns Hopkins University",
+        "orcid": "0000-0003-4075-6876",
+        "userId": null,
+        "pubId": "b0757e8d-0354-4d42-b94f-5a388d6948f9",
+        "createdAt": "2026-01-09T20:55:30.893Z",
+        "updatedAt": "2026-01-09T20:55:41.887Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "b09fa7ec-696c-46be-891b-bafed296f6d3",
+      "latestKeyAt": "2026-02-05T16:51:22.575Z",
+      "firebasePath": "drafts/draft-b09fa7ec-696c-46be-891b-bafed296f6d3",
+      "createdAt": "2026-01-09T20:54:47.673Z",
+      "updatedAt": "2026-02-05T17:08:31.513Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvc5jlcx7br",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Artificial intelligence (AI) model evaluation"
+          },
+          {
+            "type": "text",
+            "text": " is the practice of measuring whether an AI model has a particular kind of ability or knowledge. The goals of evaluation range from assessing performance on a concrete task (e.g., spam email classification) to gathering evidence for a high-level cognitive capacity (e.g., understanding what another person is thinking). Regardless of the goal, model evaluation involves computing performance using a task, dataset, and metric. When evaluating a cognitive capacity of an AI model, performance is then typically used to make inferences about whether the model possesses the ability or knowledge of interest. The nature of AI models\u2019 cognitive abilities, as inferred through model evaluation, has profound implications for cognitive science, informing questions about the representation and learning of concepts, categories, linguistic structure, and meaning. It remains debated how best to evaluate models\u2019 cognitive abilities and compare them to those of humans."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njok59ntork",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Early AI researchers often used toy datasets to evaluate whether artificial neural networks could capture signature patterns of human learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n97ayu8xx7z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"niszdpv4295\" data-reactroot=\"\">Rumelhart, D. E., McClelland, J. L., &amp; PDP Research Group. (1987). <em>Parallel distributed processing</em> (Vol. 1). MIT Press.</p>",
+              "customLabel": "Rumelhart et al., 1987",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Although not guided by cognitive questions, the UCI Machine Learning Repository provided one of the first centralized resources for "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "benchmarking"
+          },
+          {
+            "type": "text",
+            "text": ", or the use of standardized datasets and metrics to compare different systems. The repository compiled benchmarks for classic machine learning algorithms such as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "classification"
+          },
+          {
+            "type": "text",
+            "text": " (sorting data points into predefined categories) and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "clustering"
+          },
+          {
+            "type": "text",
+            "text": " (grouping similar data points together).\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngl825inr60",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "As deep learning models grew more sophisticated, there was a need for benchmarks to systematically measure more complex cognitive abilities. A well-known example of an early modern benchmark is ImageNet ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2xsthmoiud",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzs1bjc0rcc\" data-reactroot=\"\">Deng, J., Dong, W., Socher, R., Li, L.-J., Li, K., &amp; Fei-Fei, L. (2009). ImageNet: A large-scale hierarchical image database. <em>2009 IEEE Conference on Computer Vision and Pattern Recognition</em>, 248\u2013255. <a href=\"https://doi.org/10.1109/CVPR.2009.5206848\">https://doi.org/10.1109/CVPR.2009.5206848</a></p>",
+              "customLabel": "Deng et al., 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), which enabled large-scale evaluation of image classification. With the success of neural networks in natural language processing, a wave of benchmarks then began targeting more complex linguistic abilities such as language understanding (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n67ehhuvsid",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvagwodn3c6\" data-reactroot=\"\">Wang, A., Pruksachatkun, Y., Nangia, N., Singh, A., Michael, J., Hill, F., Levy, O., &amp; Bowman, S. (2019). SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems. In H. Wallach, H. Larochelle, A. Beygelzimer, F. d\u2019Alch\u00e9-Buc, E. Fox, &amp; R. Garnett (Eds.), <em>Advances in Neural Information Processing Systems</em> (Vol. 32). Curran. </p>",
+              "customLabel": "Wang et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") in the late 2000s and 2010s. These benchmarks typically involved training or fine-tuning a model on a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "training set"
+          },
+          {
+            "type": "text",
+            "text": " and then evaluating the model on an identically distributed "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "test set"
+          },
+          {
+            "type": "text",
+            "text": " that the model had not yet been exposed to.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5if6q3jm3d",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Researchers quickly identified several limitations of this general approach ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1p2noy4co3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9mw4u6p8wp\" data-reactroot=\"\">Bowman, S. R., &amp; Dahl, G. (2021). What will it take to fix benchmarking in natural language understanding? <em>arXiv. </em><a href=\"https://doi.org/10.48550/arXiv.2104.02145\">https://doi.org/10.48550/arXiv.2104.02145</a> </p>",
+              "customLabel": "Bowman & Dahl, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npjzi2r6kkd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nd83q58s2o1\" data-reactroot=\"\">Linzen, T. (2020). How can we accelerate progress towards human-like linguistic generalization? <em>arXiv. </em><a href=\"https://doi.org/10.48550/arXiv.2005.00955\">https://doi.org/10.48550/arXiv.2005.00955</a> </p>",
+              "customLabel": "Linzen, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nf5q0oez046",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwl52omn63t\" data-reactroot=\"\">Schlangen, D. (2021). Targeting the Benchmark: On Methodology in Current Natural Language Processing Research. In C. Zong, F. Xia, W. Li, &amp; R. Navigli (Eds.), <em>Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing </em>(Vol. 2, pp. 670\u2013674). Association for Computational Linguistics. <a href=\"https://doi.org/10.18653/v1/2021.acl-short.85\">https://doi.org/10.18653/v1/2021.acl-short.85</a></p>",
+              "customLabel": "Schlangen, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). As AI models rapidly advanced during this time, several major benchmarks were \u201csolved\u201d (e.g., a model achieving human-level performance) within a year after their release ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9bqg4hnoj0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nd7d5pms9jy\" data-reactroot=\"\">Kiela, D., Bartolo, M., Nie, Y., Kaushik, D., Geiger, A., Wu, Z., Vidgen, B., Prasad, G., Singh, A., Ringshia, P., Ma, Z., Thrush, T., Riedel, S., Waseem, Z., Stenetorp, P., Jia, R., Bansal, M., Potts, C., &amp; Williams, A. (2021). Dynabench: Rethinking benchmarking in NLP. <em>arXiv. </em><a href=\"https://doi.org/10.48550/arXiv.2104.14337\">https://doi.org/10.48550/arXiv.2104.14337</a> </p>",
+              "customLabel": "Kiela et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In addition, models could often succeed at benchmarks using heuristics learned through statistical association instead of genuine generalization ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "na71tiymfg6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl2tahp4n18\" data-reactroot=\"\">McCoy, T., Pavlick, E., &amp; Linzen, T. (2019). Right for the wrong reasons: Diagnosing syntactic heuristics in natural language inference. <em>arXiv. </em><a href=\"https://doi.org/10.48550/arXiv.1902.01007\">https://doi.org/10.48550/arXiv.1902.01007</a> </p>",
+              "customLabel": "McCoy et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The early 2020s saw some attempts to address these issues\u2014for example, through dynamically constructed or larger benchmarks ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nru0pjt3abv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nd7d5pms9jy\" data-reactroot=\"\">Kiela, D., Bartolo, M., Nie, Y., Kaushik, D., Geiger, A., Wu, Z., Vidgen, B., Prasad, G., Singh, A., Ringshia, P., Ma, Z., Thrush, T., Riedel, S., Waseem, Z., Stenetorp, P., Jia, R., Bansal, M., Potts, C., &amp; Williams, A. (2021). Dynabench: Rethinking benchmarking in NLP. <em>arXiv. </em><a href=\"https://doi.org/10.48550/arXiv.2104.14337\">https://doi.org/10.48550/arXiv.2104.14337</a> </p>",
+              "customLabel": "Kiela et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqwjcp6g0zx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1nco95p4tl\" data-reactroot=\"\">Srivastava, A., Rastogi, A., Rao, A., Shoeb, A. A. M., Abid, A., Fisch, A., Brown, A. R., Santoro, A., Gupta, A., Garriga-Alonso, A., Kluska, A., Lewkowycz, A., Agarwal, A., Power, A., Ray, A., Warstadt, A., Kocurek, A. W., Safaya, A., Tazarv, A., \u2026 Wu, Z. (2023). Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models. <em>arXiv. </em><a href=\"https://doi.org/10.48550/arXiv.2206.04615\">https://doi.org/10.48550/arXiv.2206.04615</a> </p>",
+              "customLabel": "Srivastava et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, some researchers remain skeptical about the general enterprise of benchmarking ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9r336hnkmc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"noys8m1yl28\" data-reactroot=\"\">Raji, D., Denton, E., Bender, E. M., Hanna, A., &amp; Paullada, A. (2021). AI and the everything in the whole wide world benchmark. In J. Vanschoren &amp; S. Yeung (Eds.), <em>Proceedings of the Neural Information Processing Systems Track on Datasets and Benchmarks</em> (Vol. 1). Curran. </p>",
+              "customLabel": "Raji et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkng3y5i330",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In contrast to prior AI models that were optimized for a specific task, modern large language models can be evaluated on any task that can be represented in natural language [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "]. As such, evaluation has shifted away from formal linguistic tasks (e.g., labeling word classes or analyzing sentence structure) toward tasks involving more general high-level cognition (e.g., reasoning by analogy) and domains involving human expert-level knowledge ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbjswcodx4i",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nztqgjinn7n\" data-reactroot=\"\">Phan, L., Gatti, A., Han, Z., Li, N., Hu, J., Zhang, H., Zhang, C. B. C., Shaaban, M., Ling, J., Shi, S., Choi, M., Agrawal, A., Chopra, A., Khoja, A., Kim, R., Ren, R., Hausenloy, J., Zhang, O., Mazeika, M., \u2026 Hendrycks, D. (2025). Humanity\u2019s last exam. <a href=\"https://doi.org/10.48550/arXiv.2501.14249\">https://doi.org/10.48550/arXiv.2501.14249</a> </p>",
+              "customLabel": "Phan et al., 2025",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/yjq05b3c",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Analogy"
+          },
+          {
+            "type": "text",
+            "text": "].\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "key-definitions",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Key definitions"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9szl9mnfdd",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A cognitive "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "construct "
+          },
+          {
+            "type": "text",
+            "text": "is an abstract ability or form of knowledge that the researcher seeks to measure (e.g., the ability to do math). The construct of interest cannot be measured except indirectly through performance on a task. A "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "task "
+          },
+          {
+            "type": "text",
+            "text": "specifies a concrete mapping from inputs to outputs that recruits the construct of interest (e.g., multiplication of three-digit integers)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nofw3kbh0br",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "stimulus"
+          },
+          {
+            "type": "text",
+            "text": " is a single instance of an input to the model (e.g., a string containing a multiplication problem). A "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "dataset "
+          },
+          {
+            "type": "text",
+            "text": "is a collection of stimuli. The core of a dataset is the test set, which contains the stimuli intended for evaluating the model. It is typically assumed that the model has not encountered the test set before evaluation (but see below for discussion of data contamination). Some datasets may also include a training set (to allow the model to learn the task before evaluation) and/or a validation set (to measure progress during training). Most datasets used to evaluate modern AI models only include a test set. Such benchmarks are said to test "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "emergent "
+          },
+          {
+            "type": "text",
+            "text": "abilities: that is, abilities that arise during training on a different objective (such as next-token prediction) instead of being learned through direct training."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "neyec3j4kuz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "metric"
+          },
+          {
+            "type": "text",
+            "text": " is a way of summarizing a model\u2019s outputs on a test dataset into a single score. Metrics can be intrinsic or extrinsic. Intrinsic metrics are those that can be computed using the dataset itself, such as accuracy, which measures correctness, or perplexity, which measures how well a probability distribution predicts a new sample. Extrinsic metrics are those that require information from an external source, such as a rating of the model\u2019s output obtained from human or AI annotators."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nw7uv7pj7co",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "As a simple example, suppose a researcher wants to evaluate whether a particular model can do math. The researcher might decide to measure this "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "construct"
+          },
+          {
+            "type": "text",
+            "text": " through the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "task"
+          },
+          {
+            "type": "text",
+            "text": " of computing the product of three-digit integers. The researcher would then build a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "dataset"
+          },
+          {
+            "type": "text",
+            "text": " by creating 1,000 "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "stimuli"
+          },
+          {
+            "type": "text",
+            "text": ", each of which is a string of the form \u201cCalculate X * Y =,\u201d in which X and Y are three-digit integers. The model\u2019s outputs might then be scored through two intrinsic "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "metrics"
+          },
+          {
+            "type": "text",
+            "text": ": (1) accuracy, or the proportion of stimuli in which the model\u2019s output matches the correct answer, and (2) mean error, or the difference between the model\u2019s output and the correct answer (averaged across all stimuli)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "evaluation-design",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Evaluation design"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njazhznea1n",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Designing an evaluation involves several key decision points. One factor is choosing a task that faithfully measures the construct of interest. Another important factor is deciding how to obtain outputs from the model, for example, through measurements of internal values versus high-level prompting or through free response versus forced choice. These methodological decisions can lead to drastically different conclusions about model abilities ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nikse4wttxc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2tqbp673q7\" data-reactroot=\"\">Hu, J., Mahowald, K., Lupyan, G., Ivanova, A., &amp; Levy, R. (2024). Language models align with human judgments on key grammatical constructions. <em>Proceedings of the National Academy of Sciences</em>, <em>121</em>(36), e2400917121. <a href=\"https://doi.org/10.1073/pnas.2400917121\">https://doi.org/10.1073/pnas.2400917121</a></p>",
+              "customLabel": "Hu et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njkrt0zrr2n",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkivniaejnz\" data-reactroot=\"\">Lampinen, A. (2024). Can language models handle recursively nested grammatical structures? A case study on comparing models and humans. <em>Computational Linguistics</em>, <em>50</em>(4), 1441-1476. <a href=\"https://doi.org/10.1162/coli_a_00525\">https://doi.org/10.1162/coli_a_00525</a></p>",
+              "customLabel": "Lampinen, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and may also serve different goals, such as adversarially probing the limits of models\u2019 abilities versus revealing the potential of a model in ideal settings."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "inferring-model-abilities-from-evaluations",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Inferring model abilities from evaluations"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwg0u8u0rtr",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Evaluating whether an AI model has a certain construct involves making inferences about a model\u2019s "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "competence "
+          },
+          {
+            "type": "text",
+            "text": "(underlying ability or knowledge) based on a model\u2019s "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "performance "
+          },
+          {
+            "type": "text",
+            "text": "(demonstration of that knowledge through a specific task; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmdcko5xwxv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnlhlyci70l\" data-reactroot=\"\">Firestone, C. (2020). Performance vs. competence in human\u2013machine comparisons. <em>Proceedings of the National Academy of Sciences</em>, <em>117</em>(43), 26562\u201326571. <a href=\"https://doi.org/10.1073/pnas.1905334117\">https://doi.org/10.1073/pnas.1905334117</a></p>",
+              "customLabel": "Firestone, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nt2lgja1fj7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq0clics335\" data-reactroot=\"\">Milli\u00e8re, R., &amp; Rathkopf, C. (2025). Anthropocentric bias in language model evaluation. <em>Computational Linguistics</em>,<em> </em>1-10. <a href=\"https://doi.org/10.1162/COLI.a.582\">https://doi.org/10.1162/COLI.a.582</a> </p>",
+              "customLabel": "Milli\u00e8re & Rathkopf, 2025",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). A key challenge of this approach is that models can succeed at evaluations without necessarily capturing the cognitive ability being tested ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nr9pgydn7le",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl2tahp4n18\" data-reactroot=\"\">McCoy, T., Pavlick, E., &amp; Linzen, T. (2019). Right for the wrong reasons: Diagnosing syntactic heuristics in natural language inference. <em>arXiv. </em><a href=\"https://doi.org/10.48550/arXiv.1902.01007\">https://doi.org/10.48550/arXiv.1902.01007</a> </p>",
+              "customLabel": "McCoy et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Conversely, models can fail at evaluations due to the auxiliary challenges associated with performing the task instead of a genuine lack of ability ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8svxc41rln",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmjfdgnvpgp\" data-reactroot=\"\">Hu, J., &amp; Frank, M. (2024). Auxiliary task demands mask the capabilities of smaller language models. <em>arXiv. </em><a href=\"https://doi.org/10.48550/arXiv.2404.02418\">https://doi.org/10.48550/arXiv.2404.02418</a> </p>",
+              "customLabel": "Hu & Frank, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Researchers also use evaluations to understand how factors like a model\u2019s training data or architecture support different cognitive abilities, but these inferences are only feasible with openly accessible models ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlxwg9js5sd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzrf79hgiwn\" data-reactroot=\"\">Frank, M. C. (2023). Openly accessible LLMs can help us to understand human cognition. <em>Nature Human Behaviour</em>, <em>7</em>(11), 1825\u20131827. <a href=\"https://doi.org/10.1038/s41562-023-01732-4\">https://doi.org/10.1038/s41562-023-01732-4</a></p>",
+              "customLabel": "Frank, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "comparing-models-to-humans",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Comparing models to humans"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ni5sp71e359",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Model evaluation often involves comparing outputs from a model to behavior from humans. It remains debated how these model\u2013human comparisons should be made. Some argue that models and humans should be compared under identical evaluation paradigms ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd0pxfgdnvz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl3ovc9nms8\" data-reactroot=\"\">Leivada, E., Dentella, V., &amp; G\u00fcnther, F. (2024). Evaluating the language abilities of large language models vs. humans: Three caveats. <em>Biolinguistics</em>, <em>18</em>. <a href=\"https://doi.org/10.5964/bioling.14391\">https://doi.org/10.5964/bioling.14391</a></p>",
+              "customLabel": "Leivada et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), whereas others argue that evaluation paradigms should be designed according to models\u2019 and humans\u2019 unique computational mechanisms ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nyutqhx4t6b",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2tqbp673q7\" data-reactroot=\"\">Hu, J., Mahowald, K., Lupyan, G., Ivanova, A., &amp; Levy, R. (2024). Language models align with human judgments on key grammatical constructions. <em>Proceedings of the National Academy of Sciences</em>, <em>121</em>(36), e2400917121. <a href=\"https://doi.org/10.1073/pnas.2400917121\">https://doi.org/10.1073/pnas.2400917121</a></p>",
+              "customLabel": "Hu et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbi733h3sv6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkivniaejnz\" data-reactroot=\"\">Lampinen, A. (2024). Can language models handle recursively nested grammatical structures? A case study on comparing models and humans. <em>Computational Linguistics</em>, <em>50</em>(4), 1441-1476. <a href=\"https://doi.org/10.1162/coli_a_00525\">https://doi.org/10.1162/coli_a_00525</a></p>",
+              "customLabel": "Lampinen, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Another topic of debate is whether models need to use human-like strategies for performing a task in order to genuinely possess the ability of interest ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "anthropocentrism"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncsrdlkmydk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq0clics335\" data-reactroot=\"\">Milli\u00e8re, R., &amp; Rathkopf, C. (2025). Anthropocentric bias in language model evaluation. <em>Computational Linguistics</em>,<em> </em>1-10. <a href=\"https://doi.org/10.1162/COLI.a.582\">https://doi.org/10.1162/COLI.a.582</a> </p>",
+              "customLabel": "Milli\u00e8re & Rathkopf, 2025",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "data-contamination",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Data contamination"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7vlyeoovho",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Data contamination occurs when evaluation stimuli are present in the model\u2019s training data ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nr887k8kjnc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"na74blc68t2\" data-reactroot=\"\">Dodge, J., Sap, M., Marasovi\u0107, A., Agnew, W., Ilharco, G., Groeneveld, D., Mitchell, M., &amp; Gardner, M. (2021). Documenting large webtext corpora: A case study on the colossal clean crawled corpus. In M.-F. Moens, X. Huang, L. Specia, &amp; S. W. Yih (Eds.), <em>Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing</em> (pp. 1286\u20131305). Association for Computational Linguistics. <a href=\"https://doi.org/10.18653/v1/2021.emnlp-main.98\">https://doi.org/10.18653/v1/2021.emnlp-main.98</a></p>",
+              "customLabel": "Dodge et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). If a stimulus has already been seen by a model, then the model\u2019s performance during testing may not reflect genuine generalization but rather a form of memorization ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9krqajetfg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv0rvt0lw78\" data-reactroot=\"\">Magar, I., &amp; Schwartz, R. (2022). Data contamination: From memorization to exploitation. In S. Muresan, P. Nakov, &amp; A. Villavicencio (Eds.), <em>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics </em>(Vol. 2, pp. 157\u2013165). Association for Computational Linguistics. <a href=\"https://doi.org/10.18653/v1/2022.acl-short.18\">https://doi.org/10.18653/v1/2022.acl-short.18</a></p>",
+              "customLabel": "Magar & Schwartz, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Because modern models are trained on massive amounts of data and/or proprietary datasets, it is often infeasible to know whether a particular stimulus was present in the training data. Private corporations also frequently evaluate models on nonpublic datasets without disclosing how such evaluations were designed.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "new-horizons-of-evaluation",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "New horizons of evaluation"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5r4mnnpxit",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "As AI models are increasingly used by the general public in open-ended settings, there has been a movement towards "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "vibes-based evaluation"
+          },
+          {
+            "type": "text",
+            "text": " instead of formal, standardized evaluation. Some researchers have also advocated for using AI models to automate various parts of the evaluation process, for example, to annotate another model\u2019s outputs ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqasix5b2fc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrtivmblss1\" data-reactroot=\"\">Zheng, L., Chiang, W.-L., Sheng, Y., Zhuang, S., Wu, Z., Zhuang, Y., Lin, Z., Li, Z., Li, D., Xing, E., Zhang, H., Gonzalez, J. E., &amp; Stoica, I. (2023). Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena. <em>arXiv. </em><a href=\"https://doi.org/10.48550/arXiv.2306.05685\">https://doi.org/10.48550/arXiv.2306.05685</a> </p>",
+              "customLabel": "Zheng et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or to synthetically generate stimuli for evaluation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nt4b3nqhwie",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkonq76fzlw\" data-reactroot=\"\">Kim, S., Suk, J., Yue, X., Viswanathan, V., Lee, S., Wang, Y., Gashteovski, K., Lawrence, C., Welleck, S., &amp; Neubig, G. (2025). Evaluating language models as synthetic data generators. In W. Che, J. Nabende, E. Shutova, &amp; M. T. Pilehvar (Eds.), <em>Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics</em> (Vol. 1, pp. 6385\u20136403). Association for Computational Linguistics. <a href=\"https://doi.org/10.18653/v1/2025.acl-long.320\">https://doi.org/10.18653/v1/2025.acl-long.320</a></p>",
+              "customLabel": "Kim et al., 2025",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0\u00a0\u00a0\u00a0\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nu9fd72rftb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The ability of deep neural networks to learn intelligent behavior has wide-ranging connections to fundamental questions in cognitive science ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzi5toqrcc8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ne5gbubmkk3\" data-reactroot=\"\">Kanwisher, N., Khosla, M., &amp; Dobs, K. (2023). Using artificial neural networks to ask \u2018why\u2019 questions of minds and brains. <em>Trends in Neurosciences</em>, <em>46</em>(3), 240-254. <a href=\"https://doi.org/10.1016/j.tins.2022.12.008\">https://doi.org/10.1016/j.tins.2022.12.008</a></p>",
+              "customLabel": "Kanwisher et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh2u5o5yxie",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"niszdpv4295\" data-reactroot=\"\">Rumelhart, D. E., McClelland, J. L., &amp; PDP Research Group. (1987). <em>Parallel distributed processing</em> (Vol. 1). MIT Press.</p>",
+              "customLabel": "Rumelhart et al., 1987",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Comparing the cognitive abilities of AI models to those of humans also has parallels to comparative psychology with nonhuman animals ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntg59v7gdx1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkc78ks64r0\" data-reactroot=\"\">Buckner, C. (2023). Black boxes or unflattering mirrors? Comparative bias in the science of machine behaviour. <em>The British Journal for the Philosophy of Science</em>, <em>74</em>(3), 681\u2013712. <a href=\"https://doi.org/10.1086/714960\">https://doi.org/10.1086/714960</a></p>",
+              "customLabel": "Buckner, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nc6ok3poy66",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnlhlyci70l\" data-reactroot=\"\">Firestone, C. (2020). Performance vs. competence in human\u2013machine comparisons. <em>Proceedings of the National Academy of Sciences</em>, <em>117</em>(43), 26562\u201326571. <a href=\"https://doi.org/10.1073/pnas.1905334117\">https://doi.org/10.1073/pnas.1905334117</a></p>",
+              "customLabel": "Firestone, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/rbmlimm5",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Animal Cognition"
+          },
+          {
+            "type": "text",
+            "text": "]. The inferences drawn through model evaluation also have deep implications for society more broadly, as understanding the capabilities and limitations of models is critical for making decisions about the regulation, governance, and personhood of AI systems.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Further reading\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n5sstx4i4co",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nhq9uojaq65",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Fourrier, C. (2024). The LLM evaluation guidebook. GitHub. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://github.com/huggingface/evaluation-guidebook",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://github.com/huggingface/evaluation-guidebook"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nf0cwp0ufte",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ivanova, A. A. (2025). How to evaluate the cognitive abilities of LLMs. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Nature Human Behaviour"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "9"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(2), 230\u2013233. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1038/s41562-024-02096-z",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1038/s41562-024-02096-z"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

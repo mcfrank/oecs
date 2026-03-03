@@ -1,0 +1,1525 @@
+{
+  "id": "fea3a130-60e8-4a85-a556-b544949b7209",
+  "slug": "kxdcbmqe",
+  "title": "Syntactic Priming",
+  "url": "https://oecs.mit.edu/pub/kxdcbmqe",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "fea3a130-60e8-4a85-a556-b544949b7209",
+    "slug": "kxdcbmqe",
+    "title": "Syntactic Priming",
+    "htmlTitle": "Syntactic Priming",
+    "description": "",
+    "htmlDescription": "Franklin Chang (ORCID 0000-0003-1142-1911)\nKobe City University of Foreign Studies",
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.fea3a130",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "0w1rcawy",
+    "editHash": "r5sapq1t",
+    "reviewHash": "wokn8plz",
+    "commentHash": "vcobn1ag",
+    "draftId": "6f664d31-064a-4707-bb5a-50adf76aa36a",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "16d7f601-c022-4846-81eb-7f81c233c750",
+    "scopeSummaryId": "d3973cc2-9710-4854-8796-16f645c470b1",
+    "createdAt": "2025-07-08T14:06:13.335Z",
+    "updatedAt": "2025-07-29T00:56:51.280Z",
+    "attributions": [
+      {
+        "id": "270ad152-bbc2-4989-bf4c-e32e765d8b48",
+        "name": "Evan Kidd",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "The Australian National University",
+        "orcid": "0000-0003-4301-2290",
+        "userId": null,
+        "pubId": "fea3a130-60e8-4a85-a556-b544949b7209",
+        "createdAt": "2025-07-09T21:25:34.526Z",
+        "updatedAt": "2025-07-09T21:25:58.000Z",
+        "user": null
+      },
+      {
+        "id": "aefd5d22-01df-42d7-9711-c1652881333d",
+        "name": "Franklin Chang",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Kobe City University of Foreign Studies",
+        "orcid": "0000-0003-1142-1911",
+        "userId": null,
+        "pubId": "fea3a130-60e8-4a85-a556-b544949b7209",
+        "createdAt": "2025-07-08T14:09:58.090Z",
+        "updatedAt": "2025-07-08T14:10:11.493Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "6f664d31-064a-4707-bb5a-50adf76aa36a",
+      "latestKeyAt": "2025-07-24T00:20:19.173Z",
+      "firebasePath": "drafts/draft-6f664d31-064a-4707-bb5a-50adf76aa36a",
+      "createdAt": "2025-07-08T14:06:13.332Z",
+      "updatedAt": "2025-10-17T22:08:41.707Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "narsehtsmff",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Language allows us to communicate various meanings, including novel messages (e.g., \u201cThe engineer airdropped 24GB of prototype designs to his wife\u2019s laptop\u201d). This ability depends on syntactic structures in the language system, but it can be difficult to study these representations, as most people are not explicitly aware of them. One phenomenon that has been used to study them is called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "syntactic priming"
+          },
+          {
+            "type": "text",
+            "text": ", which is a tendency for people to reuse previously experienced structures. This phenomenon allows researchers to implicitly manipulate and probe syntactic representations during normal sentence processing, providing a window into the mechanisms used in language to convey meaning."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njs1s6j9gd4",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Priming refers to the influence of one stimulus on another, and its application to sentence planning can be traced to Karl "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n56yvselqcy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"netuxyl0zef\" data-reactroot=\"\">Lashley, K. S. (1951). The problem of serial order in behavior. In L. A. Jeffress (Ed.), <em>Cerebral mechanisms in behavior</em> (pp. 112\u2013136). Wiley.</p>",
+              "customLabel": "Lashley (1951",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 128), who posited, \u201cThe priming of aggregates of words before a sentence is formulated from them.\u201d Early studies found evidence for structural repetition in experiments ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmupyioed1x",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0gg3u59gcv\" data-reactroot=\"\">Levelt, W. J., &amp; Kelter, S. (1982). Surface form and memory in question answering. <em>Cognitive Psychology</em>, <em>14</em>(1), 78\u2013106. <a href=\"https://doi.org/10.1016/0010-0285(82)90005-6\">https://doi.org/10.1016/0010-0285(82)90005-6</a> </p>",
+              "customLabel": "Levelt & Kelter, 1982",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and corpora ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ne72rm7sfks",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk5cg3i8p9b\" data-reactroot=\"\">Schenkein, J. (1980). A taxonomy for repeating action sequences in natural conversation. In B. Butterworth (Ed.), <em>Language production</em> (Vol. 1, pp. 21\u201347). Academic Press.</p>",
+              "customLabel": "Schenkein, 1980",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Kathryn "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlo958xi2ja",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng82sdxofqk\" data-reactroot=\"\">Bock, K. (1986). Syntactic persistence in language production. <em>Cognitive Psychology</em>, <em>18</em>(3), 355\u2013387. <a href=\"https://doi.org/10.1016/0010-0285(86)90004-6\">https://doi.org/10.1016/0010-0285(86)90004-6</a> </p>",
+              "customLabel": "Bock (1986)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " provided the standard production paradigm for studying syntactic priming. Typically, it is tested using sentence structures with similar meanings like \u201cThe woman gave the book to the man\u201d ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "prepositional dative"
+          },
+          {
+            "type": "text",
+            "text": ", PD) and \u201cThe woman gave the man the book\u201d ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "double object dative"
+          },
+          {
+            "type": "text",
+            "text": ", DO). When a PD prime sentence like \u201cA dog brought a bone to a girl\u201d is presented to a participant before they describe a target picture as in "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "n0qvukvmu58",
+              "targetId": "ne6s22shngd",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", they will be more likely to describe the picture with the same PD structure over the alternative DO structure."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "ne6s22shngd",
+          "url": "https://assets.pubpub.org/jujp52td/Figure1-71753315992178.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"nov4p1w874r\" data-reactroot=\"\">Prime-target trial for a priming study.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrkbnvyk305",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Initially, syntactic structures were just one of many possible explanations for priming. By controlling other possible factors like function word overlap (prepositions), prosody, and meaning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvwa4738xz8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsytksbtdqb\" data-reactroot=\"\">Bock, K., &amp; Loebell, H. (1990). Framing sentences. <em>Cognition</em>, <em>35</em>(1), 1\u201339. <a href=\"https://doi.org/10.1016/0010-0277(90)90035-I\">https://doi.org/10.1016/0010-0277(90)90035-I</a> </p>",
+              "customLabel": "Bock & Loebell, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), it was possible to isolate a unique role for abstract syntactic structures (structures independent of lexical or meaning elements) in priming."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwmuhg07uqj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Early theories posited that production involved activation spreading between concepts, words, and structures [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/e9aapok3",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Language Production"
+          },
+          {
+            "type": "text",
+            "text": "]. If activation was left over in structures (e.g., PD in "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "nexjs0ztxld",
+              "targetId": "ne6s22shngd",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), then this could increase their likelihood of being selected again, and this would create abstract syntactic priming. Then, if activation is used for processing other sentences with unrelated structures after the prime is processed, the residual activation for the prime should be reduced, and priming could disappear. However, empirically, priming persists even when there is a lag of 10 intervening sentences between prime and target, which suggests that abstract priming does not use an activation mechanism ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsbhkshsq45",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9sjfaajtlg\" data-reactroot=\"\">Bock, K., &amp; Griffin, Z. M. (2000). The persistence of structural priming: Transient activation or implicit learning? <em>Journal of Experimental Psychology: General</em>, <em>129</em>(2), 177\u2013192. <a href=\"https://doi.org/10.1037//0096-3445.129.2.177\">https://doi.org/10.1037//0096-3445.129.2.177</a> </p>",
+              "customLabel": "Bock & Griffin, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n8wy2crd1o1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "To explain the persistence of priming, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2z03c3bpaq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndzyvbsixk4\" data-reactroot=\"\">Chang, F., Dell, G. S., &amp; Bock, K. (2006). Becoming syntactic. <em>Psychological Review</em>, <em>113</em>(2), 234\u2013272. <a href=\"https://doi.org/10.1037/0033-295X.113.2.234\">https://doi.org/10.1037/0033-295X.113.2.234</a> </p>",
+              "customLabel": "Chang et al. (2006)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " proposed that abstract priming was due to the same implicit learning mechanism used to acquire the syntactic representations in the first place. They developed a computational model that could acquire abstract syntactic representations using prediction error\u2013based learning, which is a learning mechanism that uses the difference between the input and the predictions of the system (error). By leaving learning on during the processing of the prime sentence, the model made subtle changes to the syntactic system that created priming effects. This account suggests that priming is a side effect of the fact that the brain is constantly adapting to the input, even in adulthood."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngz0l80cf8d",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "If syntactic priming is a type of learning, then biases should accumulate with every structure that is experienced ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cumulativity"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "nvgafgz1xqj",
+              "targetId": "nej5jaq5fld",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nv53rvwzz7v",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz420dug137\" data-reactroot=\"\">Kaschak, M. P., &amp; Borreggine, K. L. (2008). Is long-term structural priming affected by patterns of experience with individual verbs? <em>Journal of Memory and Language</em>, <em>58</em>(3), 862\u2013878. <a href=\"https://doi.org/10.1016/j.jml.2006.12.002\">https://doi.org/10.1016/j.jml.2006.12.002</a> </p>",
+              "customLabel": "Kaschak & Borreggine, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This cumulative bias for structures seems to influence priming, in which the mismatch between the preference and the prime structure ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "error"
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "surprisal"
+          },
+          {
+            "type": "text",
+            "text": ") is associated with larger priming effects ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsj3qife8zj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1x65j51534\" data-reactroot=\"\">Jaeger, T. F., &amp; Snider, N. E. (2013). Alignment as a consequence of expectation adaptation: Syntactic priming is affected by the prime\u2019s prediction error given both prior and recent experience. <em>Cognition</em>, <em>127</em>(1), 57\u201383. <a href=\"https://doi.org/10.1016/j.cognition.2012.10.013\">https://doi.org/10.1016/j.cognition.2012.10.013</a> </p>",
+              "customLabel": "Jaeger & Snider, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "nej5jaq5fld",
+          "url": "https://assets.pubpub.org/oh0fygi5/Figure2-01753316168010.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"nfxn73hxy6t\" data-reactroot=\"\">A schematic of the relationship between cumulativity, error, and priming.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nnz20jvvon3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "When content words such as verbs are the same between prime and target (the verb \u201cgave\u201d in "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "nwkoau0oc57",
+              "targetId": "n6opwg3jquf",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), the magnitude of syntactic priming can increase, and this is called the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "lexical boost"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nle0j1y840v",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj0b9xj8iy9\" data-reactroot=\"\">Pickering, M. J., &amp; Branigan, H. P. (1998). The representation of verbs: Evidence from syntactic priming in language production. <em>Journal of Memory and Language</em>, <em>39</em>(4), 633\u2013651. <a href=\"https://doi.org/10.1006/jmla.1998.2592\">https://doi.org/10.1006/jmla.1998.2592</a> </p>",
+              "customLabel": "Pickering & Branigan, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Studies have examined whether the boost and abstract priming with different verbs depend on the same mechanism by increasing the lag between prime and target by using intervening filler sentences, with the results showing that abstract priming persisted over various lags, but the boost quickly dissipated ("
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "n3f39rreq75",
+              "targetId": "n6opwg3jquf",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkgc1b3xdtj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3n0bomzpcj\" data-reactroot=\"\">Hartsuiker, R. J., Bernolet, S., Schoonbaert, S., Speybroeck, S., &amp; Vanderelst, D. (2008). Syntactic priming persists while the lexical boost decays: Evidence from written and spoken dialogue. <em>Journal of Memory and Language</em>, <em>58</em>(2), 214\u2013238. <a href=\"https://doi.org/10.1016/j.jml.2007.07.003\">https://doi.org/10.1016/j.jml.2007.07.003</a> </p>",
+              "customLabel": "Hartsuiker et al., 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This result suggested that the boost was not due to implicit learning but rather residual activation in explicit memory, which is known to decay rapidly."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "n6opwg3jquf",
+          "url": "https://assets.pubpub.org/rhnfs6qa/71751983757721.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"n4vvpzlusdm\" data-reactroot=\"\">Lexical boost and abstract priming over lag.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n97hbhisuiz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Since most people do not have explicit awareness of the syntactic structures they use, these structures are thought to depend on implicit memory. However, because some aspects of language are available to conscious awareness (e.g., words) and could depend on explicit declarative memory, it was important to determine which memory systems are involved in priming. These memory systems can be differentiated in individuals with anterograde amnesia, who have deficits in explicit memory (e.g., newly learned facts are forgotten quickly) but retain implicit learning abilities (e.g., learning to play new piano pieces). These patients exhibit abstract syntactic priming, even though they have impaired explicit memory for the prime sentences ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfx86x01uet",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny05qynx38q\" data-reactroot=\"\">Ferreira, V. S., Bock, K., Wilson, M. P., &amp; Cohen, N. J. (2008). Memory for syntax despite amnesia. <em>Psychological Science</em>, <em>19</em>(9), 940\u2013946. <a href=\"https://doi.org/10.1111/j.1467-9280.2008.02180.x\">https://doi.org/10.1111/j.1467-9280.2008.02180.x</a> </p>",
+              "customLabel": "Ferreira et al., 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This finding demonstrates that syntactic priming mostly depends on implicit memory without a substantial role for explicit memory."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njoxujsphvl",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Since priming has been argued to be supported by language learning mechanisms, priming has been used to examine syntactic structures in development [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xohbfbix",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Language Acquisition"
+          },
+          {
+            "type": "text",
+            "text": "]. Item-based theories of language acquisition have argued that children start initially with lexically specific syntactic representations and only later develop abstract syntax ("
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "n3dyqqs8q2k",
+              "targetId": "nutken92uhz",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/e222wyjy",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Compositionality"
+          },
+          {
+            "type": "text",
+            "text": "]. However, several studies have found evidence for abstract structural priming early in development ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzyx11t3iy9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nijnovgmsql\" data-reactroot=\"\">Kumarage, S., Donnelly, S., &amp; Kidd, E. (2024). A meta-analysis of syntactic priming experiments in children. <em>Journal of Memory and Language</em>, <em>138</em>, 104532. <a href=\"https://doi.org/10.1016/j.jml.2024.104532\">https://doi.org/10.1016/j.jml.2024.104532</a> </p>",
+              "customLabel": "Kumarage et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmb43ejyhaf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6nda3b76sd\" data-reactroot=\"\">Rowland, C. F., Chang, F., Ambridge, B., Pine, J. M., &amp; Lieven, E. V. M. (2012). The development of abstract syntax: Evidence from structural priming and the lexical boost. <em>Cognition</em>, <em>125</em>(1), 49\u201363. <a href=\"https://doi.org/10.1016/j.cognition.2012.06.008\">https://doi.org/10.1016/j.cognition.2012.06.008</a> </p>",
+              "customLabel": "Rowland et al., 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Priming in children exhibits persistence, cumulativity, and error sensitivity in ways that are similar to adults ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw84tn3w01l",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n234t2ko14h\" data-reactroot=\"\">Branigan, H. P., &amp; Messenger, K. (2016). Consistent and cumulative effects of syntactic experience in children\u2019s sentence production: Evidence for error-based implicit learning. <em>Cognition</em>, <em>157</em>, 250\u2013256. <a href=\"https://doi.org/10.1016/j.cognition.2016.09.004\">https://doi.org/10.1016/j.cognition.2016.09.004</a> </p>",
+              "customLabel": "Branigan & Messenger, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6hse1xdc3z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ns1juzzkaca\" data-reactroot=\"\">Peter, M., Chang, F., Pine, J. M., Blything, R., &amp; Rowland, C. F. (2015). When and how do children develop knowledge of verb argument structure? Evidence from verb bias effects in a structural priming task. <em>Journal of Memory and Language</em>, <em>81</em>, 1\u201315. <a href=\"https://doi.org/10.1016/j.jml.2014.12.002\">https://doi.org/10.1016/j.jml.2014.12.002</a> </p>",
+              "customLabel": "Peter et al., 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and these findings are consistent with the idea that language acquisition and syntactic priming involve the same prediction error\u2013based learning mechanism [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/hexmhaj8/release/1",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Computational Models of Language Learning"
+          },
+          {
+            "type": "text",
+            "text": "]. "
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "nutken92uhz",
+          "url": "https://assets.pubpub.org/v5spglmo/71751983757721.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"n4iscjy7jz4\" data-reactroot=\"\">Priming based on item-based or abstract syntactic representations in development.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfp243eoc82",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Most priming studies use language production measures ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nae0ghb69fq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3dvo7lchfh\" data-reactroot=\"\">Mahowald, K., James, A., Futrell, R., &amp; Gibson, E. (2016). A meta-analysis of syntactic priming in language production. <em>Journal of Memory and Language</em>, <em>91</em>, 5\u201327. <a href=\"https://doi.org/10.1016/j.jml.2016.03.009\">https://doi.org/10.1016/j.jml.2016.03.009</a> </p>",
+              "customLabel": "Mahowald et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Syntactic priming has also been studied with comprehension measures like reading times, but abstract priming is not always found using these measures, and priming often depends on verb overlap ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqav0u0ry1q",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8mrxl8cnnc\" data-reactroot=\"\">Tooley, K. M., &amp; Traxler, M. J. (2010). Syntactic priming effects in comprehension: A critical review. <em>Language and Linguistics Compass</em>, <em>4</em>(10), 925\u2013937. <a href=\"https://doi.org/10.1111/j.1749-818X.2010.00249.x\">https://doi.org/10.1111/j.1749-818X.2010.00249.x</a> </p>",
+              "customLabel": "Tooley & Traxler, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Thus, there are substantial differences in priming with comprehension and production measures, and further research is needed to see if there is a shared component [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/y1uhdz0y",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Psycholinguistics"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n99hcqmhy0t",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Syntactic priming has been mostly studied in a small set of languages (e.g., English, Dutch, German, Chinese). Because priming involves learned syntactic structures, it is possible that priming can vary greatly across typologically different languages (e.g., Tagalog; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nj0ujz4nc9g",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njgmda6z0yg\" data-reactroot=\"\">Garcia, R., Roeser, J., &amp; Kidd, E. (2023). Finding your voice: Voice-specific effects in Tagalog reveal the limits of word order priming. <em>Cognition</em>, <em>236</em>, 105424. <a href=\"https://doi.org/10.1016/j.cognition.2023.105424\">https://doi.org/10.1016/j.cognition.2023.105424</a> </p>",
+              "customLabel": "Garcia et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/5wqto9iq",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Linguistic Variation"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nt58okohl65",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Syntactic priming is an example of learning over the lifetime ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwgi9hnjmwc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nd2h7s4e7tp\" data-reactroot=\"\">Dell, G. S., &amp; Chang, F. (2014). The P-chain: Relating sentence production and its disorders to comprehension and acquisition. <em>Philosophical Transactions of the Royal Society B: Biological Sciences</em>, <em>369</em>(1634), 1\u20139. <a href=\"https://doi.org/10.1098/rstb.2012.0394\">https://doi.org/10.1098/rstb.2012.0394</a> </p>",
+              "customLabel": "Dell & Chang, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Understanding this mechanism may provide insight into similar mechanisms that support adaptation in response to various influences such as education, work, technology, sports, and social situations over the whole of development [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/t5j0qv3d",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Neuroplasticity"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ndw2mdn4hgm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The error-based learning mechanisms used to explain priming are related to the learning algorithms used by artificial intelligence systems like ChatGPT to acquire their language representations [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "]. Priming can be used to examine how closely these systems mirror the abstract syntactic representations used by human language users."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading "
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "ny1hybspj4x",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "naf8f4k1jhw",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bock, K., & Loebell, H. (1990). Framing sentences. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Cognition"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "35"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(1), 1\u201339. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/0010-0277(90)90035-I",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/0010-0277(90)90035-I"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n2fdfwslcia",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Branigan, H. (2007). Syntactic priming. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Language and Linguistics Compass"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 1(1\u20132), 1\u201316. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1111/j.1749-818X.2006.00001.x",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1111/j.1749-818X.2006.00001.x"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nnxbwqzr4eq",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Pickering, M. J., & Ferreira, V. S. (2008). Structural priming: A critical review. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Psychological Bulletin"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "134"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(3), 427\u2013459. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://psycnet.apa.org/doi/10.1037/0033-2909.134.3.427",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1037/0033-2909.134.3.427"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

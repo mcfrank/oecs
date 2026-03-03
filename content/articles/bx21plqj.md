@@ -1,0 +1,54 @@
+---
+title: Cognitive Artifacts
+slug: bx21plqj
+date: '2025-04-08'
+doi: 10.21428/e2759450.5e3d3713
+authors:
+- Valeria Giardino
+---
+
+A cognitive artifact is any artificial device designed to aid some mental process. Cognitive artifacts are everywhere; they are used all the time in everyday life for many different purposes. You are most likely using a cognitive artifact right now, by reading this entry on a computer or a tablet screen. Computers and tablets are very recent inventions; other familiar cognitive artifacts, such as multiplication tables or maps, have been introduced much earlier in culture. Cognitive artifacts are central for the study of human cognition: they are the *product* of a cognitive activity aimed at facilitating some specific cognitive tasks, and they can also *shape* further mental processes. However, it is not clear what cognitive artifacts exactly are and which features distinguish them from other objects.
+
+# History
+
+In their cultural development, humans have invented tools of different kinds, not only to augment their limited physical power, for example, a hammer or a pair of glasses, but also to enhance their inferential abilities. A multiplication table to support calculation or a map to help people find their way into an unknown city are artifacts that can be considered as *cognitive*.
+
+The term “cognitive artifacts” was introduced by Don Norman in the 1990s, referring to artificial devices “designed to maintain, display, or operate upon information in order to serve a representational function” ((Norman, 1991), p. 17). For example, a map is created and used to represent a city, that is, “to stand for” it and make it possible to explore it. If in the first part of the 20th century these elements were considered as irrelevant to science, at a time described by Norman as “a new era of technology,” researchers were reconsidering the influence that the environment and artifacts, and more in general culture and cooperating individuals, can have on our reasoning abilities.
+
+Around the same time, Ed Hutchins put forward a broader view, according to which also structures based on elements of the environment can play the role of cognitive artifacts, although they are not human-made objects designed to have a representational function. Broadly speaking, these *nonrepresentational* (or *ecological*) cognitive artifacts refer to an “intelligent use of space” ((Kirsh, 1995)) [see [Spatial Cognition](/articles/or750iar)]. For example, Micronesian navigators are able to see the night sky as a compass made of 32 points expressing courses between islands ((Hutchins, 1999)). In Hutchins’ view, it is not easy to find a consensus on where to draw the borders of the category of cognitive artifacts, but this definitional issue is not a problem, since the relevant question is about the processes that allow for such a coordination between mental structures that are internal to the mind and external structures that are out in the world.
+
+The consideration of cognitive artifacts has consequences for philosophical debates about the nature of the mind. Cognitive artifacts have been considered as proper *extensions* of the human mind ((Clark & Chalmers, 1998); (Clark, 2008)). By contrast, in the framework conceiving mental representations as *distributed* between internal and external structures, cognitive artifacts are *not* interpreted as amplifying our abilities: a shopping list supports a memory task by invoking a *different set* of functional skills and not by changing memory ((Hutchins, 1999), (2011)).
+
+# Core concepts
+
+## *Intentionality*
+
+*Representational* cognitive artifacts are artifacts created by humans to represent some piece of information in view of some specific cognitive tasks. As such, cognitive artifacts are *intentional* objects, that is, objects that have been designed with a particular purpose. As for other kinds of artifacts (see (Margolis & Laurence, 2007)), it is only once this intention is recognized that a cognitive artifact can be used appropriately.
+
+## *Materiality and operative component*
+
+Cognitive artifacts are external *material* objects, that is, physical objects that can be manipulated and acted upon. Therefore, they have an *operative* component, that is, they are not only a medium for representing objects but an *instrument* through which these very objects can be generated and explored ((Krämer, 2014)). For example, to align a map to the points of a compass to get directions or to add a new line into a geometric figure to obtain a proof are actions that are interpreted as *epistemic*, since they are performed on the relevant cognitive artifact to uncover information that is hidden or hard to compute mentally, thus saving efforts in mental imagery ((Kirsh & Maglio, 1994)) [see [Mental Imagery](/articles/ge65ctmu)].
+
+## *Systems of representation*
+
+In most cases, a cognitive artifact is not considered in isolation but in relation to the particular *system* of representation to which it belongs. For example, closed figures are commonly used in logic: a first circle may represent the class of all animals, and a second one drawn inside the first, the class of all humans. The system determines a set of *construction rules* and a set of *interpretation rules*, which can be (more or less) explicitly defined. Systems of representation can come in different representational *formats*. Sentential and graphical systems are not easy to be set apart ((Shimojima, 2001)), and a focus on their differences obscures their analogies; a written equation or a bar graph can be both considered as “technologies of the intellect” ((Goody, 2000)). If proved useful, these systems become part of a culture and are transmitted across generations.
+
+## *Use properties*
+
+Based on their materiality and on their format, cognitive artifacts may present different *use properties* (see (Giardino & Greenberg, 2015)). For example, depending on the context, a cognitive artifact may have the use properties of being easy (or difficult) to construct or of allowing (or not) effective interpretation. To draw a figure or a formula on sand is cheaper than to draw it on wood, but it requires a similar amount of time of preparation, whereas it suffices to have some chalk to draw it on a blackboard and to erase or modify it ((Netz, 2003)). To use a diagram to represent an engine explicitly preserves information about the topological and geometric features of the engine’s components, thus making them easily accessible, whereas this would not be the case for a description of the same engine given in words ((Larkin & Simon, 1987)).
+
+# Questions, controversies, and new developments
+
+One major research objective today is a better understanding of how cognitive artifacts do establish a scaffolding to enhance human reasoning abilities. The ultimate goal for the view of the mind as extended beyond the confines of the brain and the body is to outline a taxonomy for external cognitive artifacts and to acquire a systematic understanding of their respective functioning ((Clark, 2004)). One controversial point is whether such a taxonomy may or may not include nonrepresentational cognitive artifacts ((Heersmink, 2013)). Recently, it has been proposed that cognitive artifacts are integrated in our everyday life by a process of *enculturation* ((Menary & Gillett, 2022)): older neural circuits get redeployed to new and *culturally specific* functions such as reading, writing, and mathematics. *Cognitive archeology* has also focused on how cognitive artifacts have transformed the embodied capacities of their users from prehistory to the present ((Malafouris, 2019)).
+
+Cognitive artifacts are quickly evolving. Thanks to new technologies, they are now becoming more digitalized. To give an example, cognitive artifacts are evidently an important part of the practice of mathematics ((Giardino, 2018)), and their manipulative features can now be highlighted by animations, as is very well illustrated in the videos on the YouTube channel [3Blue1brown](https://www.youtube.com/@3blue1brown), making use of animated cognitive artifacts to improve understanding in mathematics. However, animations must be carefully designed to be as effective as diagrams ((Tversky et al., 2008)). The move from material to digital cognitive artifacts is changing their operative component in ways that still need to be investigated.
+
+# Broader connections
+
+Cognitive artifacts are relevant for studies on *information technology* that are approached in a cognitive perspective, that is, by looking at how human cognition constrains and influences human cultural productions (for a first attempt, see (Chrisomalis et al., 2021)). Some scholars have started investigating *intention offloading*, that is, the use of external devices such as calendars or smartphone alerts to remember delayed intentions; these studies aim to empirically demonstrate the effectiveness of this kind of offloading and the influence on it of the users’ evaluation of their own memory abilities (see (Gilbert et al., 2023)) [see [Working Memory](/articles/1rgtz41v)]. The research on cognitive artifacts intersects with lively philosophical discussions about the nature of artifacts in general and the notion of *function* as characterizing it (see (Heersmink, 2016)). An interdisciplinary research trend targets the cognitive advantages and disadvantages that specific *notations* such as Arabic numerals or algebraic formulas might have on mathematical performance (see, for example, (Goldstone et al., 2017) or (Wege et al., 2020)) [see also [Perceptual Learning](/articles/chnh9r1z)]. Very recent research is considering *graphicacy*, that is, the ability to understand graphs, and trying to assess its cognitive building blocks ((Ciccione et al., 2023)), in line with the *cultural recycling hypothesis*, which states that basic abilities serve as a foundation for the corresponding cultural skills ((Dehaene & Cohen, 2007)) [see [Neuroplasticity](/articles/t5j0qv3d)].
+
+# **Further reading**
+
+- Heersmink, R. (2013). A taxonomy of cognitive artifacts: Function, information, and categories, *Review of philosophy and psychology*, *4*(3), 465-481. [https://doi.org/10.1007/s13164-013-0148-1](https://doi.org/10.1007/s13164-013-0148-1)
+- Hutchins, E. (1999). Cognitive artifacts. In R. A. Wilson & F. C. Keil (Eds.), *The MIT encyclopedia of the cognitive sciences* (pp. 126-128). MIT Press. [https://doi.org/10.7551/mitpress/4660.001.0001](https://doi.org/10.7551/mitpress/4660.001.0001)
+- Norman, D. (1991). Cognitive artifacts. In J. M. Carroll (Ed.), *Designing interaction: Psychology at the human-computer interface* (pp. 17–38). Cambridge University Press.

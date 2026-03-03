@@ -1,0 +1,3605 @@
+{
+  "id": "671362c9-ba86-4a31-8c0c-66a2f7d16240",
+  "slug": "i3s7fym4",
+  "title": "Common Ground",
+  "url": "https://oecs.mit.edu/pub/i3s7fym4",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "671362c9-ba86-4a31-8c0c-66a2f7d16240",
+    "slug": "i3s7fym4",
+    "title": "Common Ground",
+    "htmlTitle": "Common Ground",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.671362c9",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "luw79u1s",
+    "editHash": "ndqhnwdb",
+    "reviewHash": "x2ls06p3",
+    "commentHash": "z2iw66ua",
+    "draftId": "45851c05-7352-4487-8915-2f85f7eba519",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "c81faeb0-c0ae-4def-bea7-2929acc63430",
+    "scopeSummaryId": "ffdc753f-cc43-4265-9787-efcf203c2b3b",
+    "createdAt": "2025-10-30T14:16:12.472Z",
+    "updatedAt": "2025-11-20T20:48:54.914Z",
+    "attributions": [
+      {
+        "id": "101e4a7e-0b44-4926-9626-818d4b03a390",
+        "name": "Daniel Haun",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Max Planck Institute for Evolutionary Anthropology",
+        "orcid": "0000-0002-3262-645X",
+        "userId": null,
+        "pubId": "671362c9-ba86-4a31-8c0c-66a2f7d16240",
+        "createdAt": "2025-11-11T21:24:23.799Z",
+        "updatedAt": "2025-11-11T21:24:42.593Z",
+        "user": null
+      },
+      {
+        "id": "2baba39c-752a-49ce-8c24-52850f36e2f9",
+        "name": "Herbert H. Clark",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Stanford University",
+        "orcid": "0000-0003-1252-666X",
+        "userId": null,
+        "pubId": "671362c9-ba86-4a31-8c0c-66a2f7d16240",
+        "createdAt": "2025-10-30T14:17:18.307Z",
+        "updatedAt": "2025-10-30T14:17:30.054Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "45851c05-7352-4487-8915-2f85f7eba519",
+      "latestKeyAt": "2025-11-20T20:43:28.336Z",
+      "firebasePath": "drafts/draft-45851c05-7352-4487-8915-2f85f7eba519",
+      "createdAt": "2025-10-30T14:16:12.454Z",
+      "updatedAt": "2025-11-20T20:48:31.627Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxybsac5gd1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Common ground"
+          },
+          {
+            "type": "text",
+            "text": " is the sum of the knowledge, beliefs, perceptions, and assumptions that a set of people believe they share. For people to do things together, they must act on information in their common ground. Two people playing tennis must assume they share the rules of the game, the ability to serve and volley, a perception of their physical surroundings, and a commitment to playing the current game. People in conversation need analogous information. They must assume they share a language (e.g., English or Japanese), the ability to speak and listen, a perception of their physical surroundings, and a commitment to participating in the current conversation. Joint activities are impossible without the right common ground. While common ground is ubiquitous in human conversation, the notion raises important issues for fiction and for artificial agents."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nn53zrkmdyu",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Concepts akin to common ground have been around for a long time, but most were informal. In one of the first formal analyses, Thomas "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nln7640h6o3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwdbh9wsxhe\" data-reactroot=\"\">Schelling, T. C. (1960). <em>The strategy of conflict</em>. Harvard\u00a0University Press.</p>",
+              "customLabel": "Schelling (1960)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " examined what people do in "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "coordination games"
+          },
+          {
+            "type": "text",
+            "text": ". Example: \u201cName \u2018heads\u2019 or \u2018tails.\u2019 If you and your partner do the same thing, you both win a prize. If you don\u2019t, neither of you wins.\u201d To win, according to Schelling, players \u201cmust \u2018mutually recognize\u2019 some unique signal that coordinates their expectations of each other.\u201d He called these mutually recognized signals "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "focal points "
+          },
+          {
+            "type": "text",
+            "text": "[see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/s37heqam",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Signaling"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "npd82jupaz6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "David "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njamiqb4s9m",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndya183ry8i\" data-reactroot=\"\">Lewis, D. (1969). <em>Convention: A philosophical study</em>. Harvard University Press.</p>",
+              "customLabel": "Lewis (1969)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " drew on Schelling\u2019s coordination games in formalizing the notion of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "common knowledge"
+          },
+          {
+            "type": "text",
+            "text": ". Suppose two people agree to meet at a particular place and time. Their agreement, for Lewis, is a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "coordination device"
+          },
+          {
+            "type": "text",
+            "text": ". It provides the two people with a \u201cbasis\u201d for taking when and where they expect to meet to be common knowledge. Lewis went on to argue that conventions are a type of coordination device and that languages are based on a system of conventions. It is conventional, for example, that a \u201ccanine animal\u201d is \u201cdog\u201d in English, \u201cchien\u201d in French, and \u201chond\u201d in Dutch. Communicating in English, French, and Dutch is impossible without appeal to their distinct systems of conventions."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nlye8gnqrj7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Robert "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhz0owkm5mk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nidcim1ghhz\" data-reactroot=\"\">Stalnaker, R. C. (1978). Assertion. In P. Cole (Ed.), <em>Syntax and semantics 9: Pragmatics</em> (pp. 315-332). Academic Press.</p>",
+              "customLabel": "Stalnaker (1978)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", in turn, drew on Lewis\u2019s analyses in introducing "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "common ground"
+          },
+          {
+            "type": "text",
+            "text": " as a feature of everyday conversation. \u201cRoughly speaking,\u201d Stalnaker argued, \u201cthe presuppositions of a speaker \u2026 are what is taken by the speaker to be the common ground of the participants in the conversation, what is treated as their common knowledge or mutual knowledge\u201d (p. 321). In conversation, each new utterance updates the participants\u2019 common ground. Later, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwm051qzm3m",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nd20b5oxf2n\" data-reactroot=\"\">Stalnaker, R. (2002). Common ground. <em>Linguistics and Philosophy, 25</em>(5/6),\u00a0701-721. <a href=\"https://doi.org/10.1023/A:1020867916902\">https://doi.org/10.1023/A:1020867916902</a> </p>",
+              "customLabel": "Stalnaker (2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nv7ebbhzft4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxnxrd7q5v4\" data-reactroot=\"\">Stalnaker, R. (2014). <em>Context</em>. Oxford University Press.</p>",
+              "customLabel": "2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") enlarged the notion of common ground to include other shared attitudes."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1kcu7mfkan",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Common ground is a special type of shared information. Suppose Ken and Maggy are in London, and one morning they agree to meet at the British Museum at noon. It is not enough for them each to believe they expect to meet at the British Museum at noon. They must each take it that:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nblrgjwzm08",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "x"
+          },
+          {
+            "type": "text",
+            "text": ") the two of them each believe ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "a"
+          },
+          {
+            "type": "text",
+            "text": ") that they each expect to meet at the British Museum at noon and ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "b"
+          },
+          {
+            "type": "text",
+            "text": ") that statement "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "x"
+          },
+          {
+            "type": "text",
+            "text": " is true."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ne6h4ndljfk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Part "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "a"
+          },
+          {
+            "type": "text",
+            "text": " represents Ken and Maggy\u2019s individual beliefs about meeting at noon. Although those beliefs happen to be the same, that is not enough. It takes part "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "b"
+          },
+          {
+            "type": "text",
+            "text": " for Ken and Maggy to turn their individual beliefs into a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "common"
+          },
+          {
+            "type": "text",
+            "text": ", or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "mutual"
+          },
+          {
+            "type": "text",
+            "text": ", belief. Part "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "b"
+          },
+          {
+            "type": "text",
+            "text": ", in effect, is a bird\u2019s-eye view, within a single framework, of the two of them and their individual beliefs. Ken and Maggy establish other information as common knowledge, common assumptions, or common perceptions. They do that when \u201cbelieve\u201d in this schema is replaced with \u201cknow,\u201d \u201cassume,\u201d or \u201cperceive.\u201d So, the common ground of a set of people is the sum of their common, or mutual, knowledge, beliefs, assumptions, and perceptions."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3gsdbo0tom",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Common ground is a property not of individuals but of sets of individuals ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndd290yhv48",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfb1np9ws4q\" data-reactroot=\"\">Lewis, D. (1969). <em>Convention: A philosophical study</em>. Harvard University Press.</p>",
+              "customLabel": "Lewis, 1969",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These sets come in two main types ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3rqzuns87f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfbt4o0f0zq\" data-reactroot=\"\">Clark, H. H. (1996). <em>Using language</em>. Cambridge University Press.</p>",
+              "customLabel": "Clark, 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nveajtxuh3x",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl5lo1v7nkr\" data-reactroot=\"\">Clark, H. H., &amp; Marshall, C. R. (1981). Definite reference and mutual\u00a0knowledge. In A. K. Joshi, B. Webber, &amp; I. A. Sag (Eds.), <em>Elements of discourse understanding</em> (pp. 10-63). Cambridge University\u00a0Press.</p>",
+              "customLabel": "Clark & Marshall, 1981",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). One type consists of individuals, such as Ken and Maggy, who have experienced certain events together. The other type consists of individuals, such as French Canadians or dentists, who merely belong to the same cultural community. The common ground possessed by the two types are fundamentally different."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "communal-common-ground",
+          "id": "communal-common-ground",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Communal common ground"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmn6hoa8yzp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cultural communities are sets of people identified by the cultural practices and expertise they share. Pediatricians are one such community. Once two people mutually believe they are both pediatricians, they have a basis (in Lewis\u2019s sense) for considering the pediatric practices and expertise they share as common ground. This is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "communal"
+          },
+          {
+            "type": "text",
+            "text": " common ground."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0gg3x7q4x6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cultural communities are a rich source of common ground because everyone belongs to many of them ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nke0syceskf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfbt4o0f0zq\" data-reactroot=\"\">Clark, H. H. (1996). <em>Using language</em>. Cambridge University Press.</p>",
+              "customLabel": "Clark, 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nggkyzg064p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8y7h2fxisa\" data-reactroot=\"\">Clark, H. H. (1998). Communal lexicons. In K. Malmkjaer &amp; J. Williams (Eds.), <em>Context in language learning and language understanding</em> (pp. 63-87). Cambridge University Press.</p>",
+              "customLabel": "1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Suppose Julia belongs to these: English speakers, US citizens, California residents, MIT graduates, electrical engineers, IBM employees, Democrats, Lutherans, 30-year-olds, women, and ski buffs. Julia can assume that she shares, to varying degrees, the cultural practices and expertise of each of these communities with other members of those communities."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nz7muq6jdrp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "People have many ways of establishing that they share membership in a cultural community. One way is with "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "introductions"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n87yuvtulwr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmbqvjv438a\" data-reactroot=\"\">Svennevig, J. (2000). <em>Getting acquainted in conversation</em>: <em>A study of initial interactions.</em> John Benjamins.</p>",
+              "customLabel": "Svennevig, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Ken: \u201cJulia, this is Desmond from Singapore. Like you, he loves to ski.\u201d Julia: \u201cSo, Desmond, where do you ski?\u201d Another way is with "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "probes"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbzg7whhsfr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nflk4zvldom\" data-reactroot=\"\">Scheglo\ufb00, E. A. (1972). Notes on a conversational practice: Formulating place.\u00a0In D. N. Sudnow (Ed.), <em>Studies in social interaction</em> (pp. 75-119). Free Press.</p>",
+              "customLabel": "Schegloff, 1972",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nql2gcrlru6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqoqrrqlcm8\" data-reactroot=\"\">Scheglo\ufb00, E. A. (2000). On granularity. <em>Annual Review of Sociology,</em> 26,\u00a0715-720. <a href=\"https://doi.org/10.1146/annurev.soc.26.1.715\">https://doi.org/10.1146/annurev.soc.26.1.715</a> </p>",
+              "customLabel": "2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In London, Ken can stop a stranger and ask, \u201cAre you from around here?\u201d and, if the answer is yes, ask for directions to the British Museum. In Paris, he can ask a passerby, \u201cDo you speak English?\u201d and then ask for directions to the Louvre. Still another way is with "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "perceptual evidence"
+          },
+          {
+            "type": "text",
+            "text": ". On meeting Julia, Desmond might note her accent, gender, age, and clothing and infer that she is North American, a woman, a 30-year-old, and a skier\u2014a first step in becoming acquainted. And there is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "serendipity"
+          },
+          {
+            "type": "text",
+            "text": ". Visiting the home of a new colleague, I noticed a book of Mozart sonatas on his piano. Once I told him I had played some of them, our conversation took off."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "personal-common-ground",
+          "id": "personal-common-ground",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Personal common ground"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5je72rwrmo",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The bases for "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "personal"
+          },
+          {
+            "type": "text",
+            "text": " common ground, in contrast, are joint personal experiences. These are events that people jointly experience, typically with joint attention, in social settings such as eating together, playing tennis, or walking together. Still, the paradigmatic setting for personal common ground is conversation. People talking to each other use their speech and gestures to update their current common ground ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nc3ljayb4bp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8t900cnei1\" data-reactroot=\"\">Stalnaker, R. (2014). <em>Context</em>. Oxford University Press.</p>",
+              "customLabel": "Stalnaker, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngqaxshdmxb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "It is a mistake to ignore the differences between personal and communal common ground. Personal common ground is based on biographical experiences with specific people at specific places and times. It is information "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "particular"
+          },
+          {
+            "type": "text",
+            "text": " to those people, places, and times. Communal common ground, in contrast, is based on the expertise and practices that people acquire as members of cultural communities. The information is generic and not tied to specific people at specific places and times. It is shared with huge collections of people, most of whom one has never met and is never likely to meet."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "memory-and-common-ground",
+          "id": "memory-and-common-ground",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Memory and common ground"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nx2vihym43q",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Just as there are two types of common ground, research has long shown that there are two major systems of memory ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncqznmwkxsw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntw8pk3nhkq\" data-reactroot=\"\">Tulving, E. (1972). Episodic and semantic memory. In E. Tulving &amp; W. Donaldson (Eds.), <em>Organization of memory.</em> Academic Press.</p>",
+              "customLabel": "Tulving, 1972",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Episodic"
+          },
+          {
+            "type": "text",
+            "text": ", or autobiographical, memory represents events that have happened to someone personally. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Semantic"
+          },
+          {
+            "type": "text",
+            "text": ", or generic, memory represents a person\u2019s general knowledge of the world. Clearly, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "personal"
+          },
+          {
+            "type": "text",
+            "text": " common ground is based primarily on episodic memory, and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "communal"
+          },
+          {
+            "type": "text",
+            "text": " common ground is based on generic memory [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/s41l0yu6",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Memory"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ntabkhoriit",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Episodic memory, for example, is needed for so-called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "deictic expressions"
+          },
+          {
+            "type": "text",
+            "text": ". When Ken tells Maggy, \u201cThe British Museum is over there,\u201d he must point in the right direction for her to identify the building he is referring to. Deictic expressions like \u201cover there\u201d index elements in the speaker and addressee\u2019s joint experiences ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw9mg180zja",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9t1c68toat\" data-reactroot=\"\">Fillmore, C. (1997). <em>Lectures on deixis. </em>University of Chicago Press.</p>",
+              "customLabel": "Fillmore, 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The elements they index may be locations in space (as with "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "here, there, this, that, over there, upstairs,"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "the other side"
+          },
+          {
+            "type": "text",
+            "text": "), locations in time (as with "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "now"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "yesterday"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "today, tomorrow,"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "the other day"
+          },
+          {
+            "type": "text",
+            "text": ") or people (as with "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "I, you, we,"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "you guys"
+          },
+          {
+            "type": "text",
+            "text": "). Expressions like these cannot be used or understood without information in episodic memory\u2014in personal common ground."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmy3oo9ehrw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Generic memory, on the other hand, is needed for the conventional words of a cultural community ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9gkcgzsued",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfb1np9ws4q\" data-reactroot=\"\">Lewis, D. (1969). <em>Convention: A philosophical study</em>. Harvard University Press.</p>",
+              "customLabel": "Lewis, 1969",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). A "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "communal lexicon"
+          },
+          {
+            "type": "text",
+            "text": " is the set of conventional words that are based on the expertise and practices of a cultural community ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nj2m49gjprl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvp808ofn3o\" data-reactroot=\"\">Clark, H. H. (1998). Communal lexicons. In K. Malmkjaer &amp; J. Williams (Eds.), <em>Context in language learning and language understanding</em> (pp. 63-87). Cambridge University Press.</p>",
+              "customLabel": "Clark, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In English, medical doctors take \u201csclerotic,\u201d \u201caorta,\u201d \u201cmyocardial,\u201d and \u201cinfarction\u201d to be part of their communal common ground just as San Franciscans take \u201cRussian Hill,\u201d \u201cLombard,\u201d \u201cNoe Valley,\u201d and \u201cCrissy Field\u201d to be part of theirs. For people who speak English, a major cultural community is simply \u201cEnglish speakers.\u201d People in this community take for granted that other English speakers know most of the ordinary words they know. In this view, all conventional words are based on information in people\u2019s generic memory\u2014in their communal common ground."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "grounding",
+          "id": "grounding",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Grounding"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2cuvafutz7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In many accounts of common ground (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0non9chqz4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8t900cnei1\" data-reactroot=\"\">Stalnaker, R. (2014). <em>Context</em>. Oxford University Press.</p>",
+              "customLabel": "Stalnaker, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), people are treated as ideal agents. Speakers are assumed to know exactly what they want to say and to speak without errors, and listeners are assumed to be correct in understanding what they hear. In reality, speakers are provisional in what they say, hesitating, making mistakes, and changing their minds as they speak. And listeners often mishear and misinterpret what is said. Because of these problems, people in conversation collaborate with each other to reach joint closure on what is said."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nop8kl2jtnv",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The process is called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "grounding"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0vhc42hmff",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqdqsl94044\" data-reactroot=\"\">Brennan, S. E., Galati, A., &amp; Kuhlen, A. K. (2010). Two minds, one dialog:\u00a0Coordinating speaking and understanding. In B. H. Ross (Ed.), <em>Psychology of learning and motivation</em> (Vol. 53, pp. 301-344). Elsevier.</p>",
+              "customLabel": "Brennan et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngakxybehr7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfbt4o0f0zq\" data-reactroot=\"\">Clark, H. H. (1996). <em>Using language</em>. Cambridge University Press.</p>",
+              "customLabel": "Clark, 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxfevqnhec5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ne9j2nzp32c\" data-reactroot=\"\">Clark, H. H., &amp; Brennan, S. E. (1991). Grounding in communication. In L. B. Resnick, J. M. Levine, &amp; S. D. Teasley (Eds.), <em>Perspectives on socially\u00a0shared cognition</em> (pp. 127-149). American Psychological Association.</p>",
+              "customLabel": "Clark & Brennan, 1991",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqoppgwzosv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"niq1nx4mez3\" data-reactroot=\"\">Clark, H. H., &amp; Schaefer, E. F. (1989). Contributing to discourse. <em>Cognitive\u00a0Science, 13</em>(2), 259-294. <a href=\"https://doi.org/10.1016/0364-0213(89)90008-6\">https://doi.org/10.1016/0364-0213(89)90008-6</a> </p>",
+              "customLabel": "Clark & Schaefer, 1989",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwqe4e91sv0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n58obq3np26\" data-reactroot=\"\">Clark, H. H., &amp; Wilkes-Gibbs, D. (1986). Referring as a collaborative process. <em>Cognition, 22</em>(1), 1-39. <a href=\"https://doi.org/10.1016/0010-0277(86)90010-7\">https://doi.org/10.1016/0010-0277(86)90010-7</a> </p>",
+              "customLabel": "Clark & Wilkes-Gibbs, 1986",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Consider this actual exchange:"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "attrs": {
+          "id": "nvb9in6ys8u",
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "id": "nvmlvfoszwe",
+              "class": null,
+              "textAlign": null,
+              "rtl": null,
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Roger: Now [pause], um, do you and your husband have a j\u2013 car? "
+              },
+              {
+                "type": "hard_break",
+                "attrs": {
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                }
+              },
+              {
+                "type": "text",
+                "text": "Nina: [pause] Have a car? "
+              },
+              {
+                "type": "hard_break",
+                "attrs": {
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                }
+              },
+              {
+                "type": "text",
+                "text": "Roger: Yeah. "
+              },
+              {
+                "type": "hard_break",
+                "attrs": {
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                }
+              },
+              {
+                "type": "text",
+                "text": "Nina: No."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1c6x3t98gu",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Nina is unsure of Roger\u2019s phrase \u201chave a car,\u201d so she queries it, and Roger answers \u201cyeah.\u201d Only then does Nina take his entire question to be in their common ground and answer it. Likewise, Roger does not take his question to be in their common ground until Nina answers it in turn four. The process of grounding relies on both positive and negative evidence. As positive evidence, addressees produce \u201cyeah,\u201d \u201cuh-huh,\u201d and other so-called back-channel responses, and as negative evidence, they ask questions like \u201cWhat?\u201d or \u201cWhose husband?\u201d or \u201cHave a car?\u201d People in conversation nevertheless realize that grounding is never perfect. They assume that to ground a thing is to establish it as part of common ground well enough for current purposes ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnb5xaigory",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfbt4o0f0zq\" data-reactroot=\"\">Clark, H. H. (1996). <em>Using language</em>. Cambridge University Press.</p>",
+              "customLabel": "Clark, 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0r5kxvhf9c",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Grounding, however, is impossible in many settings. On the radio, on television, and in newspapers, reporters must make their reports comprehensible to their audiences without feedback. To do that, they must imagine the class of people they are reporting to and infer, as best they can, the communal common ground they share with them. That often requires subtle judgments."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nolg9oms6k3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Many audiences are also diverse. When chemistry professors lecture to a class of students, they must decide who to aim for\u2014those who are most prepared, those who are least prepared, or both\u2014and if so, how. In criminal trials, judges must tailor their language for everyone present\u2014from the legal experts (e.g., attorneys) to the legal novices (e.g., jurors and spectators). People gossiping on buses must take account of potential eavesdroppers ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlsvmm1j29e",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlly6s0f33y\" data-reactroot=\"\">Clark, H. H., &amp; Schaefer, E. F. (1987). Collaborating on contributions to conversations. <em>Language and Cognitive Processes, 2</em>(1), 19\u201341. <a href=\"https://psycnet.apa.org/doi/10.1080/01690968708406350\" target=\"_blank\">https://doi.org/10.1080/01690968708406350</a></p>",
+              "customLabel": "Clark & Schaefer, 1987",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and so must spies passing on secrets in the presence of others. Dealing with diverse audiences is a challenge."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nyll8de7dkf",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "An issue for many scholars is how to represent common ground formally, and they have suggested several formulations. In some of these, common ground is represented in relation to the evidence it is based on. In others, it is represented independent of that evidence. Here are three formulations ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no0x3towmrz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfbt4o0f0zq\" data-reactroot=\"\">Clark, H. H. (1996). <em>Using language</em>. Cambridge University Press.</p>",
+              "customLabel": "Clark, 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", chapter 4)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbihzof9nvb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Common ground (CG)-iterated"
+          },
+          {
+            "type": "text",
+            "text": " consists of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "iterated"
+          },
+          {
+            "type": "text",
+            "text": " propositions. Suppose Ken and Maggy are the sole members of set "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "S,"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "p"
+          },
+          {
+            "type": "text",
+            "text": " is the proposition, \u201cThe members of set "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "S"
+          },
+          {
+            "type": "text",
+            "text": " expect to meet at the British Museum at noon.\u201d In the following, \u201chaving information\u201d includes knowing, believing, assuming, perceiving, and other attitudes."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2aa8qfgmp0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Proposition "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "p"
+          },
+          {
+            "type": "text",
+            "text": " is common ground for the members of set "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "S"
+          },
+          {
+            "type": "text",
+            "text": " if and only if"
+          }
+        ]
+      },
+      {
+        "type": "ordered_list",
+        "attrs": {
+          "id": "nzduw05o035",
+          "order": 1,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "napzl1f9lgs",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "they each have information that "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "p."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nfk54mjekhn",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "they each have information that they each have information that "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "p."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nle20t3vz02",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "they each have information that they each have information that they each have information that "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "p."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n2zos01n32w",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "they each have information that they each have information that they each have information that they each have information that "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "p."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncntz2pm0q4",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "And so on ad infinitum."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ny1j6gfd5rc",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "For many theorists (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndgfys4ex39",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nonbb7nodys\" data-reactroot=\"\">Aumann, R. J. (1976). Agreeing to disagree. <em>Annals of Statistics, 4</em>(6), 1236-1239. <a href=\"https://doi.org/10.1214/aos/1176343654\">https://doi.org/10.1214/aos/1176343654</a> </p>",
+              "customLabel": "Aumann, 1976",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd3t17q01nx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsyxbrhq0cg\" data-reactroot=\"\">Schi\ufb00er, S. R. (1972). <em>Meaning</em>. Clarendon Press.</p>",
+              "customLabel": "Schiffer, 1972",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9yoiaq5esg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8t900cnei1\" data-reactroot=\"\">Stalnaker, R. (2014). <em>Context</em>. Oxford University Press.</p>",
+              "customLabel": "Stalnaker, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), CG-iterated is the only proper representation of common ground."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ntqtwmes1de",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "CG-iterated, however, is manifestly impossible as a representation of common ground in mental processes ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nouvdgd7ndq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl5lo1v7nkr\" data-reactroot=\"\">Clark, H. H., &amp; Marshall, C. R. (1981). Definite reference and mutual\u00a0knowledge. In A. K. Joshi, B. Webber, &amp; I. A. Sag (Eds.), <em>Elements of discourse understanding</em> (pp. 10-63). Cambridge University\u00a0Press.</p>",
+              "customLabel": "Clark & Marshall, 1981",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). There is no way Ken and Maggy could consider or verify the infinite number of statements needed for meeting at the British Museum. To get around this problem, many theorists assume that people store or verify only the first two, three, or four lines of CG-iterated, but that is not much help. Line one expands into two propositions (\u201cKen has information that "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "p"
+          },
+          {
+            "type": "text",
+            "text": ",\u201d and \u201cMaggy has information that "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "p"
+          },
+          {
+            "type": "text",
+            "text": "\u201d), and lines two, three, and four expand into four, eight, and 16 propositions for a total of 30 propositions. This total sky rockets when Ken and Maggy are joined by even one or two friends. When set "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "S"
+          },
+          {
+            "type": "text",
+            "text": " has three members, the total becomes 120, and when it has four, the total becomes 340. When it has 10 members\u2014imagine nine tourists and a guide\u2014the total is over 11,000. These totals are clearly implausible for actual mental processes."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nsx1mks9j1p",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "CG-shared-basis"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nclehwou4ey",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfb1np9ws4q\" data-reactroot=\"\">Lewis, D. (1969). <em>Convention: A philosophical study</em>. Harvard University Press.</p>",
+              "customLabel": "Lewis, 1969",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") represents common ground in relation to a basis "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "b"
+          },
+          {
+            "type": "text",
+            "text": ". Suppose set "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "S"
+          },
+          {
+            "type": "text",
+            "text": " is Ken and Maggy, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "p"
+          },
+          {
+            "type": "text",
+            "text": " is their expectation of meeting at the British Museum, and their expectation is based on their verbal agreement to meet, basis "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "b"
+          },
+          {
+            "type": "text",
+            "text": ". The representation for common ground is this:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n141uc7cirw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Proposition "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "p"
+          },
+          {
+            "type": "text",
+            "text": " is common ground for the members of set "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "S"
+          },
+          {
+            "type": "text",
+            "text": " if and only if"
+          }
+        ]
+      },
+      {
+        "type": "ordered_list",
+        "attrs": {
+          "id": "n9zz9wgcxmt",
+          "order": 1,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nts3w16fldj",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "they each have information that basis "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "b"
+                  },
+                  {
+                    "type": "text",
+                    "text": " holds."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n3dmqornj4s",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "basis "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "b"
+                  },
+                  {
+                    "type": "text",
+                    "text": " indicates to each of them that they each have information that basis "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "b"
+                  },
+                  {
+                    "type": "text",
+                    "text": " holds."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n6j075qvlp7",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "basis "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "b"
+                  },
+                  {
+                    "type": "text",
+                    "text": " indicates to each of them that "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "p."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nddj28elrdw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Unlike CG-iterated, this formulation is finite, and basis "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "b"
+          },
+          {
+            "type": "text",
+            "text": " itself can vary in the strength of its evidence ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsnr8p94b9k",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfb1np9ws4q\" data-reactroot=\"\">Lewis, D. (1969). <em>Convention: A philosophical study</em>. Harvard University Press.</p>",
+              "customLabel": "Lewis, 1969",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). So, CG-shared-basis is not implausible as a mental representation of common ground (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlr1sunnd6u",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nm4u6fs9mut\" data-reactroot=\"\">Barwise, J. (2016). Three views of common knowledge. In H. Arl\u00f3-Costa, V. F.\u00a0Hendricks, &amp; J. Van Benthem (Eds.), <em>Readings in formal epistemology: Sourcebook</em> (pp. 759-772). Springer.</p>",
+              "customLabel": "Barwise, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7hw6fmtqrb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfbt4o0f0zq\" data-reactroot=\"\">Clark, H. H. (1996). <em>Using language</em>. Cambridge University Press.</p>",
+              "customLabel": "Clark, 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "niuncykeq5b",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "CG-reflexive"
+          },
+          {
+            "type": "text",
+            "text": " is CG-shared-basis stripped of any reference to the evidence on which it is based ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8lk6x38r8b",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl5lo1v7nkr\" data-reactroot=\"\">Clark, H. H., &amp; Marshall, C. R. (1981). Definite reference and mutual\u00a0knowledge. In A. K. Joshi, B. Webber, &amp; I. A. Sag (Eds.), <em>Elements of discourse understanding</em> (pp. 10-63). Cambridge University\u00a0Press.</p>",
+              "customLabel": "Clark & Marshall, 1981",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxcmy2okuzu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nx0natu0ih2\" data-reactroot=\"\">Cohen, P. R. (1978). <em>On knowing what to say: Planning speech acts</em> [Doctoral dissertation,\u00a0University of Toronto].</p>",
+              "customLabel": "Cohen, 1978",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n76wx4trbwp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9c58yowi4t\" data-reactroot=\"\">Harman, G. (1977). Review of <em>Linguistic behaviour</em> by Jonathan Bennett.\u00a0<em>Language, 53</em>(2), 417-424. <a href=\"https://doi.org/10.2307/413111\">https://doi.org/10.2307/413111</a> </p>",
+              "customLabel": "Harman, 1977",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "): "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwh1r3hxssj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Proposition "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "p"
+          },
+          {
+            "type": "text",
+            "text": " is common ground for the members of set "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "S"
+          },
+          {
+            "type": "text",
+            "text": " if and only if"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nsc1hy9p2x0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "x"
+          },
+          {
+            "type": "text",
+            "text": ") each of the members has information that "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "p"
+          },
+          {
+            "type": "text",
+            "text": " and that "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "x"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n8orl7u9dsx",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This representation is reflexive; the proposition labeled "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "x"
+          },
+          {
+            "type": "text",
+            "text": " contains a reference to itself (just as \u201cThis sentence contains five words\u201d contains a reference to itself). It is simply a more general version of the Ken\u2013Maggy example. Some theorists object to reflexive representations in principle, but others have shown that reflexive representations are perfectly legitimate for many purposes ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnjyrw1ts2y",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nm4u6fs9mut\" data-reactroot=\"\">Barwise, J. (2016). Three views of common knowledge. In H. Arl\u00f3-Costa, V. F.\u00a0Hendricks, &amp; J. Van Benthem (Eds.), <em>Readings in formal epistemology: Sourcebook</em> (pp. 759-772). Springer.</p>",
+              "customLabel": "Barwise, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2cntj4oqos",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nijh7g3amk0\" data-reactroot=\"\">Barwise, J., &amp; Etchemendy, J. (1987). <em>The liar: An essay on truth and circularity</em>. Oxford University Press.</p>",
+              "customLabel": "Barwise & Etchemendy, 1987",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmvrqfryz3a",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Despite their differences, the three representations are related. CG-shared-basis reduces to CG-reflexive with the removal of basis "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "b"
+          },
+          {
+            "type": "text",
+            "text": ". And with the right assumptions, CG-reflexive can be expanded into as many lines of CG-iterated as needed. The three representations are each useful but for different purposes (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngzs9l8tou6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nm4u6fs9mut\" data-reactroot=\"\">Barwise, J. (2016). Three views of common knowledge. In H. Arl\u00f3-Costa, V. F.\u00a0Hendricks, &amp; J. Van Benthem (Eds.), <em>Readings in formal epistemology: Sourcebook</em> (pp. 759-772). Springer.</p>",
+              "customLabel": "Barwise, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nahwi2uau7q",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The concept of common ground bears on issues in many areas of scholarship. Two of these areas are fiction and artificial agents."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfz1lhko4eb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One issue is how to track common ground in fiction. Consider Shakespeare\u2019s "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Hamlet"
+          },
+          {
+            "type": "text",
+            "text": ". In act three scene four, Hamlet is talking with his mother Gertrude. When Hamlet hears muttering behind a nearby wall hanging, he suddenly draws his sword and thrusts it through the wall hanging, killing the man behind it. The man happens to be Polonius, who Gertrude had placed there to eavesdrop on their conversation. The audience at a performance of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Hamlet"
+          },
+          {
+            "type": "text",
+            "text": " has no trouble grasping what happened in that scene and why."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n55n9mf7uai",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "However, what that audience does is remarkable. Among other things, the audience infers: Gertrude knew Polonius was there, but Hamlet did not, and Gertrude knew Hamlet did not know; thanks to the dramatist, the audience knows what all three of these characters knew. That is, the audience infers distinct bodies of common ground for (a) Gertrude and Hamlet, (b) Gertrude and Polonius, (c) Hamlet and Polonius, and (d) the dramatist and his projected audience. To understand the scene, the audience had to track these four sets of common ground and the disparities among them. (The audience also shares common ground with the three actors on stage, adding yet another layer to the analysis.) Shakespeare created disparities like these in all of his plays (e.g., with prologues, asides, soliloquys, and cross-dressing). The question is how audiences keep track of them all."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njrjekjfvqy",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "What is true of Shakespeare is true of fiction in general. Consider Melville\u2019s "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Moby Dick"
+          },
+          {
+            "type": "text",
+            "text": ". In the first sentence (\u201cCall me Ishmael\u201d), the apparent author introduces readers to Ishmael, who proceeds to narrate a series of adventures in the first person. From the very start, readers assume that the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "apparent author"
+          },
+          {
+            "type": "text",
+            "text": " takes vast areas of generic 19th century knowledge as communal common ground with his 19th century readers and that Ishmael "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "the narrator"
+          },
+          {
+            "type": "text",
+            "text": " takes much of the same information as communal common ground with the \u201clandsmen\u201d he is speaking to. In the course of the novel, readers see how Ishmael "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "the character"
+          },
+          {
+            "type": "text",
+            "text": " creates distinct bodies of personal common ground with Queequeg, Starbuck, Stubb, Ahab, and other characters. Without tracking all these bodies of common ground, readers would be lost."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkc9avlnm58",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A further issue is how people interact with artificial agents [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "]. Communication with them is often one way. People hear announcements in elevators (\u201cThird floor\u201d and \u201cDoor opening\u201d), airports (\u201cWelcome to Denver\u201d), and even bathroom scales (\u201c165 pounds\u201d), and they comply with prerecorded requests in the London Underground (\u201cPlease stand clear of the closing doors\u201d) and in cars (\u201cTurn left in 100 yards\u201d). In other cases, communication is two way. People take turns speaking with the virtual agents Siri and Alexa and with prerecorded voices in telephone calls to drug stores and airlines. The medium may be speech or print."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n8jp13uur4u",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "People tacitly know, however, that artificial agents are not real agents no matter how realistic they seem. They take it that artificial agents represent or depict fictional characters and that these characters are unlike humans in specific ways. They are "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "nonstandard"
+          },
+          {
+            "type": "text",
+            "text": " agents."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nth18bxbdk4",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One way they are nonstandard is in memory. Human-like chatbots lack human-like biographies: they lack mothers, fathers, siblings, childhood experiences, hometowns, college majors and degrees, hobbies, sports, and other distinctive information. Without biographical memories like these, they are limited in the personal common ground they can establish with others. Human-like chatbots also lack membership in cultural communities. They are never identified as MIT graduates, IBM employees, electrical engineers, Lutherans, women, ski buffs, or Red Sox fans. As a result, their generic memory\u2014their general knowledge of the world\u2014is not organized by cultural communities. The only community that English-speaking chatbots share with humans is \u201cEnglish speakers,\u201d and that is limiting. In talking to a chatbot, nuclear physicists will wonder whether they can discuss Higgs boson, leptons, and the flavors of quarks as they would with fellow physicists."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ny43z7t4788",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The strategy people appear to adopt with artificial agents is this ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nu04n9jz82u",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj09o3ajat8\" data-reactroot=\"\">Clark, H. H., &amp; Fischer, K. (2023) Social robots as depictions of social agents. <em>Behavioral and Brain Sciences</em>, <em>46</em>, e21. <a href=\"https://doi.org/10.1017/S0140525X22000668\">https://doi.org/10.1017/S0140525X22000668</a> </p>",
+              "customLabel": "Clark & Fischer, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "): people act on the pretense that the artificial agent they are communicating with is a real agent but of a nonstandard type, and they try to establish personal and communal common ground with the agent consistent with that pretense."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nudg06wveao",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "ndru6jrhpb8",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Clark, H. H. (1996). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Using language"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Cambridge University Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nhljz9ffj7s",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Lewis, D. (1969). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Convention: A philosophical study"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Harvard University Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nda6jykupfb",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Stalnaker, R. (2014). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Context"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Oxford University Press."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

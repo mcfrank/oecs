@@ -1,0 +1,1779 @@
+{
+  "id": "56eb7cff-d23e-4d8b-9815-0c09bd789ee8",
+  "slug": "n6c8sb19",
+  "title": "Markov Chain Monte Carlo",
+  "url": "https://oecs.mit.edu/pub/n6c8sb19",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "56eb7cff-d23e-4d8b-9815-0c09bd789ee8",
+    "slug": "n6c8sb19",
+    "title": "Markov Chain Monte Carlo",
+    "htmlTitle": "Markov Chain Monte Carlo",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.56eb7cff",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "5p93wa7s",
+    "editHash": "il88d3os",
+    "reviewHash": "b12xuzfw",
+    "commentHash": "p4zxj760",
+    "draftId": "e5356909-fd1f-4946-a520-5f7570c274ab",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "3259c950-e897-42d0-963a-6eea720f4ae1",
+    "scopeSummaryId": "9a1b56bb-ca9c-4ab8-85d2-20815f673307",
+    "createdAt": "2024-06-14T14:00:29.626Z",
+    "updatedAt": "2024-07-24T13:03:57.372Z",
+    "attributions": [
+      {
+        "id": "43602ade-d5e5-4082-b925-9271c00d7580",
+        "name": "Adam N. Sanborn",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Department of Psychology, University of Warwick, Coventry, UK",
+        "orcid": "0000-0003-0442-4372",
+        "userId": null,
+        "pubId": "56eb7cff-d23e-4d8b-9815-0c09bd789ee8",
+        "createdAt": "2024-06-14T14:00:57.033Z",
+        "updatedAt": "2024-06-14T14:01:19.216Z",
+        "user": null
+      },
+      {
+        "id": "76ef9336-9a46-40d0-8fbe-47cf9deda648",
+        "name": "Jim Rehg",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "University of Illinois at Urbana-Champaign",
+        "orcid": null,
+        "userId": null,
+        "pubId": "56eb7cff-d23e-4d8b-9815-0c09bd789ee8",
+        "createdAt": "2024-07-23T21:40:42.202Z",
+        "updatedAt": "2024-07-23T21:40:56.607Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "e5356909-fd1f-4946-a520-5f7570c274ab",
+      "latestKeyAt": "2024-07-23T11:00:39.577Z",
+      "firebasePath": "drafts/draft-e5356909-fd1f-4946-a520-5f7570c274ab",
+      "createdAt": "2024-06-14T14:00:29.622Z",
+      "updatedAt": "2025-07-08T17:38:57.233Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "niqq8ar0203",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Markov chain Monte Carlo (MCMC) is a method used in cognitive science to estimate the distribution of probabilities across hypotheses. Calculating probabilities exactly is often too resource intensive, so MCMC instead approximates the distribution. It is a Monte Carlo method because it stochastically simulates hypotheses from the probability distribution such that each hypothesis is generated proportional to its probability. A precise approximation requires many samples. MCMC is a Markov chain because each new sample depends only on the immediately preceding sample. It is most often used in Bayesian statistics, but in cognitive science it is used to elicit human beliefs and as a method for modeling how the brain deals with uncertainty.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6vq3e9n0us",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "MCMC was initially developed in statistical physics ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnlce1puyz1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6ep9v44d2y\" data-reactroot=\"\">Metropolis, A. W., Rosenbluth, A. W., Rosenbluth, M. N., Teller, A. H., &amp; Teller, E. (1953). Equations of state calculations by fast computing machines. <em>Journal of Chemical Physics</em>, <em>21</em>, 1087\u20131092. <a href=\"https://doi.org/10.1063/1.1699114\">https://doi.org/10.1063/1.1699114</a> \u00a0</p>",
+              "customLabel": "Metropolis et al., 1953",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and is now widely used for approximating complex probability distributions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npg6382drjt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nprepl2zwjt\" data-reactroot=\"\">Jones, G. L., &amp; Qin, Q. (2022). Markov chain Monte Carlo in practice. <em>Annual Review of Statistics and Its Application</em>, <em>9</em>, 557\u2013578. <a href=\"https://doi.org/10.1146/annurev-statistics-040220-090158\">https://doi.org/10.1146/annurev-statistics-040220-090158</a> \u00a0</p>",
+              "customLabel": "Jones & Qin, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nazltxnuxuu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2hoabzzeaa\" data-reactroot=\"\">Neal, R. M. (1993). <em>Probabilistic inference using Markov Chain Monte Carlo methods </em>(tech. rep. No. CRG-TR-93-1). Department of Computer Science, University of Toronto.\u00a0</p>",
+              "customLabel": "Neal, 1993",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Later work in cognitive science broadened the use of MCMC from a data analysis method to a method for eliciting beliefs ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbd6wci44wy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngbs9qafej8\" data-reactroot=\"\">Sanborn, A. N., Griffiths, T. L., &amp; Shiffrin, R. M. (2010). Uncovering mental representations with Markov chain Monte Carlo. <em>Cognitive Psychology</em>, <em>60</em>(2), 63\u2013106. <a href=\"https://doi.org/10.1016/j.cogpsych.2009.07.001\">https://doi.org/10.1016/j.cogpsych.2009.07.001</a> \u00a0</p>",
+              "customLabel": "Sanborn et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and into an explanation of how the brain works ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njo9kw10zyy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0pzbgmlhnk\" data-reactroot=\"\">Hoyer, P., &amp; Hyv\u00e4rinen, A. (2002). Interpreting neural response variability as Monte Carlo sampling of the posterior. In S. Becker, S. Thrun, &amp; K. Obermayer (Eds.), <em>Advances in neural information processing systems </em>(Vol. 15). Cambridge, MA: MIT Press. </p>",
+              "customLabel": "Hoyer & Hyv\u00e4rinen, 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "how-the-mcmc-algorithm-works",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "How the MCMC algorithm works"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmvq03yepmd",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "While there are efficient methods for sampling from distributions in which all probabilities are known exactly, MCMC sidesteps some difficult calculations when this is not the case. In Bayesian inference, the quantity of interest is often the probability of a hypothesis "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "H "
+          },
+          {
+            "type": "text",
+            "text": "given some evidence "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "E"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "P"
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "H"
+          },
+          {
+            "type": "text",
+            "text": "|"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "E"
+          },
+          {
+            "type": "text",
+            "text": "). For example, we may be interested in the probability that the adjective \u201chappy\u201d ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "H"
+          },
+          {
+            "type": "text",
+            "text": ") best describes an image of a face ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "E"
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nd6lu6hbyxu",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Using Bayes rule, calculating "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "P"
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "H"
+          },
+          {
+            "type": "text",
+            "text": "|"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "E"
+          },
+          {
+            "type": "text",
+            "text": ") first involves multiplying how likely it is that the evidence arises if the hypothesis is true, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "P"
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "E"
+          },
+          {
+            "type": "text",
+            "text": "|"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "H"
+          },
+          {
+            "type": "text",
+            "text": "), by the prior probability that the hypothesis is true, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "P"
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "H"
+          },
+          {
+            "type": "text",
+            "text": "). This calculation is often easy, but normalizing the probability\u2014making sure that across all hypotheses, the probabilities of the hypotheses given the evidence sum up to one as they should\u2014requires dividing each outcome by the normalizing constant that sums across all hypotheses, \u2211"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "H"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " P"
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "E"
+          },
+          {
+            "type": "text",
+            "text": "|"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "H"
+          },
+          {
+            "type": "text",
+            "text": ")"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "P"
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "H"
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ng8uo5rokom",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This sum can be intractable\u2014very difficult or expensive to compute with current computers\u2014with many hypotheses. For example, interpreting facial expression would involve summing across thousands of hypothesis adjectives (e.g., \u201cdiscombobulated\u201d)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nttmr8wep1w",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "\u00a0MCMC avoids the need to calculate the normalizing constant. It works by starting with a particular hypothesis, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "H"
+          },
+          {
+            "type": "text",
+            "text": ", and then randomly proposing a new hypothesis, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "H\u2032"
+          },
+          {
+            "type": "text",
+            "text": ", that is similar to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "H "
+          },
+          {
+            "type": "text",
+            "text": "(e.g., starting with \u201chappy\u201d and proposing \u201cecstatic\u201d). A stochastic decision (i.e., the acceptance function) is then made whether to switch to this new hypothesis; as the probability of switching depends only on the probability of the new state "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "P"
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "H\u2032"
+          },
+          {
+            "type": "text",
+            "text": "|"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "E"
+          },
+          {
+            "type": "text",
+            "text": ") divided by the probability of the old state "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "P"
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "H"
+          },
+          {
+            "type": "text",
+            "text": "|"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "E"
+          },
+          {
+            "type": "text",
+            "text": "), the normalizing constant cancels and so is unnecessary.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ne5cg2wsar8",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A long sequence of MCMC states can be treated as samples from the probability distribution, but this tractability comes with a cost: samples are no longer independent of one another. This means that many MCMC samples may only be as informative as a small number of independent samples ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nff1ektgwyn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nprepl2zwjt\" data-reactroot=\"\">Jones, G. L., &amp; Qin, Q. (2022). Markov chain Monte Carlo in practice. <em>Annual Review of Statistics and Its Application</em>, <em>9</em>, 557\u2013578. <a href=\"https://doi.org/10.1146/annurev-statistics-040220-090158\">https://doi.org/10.1146/annurev-statistics-040220-090158</a> \u00a0</p>",
+              "customLabel": "Jones & Qin, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5kxy451gce",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2hoabzzeaa\" data-reactroot=\"\">Neal, R. M. (1993). <em>Probabilistic inference using Markov Chain Monte Carlo methods </em>(tech. rep. No. CRG-TR-93-1). Department of Computer Science, University of Toronto.\u00a0</p>",
+              "customLabel": "Neal, 1993",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "more-sophisticated-mcmc-algorithms",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "More sophisticated MCMC algorithms"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nlnz7o6jxoc",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "For complex problems, more sophisticated versions of MCMC are used. Gibbs sampling is an MCMC method that works for multivariate probability distributions that can be analytically separated. Hybrid Monte Carlo, employed in the software package Stan ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5ji6blucl8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8rw6n97szd\" data-reactroot=\"\">Carpenter, B., Gelman, A., Hoffman, M. D., Lee, D., Goodrich, B., Betancourt, M., Brubaker, M. A., Guo, J., Li, P., &amp; Riddell, A. (2017). Stan: A probabilistic programming language.\u00a0<em>Journal of Statistical Software</em>,\u00a0<em>76</em>, 1. <a href=\"https://doi.org/10.18637/jss.v076.i01\">https://doi.org/10.18637/jss.v076.i01</a> </p>",
+              "customLabel": "Carpenter et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), is a method that utilizes the gradients (i.e., slopes) of continuous probability distributions."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "non-mcmc-approximations",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Non-MCMC approximations"
+          },
+          {
+            "type": "text",
+            "text": "\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngp0r9ajitj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "MCMC is not always the best approximation. If data are observed sequentially, then MCMC is inefficient, as it needs to start afresh after each new observation. For this situation, sequential Monte Carlo methods such as particle filters are often used ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4nozh16n32",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nd9xsa7pj8z\" data-reactroot=\"\">Doucet, A., de Freitas, N., &amp; Gordon, N. (2001). <em>Sequential Monte Carlo methods in practice</em>. New York: Springer.\u00a0</p>",
+              "customLabel": "Doucet et al., 2001",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0Other approaches abandon sampling altogether and instead simplify the probability distribution itself. These variational approximations usually are fast and deterministic but are biased by these simplifications ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n617jd3tz74",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nixbi5uvghm\" data-reactroot=\"\">Jordan, M. I., Ghahramani, Z., Jaakkola, T. S., &amp; Saul, L. K. (1999). An introduction to variational methods for graphical models.\u00a0<em>Machine Learning</em>,\u00a0<em>37</em>, 183-233.</p>",
+              "customLabel": "Jordan et al., 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "use-as-an-elicitation-method",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Use as an elicitation method"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvjmj6hohyy",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In addition to its use as a data analysis tool, in cognitive science, MCMC has been used as a method to elicit beliefs. Bayesian models of cognition assume that people act as if they employ probability distributions in their minds but it is challenging to elicit these distributions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nc3ppclp6uz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwddnu8klpa\" data-reactroot=\"\">Mikkola, P., Martin, O. A., Chandramouli, S., Hartmann, M., Pla, O. A., Thomas, O., Pesonen, H., Corander, J., Vehtari, A., Kaski, S., B\u00fcrkner, P. C., Klami, A. (in press). Prior knowledge elicitation: The past, present, and future. <em>Bayesian Analysis</em>. <a href=\"https://doi.org/10.1214/23-BA1381\">https://doi.org/10.1214/23-BA1381</a> \u00a0</p>",
+              "customLabel": "Mikkola et al., in press",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Using a formal link between the acceptance probability used by MCMC and the probabilities with which people make decisions, MCMC with People has participants make decisions between pairs of stimuli ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw2ttcs7gub",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4ic4vpopyw\" data-reactroot=\"\">Sanborn, A. N., Griffiths, T. L., &amp; Shiffrin, R. M. (2010). Uncovering mental representations with Markov chain Monte Carlo. <em>Cognitive Psychology</em>, <em>60</em>(2), 63\u2013106. <a href=\"https://doi.org/10.1016/j.cogpsych.2009.07.001\">https://doi.org/10.1016/j.cogpsych.2009.07.001</a> \u00a0</p>",
+              "customLabel": "Sanborn et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For example, to determine the distribution of faces associated with the adjective \u201chappy,\u201d participants are asked which of a pair of faces is happier. A long sequence of chosen options can then be treated as samples from that person\u2019s belief distribution of what happy faces look like. There are several variants of this method ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nru7265fsd4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb1iwhmp1z5\" data-reactroot=\"\">Harrison, P., Marjieh, R., Adolfi, F., van Rijn, P., Anglada-Tort, M., Tcher nichovski, O., Larrouy-Maestri, P., &amp; Jacoby, N. (2020). Gibbs sampling with people. In H. Larochelle, M. Ranzato, R. Hadsell, M. Balcan, &amp; H. Lin (Eds.), <em>Advances in neural information processing systems </em>(pp. 10659\u201310671, Vol. 33). New York: Curran Associates, Inc.</p>",
+              "customLabel": "Harrison et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsxn7nmn3y7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwj5wn82f8z\" data-reactroot=\"\">Hsu, A. S., Martin, J. B., Sanborn, A. N., &amp; Griffiths, T. L. (2019). Identifying category representations for complex stimuli using discrete Markov chain Monte Carlo with people. <em>Behavior Research Methods</em>, <em>51</em>, 1706\u2013 1716. <a href=\"https://doi.org/10.3758/s13428-019-01201-9\">https://doi.org/10.3758/s13428-019-01201-9</a> \u00a0</p>",
+              "customLabel": "Hsu et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "use-as-a-model-of-behavior-and-the-brain",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Use as a model of behavior and the brain"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nl83n0lcrhs",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "MCMC has been used to model how the brain generates the hypotheses that drive behavior [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/lwxmte1p",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Bayesian Models of Cognition"
+          },
+          {
+            "type": "text",
+            "text": "]. It is more psychologically plausible than exact Bayesian inference, as there is no need to simultaneously represent all possible hypotheses\u2014instead only one or a few hypotheses are represented at any one time ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nclhfqukofe",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0pzbgmlhnk\" data-reactroot=\"\">Hoyer, P., &amp; Hyv\u00e4rinen, A. (2002). Interpreting neural response variability as Monte Carlo sampling of the posterior. In S. Becker, S. Thrun, &amp; K. Obermayer (Eds.), <em>Advances in neural information processing systems </em>(Vol. 15). Cambridge, MA: MIT Press. </p>",
+              "customLabel": "Hoyer & Hyv\u00e4rinen, 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For example, when interpreting a facial expression, the brain might use MCMC to sample \u201chappy\u201d alone, instead of representing the entire probability distribution of adjectives.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqo74obr8t4",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Behaviorally, MCMC has been used to explain a wide range of biases. It helps to explain why decisions are probabilistic rather than deterministic\u2014if peoples\u2019 decisions are based on a small number of samples, the most prevalent response in the samples will not always be consistent ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7jp474wmp3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6ugikvnzt3\" data-reactroot=\"\">Vul, E., Goodman, N., Griffiths, T. L., &amp; Tenenbaum, J. B. (2014). One and done? Optimal decisions from very few samples. <em>Cognitive Science</em>, <em>38</em>(4), 599\u2013637. <a href=\"https://doi.org/10.1111/cogs.12101\">https://doi.org/10.1111/cogs.12101</a> \u00a0 </p>",
+              "customLabel": "Vul et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In studies of perception, MCMC has been used to explain bistable perception: why people switch between interpretations of stimuli, such as the face/vase illusion or a Necker cube, that have more than one distinct interpretation. These MCMC models have also been connected to underlying neural representations ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nr99nk3u6np",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n70ayxw23c8\" data-reactroot=\"\">Fiser, J., Berkes, P., Orb\u00e1n, G., &amp; Lengyel, M. (2010). Statistically optimal perception and learning: From behavior to neural representations. <em>Trends in Cognitive Sciences</em>, <em>14</em>(3), 119\u2013130. <a href=\"https://doi.org/10.1016/j.tics.2010.01.003\">https://doi.org/10.1016/j.tics.2010.01.003</a> \u00a0</p>",
+              "customLabel": "Fiser et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx5edqem3z1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0pzbgmlhnk\" data-reactroot=\"\">Hoyer, P., &amp; Hyv\u00e4rinen, A. (2002). Interpreting neural response variability as Monte Carlo sampling of the posterior. In S. Becker, S. Thrun, &amp; K. Obermayer (Eds.), <em>Advances in neural information processing systems </em>(Vol. 15). Cambridge, MA: MIT Press. </p>",
+              "customLabel": "Hoyer & Hyv\u00e4rinen, 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbtlcgkq9wd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj419myjhzz\" data-reactroot=\"\">Moreno-Bote, R., Knill, D. C., &amp; Pouget, A. (2011). Bayesian sampling in visual perception. <em>Proceedings of the National Academy of Sciences</em>, <em>108</em>(30), 12491\u201312496. <a href=\"https://doi.org/10.1073/pnas.1101430108\">https://doi.org/10.1073/pnas.1101430108</a> \u00a0</p>",
+              "customLabel": "Moreno-Bote et al., 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nlz282kf60p",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In studies of cognition, MCMC has produced framing effects in probability judgments by assuming task demands influence where MCMC starts sampling and similarly produces anchoring effects in estimates ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nacsgg9kzk7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njr5me7skvp\" data-reactroot=\"\">Dasgupta, I., Schulz, E., &amp; Gershman, S. J. (2017). Where do hypotheses come from? <em>Cognitive Psychology</em>, <em>96</em>, 1\u201325. <a href=\"https://doi.org/10.1016/j.cogpsych.2017.05.001\">https://doi.org/10.1016/j.cogpsych.2017.05.001</a>  \u00a0</p>",
+              "customLabel": "Dasgupta et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbpuj5e31b1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nn7rb94zouh\" data-reactroot=\"\">Lieder, F., Griffiths, T. L., Huys, Q. J., &amp; Goodman, N. D. (2018). The anchoring bias reflects rational use of cognitive resources. <em>Psychonomic Bulletin &amp; Review</em>, <em>25</em>(1), 322\u2013349. <a href=\"https://doi.org/10.3758/s13423-017-1286-8\">https://doi.org/10.3758/s13423-017-1286-8</a> \u00a0 </p>",
+              "customLabel": "Lieder et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In investigations of causal reasoning [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/ee7y4opg",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Causal Reasoning"
+          },
+          {
+            "type": "text",
+            "text": "], it has been used to explain the trial-by-trial correlations in judgments and the initial judgment biases ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsua6c3l662",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nldu6ow09au\" data-reactroot=\"\">Bramley, N. R., Dayan, P., Griffiths, T. L., &amp; Lagnado, D. A. (2017). Formalizing Neurath\u2019s ship: Approximate algorithms for online causal learning. <em>Psychological Review</em>, <em>124</em>(3), 301\u2013338. <a href=\"https://doi.org/10.1037/rev0000061\">https://doi.org/10.1037/rev0000061</a> \u00a0</p>",
+              "customLabel": "Bramley et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nq5l59nxhj5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwqo7vnwvj0\" data-reactroot=\"\">Davis, Z. J., &amp; Rehder, B. (2020). A process model of causal reasoning. <em>Cognitive Science</em>, <em>44</em>(5), e12839. <a href=\"https://doi.org/10.1111/cogs.12839\">https://doi.org/10.1111/cogs.12839</a> \u00a0</p>",
+              "customLabel": "Davis & Rehder, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). MCMC is a general approximation and so can unify explanations of different judgments, including probability judgments, decisions, and response times ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh1hv0opg7q",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n63ybnpb763\" data-reactroot=\"\">Zhu, J. Q., Sundh, J., Spicer, J., Chater, N., &amp; Sanborn, A. N. (2024). The Autocorrelated Bayesian Sampler: A rational process for probability judgments, estimates, confidence intervals, choices, confidence judgments, and response times. <em>Psychological Review, 131</em>(2),<em> </em>456\u2013493. <a href=\"https://doi.org/10.1037/rev0000427\">https://doi.org/10.1037/rev0000427</a></p>",
+              "customLabel": "Zhu et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Further reading\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "ne9ewn0oebx",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nesp3mq7nsf",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Van Ravenzwaaij, D., Cassey, P., & Brown, S. D. (2018). A simple introduction to Markov chain Monte\u2013Carlo sampling. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Psychonomic Bulletin & Review"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "25"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(1), 143\u2013154. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.3758/s13423-016-1015-8",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.3758/s13423-016-1015-8"
+                  },
+                  {
+                    "type": "text",
+                    "text": " \u00a0 "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nsqrlmwllcr",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Mikkola, P., Martin, O. A., Chandramouli, S., Hartmann, M., Pla, O. A., Thomas, O., Pesonen, H., Corander, J., Vehtari, A., Kaski, S., B\u00fcrkner, P. C., Klami, A. (in press). Prior knowledge elicitation: The past, present, and future. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Bayesian Analysis"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1214/23-BA1381",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1214/23-BA1381"
+                  },
+                  {
+                    "type": "text",
+                    "text": " \u00a0 "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nva6qyrbewc",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Sanborn, A. N., & Chater, N. (2016). Bayesian brains without probabilities. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Trends in Cognitive Sciences"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "20"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(12), 883\u2013893. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/j.tics.2016.10.003",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/j.tics.2016.10.003"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

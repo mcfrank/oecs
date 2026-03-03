@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Hugo
+public/
+resources/
+
+# Secrets and local config (do not commit credentials)
+.secrets
+
+# Optional: script output cache (if scripts write large HTML here)
+# scripts/output/

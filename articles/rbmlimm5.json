@@ -1,0 +1,1322 @@
+{
+  "id": "ac4dab11-2f04-42d0-bddd-41df9cf57f54",
+  "slug": "rbmlimm5",
+  "title": "Animal Cognition",
+  "url": "https://oecs.mit.edu/pub/rbmlimm5",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "ac4dab11-2f04-42d0-bddd-41df9cf57f54",
+    "slug": "rbmlimm5",
+    "title": "Animal Cognition",
+    "htmlTitle": "Animal Cognition",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": "2024-07-24T00:00:00.000Z",
+    "doi": "10.21428/e2759450.ac4dab11",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "6n9n0503",
+    "editHash": "zct9xlor",
+    "reviewHash": "z41oenrc",
+    "commentHash": "05ns15sr",
+    "draftId": "fae7ea1a-5785-427d-85ff-9dfc7a766fbb",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "0e994a76-3ac6-465d-b68e-43e1b82c2dc7",
+    "scopeSummaryId": "85d8294f-43a2-485a-94ce-65ba5e7b9c2c",
+    "createdAt": "2024-06-04T20:33:05.003Z",
+    "updatedAt": "2024-07-24T11:54:18.948Z",
+    "attributions": [
+      {
+        "id": "3b08d24a-68e6-4c0a-a7ca-d006287623af",
+        "name": "Josep Call",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of St Andrews",
+        "orcid": null,
+        "userId": null,
+        "pubId": "ac4dab11-2f04-42d0-bddd-41df9cf57f54",
+        "createdAt": "2024-06-04T20:34:27.165Z",
+        "updatedAt": "2024-06-04T20:34:34.706Z",
+        "user": null
+      },
+      {
+        "id": "673e92fc-258c-4f10-8b11-ffc7a31fa855",
+        "name": "Emilie Rapport Munro",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of St Andrews",
+        "orcid": null,
+        "userId": null,
+        "pubId": "ac4dab11-2f04-42d0-bddd-41df9cf57f54",
+        "createdAt": "2024-06-04T20:34:20.268Z",
+        "updatedAt": "2024-06-04T20:34:34.134Z",
+        "user": null
+      },
+      {
+        "id": "8e7899ea-4d0c-4066-b30b-30ec993c7f92",
+        "name": "Daniel Haun",
+        "avatar": null,
+        "title": null,
+        "order": 0.9375,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Max Planck Institute for Evolutionary Anthropology",
+        "orcid": null,
+        "userId": null,
+        "pubId": "ac4dab11-2f04-42d0-bddd-41df9cf57f54",
+        "createdAt": "2024-07-23T20:16:32.161Z",
+        "updatedAt": "2024-07-23T20:16:50.597Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "fae7ea1a-5785-427d-85ff-9dfc7a766fbb",
+      "latestKeyAt": "2024-07-23T20:49:27.448Z",
+      "firebasePath": "drafts/draft-fae7ea1a-5785-427d-85ff-9dfc7a766fbb",
+      "createdAt": "2024-06-04T20:33:04.998Z",
+      "updatedAt": "2025-03-07T15:55:20.431Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0h8opq20kq",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Animal cognition comprises the mental mechanisms through which animals acquire, process, and use information to generate adaptive responses. Typically, researchers use animals\u2019 observable behavior to infer their mental processes. A basic function of cognition is to enable animals to use information in a flexible, goal-directed manner."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1j0lapar2t",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Using anecdotes from many species, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nehdobkglqt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3c57k407u0\" data-reactroot=\"\">Romanes, G. J. (1882). The scientific evidences of organic evolution. MacMillan &amp; Co. <a href=\"https://doi.org/10.5962/bhl.title.32377\" title=\"\" target=\"_blank\">https://doi.org/10.5962/bhl.title.32377</a></p>",
+              "customLabel": "Romanes (1882)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " concluded that intelligent thought could be found in almost every animal species. However, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ne99zqwcrct",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nh0nrz6aa3x\" data-reactroot=\"\">Thorndike, E. L. (1898). <em>Animal intelligence: An experimental study of the associative processes in animals</em>. Columbia University Press. <a href=\"https://doi.org/10.1037/10780-000\" title=\"\" target=\"_blank\">https://doi.org/10.1037/10780-000</a></p>",
+              "customLabel": "Thorndike (1898)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " rejected Romanes\u2019s anecdotal approach and conducted systematic experiments that upheld his view that animals learn by trial and error. Soon afterwards, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8pn3ndzsn4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nd9ub545c3h\" data-reactroot=\"\">K\u00f6hler, W. (1925). <em>The mentality of apes</em>. Routledge.</p>",
+              "customLabel": "K\u00f6hler (1925)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " argued that trial and error alone could not fully explain chimpanzee problem-solving in spatial and tool-using tasks, arguing that insight is also required. The stage was set for the clash of two psychological systems that would dominate most of the 20th century: "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "behaviorism "
+          },
+          {
+            "type": "text",
+            "text": "and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cognitivism."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nb2t6c0urnn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "\u00a0"
+          },
+          {
+            "type": "text",
+            "text": "Behaviorists such as "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncoz1jcnxs8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzbfav0hhji\" data-reactroot=\"\">Watson, J. B. (1913). Psychology as the behaviorist views it. <em>Psychological Review,</em> <em>20</em>(2), 158\u2013177. <a href=\"https://doi.org/10.1037/h0074428\" title=\"\" target=\"_blank\">https://doi.org/10.1037/h0074428</a></p>",
+              "customLabel": "Watson (1913)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbng54jwv2g",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf6fntv1u88\" data-reactroot=\"\">Skinner, B. F. (1938). <em>Behavior of organisms</em>. Appleton-Century-Crofts.</p>",
+              "customLabel": "Skinner (1938)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " argued that behavior is reflexive and shaped by external reinforcement. Cognitivists like "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhqwwlcl9ur",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndtfdkizkdq\" data-reactroot=\"\">Tolman, E. C. (1948). Cognitive maps in rats and men. <em>Psychological Review,</em> <em>55</em>(4), 189\u2013208. <a href=\"https://doi.org/10.1037/h0061626\" title=\"\" target=\"_blank\">https://doi.org/10.1037/h0061626</a></p>",
+              "customLabel": "Tolman (1948)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " argued that animals are capable of mental representation and inference. Since then, the lines between the two schools have blurred: most researchers accept that animals form representations, but there remains disagreement on the relative importance of representations and associative processes. Animal cognition expanded significantly in the late 20th Century, encompassing subfields such as social intelligence (see, e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6167ds6oo1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvzk9trm4ll\" data-reactroot=\"\">Premack, D., &amp; Woodruff, G. (1978). Does the chimpanzee have a theory of mind? <em>Behavioral and Brain Sciences,</em> <em>1</em>(4), 515\u2013526. <a href=\"https://doi.org/10.1017/S0140525X00076512\" title=\"\" target=\"_blank\">https://doi.org/10.1017/S0140525X00076512</a></p>",
+              "customLabel": "Premack & Woodruff, 1978",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and language and communication (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ns2a9yym5u0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1voue8icqh\" data-reactroot=\"\">Cheney, D. L., &amp; Seyfarth, R. M. (1985). Vervet monkey alarm calls: Manipulation through shared information? <em>Behaviour,</em> <em>94</em>(1-2), 150\u2013166. <a href=\"https://doi.org/10.1163/156853985X00316\" title=\"\" target=\"_blank\">https://doi.org/10.1163/156853985X00316</a></p>",
+              "customLabel": "Cheney & Seyfarth, 1985",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/sk15jg0g",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Animal Culture"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n76fbkx5huq",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cognition confers flexibility to organisms. There are five key concepts that foster this flexibility. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njpusjqvwy8",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Representation"
+          },
+          {
+            "type": "text",
+            "text": " is the process of encoding and, in many cases, storing information. Representation allows animals to make decisions beyond the information they currently perceive, such as holding expectations about a particular outcome based on previous experience. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3j7mu4dlfz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Association"
+          },
+          {
+            "type": "text",
+            "text": ", crucial for various forms of learning, entails establishing and storing connections between stimuli and possible responses for the positive or negative consequences these stimuli may confer. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrt8947w3wy",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Inference "
+          },
+          {
+            "type": "text",
+            "text": "consists of connecting and recombining disparate stimuli and representations to make predictions. This is important for problem-solving, enabling animals to reason and reach novel conclusions. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nydlxihqklv",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Abstraction"
+          },
+          {
+            "type": "text",
+            "text": " denotes the formation of representations, or concepts, applicable to distinct exemplars despite their differences in basic features. Underlying abstraction are the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "relations"
+          },
+          {
+            "type": "text",
+            "text": " between stimuli, which can be first order (A = A or A \u2260 B) or second order (AA = BB or AB \u2260 BB)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbtbizzufde",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Most controversies in animal cognition revolve around the nature of the representations underlying behavior or the processes supporting the production of novel responses. For instance, in tasks to investigate whether animals represent other individuals\u2019 mental states, some authors maintain that animals use behavioral rules based on observable behavior ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrs6r63adge",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngezfwet8mp\" data-reactroot=\"\">Povinelli, D. J., &amp; Vonk, J. (2003). Chimpanzee minds: Suspiciously human? <em>Trends in Cognitive Sciences,</em> <em>7</em>(4), 157\u2013160. <a href=\"https://doi.org/10.1016/S1364-6613(03)00053-6\" title=\"\" target=\"_blank\">https://doi.org/10.1016/S1364-6613(03)00053-6</a></p>",
+              "customLabel": "Povinelli & Vonk, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), while others assert that some species go beyond this, representing other individuals\u2019 psychological states (e.g., goals) ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "na2mm3dc4jc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1hwis036kz\" data-reactroot=\"\">Call, J., &amp; Tomasello, M. (2008). Does the chimpanzee have a theory of mind? 30 years later. <em>Trends in Cognitive Sciences,</em> <em>12</em>(5), 187\u2013192. <a href=\"https://doi.org/10.1016/j.tics.2008.02.010\" title=\"\" target=\"_blank\">https://doi.org/10.1016/j.tics.2008.02.010</a></p>",
+              "customLabel": "Call & Tomasello, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmt5yw5ouus",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nh0zdxot9ac\" data-reactroot=\"\">Krupenye, C., &amp; Call, J. (2019). Theory of mind in animals: Current and future directions. <em>Wiley Interdisciplinary Reviews: Cognitive Science,</em> <em>10</em>(6), e1503. <a href=\"https://doi.org/10.1002/wcs.1503\" title=\"\" target=\"_blank\">https://doi.org/10.1002/wcs.1503</a></p>",
+              "customLabel": "Krupenye & Call, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/8q02cvue",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Theory of Mind"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nx28fvourbj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Another set of controversies contrasts cognitive and non-cognitive processes. For example, some authors have argued that animal vocalizations lack intentionality and are solely tied to internal emotional states, whereas others proposed that vocalizations refer to external entities ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nc67m6hcje9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npj0ey44d25\" data-reactroot=\"\">Graham, K.E., Wilke, C., Lahiff, N.J., &amp; Slocombe, K.E. (2019). Scratching beneath the surface: intentionality in great ape signal production. <em>Philosophical Transactions of the Royal Society B, 375</em>(1789), 20180403. <a href=\"https://doi.org/10.1098/rstb.2018.0403\">https://doi.org/10.1098/rstb.2018.0403</a></p>",
+              "customLabel": "Graham et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Although it is now widely accepted that some vocalizations have a referential component, there is disagreement about its nature.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkpuvdqebdz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Some controversies center around the taxonomic distribution of a particular ability.\u00a0 For instance, some authors maintain that only great apes exhibit mirror self-recognition, while others argue that elephants, dolphins, and some birds show it too ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8tyk90kgdm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvl5422e2lk\" data-reactroot=\"\">Gallup, G. G., Jr., &amp; Anderson, J. R. (2020). Self-recognition in animals: Where do we stand 50 years later? Lessons from cleaner wrasse and other species. <em>Psychology of Consciousness : Theory, Research, and Practice,</em> <em>7</em>(1), 46\u201358. <a href=\"https://doi.org/10.1037/cns0000206\" title=\"\" target=\"_blank\">https://doi.org/10.1037/cns0000206</a></p>",
+              "customLabel": "Gallup & Anderson, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). At the core of this controversy lie the different methods used across species. Although there is agreement on the necessity of adapting methods to achieve a broad comparative scope, there is much argument over what constitutes a valid method or a diagnostic response."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nboicqq8tt6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One new development is social network analysis: the study of groups as a function of the relationships between individuals. This method is based on the axiom that the role an agent plays within its social sphere and the links between this agent and others will be determinants of the agent\u2019s behavior and evolutionary fitness ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nndpkxspfv2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nm6poyami53\" data-reactroot=\"\">Freeman, L. (2004). <em>The development of social network analysis: A study in the sociology of science</em>. Empirical Press.</p>",
+              "customLabel": "Freeman, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "np88ei95802",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Another contemporary topic is metacognition\u2014the monitoring of one\u2019s own cognitive states\u2014which first appeared in comparative circles in the 1990s and has since experienced a boom in research interest.\u00a0 Since researchers cannot use verbal self-reporting to study metacognition in animals, they have devised other methods including the uncertainty-response task ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsxd6j5qrz4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntvjv0tsn49\" data-reactroot=\"\">Smith, J. D., Schull, J., Strote, J., McGee, K., Egnor, R., &amp; Erb, L. (1995). The uncertain response in the bottlenosed dolphin (<em>Tursiops truncatus</em>). <em>Journal of Experimental Psychology. General,</em> <em>124</em>(4), 391\u2013408. <a href=\"https://doi.org/10.1037/0096-3445.124.4.391\" title=\"\" target=\"_blank\">https://doi.org/10.1037/0096-3445.124.4.391</a></p>",
+              "customLabel": "Smith et al., 1995",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "noursnw0paz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Traditional data collection methods have now been complemented with technologies such as thermal imaging to study animal arousal ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2218ue5824",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfs4uwn981x\" data-reactroot=\"\">Barrault, C. Soldati, A., Hobaiter, C., Mugisha, S., De Moor, D., Zuberb\u00fchler, K., &amp; Dezecache, G. (2022). Thermal imaging reveals social monitoring during social feeding in wild chimpanzees. <em>Philosophical Transactions of the Royal Society B., 377</em>(1860), 20210302. <a href=\"https://doi.org/10.1098/rstb.2021.0302\">https://doi.org/10.1098/rstb.2021.0302</a></p>",
+              "customLabel": "Barrault et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and eye tracking to study attention ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6jniveowd7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"niq6hgccvvc\" data-reactroot=\"\">Lewis, L. S., &amp; Krupenye, C. (2022). Eye-tracking as a window into primate social cognition. <em>American Journal of Primatology,</em> <em>84</em>(10), e23393. <a href=\"https://doi.org/10.1002/ajp.23393\" title=\"\" target=\"_blank\">https://doi.org/10.1002/ajp.23393</a></p>",
+              "customLabel": "Lewis and Krupenye, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). There are also novel ways of coding data\u2014for example, DeepLabCut, a system that uses neural networks to analyze animal poses, is being used to code gestural communication automatically ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnm83tuut5z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqhn5mj0fue\" data-reactroot=\"\">Wiltshire, C., Lewis-Cheetham, J., Komedov\u00e1, V., Matsuzawa, T., Graham, K. E., &amp; Hobaiter, C. (2023). DeepWild: Application of the pose estimation tool DeepLabCut for behaviour tracking in wild chimpanzees and bonobos. <em>Journal of Animal Ecology,</em> <em>92</em>(8), 1560\u20131574. <a href=\"https://doi.org/10.1111/1365-2656.13932\" title=\"\" target=\"_blank\">https://doi.org/10.1111/1365-2656.13932</a></p>",
+              "customLabel": "Wiltshire et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Artificial intelligence is also at the forefront of research in other ways\u2014for instance, dynamic compositional strategy models are used to analyze observed behavior patterns."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "npyd4dbqkdo",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Animal cognition is related to multiple disciplines in the natural, social and technological sciences. The connections with evolutionary biology and developmental psychology are particularly strong; cognition, after all, is often involved in the production of adaptive responses during evolution and ontogeny. These disciplines often share conceptual frameworks and methods."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1th7f2qazv",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Connections with social sciences have been strengthened in recent years, particularly with linguistics and economics. Some linguists are interested in what kind of communication is possible without language and what are the evolutionary building blocks of language ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4pcpbl8vfh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n98mxtyx0n2\" data-reactroot=\"\">Amphaeris, J., Shannon, G., &amp; Tenbrink, T. (2021). Cognitive linguistics support for the evolution of language from animal cognition. <em>Proceedings of the Annual Meeting of the Cognitive Science Society</em>, 43. Retrieved from https://escholarship.org/uc/item/46s8778g</p>",
+              "customLabel": "Amphaeris, Shannon, & Tenbrink, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Comparative researchers have adapted paradigms originally developed by economists to investigate how animals make decisions and what are the evolutionary roots of human economic decisions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9b4j7aegow",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nieay58r1w4\" data-reactroot=\"\">Wood, R. I., Kim, J. Y., &amp; Li, G. R. (2016). Cooperation in rats playing the iterated Prisoner\u2019s Dilemma game. <em>Animal Behaviour,</em> <em>114</em>, 27\u201335. <a href=\"https://doi.org/10.1016/j.anbehav.2016.01.010\" title=\"\" target=\"_blank\">https://doi.org/10.1016/j.anbehav.2016.01.010</a></p>",
+              "customLabel": "Wood, Kim & Li, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhz3fvx050s",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Finally, the study of the relationship between biological and artificial cognition is gaining momentum. Artificial intelligence researchers are building computational models of animal behavior, using artificial agents to simulate behavior and contrasting the outcomes of their simulations against the responses of biological agents. Moreover, the neuronal architecture of animal intelligence offers an excellent springboard to develop artificial algorithms ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nr1g1z8emri",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxpmxubo8ug\" data-reactroot=\"\">Hassabis, D., Kumaran, D., Summerfield, C., &amp; Botvinick, M. (2017). Neuroscience-inspired artificial intelligence. <em>Neuron,</em> <em>95</em>(2), 245\u2013258. <a href=\"https://doi.org/10.1016/j.neuron.2017.06.011\" title=\"\" target=\"_blank\">https://doi.org/10.1016/j.neuron.2017.06.011</a></p>",
+              "customLabel": "Hassabis et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "njc8dd0p663",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nd9ub545c3h",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "K\u00f6hler, W. (1925). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The mentality of apes"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Routledge."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n6sjn5r8ali",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nxfcrq9aj6u",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Shettleworth, S. J. (1998). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Cognition, evolution, and behavior"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Oxford University Press."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nhd9gcepwq1",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nljganb6px8",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Washburn, M.F. (1908). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The animal mind: A textbook of comparative psychology."
+                  },
+                  {
+                    "type": "text",
+                    "text": " MacMillan & Co."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

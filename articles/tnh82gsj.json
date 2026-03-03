@@ -1,0 +1,1542 @@
+{
+  "id": "25dc99f6-b419-4782-9a8c-9d157cb5f539",
+  "slug": "tnh82gsj",
+  "title": "Neuroeconomics",
+  "url": "https://oecs.mit.edu/pub/tnh82gsj",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "25dc99f6-b419-4782-9a8c-9d157cb5f539",
+    "slug": "tnh82gsj",
+    "title": "Neuroeconomics",
+    "htmlTitle": "Neuroeconomics",
+    "description": "",
+    "htmlDescription": "Joseph W. Kable (0000-0001-6495-9040)\nDepartment of Psychology, University of Pennsylvania",
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.25dc99f6",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "i2uh4c92",
+    "editHash": "0486q63i",
+    "reviewHash": "xo1qti3s",
+    "commentHash": "kdbrlwzx",
+    "draftId": "e6d24a4c-8097-4e3c-ae34-50c64db7fcd8",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "7f47b3e9-feab-4b16-a5e1-8ae104959033",
+    "scopeSummaryId": "820800cc-b0cf-4ff0-9f0c-2efbb7cf5b92",
+    "createdAt": "2025-07-17T15:33:10.863Z",
+    "updatedAt": "2025-08-19T19:22:32.743Z",
+    "attributions": [
+      {
+        "id": "5261de16-efb4-403e-a72d-c9abd81e10fc",
+        "name": "Joseph W. Kable",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Department of Psychology, University of Pennsylvania",
+        "orcid": "0000-0001-6495-9040",
+        "userId": null,
+        "pubId": "25dc99f6-b419-4782-9a8c-9d157cb5f539",
+        "createdAt": "2025-07-17T15:37:42.293Z",
+        "updatedAt": "2025-07-17T15:37:53.852Z",
+        "user": null
+      },
+      {
+        "id": "b0abaa3c-edc0-4153-ab31-209bcc30fc8f",
+        "name": "Marina Bedny",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Johns Hopkins University",
+        "orcid": "0000-0002-2907-8042",
+        "userId": null,
+        "pubId": "25dc99f6-b419-4782-9a8c-9d157cb5f539",
+        "createdAt": "2025-07-25T19:51:52.117Z",
+        "updatedAt": "2025-07-25T19:52:14.032Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "e6d24a4c-8097-4e3c-ae34-50c64db7fcd8",
+      "latestKeyAt": "2025-08-15T00:23:17.784Z",
+      "firebasePath": "drafts/draft-e6d24a4c-8097-4e3c-ae34-50c64db7fcd8",
+      "createdAt": "2025-07-17T15:33:10.811Z",
+      "updatedAt": "2025-08-19T19:22:15.917Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkf3ztvvnvz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Neuroeconomics is the study of decision-making that integrates theories, methods, and insights from economics, psychology, and neuroscience. Motivating this integration is the desire to understand decision-making at multiple levels of analysis\u2014from what goal the decision-maker might be trying to achieve and what choices would maximize that goal, to what cognitive representations and processes the decision-maker uses to make their decision and how those representations and processes are realized in the brain. Underlying this research program is the belief that these different levels of analysis should inform and constrain each other: Neuroeconomics prizes explanations of decision-making that are consilient across academic fields and that account for both what individuals choose and the psychological and neural mechanisms that generate those choices."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nuwysxqcfmv",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Much ongoing work in neuroeconomics has historical roots in, for example, utility theory in economics, preference models in psychology, dynamic accumulator models in perception and memory, or theories of learning. However, the formation of the interdisciplinary field of neuroeconomics accelerated around the turn of the century because of several developments within its parent fields of economics, psychology, and neuroscience. The field of cognitive neuroscience was growing rapidly, fueled by the development of several powerful new techniques for measuring and manipulating the human brain. As neuroscientists began to ask questions about how the brain makes decisions, they turned to formal models in economics and decision psychology to frame these investigations. At the same time, behavioral economics, which incorporated psychological insights into economic models to better account for human behavior, had gained a foothold within economics, and several behavioral economists turned to neuroscience for further inspiration and evidence. These scholars came together to develop a common vocabulary and toolkit for neuroeconomics. The creation of the first academic societies, the holding of the first conferences dedicated to neuroeconomics, and the publication of the first textbooks of neuroeconomics all date to the first decade of the 21st century."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "utility-and-subjective-value",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Utility and subjective value"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njx694fzroe",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Mathematical models of decision-making in psychology and economics often assume that a decision-maker assigns a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "utility"
+          },
+          {
+            "type": "text",
+            "text": ", or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "subjective value"
+          },
+          {
+            "type": "text",
+            "text": ", to each option being considered and then chooses the option with the highest subjective value. Thus, one central question in neuroeconomics has been whether there are neural signals related to the subjective value of different options during decision-making. Using functional magnetic resonance imaging, neural correlates of subjective value have been observed consistently during decision-making in several brain regions, including the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "ventromedial prefrontal cortex"
+          },
+          {
+            "type": "text",
+            "text": " and the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "ventral striatum"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0s81iagyhc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqqu88qfloc\" data-reactroot=\"\">Bartra, O., McGuire, J. T., &amp; Kable, J. W. (2013). The valuation system: A coordinate-based meta-analysis of BOLD fMRI experiments examining neural correlates of subjective value. <em>NeuroImage</em>, <em>76</em>, 412\u2013427. <a href=\"https://doi.org/10.1016/j.neuroimage.2013.02.063\" title=\"\">https://doi.org/10.1016/j.neuroimage.2013.02.063</a></p>",
+              "customLabel": "Bartra et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Neural correlates of subjective value have also been identified in single neurons in similar regions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nv76wpnhh1c",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"na9vw8wiiux\" data-reactroot=\"\">Padoa-Schioppa, C. (2011). Neurobiology of economic choice: A good-based model. <em>Annual Review of Neuroscience</em>, <em>34</em>(1), 333\u2013359. <a href=\"https://doi.org/10.1146/annurev-neuro-061010-113648\" title=\"\">https://doi.org/10.1146/annurev-neuro-061010-113648</a></p>",
+              "customLabel": "Padoa-Schioppa, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "preferences-and-individual-differences",
+          "id": "preferences-and-individual-differences",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Preferences and individual differences"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n47v308bfrd",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Mathematical models of decision-making can also be used to study individual differences. Parameters in these models can account for people\u2019s idiosyncratic preferences regarding risk and uncertainty (e.g., would you choose $20 for sure or a 50% chance to win $40?), intertemporal tradeoffs (e.g., would you choose $20 now or $40 in 90 days?), or interpersonal tradeoffs (e.g., would you split $20 equally with a stranger or keep the entire amount for yourself?). Neuroeconomists have examined the association between these parameters and different aspects of brain structure or function ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsqfe98depz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ne2oj1ipfwm\" data-reactroot=\"\">Kable, J. W., &amp; Levy, I. (2015). Neural markers of individual differences in decision-making. <em>Current Opinion in Behavioral Sciences</em>, <em>5</em>, 100\u2013107. <a href=\"http://linkinghub.elsevier.com/retrieve/pii/S2352154615001102\" title=\"\">http://linkinghub.elsevier.com/retrieve/pii/S2352154615001102</a></p>",
+              "customLabel": "Kable & Levy, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). They have also studied how these preferences change over the course of the lifespan, from childhood through older adulthood ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n07qn4gur60",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5m7t43z2t4\" data-reactroot=\"\">Hartley, C. A., &amp; Somerville, L. H. (2015). The neuroscience of adolescent decision-making. <em>Current Opinion in Behavioral Sciences</em>, <em>5</em>, 108\u2013115. <a href=\"https://doi.org/10.1016/j.cobeha.2015.09.004\" title=\"\">https://doi.org/10.1016/j.cobeha.2015.09.004</a></p>",
+              "customLabel": "Hartley & Somerville, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzvqbrca0l5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njqwit45kr9\" data-reactroot=\"\">Lighthall, N. R. (2020). Neural mechanisms of decision\u2010making in aging. <em>Wiley Interdisciplinary Reviews: Cognitive Science</em>, <em>11</em>(1), e1519. <a href=\"https://doi.org/10.1002/wcs.1519\" title=\"\">https://doi.org/10.1002/wcs.1519</a></p>",
+              "customLabel": "Lighthall, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "choice-dynamics",
+          "id": "choice-dynamics",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Choice dynamics"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nz8ox8ggik2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The class of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "integration-to-bound"
+          },
+          {
+            "type": "text",
+            "text": " models, which includes the widely used "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "drift diffusion model"
+          },
+          {
+            "type": "text",
+            "text": ", can be used to explain why some choices take longer than others and why some choices are more variable than others. These models posit that information for or against different choice options accumulate over time until a threshold is reached for making a decision. Neural activity consistent with such an integration-to-bound process has been found in many brain regions involved in decision-making ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncazs08k5bi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n14npe8rsvh\" data-reactroot=\"\">Gold, J. I., &amp; Shadlen, M. N. (2007). The neural basis of decision making. <em>Annual Review of Neuroscience</em>, <em>30</em>(1), 535\u2013574. <a href=\"https://doi.org/10.1146/annurev.neuro.29.051605.113038\" title=\"\">https://doi.org/10.1146/annurev.neuro.29.051605.113038</a></p>",
+              "customLabel": "Gold & Shadlen, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "reinforcement-learning",
+          "id": "reinforcement-learning",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Reinforcement learning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nsv7ha6xh1m",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Reinforcement learning"
+          },
+          {
+            "type": "text",
+            "text": " concerns how humans and other agents learn from trial-and-error experience which actions are the most valuable to take [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/k2ek981x",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Reinforcement Learning"
+          },
+          {
+            "type": "text",
+            "text": "]. A key teaching signal in reinforcement learning models is the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "reward prediction error"
+          },
+          {
+            "type": "text",
+            "text": ", the difference between the reward received and the reward expected. Much research has examined how the responses of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "dopaminergic neurons"
+          },
+          {
+            "type": "text",
+            "text": " resemble a reward prediction error signal ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n31i8ay5jd0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npaie7c2yei\" data-reactroot=\"\">Schultz, W., Dayan, P., &amp; Montague, P. R. (1997). A neural substrate of prediction and reward. <em>Science</em>, <em>275</em>(5306), 1593\u20131599. <a href=\"http://pubmed.gov/9054347\" title=\"\">http://pubmed.gov/9054347</a></p>",
+              "customLabel": "Schultz et al., 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and the causal role for dopamine signals in learning about rewards through experience ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1kgij6a8wn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nup2e8s2xcq\" data-reactroot=\"\">Steinberg, E. E., Keiflin, R., Boivin, J. R., Witten, I. B., Deisseroth, K., &amp; Janak, P. H. (2013). A causal link between prediction errors, dopamine neurons and learning. <em>Nature Neuroscience</em>, <em>16</em>(7), 966\u2013973. <a href=\"https://doi.org/10.1038/nn.3413\" title=\"\">https://doi.org/10.1038/nn.3413</a></p>",
+              "customLabel": "Steinberg et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "altruism",
+          "id": "altruism",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Altruism"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwh3cnu5skp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Different explanations for altruistic decisions, when one individual sacrifices to help another, differ in the motivations they ascribe to the altruist. Neuroeconomists have used neural data, particularly signals measured from regions known to track subjective value, to reveal the motivations underlying altruistic choices ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzis9dp2u8c",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n97bfl88sol\" data-reactroot=\"\">Harbaugh, W. T., Mayr, U., &amp; Burghart, D. R. (2007). Neural responses to taxation and voluntary giving reveal motives for charitable donations. <em>Science</em>, <em>316</em>(5831), 1622\u20131625. <a href=\"https://doi.org/10.1126/science.1137065\" title=\"\">https://doi.org/10.1126/science.1137065</a></p>",
+              "customLabel": "Harbaugh et al., 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). They have also built on work in social cognitive neuroscience, which has identified neural networks critical for "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "empathy"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "mentalizing"
+          },
+          {
+            "type": "text",
+            "text": ", to examine the role of these social cognitive processes in altruism ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n25riw8svch",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng1k1czq47n\" data-reactroot=\"\">Tusche, A., Bockler, A., Kanske, P., Trautwein, F. M., &amp; Singer, T. (2016). Decoding the charitable brain: Empathy, perspective taking, and attention shifts differentially predict altruistic giving. <em>Journal of Neuroscience</em>, <em>36</em>(17), 4719\u20134732. <a href=\"https://doi.org/10.1523/jneurosci.3392-15.2016\" title=\"\">https://doi.org/10.1523/jneurosci.3392-15.2016</a></p>",
+              "customLabel": "Tusche et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/bc1nglmr",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Social Cognitive Neuroscience"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "game-theory-and-strategic-choice",
+          "id": "game-theory-and-strategic-choice",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Game theory and strategic choice"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n085o2vvzi8",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Situations in which multiple decision-makers are in cooperation or competition have been modeled in economics using "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "game theory"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "behavioral game theory"
+          },
+          {
+            "type": "text",
+            "text": ". Neuroeconomists have studied such situations, sometimes recording neural activity from multiple decision-makers at the same time. These studies have examined, for example, whether individuals whose choices reflect more steps of strategic reasoning exhibit more activity in mentalizing regions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4gjixw1cjz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnru92vfomo\" data-reactroot=\"\">Coricelli, G., &amp; Nagel, R. (2009). Neural correlates of depth of strategic reasoning in medial prefrontal cortex. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, <em>106</em>(23), 9163\u20139168. <a href=\"https://doi.org/10.1073/pnas.0807721106\">https://doi.org/10.1073/pnas.0807721106</a> </p>",
+              "customLabel": "Coricelli & Nagel, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and whether activity in mentalizing regions tracks learning about what others do in repeated strategic interactions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhrttr9q3tv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7c14z0h2hn\" data-reactroot=\"\">Hampton, A. N., Bossaerts, P., &amp; O\u2019Doherty, J. P. (2008). Neural correlates of mentalizing-related computations during strategic interactions in humans. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, <em>105</em>(18), 6741\u20136746. <a href=\"https://doi.org/10.1073/pnas.0711099105\" title=\"\">https://doi.org/10.1073/pnas.0711099105</a></p>",
+              "customLabel": "Hampton et al., 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "how-rational-are-the-psychological-and-neural-mechanisms-of-decision-making",
+          "id": "how-rational-are-the-psychological-and-neural-mechanisms-of-decision-making",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "How rational are the psychological and neural mechanisms of decision-making?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nd4ni4b31j7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Many ongoing debates in neuroeconomics concern the evidence for competing models of decision-making in each of the research domains discussed above. Often, competing models differ in the extent to which they assume psychological and neural processes depart from an idealized model that implements certain normative principles or optimally satisfies certain goals [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/hggua2hs",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Foundations of Rationality"
+          },
+          {
+            "type": "text",
+            "text": "]. For example, there is increasing evidence that the neural correlates of subjective value are "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "context dependent"
+          },
+          {
+            "type": "text",
+            "text": " in a manner that would predict violations of traditional versions of utility theory. However, opinions on the extent of context dependence and its implications are wide ranging, from those who argue that the brain may not in fact do any form of value maximization to those that argue that the kinds of context dependence observed are a predictable form of neural efficiency ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxraf016c2v",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6o05zg8t54\" data-reactroot=\"\">Louie, K., Glimcher, P. W., &amp; Webb, R. (2015). Adaptive neural coding: From biological to behavioral decision-making. <em>Current Opinion in Behavioral Sciences,</em> <em>5</em>, 91\u201399. <a href=\"https://doi.org/10.1016/j.cobeha.2015.08.008\" title=\"\">https://doi.org/10.1016/j.cobeha.2015.08.008</a></p>",
+              "customLabel": "Louie et al., 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "will-neuroeconomics-change-economics",
+          "id": "will-neuroeconomics-change-economics",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Will neuroeconomics change economics?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n45qxtjtmxj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "From the field\u2019s inception, critics of neuroeconomics have questioned whether it would, or even should, influence mainstream economics, with some economists arguing that data on psychological processes or neural mechanisms are irrelevant for the questions and methods that traditionally define economics. To date, one of neuroeconomics\u2019 most salient effects has been indirect, serving as inspiration for a recent "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cognitive turn"
+          },
+          {
+            "type": "text",
+            "text": " within economics. A foundational principle of neuroscience is that the brain faces efficiency constraints, that is, pressure to maximize the amount of useful information encoded while minimizing the use of neural resources and capacity. This principle is one inspiration for cognitive economic models that explain behavior previously considered irrational as arising from constraints on computational capacity combined with efficient coding ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuufu2vdbln",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6hiz28uxq8\" data-reactroot=\"\">Woodford, M. (2020). Modeling imprecision in perception, valuation, and choice. <em>Annual Review of Economics</em>, <em>12</em>(1), 579\u2013601. <a href=\"https://doi.org/10.1146/annurev-economics-102819-040518\" title=\"\">https://doi.org/10.1146/annurev-economics-102819-040518</a></p>",
+              "customLabel": "Woodford, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "will-neuroeconomics-lead-to-real-world-applications",
+          "id": "will-neuroeconomics-lead-to-real-world-applications",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Will neuroeconomics lead to real-world applications?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nsq6c6rya9n",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A recent development has been the potential for neuroeconomics to generate real-world applications. In the realm of business, researchers have used neuroeconomic methods to address questions in several applied academic fields, most prominently finance ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndhqj1ues0c",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n32xs0v9cgb\" data-reactroot=\"\">Frydman, C., &amp; Camerer, C. F. (2016). The psychology and neuroscience of financial decision making. <em>Trends in Cognitive Sciences</em>, <em>20</em>(9), 661\u2013675. <a href=\"https://doi.org/10.1016/j.tics.2016.07.003\" title=\"\">https://doi.org/10.1016/j.tics.2016.07.003</a></p>",
+              "customLabel": "Frydman & Camerer, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and marketing ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntgog9ovzv6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n45qcgzd3ge\" data-reactroot=\"\">Karmarkar, U. R., &amp; Plassmann, H. (2019). Consumer neuroscience: Past, present, and future. <em>Organizational Research Methods</em>, <em>22</em>(1), 174\u2013195. <a href=\"https://doi.org/10.1177/1094428117730598\" title=\"\">https://doi.org/10.1177/1094428117730598</a></p>",
+              "customLabel": "Karmarkar & Plassmann, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). One line of research concerns "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "neuroforecasting"
+          },
+          {
+            "type": "text",
+            "text": ", which has shown that neural signals measured in a smaller group of participants (typically less than 100) can predict the market-level performance of fundraising appeals or commercial ads or population-level sharing of news stories or social media ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ns92ts2dhno",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ncnss3q89h0\" data-reactroot=\"\">Knutson, B., &amp; Genevsky, A. (2018). Neuroforecasting aggregate choice. <em>Current Directions in Psychological Science</em>, <em>27</em>(2), 110\u2013115. <a href=\"https://doi.org/10.1177/0963721417737877\" title=\"\">https://doi.org/10.1177/0963721417737877</a></p>",
+              "customLabel": "Knutson & Genevsky, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Along these lines, many marketing research firms now claim to use neural measures in their work."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "no4qqdgjl43",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Another potentially promising domain of application is mental health. Recently, some policymakers have bemoaned the fact that decades of neuroscience research have so far failed to deliver revolutionary new mental health treatments. In response to this challenge, researchers have sought new approaches, one of which is computational psychiatry ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nklb6gd3dru",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"neert1tgllq\" data-reactroot=\"\">Huys, Q. J. M., Maia, T. V., &amp; Frank, M. J. (2016). Computational psychiatry as a bridge from neuroscience to clinical applications. <em>Nature Neuroscience</em>, <em>19</em>(3), 404\u2013413. <a href=\"https://doi.org/10.1038/nn.4238\" title=\"\">https://doi.org/10.1038/nn.4238</a></p>",
+              "customLabel": "Huys et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). One core approach in this new field is to use neuroeconomic paradigms to understand how psychological and neural processes are affected by different psychiatric conditions. "
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nlpa3725lgn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Neuroeconomics has deep connections to other areas of cognitive science, including perception and artificial intelligence. Many ideas in neuroeconomics, including integration-to-bound models and models of efficient coding, originated in studies of perceptual decision-making, and innovations in these models in perception are often quickly ported to study decisions based on subjective preferences ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9d0ov6osus",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntnwju5m0uc\" data-reactroot=\"\">Polania, R., Woodford, M., &amp; Ruff, C. C. (2019). Efficient coding of subjective value. <em>Nature Neuroscience</em>, <em>22</em>(1), 134\u2013142. <a href=\"https://doi.org/10.1038/s41593-018-0292-0\" title=\"\">https://doi.org/10.1038/s41593-018-0292-0</a></p>",
+              "customLabel": "Polania et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Similarly, as modern deep neural networks are trained using reinforcement learning algorithms, innovations in those algorithms have inspired new tests regarding the nature of the dopaminergic reward prediction error signal ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njjsgtvc5nl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfynfqfer96\" data-reactroot=\"\">Dabney, W., Kurth-Nelson, Z., Uchida, N., Starkweather, C. K., Hassabis, D., Munos, R., &amp; Botvinick, M. (2020). A distributional code for value in dopamine-based reinforcement learning. <em>Nature</em>, <em>577</em>(7792), 671\u2013675. <a href=\"https://doi.org/10.1038/s41586-019-1924-6\" title=\"\">https://doi.org/10.1038/s41586-019-1924-6</a></p>",
+              "customLabel": "Dabney et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading "
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n0mvk3r1ngq",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nxvkss01vow",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Kable, J. W., & Glimcher, P. W. (2009). The neurobiology of decision: Consensus and controversy. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Neuron"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "63"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(6), 733\u2013745. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/j.neuron.2009.09.003",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/j.neuron.2009.09.003"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nyxh328mhw4",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Rangel, A., Camerer, C., & Montague, P. R. (2008). A framework for studying the neurobiology of value-based decision making. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Nature Reviews Neuroscience"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "9"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(7), 545\u2013556. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1038/nrn2357",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1038/nrn2357"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

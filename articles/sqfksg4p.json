@@ -1,0 +1,1757 @@
+{
+  "id": "48614063-d2f8-438e-a562-ef8af1660b26",
+  "slug": "sqfksg4p",
+  "title": "Inner Speech",
+  "url": "https://oecs.mit.edu/pub/sqfksg4p",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "48614063-d2f8-438e-a562-ef8af1660b26",
+    "slug": "sqfksg4p",
+    "title": "Inner Speech",
+    "htmlTitle": "Inner Speech",
+    "description": "",
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": null,
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "f72ive1u",
+    "editHash": "k695x0f3",
+    "reviewHash": "agx6h8k9",
+    "commentHash": "c54yqepq",
+    "draftId": "4b191661-21d7-4069-af22-e900dedd629d",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": null,
+    "scopeSummaryId": "f12d8df5-0407-4b7d-abcb-f24a440898bb",
+    "createdAt": "2026-01-28T21:49:02.895Z",
+    "updatedAt": "2026-01-28T21:53:25.982Z",
+    "attributions": [
+      {
+        "id": "35ff929d-f691-4a87-a3d9-049b730746ee",
+        "name": "Charles Fernyhough",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Durham University",
+        "orcid": "0000-0002-3822-710X",
+        "userId": null,
+        "pubId": "48614063-d2f8-438e-a562-ef8af1660b26",
+        "createdAt": "2026-01-28T21:49:20.234Z",
+        "updatedAt": "2026-01-28T21:49:35.765Z",
+        "user": null
+      },
+      {
+        "id": "8952c825-3eff-40f3-a489-7039682162e8",
+        "name": "Evan Kidd",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "The Australian National University",
+        "orcid": "0000-0003-4301-2290",
+        "userId": null,
+        "pubId": "48614063-d2f8-438e-a562-ef8af1660b26",
+        "createdAt": "2026-01-28T21:52:48.336Z",
+        "updatedAt": "2026-01-28T21:53:00.258Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "4b191661-21d7-4069-af22-e900dedd629d",
+      "latestKeyAt": "2026-01-28T21:51:35.267Z",
+      "firebasePath": "drafts/draft-4b191661-21d7-4069-af22-e900dedd629d",
+      "createdAt": "2026-01-28T21:49:02.891Z",
+      "updatedAt": "2026-01-28T22:20:54.286Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfilcot620n",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Inner speech refers to the silent conversation with the self that many people report. Also termed "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "internal monologue"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "inner dialogue"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "inner speaking"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "verbal thinking"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "covert self-talk"
+          },
+          {
+            "type": "text",
+            "text": ", inner speech is increasingly researched as an important feature of human conscious experience. New cognitive and neuroscientific methods mean that some of the most challenging questions about the forms and functions of inner speech are opening up to scientific inquiry. Inner speech has been proposed to function as a cognitive tool, enhancing performance on various tasks by enabling regulation of the self through language. Outstanding questions and controversies include how different forms of inner speech are adapted to particular self-regulatory functions, and how methodological advances might improve understanding of individual differences in inner speech use."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhr1nfh7jt1",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Although the idea of a silent conversation with the self has been part of Western philosophical inquiry since the time of Plato (undated/1953) in Ancient Greece, the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.youtube.com/watch?v=95otBlepVHc",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "scientific study of inner speech"
+          },
+          {
+            "type": "text",
+            "text": " has been a relatively recent phenomenon. The Russian psychologist Vygotsky (1934/1987) was among the first to study inner speech systematically, viewing it as the end-point of a developmental process whereby social exchanges gradually become internalized. These social exchanges are mediated by language and initially shared between individuals, before they are eventually taken within to form an internal conversation with the self. An interim stage in this process is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "private speech"
+          },
+          {
+            "type": "text",
+            "text": ", in which preschool-aged children frequently talk to themselves out loud while solving a cognitive challenge."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ndwnh65kzmb",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "With the emergence of modern cognitive psychology in the latter part of the twentieth century, scholars began to understand inner speech as the functioning of the phonological loop component of a larger working memory system (Baddeley & Hitch, 1974) [see Working Memory]. Within the same period, researchers in sports psychology conducted research on how sports performers talk to themselves, although in this body of research silent self-directed speech (or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "covert self-talk"
+          },
+          {
+            "type": "text",
+            "text": ") is not typically distinguished from overt (i.e., audible) speech to the self. Empirical support has emerged for many aspects of these three theoretical approaches to inner speech (Alderson-Day & Fernyhough, 2015)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "inner-speech-as-a-cognitive-tool",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Inner speech as a cognitive tool"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4thj4zckxt",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Inner speech is thought to confer cognitive benefits by providing a means for self-regulation through language. Evidence suggests that this can occur through its role in focusing attention, enhancing rational decision-making by providing distance from the self, enhancing cognitive flexibility, and boosting working and long-term memory (Fernyhough & Borghi, 2023). Inner speech has also been implicated in the acquisition and use of abstract concepts (Borghi & Fernyhough, 2022) [see Cognitive Development; Word Learning], with more mixed findings emerging for its role in categorization (He et al., 2019; Gerwien et al., 2022). As might be expected from its self-directed nature, inner speech is also involved in processes related to the self, such as enhancing humans\u2019 ability to reflect on their own self\u2019s activities (Morin, 2018).\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "internalization-and-externalization",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Internalization and externalization"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "no8lutpw2ib",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Internalization"
+          },
+          {
+            "type": "text",
+            "text": " describes the process whereby social speech is taken within to create an internal conversation with the self, maintaining some of the structural features (e.g. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "dialogicality, "
+          },
+          {
+            "type": "text",
+            "text": "the feature that gives inner speech the to-and-fro structure of a conversation) of the social exchanges that gave rise to it. In the opposite direction, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "externalization"
+          },
+          {
+            "type": "text",
+            "text": " refers to the process whereby silent inner speech is converted back into its audible form. These processes continue to occur flexibly throughout the lifespan, helping researchers to make sense of relations between overt and covert forms of self-talk (see Figure 1)."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "nfu252jhgw0",
+          "url": "https://assets.pubpub.org/ce2759450-b8e2-433a-a70d-45aff0f75d45/p48614063-d2f8-438e-a562-ef8af1660b26/ue722d345-f913-4c4e-a39f-cdb5f2e8788d/oecs_inner-speech_figure1-41769637016411.jpg",
+          "size": 50,
+          "align": "center",
+          "caption": "<p id=\"n0e4emfqkxk\" data-reactroot=\"\">From external dialogue to inner speech (IS). Reprinted from Fernyhough &amp; Borghi (2023), <em>Trends in Cognitive Sciences</em> (CC BY 4.0).</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "phenomenological-variation",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Phenomenological variation"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nu5gf96igsp",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Inner speech varies from featurally rich forms (including features of speech such as tone, timbre, accent and pitch) to more abstract forms where phonological features (e.g., speech sounds or similar) are diminished or absent (Alderson-Day & Fernyhough, 2015; Fernyhough & Borghi, 2023) [see Phonology]. According to a prominent theory, inner speech should take different phenomenological (i.e., qualitative) forms reflecting the developmental processes that give rise to it (Vygotsky, 1934/1987). The systematic study of this variation began with the Varieties of Inner Speech Questionnaire (McCarthy-Jones & Fernyhough, 2011), which identified several key features of inner speech quality. These include "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "condensation"
+          },
+          {
+            "type": "text",
+            "text": " (the extent to which inner speech is compressed or abbreviated relative to overt speech), "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "dialogicality"
+          },
+          {
+            "type": "text",
+            "text": " (the to-and-fro structure of a conversation in inner speech), and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "motivational and emotional quality"
+          },
+          {
+            "type": "text",
+            "text": " (reflecting the adaptation of inner speech to positive and negative effects on the self). A key challenge for future research is to link distinct forms of inner speech to specific cognitive, emotional and motivational functions."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "methodological-issues",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Methodological issues"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwgczj28h6s",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A range of methods have been used to investigate inner speech, from self-report questionnaires to neuroscientific methods such as functional Magnetic Resonance Imaging (fMRI, Fernyhough & Borghi, 2023). Particularly important are varieties of experience sampling such as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://hurlburt.faculty.unlv.edu/ieo/ieo.html",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Descriptive Experience Sampling"
+          },
+          {
+            "type": "text",
+            "text": " (DES; Hurlburt, 2011), in which participants gain skill in describing what they were experiencing right before the sound of a random beeper. Methods such as DES reveal phenomenological nuances that are sometimes missed by other methods, such as the important distinction between "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "inner speaking"
+          },
+          {
+            "type": "text",
+            "text": " (where one has the sense of being the author of the internal utterance) and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "inner hearing"
+          },
+          {
+            "type": "text",
+            "text": " (where the experience is of listening to the inner voice; Hurlburt et al., 2013)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "individual-differences",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Individual differences"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nup8yb2l4f4",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Inner speech varies greatly both within and between individuals. Research involving atypically developing populations, such as individuals with autism or developmental language disorder [see Autism; DLD], has suggested potential avenues for therapeutic training (Bauman et al., 2025). Atypical experience of inner speech has been implicated in the auditory verbal hallucinations that accompany many psychiatric conditions (Toh et al., 2022), with some studies using community samples linking particular profiles of inner speech subtypes to proneness to hallucinations (McCarthy-Jones & Fernyhough, 2011). It is likely that some typically developing individuals do not engage in inner speech at all, but current empirical approaches are probably insufficient to detect such cases (Lind, 2025)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "what-is-internalized",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "What is internalized?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njqgha1r2bi",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Within the framework of predictive processing which sees the brain as continually generating and updating predictions to minimise error, inner speech has been understood as the prediction of sensory consequences of an act of producing fully-articulated overt speech. Such accounts typically fail to take into account the processes of transformation (such as condensation) that accompany internalization, which entail that inner speech should not be viewed simply as external speech minus the articulation. Although predictive processing accounts have generally had limited success at modelling off-line psychological phenomena such as inner speech, such models have begun to emerge (Grandchamp et al., 2019). These preliminary studies demonstrate the value of understanding inner speech as a process that takes varied forms through development, rather than as an end-point of cognitive maturation."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nedy2giqmar",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Inner speech has begun to be modelled as a feature of artificial systems (Fernyhough & Borghi, 2023). Developmental psychology research has inspired the modelling of intra-agent speech, allowing AI agents to answer questions about a novel object without direct experience of it (Yan et al., 2022). Cognitive architectures have been developed to implement inner dialogue in LLMs (Hsing, 2025) [see LLMs]. Computational models for classifying simple inner speech utterances from EEG signals have had some success (Mac\u00edas-Mac\u00edas et al., 2023), suggesting applications for enhanced brain\u2013computer interfaces for neurorehabilitation."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nk8p399g20x",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nna0yuo8th6",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Fernyhough, C., and Borghi, A. M. (2023). Inner speech as language process and cognitive tool. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Trends in Cognitive Sciences"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 27, 1180-1193."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n8o2qxu4buj",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hurlburt, R. T., Heavey, C. L., & Kelsey, J. M. (2013). Toward a phenomenology of inner speaking. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Consciousness and Cognition"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "22"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(4), 1477\u20131494."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nh91non94zx",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Morin A. (2018). The self-reflective functions of inner speech: Thirteen years later. In Langland-Hassan, P., Vicente, A. (eds.). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Inner speech: New voices"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Oxford (UK): Oxford University Press. p. 276\u201398."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nqh2l2w5vsa",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Vygotsky, L. S. (1987). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Thinking and speech"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". In "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The collected works of L. S. Vygotsky, Vol. 1"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". New York: Plenum. (Original work published 1934.)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "references",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "References"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nf0ujkb931t",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Alderson-Day, B., and Fernyhough, C. (2015). Inner speech: Development, cognitive functions, phenomenology, and neurobiology"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "."
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Psychological Bulletin"
+          },
+          {
+            "type": "text",
+            "text": ", 141, 931-965."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nzhssojyya1",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Baddeley, A., and Hitch, G. (1974). Working memory. In Gordon H. Bower (Ed.), "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Psychology of Learning and Motivation"
+          },
+          {
+            "type": "text",
+            "text": " (pp. 47\u201389). New York: Academic Press."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nilfmyw3f5w",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Bauman, B. L., Nathan, J., Nathan, B. R., Sheynblyum, M., Copeland, V. C., Mazefsky, C. A., and Eack, S. M. (2025). Developing inner speech to help autistic individuals improve their self-regulation ability: A pilot randomized-controlled trial. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Autism Research"
+          },
+          {
+            "type": "text",
+            "text": ". doi.org/10.1002/aur.70053"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nh1uzyych39",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Borghi, A. M., and Fernyhough, C. (2022). Concepts, abstractness, and inner speech. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Philosophical Transactions of the Royal Society B"
+          },
+          {
+            "type": "text",
+            "text": ", 378, 20210371."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7yo5n37hrq",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Fernyhough, C., and Borghi, A. M. (2023). Inner speech as language process and cognitive tool. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Trends in Cognitive Sciences"
+          },
+          {
+            "type": "text",
+            "text": ", 27, 1180-1193."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nukrvh74wwz",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Gerwien, J., von Stutterheim, C., and Rummel, J. (2022). What is the interference in \u201cverbal interference\u201d? "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Acta Psychologica"
+          },
+          {
+            "type": "text",
+            "text": ", 230, 103774."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3mj5m9718u",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Grandchamp, R., Rapin, L., Perrone-Bertolotti, M., Pichat, C., Haldin, C., Cousin, E., et al. (2019). The ConDialInt Model: Condensation, dialogality, and intentionality dimensions of inner speech within a hierarchical predictive control framework. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Frontiers in Psychology"
+          },
+          {
+            "type": "text",
+            "text": ", 10, 2019."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nao520w4zsw",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "He, H., Li, J., Xiao, Q., Jiang, S., Yang, Y., and Zhi, S. (2019). Language and color perception: Evidence from Mongolian and Chinese speakers. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Frontiers in Psychology"
+          },
+          {
+            "type": "text",
+            "text": ", 10, 551."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n806hb3hjt5",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Hsing, N. (2025). MIRROR: Cognitive inner monologue between conversational turns for persistent reflection and reasoning in conversational LLMs. arXiv:2506.00430"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nob81wu2o8i",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Hurlburt, R. T. (2011). "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Investigating pristine inner experience: Moments of truth"
+          },
+          {
+            "type": "text",
+            "text": ". Cambridge, UK: Cambridge University Press."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nl5bycj6dad",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Hurlburt, R. T., Heavey, C. L., & Kelsey, J. M. (2013). Toward a phenomenology of inner speaking. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Consciousness and Cognition"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "22"
+          },
+          {
+            "type": "text",
+            "text": "(4), 1477\u20131494."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ns4cjz0f936",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Lind, A. (2025). Are there really people with no inner voice? Commentary on Nedergaard and Lupyan (2024). "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Psychological Science"
+          },
+          {
+            "type": "text",
+            "text": ". https://doi.org/10.1177/09567976251335583."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nujcsjn0msg",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Mac\u00edas-Mac\u00edas, J. M., Ram\u00edrez-Quintana, J. A., Chac\u00f3n-Murgu\u00eda, M. I., Torres-Garc\u00eda, A. A., and Corral-Mart\u00ednez, L. F. (2023). Interpretation of a deep analysis of speech imagery features extracted by a capsule neural network. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Computers in Biology and Medicine"
+          },
+          {
+            "type": "text",
+            "text": ", 159, 106909."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nl6ss7ayr3r",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "McCarthy-Jones, S. R., and Fernyhough, C. (2011). The varieties of inner speech: Links between quality of inner speech and psychopathological variables in a sample of young adults. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Consciousness and Cognition"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "20"
+          },
+          {
+            "type": "text",
+            "text": ", 1586-1593."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "np23jgkfl11",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Morin A. (2018). The self-reflective functions of inner speech: Thirteen years later. In Langland-Hassan, P., Vicente, A. (eds.). "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Inner speech: New voices"
+          },
+          {
+            "type": "text",
+            "text": ". Oxford (UK): Oxford University Press. p. 276\u201398."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nr5acr5jp07",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Plato (1953). "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The dialogues of Plato"
+          },
+          {
+            "type": "text",
+            "text": ", (B. Jowett, Ed.). Oxford, UK: Clarendon Press."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "niu6901dsrw",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Toh, W. L., Moseley, P., and Fernyhough, C. (2022). Hearing voices as a feature of typical and psychopathological experience. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Nature Reviews Psychology"
+          },
+          {
+            "type": "text",
+            "text": ", 1, 72-86."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nlr0176nfin",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Vygotsky, L. S. (1987). "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Thinking and speech"
+          },
+          {
+            "type": "text",
+            "text": ". In "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The collected works of L. S. Vygotsky, Vol. 1"
+          },
+          {
+            "type": "text",
+            "text": ". New York: Plenum. (Original work published 1934.)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nymwg7j1xei",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Yan, C. et al. (2022). Intra-agent speech permits zero-shot task acquisition. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Adv. Neural Inf. Process Syst. 32"
+          },
+          {
+            "type": "text",
+            "text": ", 2423\u20132438."
+          }
+        ]
+      }
+    ]
+  }
+}

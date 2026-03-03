@@ -1,0 +1,1668 @@
+{
+  "id": "9a728587-7b68-4d57-bcc4-f047d8d3e790",
+  "slug": "ovf6i08h",
+  "title": "Linguistic Universals",
+  "url": "https://oecs.mit.edu/pub/ovf6i08h",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "9a728587-7b68-4d57-bcc4-f047d8d3e790",
+    "slug": "ovf6i08h",
+    "title": "Linguistic Universals",
+    "htmlTitle": "Linguistic Universals",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.9a728587",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "bkx3akly",
+    "editHash": "kse34d89",
+    "reviewHash": "0tu1oswz",
+    "commentHash": "1bjq5vmq",
+    "draftId": "e3cee45c-905c-4443-82a9-aa3b88ce2247",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "67b3d0f6-3f4b-460a-b3ef-e89ef2ddad4d",
+    "scopeSummaryId": "958117f1-8134-4d9b-b403-79c3f07d6b3f",
+    "createdAt": "2025-05-06T12:50:56.583Z",
+    "updatedAt": "2025-06-18T19:05:32.815Z",
+    "attributions": [
+      {
+        "id": "f98b9348-e1dc-4824-b900-726c70012702",
+        "name": "William Croft",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of New Mexico",
+        "orcid": "0000-0003-0886-2652",
+        "userId": null,
+        "pubId": "9a728587-7b68-4d57-bcc4-f047d8d3e790",
+        "createdAt": "2025-05-06T12:52:26.620Z",
+        "updatedAt": "2025-05-06T12:52:39.141Z",
+        "user": null
+      },
+      {
+        "id": "3efea3a3-e437-40ef-96b3-48663487bd97",
+        "name": "Evan Kidd",
+        "avatar": null,
+        "title": null,
+        "order": 0.625,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "The Australian National University",
+        "orcid": "0000-0003-4301-2290",
+        "userId": null,
+        "pubId": "9a728587-7b68-4d57-bcc4-f047d8d3e790",
+        "createdAt": "2025-05-15T15:48:08.909Z",
+        "updatedAt": "2025-05-15T15:48:31.252Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "e3cee45c-905c-4443-82a9-aa3b88ce2247",
+      "latestKeyAt": "2025-06-18T18:38:18.695Z",
+      "firebasePath": "drafts/draft-e3cee45c-905c-4443-82a9-aa3b88ce2247",
+      "createdAt": "2025-05-06T12:50:56.568Z",
+      "updatedAt": "2025-06-18T21:22:56.129Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n59c61zkhwr",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Linguistic universals are generalizations about language structure hypothesized to hold for all human languages. A common view is that linguistic universals are "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "unrestricted,"
+          },
+          {
+            "type": "text",
+            "text": " that is, of the form \u2018All languages have X\u2019 (e.g., \u2018All languages have nouns and verbs\u2019). However, languages are extremely diverse in structure, and unrestricted universals are quite rare. The great majority of known linguistic universals are "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "restricted"
+          },
+          {
+            "type": "text",
+            "text": " universals, for example, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "implicational universals"
+          },
+          {
+            "type": "text",
+            "text": " of the form \u2018If a language has Y, then it also has X\u2019 (e.g., \u2018If in a language adjectives precede the noun they modify, then the demonstrative does also\u2019). Universals are rarely "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "exceptionless"
+          },
+          {
+            "type": "text",
+            "text": ", and quantitative and statistical techniques are used to find and evaluate universals. Terms like \u2018noun\u2019\u00a0and \u2018verb\u2019\u00a0in linguistic universals must be defined in a cross-linguistically valid way, that is, as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "comparative concepts."
+          },
+          {
+            "type": "text",
+            "text": " A variety of explanations have been offered for linguistic universals, including language learning, language processing, conceptual structure, and language change."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1ahnqao2og",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "European exploration and colonization led to contact with non-European societies and their languages. By the 19th century, the emerging field of linguistics in Europe became aware of the tremendous diversity of grammatical structures of languages outside of Europe, not only major languages with written traditions but also the vastly greater number of languages spoken in smaller indigenous societies [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/5wqto9iq",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Linguistic Variation"
+          },
+          {
+            "type": "text",
+            "text": "]. During the 19th century, languages were compared in terms of their structure as well as their historical relationships. However, language differences were emphasized, and theories of differences were based on putative psychological and cultural traits of societies that stemmed from racial and ethnic stereotypes. In the early 20th century, such stereotypes and explanations were rejected. Structuralist theories focused on the interconnection of grammatical traits within a single language [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/ho9e9c80",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Language"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0dv6nevyhu",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "By the middle of the 20th century, attention returned to universals across languages, and language documentation had progressed to the point that substantive linguistic universals could be proposed and tested. An important development, associated with Joseph H. Greenberg ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npzmhc356yg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1w548a358s\" data-reactroot=\"\">Greenberg, J. H. (1966). Some universals of grammar with particular reference to the order of meaningful elements. In J. H. Greenberg (Ed.), <em>Universals of grammar</em> (2nd edition, pp. 73-113). MIT Press.</p>",
+              "customLabel": "Greenberg, 1966",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), was the discovery of restricted universals of language. Greenberg\u2019s initial discoveries led to the positing of many other restricted linguistic universals. A second approach, associated with Noam Chomsky, argues for unrestricted linguistic universals with an ultimately biological basis ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8ss6c25jkd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvn4dz7x7cs\" data-reactroot=\"\">Hauser, M. D., Chomsky, N., &amp; Fitch, W. T. (2002). The faculty of language: What is it, who has it, and how did it evolve? <em>Science,</em> <em>298</em>(5598), 1569-1579. <a href=\"https://doi.org/10.1126/science.298.5598.1569\" target=\"_blank\">https://doi.org/10.1126/science.298.5598.1569</a></p>",
+              "customLabel": "Hauser et al., 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The most studied domain of language universals is grammatical structure, but there is also significant research in universals of sound structure ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0rhr997jk0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nydl4ifsqsh\" data-reactroot=\"\">Maddieson, I. 1984. <em>Patterns of sounds.</em> Cambridge University Press. <a href=\"https://doi.org/10.1017/CBO9780511753459\" target=\"_blank\">https://doi.org/10.1017/CBO9780511753459</a></p>",
+              "customLabel": "Maddieson, 1984",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "na0fzhlo3dm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5n2wq4dvsk\" data-reactroot=\"\">Hyman, L., &amp; Plank, F. (Eds.). (2018). <em>Phonological typology.</em> De Gruyter. <a href=\"https://doi.org/10.1515/9783110451931\" target=\"_blank\">https://doi.org/10.1515/9783110451931</a></p>",
+              "customLabel": "Hyman & Plank, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and, more recently, universals of lexical semantics ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n54x2s60po3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndjzwdryxtj\" data-reactroot=\"\">Talmy, L. (1985). Lexicalization patterns: Semantic structure in lexical forms. In T. Shopen (Ed.), <em>Language typology and syntactic description, vol. 3: Grammatical categories and the lexicon</em> (pp. 57-149). Cambridge University Press.</p>",
+              "customLabel": "Talmy, 1985",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzpe3c9bah8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfw89ceezj9\" data-reactroot=\"\">Koptjevskaja-Tamm, M., &amp; Vanhove, M. (Eds.). (2012). <em>New directions in lexical typology. Linguistics,</em> <em>50</em>(3), special issue. <a href=\"https://doi.org/10.1515/ling-2012-0013\" target=\"_blank\">https://doi.org/10.1515/ling-2012-0013</a></p>",
+              "customLabel": "Koptjevskaja-Tamm & Vanhove, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw4kkuhki6r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2n2oldslzn\" data-reactroot=\"\">Majid, A., Boster, J. S., &amp; Bowerman, M. (2008). The cross-linguistic categorization of everyday events: A study of cutting and breaking. <em>Cognition,</em> <em>109</em>, 234-250. <a href=\"https://doi.org/10.1016/j.cognition.2008.08.009\" target=\"_blank\">https://doi.org/10.1016/j.cognition.2008.08.009</a></p>",
+              "customLabel": "Majid et al., 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4u7u39gynh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ne3goam2stf\" data-reactroot=\"\">Majid, A., Roberts, S. G., Cilissen, L., Emmorey, K., Nicodemus, B., O\u2019Grady, L., Woll, B., LeLan, B., De Sousa, H., Cansler, B. L., Shayan, S., De Vos, C., Senft, G. Enfield, N. J., Razak, R. A., Fedden, S., Tufvesson, S., Dingemanse, M., Ozturk, O., \u2026 Levinson, S. C. 2018. Differential coding of perception in the world\u2019s languages. <em>Proceedings of the National Academy of Sciences,</em> <em>115</em>(45), 11369-11376. <a href=\"https://doi.org/10.1073/pnas.1720419115\" target=\"_blank\">https://doi.org/10.1073/pnas.1720419115</a></p>",
+              "customLabel": "Majid et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xep4vfyz",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Phonology"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7spq6154df",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Linguistic universals describe patterns that are hypothesized to hold for all human languages. A popular conception is that a universal describes a particular grammatical structure that holds for all languages, for example, the hypothesis that all languages have nouns and verbs. This type of universal is called an "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "unrestricted"
+          },
+          {
+            "type": "text",
+            "text": " universal. In fact, there is tremendous diversity of grammatical structures of all kinds across the 7,000+ known languages of the world. There are few unrestricted linguistic universals, and those that have been proposed also face definitional issues."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5k7szwn7pt",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "However, there are many more "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "restricted"
+          },
+          {
+            "type": "text",
+            "text": " linguistic universals. Restricted universals described a conditional relation such as material implication, for example, \u2018If in a language, adjectives precede the noun they modify, then the demonstrative does also\u2019 (in formula form: AN \u2283 DemN). English conforms to this universal: In "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "this red book"
+          },
+          {
+            "type": "text",
+            "text": ", the demonstrative "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "this"
+          },
+          {
+            "type": "text",
+            "text": " and the adjective "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "red"
+          },
+          {
+            "type": "text",
+            "text": " precede the noun book. Restricted universals accommodate some variation in structure across languages. Spanish conforms, with "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "este libro rojo"
+          },
+          {
+            "type": "text",
+            "text": " (with the literal gloss [\u201clit.\u201d]: \u2018this book red,\u2019 NA and DemN), and so does I'saka (Skou family, Papua New Guinea), with "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "a nua ble"
+          },
+          {
+            "type": "text",
+            "text": " (lit. \u2018pig big this\u2019). But restricted universals constrain that variation\u2014in this case, the word order combination AN and NDem is hypothesized not to exist because if a language has AN order, then it also has DemN order."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxz824dpabw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A restricted universal such as AN \u2283 DemN is an "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "implicational"
+          },
+          {
+            "type": "text",
+            "text": " universal. There are also proposed "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "biconditional"
+          },
+          {
+            "type": "text",
+            "text": " universals, such as \u2018If in a language, the genitive modifier follows the noun, then it also has prepositions, and vice versa\u2019 (in formula form: NGen \u2261 PrepN). For example, French has prepositions ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "\u00e0 Marie"
+          },
+          {
+            "type": "text",
+            "text": ", \u2018to Marie\u2019) and a postposed genitive or possession ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "le livre de Marie"
+          },
+          {
+            "type": "text",
+            "text": ", \u2018the book of Marie\u2019). Conversely, Amele (Madang family, Papua New Guinea) "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cahel sain na"
+          },
+          {
+            "type": "text",
+            "text": " (lit. \u2018famine time in\u2019), \u2018in a time of famine\u2019, has a preposed genitive and a postposition."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n8h7zy9qv8r",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Another common type of universal is a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "hierarchy,"
+          },
+          {
+            "type": "text",
+            "text": " which is a chain of implicational universals. For example, some languages only express a plural number on certain semantic classes of nouns or pronouns, specifically, if plural marking is found on nouns denoting inanimate objects, then plural marking is also found on nonhuman animate nouns; if plural marking is found on nonhuman animate nouns, then it is also found on human nouns, leading to the hierarchy human < animate < inanimate. For example, in Kharia (Munda family, India), \u2018cats\u2019 is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "biloi-ki"
+          },
+          {
+            "type": "text",
+            "text": " with a plural suffix, while "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "sore\u014b"
+          },
+          {
+            "type": "text",
+            "text": " means \u2018stone\u2019\u00a0or \u2018stones\u2019; by contrast, in Tiwi (Tiwian family, Australia), \u2018young girls\u2019\u00a0is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "wa-wu\u027dalaka-wi"
+          },
+          {
+            "type": "text",
+            "text": " with plural prefix and suffix, while "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "waliwalini"
+          },
+          {
+            "type": "text",
+            "text": " means \u2018ant\u2019\u00a0or \u2018ants.\u2019"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "defining-and-evaluating-linguistic-universals",
+          "id": "defining-and-evaluating-linguistic-universals",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Defining and evaluating linguistic universals"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhiwga51e4j",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Three basic issues arise in defining and evaluating linguistic universals. The first is how to deal with linguistic variation: Languages often have more than one construction expressing a particular meaning or function. English has two genitive constructions that differ in word order: "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "the car\u2019s trunk"
+          },
+          {
+            "type": "text",
+            "text": " (GenN) and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "the trunk of the car"
+          },
+          {
+            "type": "text",
+            "text": " (NGen). In many such cases, linguists describe one construction as more "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "basic"
+          },
+          {
+            "type": "text",
+            "text": " than the other in the relevant function. Criteria for basicness include greater frequency in use, greater generality in function, and greater simplicity in form."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9cxkbthkkh",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The second issue is what to do with exceptions to proposed universals. There are languages with a basic GenN order that have prepositions, such as Maung (Iwaidjan family, Australia) and Palikur (Arawakan family, Brazil), but they are quite rare. From the beginning of the study of restricted universals, proposed universals were not always "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "exceptionless"
+          },
+          {
+            "type": "text",
+            "text": "; they were often "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "statistical"
+          },
+          {
+            "type": "text",
+            "text": " universals. Statistical universals are informative because the cross-linguistic occurrence of possible structures is skewed due to the \u2018soft\u2019 constraints described by statistical universals ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfzyiz92hyn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq5j2dwzzdo\" data-reactroot=\"\">Dryer, M. S. (1992). The Greenbergian word order correlations. <em>Language</em> 68, 81-138. <a href=\"https://doi.org/10.1353/lan.1992.0028\" target=\"_blank\">https://doi.org/10.1353/lan.1992.0028</a></p>",
+              "customLabel": "Dryer, 1992",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuhafx1iske",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny9dncp53u8\" data-reactroot=\"\">Dryer, M. S. (1997). Why statistical universals are better than absolute universals. In K. Singer, R. Eggart, &amp; G. Anderson (Eds.), <em>CLS 33: Papers from the Panels</em> (pp. 123-145). Chicago Linguistic Society.</p>",
+              "customLabel": "Dryer, 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncpf8thnlif",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The third and most fundamental issue is how to define the grammatical concepts used to formulate linguistic universals. When one proposes that all languages have nouns and verbs, what is a \u2018noun\u2019\u00a0and what is a \u2018verb\u2019? Since the advent of structuralism, grammatical categories, features, and constructions are defined with respect to the structures of the particular languages in which they occur. That is, grammatical categories are incommensurable across languages. Instead, other means must be used to define grammatical concepts that are cross-linguistically valid, that is, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "comparative concepts"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nflyrijrmiy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwpeu7emr9s\" data-reactroot=\"\">Haspelmath, M. (2010). Comparative concepts and descriptive categories in cross-linguistic studies. <em>Language,</em> <em>86</em>, 663-687. <a href=\"https://doi.org/10.1353/lan.2010.0021\" target=\"_blank\">https://doi.org/10.1353/lan.2010.0021</a></p>",
+              "customLabel": "Haspelmath, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Comparative concepts are generally defined in terms of meaning or function ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwzcn1v7krf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnmfwzocg3q\" data-reactroot=\"\">Greenberg, J. H. (1966). Some universals of grammar with particular reference to the order of meaningful elements. In J. H. Greenberg (Ed.), <em>Universals of grammar</em> (2nd edition, pp. 73-113). MIT Press.</p>",
+              "customLabel": "Greenberg, 1966",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), but one can also define comparative concepts in terms of properties of structure that are cross-linguistically valid, such as word order, or zero versus overt coding of meanings such as singular or plural. Comparative concepts incorporating properties of structure are called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "strategies"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb8h9zb1j64",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7taxo2qqa6\" data-reactroot=\"\">Keenan, E. L., &amp; Comrie, B. (1977). Noun phrase accessibility and universal grammar. <em>Linguistic Inquiry,</em> <em>8</em>, 63\u201399.</p>",
+              "customLabel": "Keenan & Comrie, 1977",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsbx1rrxdpa",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz1pepltqud\" data-reactroot=\"\">Stassen, L. (1985). <em>Comparison and universal grammar.</em> Blackwell.</p>",
+              "customLabel": "Stassen, 1985",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4k6uivb2ev",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nd9et5ge4v8\" data-reactroot=\"\">Stassen, L. (1997). <em>Intransitive predication</em>. Oxford University Press. <a href=\"https://doi.org/10.1093/oso/9780198236931.001.0001\" target=\"_blank\">https://doi.org/10.1093/oso/9780198236931.001.0001</a></p>",
+              "customLabel": "1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8r2delnmcj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnwxlz9x0l7\" data-reactroot=\"\">Croft, W. (2022). <em>Morphosyntax: constructions of the world\u2019s languages.</em> Cambridge University Press. <a href=\"https://doi.org/10.1017/9781316145289\" target=\"_blank\">https://doi.org/10.1017/9781316145289</a></p>",
+              "customLabel": "Croft, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqwry1x5er4",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The three issues of variation in form, exceptions to universals, and defining comparative concepts remain open questions and are sometimes controversial. Instead of setting aside variation for a basic construction expressing a function, variation can be incorporated in finding language universals because variation is often a symptom of language change in progress. In fact, many universals of language structure are actually the product of universals of language change ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny9s3ea3zl4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nh6rej1has6\" data-reactroot=\"\">Greenberg, J. H. (1969). Some methods of dynamic comparison in linguistics. In J. Puhvel (Ed.), <em>Substance and structure of language</em> (pp. 147-203). University of California Press. <a href=\"https://doi.org/10.1525/9780520316218-007\" target=\"_blank\">https://doi.org/10.1525/9780520316218-007</a></p>",
+              "customLabel": "Greenberg, 1969",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "na5fiaatgx4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny5n5lviwxn\" data-reactroot=\"\">Greenberg, J. H. (1978). Diachrony, synchrony and language universals. In J. H. Greenberg, C. A. Ferguson, &amp; E. A. Moravcsik (Eds.), <em>Universals of human language, vol. 1: Method and theory</em> (pp. 61-92). Stanford University Press.</p>",
+              "customLabel": "1978",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "na1ywwjivk7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "More recent research has employed increasingly sophisticated quantitative and statistical methods to evaluate proposed statistical universals. In these cases, mathematical models of language diversification and change are used to analyze or simulate restricted linguistic universals (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ng0c29cy9e9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxgchul16xd\" data-reactroot=\"\">Shcherbakova, O., Blas\u00ed, D. E., Gast, V., Skirg\u00e5rd, H., Gray, R. D., &amp; Greenhill, S. J. (2024). The evolutionary dynamics of how languages signal who does what to whom. <em>Scientific Reports,</em> <em>14</em>(7259). <a href=\"https://doi.org/10.1038/s41598-024-51542-5\" target=\"_blank\">https://doi.org/10.1038/s41598-024-51542-5</a></p>",
+              "customLabel": "Shcherbakova et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Defining comparative concepts, particularly those that include properties of linguistic form, and their relation to language-particular grammatical structures remains challenging. One debate is over comparative concepts and whether they are the same or different in type from language-particular grammatical concepts ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n28gh7f7npl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwpeu7emr9s\" data-reactroot=\"\">Haspelmath, M. (2010). Comparative concepts and descriptive categories in cross-linguistic studies. <em>Language,</em> <em>86</em>, 663-687. <a href=\"https://doi.org/10.1353/lan.2010.0021\" target=\"_blank\">https://doi.org/10.1353/lan.2010.0021</a></p>",
+              "customLabel": "Haspelmath, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2aupogj1bg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqbazvp625v\" data-reactroot=\"\">Croft, W. (2016). Comparative concepts and language-specific categories: Theory and practice. <em>Linguistic Typology,</em> <em>20</em>, 377-393. <a href=\"https://doi.org/10.1515/lingty-2016-0012\" target=\"_blank\">https://doi.org/10.1515/lingty-2016-0012</a></p>",
+              "customLabel": "Croft, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwertzj2rjn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Of course, linguistic universals demand explanations that connect language structure to human cognition and social interaction. A variety of explanations have been offered, all of which may be valid in some contexts. Linguistic universals may be shaped by constraints in the language learning process, including first language acquisition ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nid4945g1zl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nn4af09cwjs\" data-reactroot=\"\">Chomsky, N. (1972). <em>Language and mind</em> (enlarged edition). Harcourt Brace Jovanovich.</p>",
+              "customLabel": "Chomsky, 1972",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nog8tq0f8mf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6ld1p76fa7\" data-reactroot=\"\">Chomsky, N. (1986). <em>Knowledge of language</em>. Praeger.</p>",
+              "customLabel": "1986",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nz835s8bcqa",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nriu9yu2hky\" data-reactroot=\"\">Christiansen, M. H., &amp; Chater, N. (2016). <em>Creating language: Integrating evolution, acquisition, and processing.</em> MIT Press. <a href=\"https://doi.org/10.7551/mitpress/10406.001.0001\" target=\"_blank\">https://doi.org/10.7551/mitpress/10406.001.0001</a></p>",
+              "customLabel": "Christiansen & Chater, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xohbfbix",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Language Acquisition"
+          },
+          {
+            "type": "text",
+            "text": "]. They also may be the byproduct of language processing, such as parsing ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9fv0ahuelc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ncreymsd8qb\" data-reactroot=\"\">Hawkins, J. A. (2014). <em>Cross-linguistic variation and efficiency.</em> Oxford University Press. <a href=\"https://doi.org/10.1093/acprof:oso/9780199664993.001.0001\" target=\"_blank\">https://doi.org/10.1093/acprof:oso/9780199664993.001.0001</a></p>",
+              "customLabel": "Hawkins, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), or frequency effects in storage, production, and comprehension ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngwjhyxaiqg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzf8n1hyxc2\" data-reactroot=\"\">Bybee, J. L. (2010). <em>Language, usage and cognition.</em> Cambridge University Press. <a href=\"https://doi.org/10.1017/CBO9780511750526\" target=\"_blank\">https://doi.org/10.1017/CBO9780511750526</a></p>",
+              "customLabel": "Bybee, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/y1uhdz0y",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Psycholinguistics"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/boh416wu",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Iterated Learning"
+          },
+          {
+            "type": "text",
+            "text": "]. Other constraints may be due to the structure of the space of concepts expressed in language ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnkfldljvhi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n61w35qu671\" data-reactroot=\"\">Haspelmath, M. (2003). The geometry of grammatical meaning: Semantic maps and cross-linguistic comparison. In M. Tomasello (Ed.), <em>The new psychology of language</em>, <em>vol. 2</em> (pp. 211-242). Lawrence Erlbaum Associates.</p>",
+              "customLabel": "Haspelmath, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1mftehekxl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvuvn7q5tor\" data-reactroot=\"\">Croft, W., &amp; Poole, K. T. (2008). Inferring universals from grammatical variation: Multidimensional scaling for typological analysis. <em>Theoretical Linguistics,</em> <em>34</em>, 1-37. <a href=\"https://doi.org/10.1515/THLI.2008.001\" target=\"_blank\">https://doi.org/10.1515/THLI.2008.001</a></p>",
+              "customLabel": "Croft & Poole, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Finally, the universals that hold for the grammar of a language at a given point in time may be the result of universal processes of language change, in both their social and cognitive dimensions."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading "
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nbwoq79knvt",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nn8i4wdmzwt",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Comrie, B. 1989. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Language universals and linguistic typology"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (2nd ed.)"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "."
+                  },
+                  {
+                    "type": "text",
+                    "text": " Chicago: University of Chicago Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nyoawqn04og",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Croft, W. 2003. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Typology and universals"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 2nd edition. Cambridge University Press."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

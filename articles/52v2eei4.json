@@ -1,0 +1,1369 @@
+{
+  "id": "e1fde27d-8b09-4968-ac29-c8713b7f1d00",
+  "slug": "52v2eei4",
+  "title": "Supervenience",
+  "url": "https://oecs.mit.edu/pub/52v2eei4",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "e1fde27d-8b09-4968-ac29-c8713b7f1d00",
+    "slug": "52v2eei4",
+    "title": "Supervenience",
+    "htmlTitle": "Supervenience",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.e1fde27d",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "5yzxcbn6",
+    "editHash": "8ewyj4lh",
+    "reviewHash": "d88cuqpo",
+    "commentHash": "3fup81a1",
+    "draftId": "fc680a33-7654-4189-aab3-a60ef80bdd4f",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "1f36908a-7729-4388-9192-cd6229562bd5",
+    "scopeSummaryId": "69093d33-e930-4bd7-ba36-faaa9734e44b",
+    "createdAt": "2025-03-24T14:04:12.684Z",
+    "updatedAt": "2025-06-26T16:23:12.987Z",
+    "attributions": [
+      {
+        "id": "d7da8ba5-9b1b-478e-935e-bb3fe82e3c06",
+        "name": "Karen Bennett",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Department of Philosophy, Rutgers University",
+        "orcid": "0009-0001-7402-617X",
+        "userId": null,
+        "pubId": "e1fde27d-8b09-4968-ac29-c8713b7f1d00",
+        "createdAt": "2025-03-24T14:05:00.781Z",
+        "updatedAt": "2025-03-24T14:05:54.684Z",
+        "user": null
+      },
+      {
+        "id": "3863bed5-7523-47d0-9de6-e75eb1a1fc52",
+        "name": "Colin Klein",
+        "avatar": null,
+        "title": null,
+        "order": 0.625,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "The Australian National University",
+        "orcid": "0000-0002-7406-4010",
+        "userId": null,
+        "pubId": "e1fde27d-8b09-4968-ac29-c8713b7f1d00",
+        "createdAt": "2025-04-02T19:22:11.846Z",
+        "updatedAt": "2025-04-02T19:22:28.489Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "fc680a33-7654-4189-aab3-a60ef80bdd4f",
+      "latestKeyAt": "2025-03-31T19:10:09.799Z",
+      "firebasePath": "drafts/draft-fc680a33-7654-4189-aab3-a60ef80bdd4f",
+      "createdAt": "2025-03-24T14:04:12.667Z",
+      "updatedAt": "2025-06-26T16:22:49.718Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n76h2uiakeh",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Philosophers and cognitive scientists sometimes say that one phenomenon obtains "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "in virtue of"
+          },
+          {
+            "type": "text",
+            "text": " some other phenomenon. While expressions like this can indicate causation, they are also frequently used in a more synchronic and constitutive way that suggests connections between phenomena at different \u201clevels of reality.\u201d For example, one might say that this table is solid in virtue of complex relations among the atoms that compose it or that you are having a particular visual experience in virtue of specific kinds of electrochemical activity in your striate cortex. This levels of reality talk is baked into investigations into the neural bases of consciousness or other cognitive phenomena as well as into David Marr\u2019s classic distinction between the implementational, algorithmic, and computational levels of analysis. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Supervenience"
+          },
+          {
+            "type": "text",
+            "text": " is a technical notion that attempts to regiment this hazy intuitive talk. The rough central idea is that duplicating the base states would also duplicate the supervenient states. Today, philosophers widely agree that supervenience does not fully capture the sense of determination that philosophers care about. Nevertheless, the notion appears frequently in the philosophy of cognitive science and has played a historically important role in making many debates more precise."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhfxg2khfwo",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The concept of supervenience first appeared in the ethics literature. G. E. Moore employed the concept (but not the term) as early as 1922 ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nv42399ld4l",
+              "href": null,
+              "value": "\n",
+              "unstructuredValue": "<p id=\"n9ixezk0h31\" data-reactroot=\"\">Moore, G. E. (1922). <em>Philosophical studies</em>. Kegan Paul, Trench, Trubner &amp; Co.</p>",
+              "customLabel": "Moore, 1922",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and R. M. Hare used the term in 1952 in a way that suggested it was already familiar to his readers ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5mxhuu0fnz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nepz5lzpb34\" data-reactroot=\"\">Hare, R. M. (1952). <em>The Language of morals</em>. Oxford University Press.</p>",
+              "customLabel": "Hare, 1952",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 80)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6916n8cmed",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Supervenience\u2019s true heyday was the 1970s through the early 2000s, after Donald Davidson\u2019s influential paper \u201cMental Events\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n87afp7bgxn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6a8e2rc37m\" data-reactroot=\"\">Davidson, D. (1970). Mental events. In D. Davidson (Ed.), <em>Essays on actions and events</em> (pp. 207\u2013224). Oxford University Press.</p>",
+              "customLabel": "Davidson, 1970",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") brought the idea into the philosophy of mind. Jaegwon Kim ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxq0ynseh1n",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npylcyavuzl\" data-reactroot=\"\">Kim, J. (1982). Psychophysical supervenience. <em>Philosophical Studies</em>, <em>41</em>, 51\u201370. <a href=\"https://doi.org/10.1007/BF00353523\">https://doi.org/10.1007/BF00353523</a> </p>",
+              "customLabel": "Kim, 1982",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n31qq7ljyp0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2kwalgcgst\" data-reactroot=\"\">Kim, J. (1984). Concepts of supervenience. <em>Philosophy and Phenomenological Research</em>, <em>45</em>(2), 153\u2013176. <a href=\"https://psycnet.apa.org/doi/10.2307/2107423\" target=\"_blank\">https://doi.org/10.2307/2107423</a></p>",
+              "customLabel": "1984",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nn3b1panl92",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nr999retvuc\" data-reactroot=\"\">Kim, J. (1990). Supervenience as a philosophical concept. <em>Metaphilosophy</em>, <em>21</em>(1-2), 1\u201327. <a href=\"https://doi.org/10.1111/j.1467-9973.1990.tb00830.x\">https://doi.org/10.1111/j.1467-9973.1990.tb00830.x</a> </p>",
+              "customLabel": "1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nf9vcwjldxj",
+              "href": null,
+              "value": "\n",
+              "unstructuredValue": "<p id=\"noocag53b08\" data-reactroot=\"\">Kim, J. (1993). <em>Supervenience and mind: Selected philosophical essays</em>. Cambridge University Press.</p>",
+              "customLabel": "1993",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), Terence Horgan ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n38rk2ahm72",
+              "href": null,
+              "value": "\n\n",
+              "unstructuredValue": "<p id=\"n6grshmxreq\" data-reactroot=\"\">Horgan, T. (1982). Supervenience and microphysics. <em>Pacific Philosophical Quarterly</em>, <em>63</em>(1), 29\u201343. <a href=\"https://doi.org/10.1111/j.1468-0114.1982.tb00084.x\">https://doi.org/10.1111/j.1468-0114.1982.tb00084.x</a> </p>",
+              "customLabel": "Horgan, 1982",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nm4b05saaz1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv0d89pvil6\" data-reactroot=\"\">Horgan, T. (1993). From supervenience to superdupervenience: Meeting the demands of a material world. <em>Mind</em>, <em>102</em>(408), 555-586. <a href=\"https://doi.org/10.1093/mind/102.408.555\">https://doi.org/10.1093/mind/102.408.555</a> </p>",
+              "customLabel": "1993",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and others gave the notion of supervenience new scrutiny, characterizing and exploring several importantly different versions. While the body of literature about supervenience was never enormous\u2014much of it concerning technical deputes about the relative strengths of different versions (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqoh64uingi",
+              "href": null,
+              "value": "\n",
+              "unstructuredValue": "<p id=\"n3rq7w315bv\" data-reactroot=\"\">McLaughlin, B., &amp; Bennett, K. (2023). Supervenience. In E. N. Zalta &amp; U. Nodelman (Eds.), <em>The Stanford encyclopedia of philosophy</em> (Winter ed.). Stanford University Press.</p>",
+              "customLabel": "McLaughlin & Bennett, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " for an overview)\u2014the number of papers invoking supervenience is too large to estimate. It was, and to some extent still is, used all over philosophy to express a wide variety of determination claims."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9qv2eeo8tj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Nonetheless, early on, the concern was raised that supervenience might merely indicate that a determination relation held without being one itself ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0dcro0aa8b",
+              "href": null,
+              "value": "@book{Blackburn1984Spreading,\n\taddress = {Oxford},\n\tauthor = {Blackburn, Simon},\n\tyear = {1984},\n\tpublisher = {Clarendon},\n\ttitle = {Spreading the word},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Blackburn, 1984",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njlymy7q6b0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv0d89pvil6\" data-reactroot=\"\">Horgan, T. (1993). From supervenience to superdupervenience: Meeting the demands of a material world. <em>Mind</em>, <em>102</em>(408), 555-586. <a href=\"https://doi.org/10.1093/mind/102.408.555\">https://doi.org/10.1093/mind/102.408.555</a> </p>",
+              "customLabel": "Horgan, 1993",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsi9590tqxq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nr999retvuc\" data-reactroot=\"\">Kim, J. (1990). Supervenience as a philosophical concept. <em>Metaphilosophy</em>, <em>21</em>(1-2), 1\u201327. <a href=\"https://doi.org/10.1111/j.1467-9973.1990.tb00830.x\">https://doi.org/10.1111/j.1467-9973.1990.tb00830.x</a> </p>",
+              "customLabel": "Kim, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These initial worries intensified in the early 2000s as part of a broader skepticism about capturing determination or dependence in modal terms ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6vxdj3d8su",
+              "href": null,
+              "value": "\n",
+              "unstructuredValue": "<p id=\"n92munw01ds\" data-reactroot=\"\">Fine, K. (1994). Essence and modality. <em>Philosophical Perspectives</em>, <em>8</em>, 1\u201316. <a href=\"https://doi.org/10.2307/2214160\">https://doi.org/10.2307/2214160</a> </p>",
+              "customLabel": "Fine, 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzu6ucsydng",
+              "href": null,
+              "value": "\n",
+              "unstructuredValue": "<p id=\"n3rq7w315bv\" data-reactroot=\"\">McLaughlin, B., &amp; Bennett, K. (2023). Supervenience. In E. N. Zalta &amp; U. Nodelman (Eds.), <em>The Stanford encyclopedia of philosophy</em> (Winter ed.). Stanford University Press.</p>",
+              "customLabel": "McLaughlin & Bennett, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndrxz361fnd",
+              "href": null,
+              "value": "@inbook{Schaffer2009On,\n\taddress = {Oxford},\n\tauthor = {Schaffer, Jonathan},\n\tbooktitle = {Metametaphysics},\n\teditor = {Chalmers, D. and Manley, D. and Wasserman, R.},\n\tyear = {2009},\n\tpages = {347--383},\n\tpublisher = {Oxford University Press},\n\ttitle = {On what grounds what},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Schaffer, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nu2nq0k94ps",
+              "href": null,
+              "value": "@inbook{Rosen2010Metaphysical,\n\taddress = {Oxford},\n\tauthor = {Rosen, Gideon},\n\tbooktitle = {Modality: Metaphysics, {logic}, and {epistemology}},\n\teditor = {Hale, Bob and Hoffman, Aviv},\n\tyear = {2010},\n\tpages = {109--136},\n\tpublisher = {Oxford University Press},\n\ttitle = {Metaphysical dependence: Grounding and reduction},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Rosen, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These days, philosophers are more likely to appeal to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "grounding"
+          },
+          {
+            "type": "text",
+            "text": " (however, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n97rpz7di99",
+              "href": null,
+              "value": "\n",
+              "unstructuredValue": "<p id=\"nppmbuekj0e\" data-reactroot=\"\">Wilson, J. (2014). No work for a theory of grounding. <em>Inquiry: An Interdisciplinary Journal of Philosophy</em>, <em>57</em>(5-6), 535\u2013579. <br/><a href=\"https://doi.org/10.1080/0020174x.2014.907542\">https://doi.org/10.1080/0020174x.2014.907542</a> </p>",
+              "customLabel": "Wilson, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8b7f595si1",
+              "href": null,
+              "value": "\n",
+              "unstructuredValue": "<p id=\"nccux2sxc6y\" data-reactroot=\"\">Wilson, J. (2018). Grounding-based formulations of physicalism. <em>Topoi</em>, <em>37</em>(3), 495\u2013512. <a href=\"https://doi.org/10.1007/s11245-016-9435-7\">https://doi.org/10.1007/s11245-016-9435-7</a> </p><p id=\"n3pkywhdb2d\" data-reactroot=\"\"><br/></p>",
+              "customLabel": "Wilson, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " for criticism)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nyke5h5sutv",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Supervenience is a pattern of property covariation: there cannot be a difference in one respect without a difference in another respect. Two tables cannot differ in their solidity or density without also differing in their atomic structure. Two lies cannot differ in whether they are morally permissible without also differing in some other way, such as the intentions of the liar or other details of the situation. And, if physicalism is true, two people cannot differ in whether or not they have visual experience "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "E"
+          },
+          {
+            "type": "text",
+            "text": " without differing in the electrochemical activity in their brains."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncf4h1tqhed",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Two more specific points about supervenience are potentially relevant to cognitive scientists."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvdbp4o497x",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "First, as will become important in a moment, most claims expressed with supervenience are intended as asymmetric claims, despite the fact that supervenience itself is not asymmetric (which will matter in the next section). Thus, as a defeasible presumption, supervenience claims should be understood with an implicit \u201cand not vice versa\u201d at the end. So, for example, physicalism is the claim that the mental supervenes on the physical and that it is not the case that the mental supervenes on the physical. This asymmetric supervenience requires that physical duplicates be mental duplicates but also allows things that are not physical duplicates to be mental duplicates. This is good, for many physicalists allow that two people can feel the very same pain while differing in the low-level details of their electrochemical activity [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/c1pqmxoq",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Multiple Realizability"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nld1kf4ts5c",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Secondly, cognitive scientists should be aware of the availability of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "global"
+          },
+          {
+            "type": "text",
+            "text": " supervenience in addition to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "individual"
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "local"
+          },
+          {
+            "type": "text",
+            "text": " supervenience. Global supervenience is appropriate when the supervenient phenomenon depends not only on intrinsic features of the relevant thing but on broader features of the world. For example, consider a U. S. dollar bill. The shapes printed on the paper locally supervene on the arrangement of ink marks, but the fact that it is a U. S. dollar does not. Its being a U. S. dollar only supervenes on a larger set of facts that include who printed it and where (no matter how good your counterfeits are, they remain counterfeits)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvl967pnkjw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This matters to cognitive science because some mental phenomena might supervene on a base broader than the human brain. For example, a hallucination and a veridical visual experience could have the exact same neurological underpinnings, which means that being a hallucination does not supervene on them. Philosophical views like content externalism and extended cognition make similar claims. This can matter to specific topics in cognitive science as well, particularly those that focus on social determinants and variation."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxvzpf0zgw3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A large part of the appeal of supervenience has always been that it can be defined with technical precision. This has had two effects. First, it encouraged the formulation of different versions, discussions about which ones were stronger or weaker than others, and which ones were best suited to which cases. More importantly, for current purposes, it made supervenience look unmysterious and even like a full-blown analysis of what lies behind determinative expressions like \u201cin virtue of.\u201d"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nljhntg7xy8",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Unfortunately, supervenience has not delivered on that promise. Its formal machinery offers the trappings of respectability but does not actually advance theorizing too much. Here is why."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nsktcjiibja",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "First, all supervenience theses do is state that certain states of the world are constrained by certain other states of the world. They say nothing about what explains or enforces such constraints. As Simon Blackburn memorably put it, \u201cSupervenience is usually quite uninteresting by itself. What is interesting is the reason why it holds\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npa7t5mg4mw",
+              "href": null,
+              "value": "@book{Blackburn1984Spreading,\n\taddress = {Oxford},\n\tauthor = {Blackburn, Simon},\n\tyear = {1984},\n\tpublisher = {Clarendon},\n\ttitle = {Spreading the word},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Blackburn, 1984",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 186)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkagovx2nxi",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Second, while most philosophers do agree that every genuine determination relation entails a true supervenience thesis, the reverse is recognized to be false. Supervenience can hold in cases in which there is intuitively no determination going on."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nz3fhvb2e10",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One way to get supervenience without determination involves the fact that determination is widely taken to be irreflexive and asymmetric, but supervenience is reflexive and nonsymmetric. To see that it is reflexive, note that no two things can differ in whether or not they have property "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "P"
+          },
+          {
+            "type": "text",
+            "text": " without also differing in whether or not they have "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "P"
+          },
+          {
+            "type": "text",
+            "text": ". To see that it can hold symmetrically, note that the area of a circle and the length of its radius mutually supervene on each other. But nothing can be "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "P"
+          },
+          {
+            "type": "text",
+            "text": " because it is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "P"
+          },
+          {
+            "type": "text",
+            "text": ", and it cannot be both that the circle\u2019s area fixes its radius and that its radius fixes its area."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbtgq65ct2o",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Another way to get supervenience without determination involves necessary truths. The fact that 2 + 2 = 4 supervenes on all manner of arbitrary contingent facts, such as the fact Sara is wearing a black T-shirt today. Because there can be no difference in the mathematical fact at all, there can be no difference in it without a difference in whether or not Sara is wearing a black T-shirt. But of course Sara\u2019s outfit in no way determines the mathematical fact."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nu53oog5mce",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This latter point is of a piece with an overall philosophical shift towards denying that genuine determination or dependence could be captured in modal terms. This is sometimes called the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "grounding"
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "hyperintensional"
+          },
+          {
+            "type": "text",
+            "text": " revolution (again, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nt44bhqfa9n",
+              "href": null,
+              "value": "\n",
+              "unstructuredValue": "<p id=\"n92munw01ds\" data-reactroot=\"\">Fine, K. (1994). Essence and modality. <em>Philosophical Perspectives</em>, <em>8</em>, 1\u201316. <a href=\"https://doi.org/10.2307/2214160\">https://doi.org/10.2307/2214160</a> </p>",
+              "customLabel": "Fine, 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx9ww17w36q",
+              "href": null,
+              "value": "\n",
+              "unstructuredValue": "<p id=\"n3rq7w315bv\" data-reactroot=\"\">McLaughlin, B., &amp; Bennett, K. (2023). Supervenience. In E. N. Zalta &amp; U. Nodelman (Eds.), <em>The Stanford encyclopedia of philosophy</em> (Winter ed.). Stanford University Press.</p>",
+              "customLabel": "McLaughlin & Bennett, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni4bu77sa39",
+              "href": null,
+              "value": "@inbook{Schaffer2009On,\n\taddress = {Oxford},\n\tauthor = {Schaffer, Jonathan},\n\tbooktitle = {Metametaphysics},\n\teditor = {Chalmers, D. and Manley, D. and Wasserman, R.},\n\tyear = {2009},\n\tpages = {347--383},\n\tpublisher = {Oxford University Press},\n\ttitle = {On what grounds what},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Schaffer, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; and "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n71jj6pthgc",
+              "href": null,
+              "value": "@inbook{Rosen2010Metaphysical,\n\taddress = {Oxford},\n\tauthor = {Rosen, Gideon},\n\tbooktitle = {Modality: Metaphysics, {logic}, and {epistemology}},\n\teditor = {Hale, Bob and Hoffman, Aviv},\n\tyear = {2010},\n\tpages = {109--136},\n\tpublisher = {Oxford University Press},\n\ttitle = {Metaphysical dependence: Grounding and reduction},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Rosen, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4tmv2cokdq",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Asymmetric \u201clevel-linking\u201d notions are invoked all over philosophy and the sciences: between the chemical and biological, between the computational and the implementational, and between the nonmoral and the moral. Perhaps the most famous level-linking notion in cognitive science is David Marr\u2019s distinction between the implementational, algorithmic, and computational levels of analysis ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqaf5v5natu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n52t9k1mqvl\" data-reactroot=\"\">Marr, D. (1982). <em>Vision</em>. W. H. Freeman.</p>",
+              "customLabel": "Marr, 1982",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Marr clearly considers this relationship to be asymmetric and synchronic, so supervenience represents a good first pass at how to understand it. Controversies over the modularity of various cognitive faculties\u2014and, in particular, whether some complex ability like reading might only hold in virtue of the combination of various simpler abilities\u2014are similarly widespread. The list is endless, as are controversies over the truth of various particular supervenience theses."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n0cmutjw0kk",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n86p5jpq6ht",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Kim, J. (1993). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Supervenience and mind: Selected philosophical essays"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Cambridge University Press."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nf5smlwc24n",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nsqdmjjd029",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "McLaughlin, B., & Bennett, K. (2023). Supervenience. In E. N. Zalta & U. Nodelman (Eds.), "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The Stanford encyclopedia of philosophy"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (Winter ed.). Stanford University Press."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

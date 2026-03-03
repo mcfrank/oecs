@@ -1,0 +1,1723 @@
+{
+  "id": "9e968b77-3cdf-4e97-bcef-ed5eb968e8c4",
+  "slug": "o3wg9y45",
+  "title": "Recurrent Neural Networks",
+  "url": "https://oecs.mit.edu/pub/o3wg9y45",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "9e968b77-3cdf-4e97-bcef-ed5eb968e8c4",
+    "slug": "o3wg9y45",
+    "title": "Recurrent Neural Networks",
+    "htmlTitle": "Recurrent Neural Networks",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.9e968b77",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "kidxzqe4",
+    "editHash": "sdufqqb7",
+    "reviewHash": "w0fp0c6w",
+    "commentHash": "wchkg93a",
+    "draftId": "2249f8c1-e756-4b55-90a0-93c336fe69fa",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "9496f121-85d7-4631-b217-6ac3bf521b28",
+    "scopeSummaryId": "5f66fc19-8d78-4bd5-b611-20764dbbf742",
+    "createdAt": "2025-05-29T15:53:33.354Z",
+    "updatedAt": "2025-06-30T12:39:36.616Z",
+    "attributions": [
+      {
+        "id": "1d9c8e77-ab2e-4e62-8ea6-dd60f529d032",
+        "name": "James S. Magnuson",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of Connecticut, Department of Psychological Sciences and Institute for the Brain and Cognitive Sciences; Basque Center on Cognition, Brain, and Language; Ikerbasque: Basque Foundation for Science",
+        "orcid": "0000-0003-0158-2367",
+        "userId": null,
+        "pubId": "9e968b77-3cdf-4e97-bcef-ed5eb968e8c4",
+        "createdAt": "2025-05-29T15:56:06.743Z",
+        "updatedAt": "2025-05-29T15:56:44.981Z",
+        "user": null
+      },
+      {
+        "id": "bcaf9540-0f74-46ce-9cdb-6dbb2b0622ca",
+        "name": "Tom Griffiths",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Princeton University",
+        "orcid": "0000-0002-5138-7255",
+        "userId": null,
+        "pubId": "9e968b77-3cdf-4e97-bcef-ed5eb968e8c4",
+        "createdAt": "2025-06-04T20:27:40.738Z",
+        "updatedAt": "2025-06-04T20:28:13.064Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "2249f8c1-e756-4b55-90a0-93c336fe69fa",
+      "latestKeyAt": "2025-07-08T17:25:29.394Z",
+      "firebasePath": "drafts/draft-2249f8c1-e756-4b55-90a0-93c336fe69fa",
+      "createdAt": "2025-05-29T15:53:33.335Z",
+      "updatedAt": "2025-10-20T18:59:59.456Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhe2tgwlbfw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Recurrent Neural Networks (RNNs) are artificial neural networks that contain at least one loop that allows the network\u2019s internal states to be dynamically influenced by its own previous internal states, in addition to any new external input. Formally, containing loops makes RNNs cyclic graphs; in this way, RNNs contrast with feedforward networks, which are acyclic graphs without loops. While RNNs are strongly associated with sequence processing, feedback networks that process static inputs (like images) iteratively over time are also RNNs. Crucially, RNNs can model temporal dependencies, where current states or inputs depend on previous ones. RNNs have advanced theoretical understanding in cognitive science in domains including learning, memory, recognition, movement, and language."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2qdrb1sua2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In their early study of mathematical models of neural networks, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nm6iam9hk0v",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"na8ocnr0ioq\" data-reactroot=\"\">McCulloch, W. S., &amp; Pitts, W. (1943). A logical calculus of the ideas immanent in nervous activity. <em>The Bulletin of Mathematical Biophysics</em>, <em>5</em>, 115\u2013133. <a href=\"https://doi.org/10.1007/BF02478259\" target=\"_blank\">https://doi.org/10.1007/BF02478259</a></p>",
+              "customLabel": "McCulloch and Pitts (1943)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " laid out logical and computational differences between what they called networks with and without "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "circles"
+          },
+          {
+            "type": "text",
+            "text": " (i.e., cycles or loops) and emphasized how recurrence could enable sustained pattern activation\u2014allowing a system to retain a pattern over time for future processing. While scientists experimented with adding recurrent connections to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "perceptrons"
+          },
+          {
+            "type": "text",
+            "text": " (single-layer feedforward networks developed by "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ng7dv7yt76b",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhgxp53wdiw\" data-reactroot=\"\">Rosenblatt, F. (1958). The perceptron: a probabilistic model for information storage and organization in the brain. <em>Psychological Review</em>, <em>65</em>(6), 386. <a href=\"https://doi.org/10.1037/h0042519\" target=\"_blank\">https://doi.org/10.1037/h0042519</a></p>",
+              "customLabel": "Rosenblatt, 1958",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlxmygpvbme",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5t867fbnhd\" data-reactroot=\"\">Hopfield, J. J. (1982). Neural networks and physical systems with emergent collective computational abilities. <em>Proceedings of the National Academy of Sciences</em>, <em>79</em>(8), 2554\u20132558. <a href=\"https://doi.org/10.1073/pnas.79.8.2554\" target=\"_blank\">https://doi.org/10.1073/pnas.79.8.2554</a></p>",
+              "customLabel": "Hopfield (1982)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " made a fundamental advance when he extended physics concepts ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "spin glasses"
+          },
+          {
+            "type": "text",
+            "text": ", disordered magnetic systems studied in statistical mechanics, and key aspects of dynamical systems) to simple learning networks. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Hopfield networks"
+          },
+          {
+            "type": "text",
+            "text": "\u2014single-layer systems in which typically all units are connected\u2014store information in a way that allows the system to recover full patterns from partial input. This behavior includes association, error correction, and constraint satisfaction and relies on a learning rule where connections are strengthened between units that are active at the same time."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nf4phce3u1i",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Boltzmann machines"
+          },
+          {
+            "type": "text",
+            "text": " (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9r6jlu87xn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzeoimpm7d1\" data-reactroot=\"\">Hinton, G. E., &amp; T. Sejnowski. (1986). Learning and relearning in Boltzmann machines. In D. E. Rumelhart &amp; J. L. McClelland (Eds.), <em>Parallel distributed processing</em> (vol. 1., pp. 282\u2013317). MIT Press.</p>",
+              "customLabel": "Hinton & Sejnowski, 1986",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") laid the groundwork for advances in unsupervised learning and deep generative models, influencing the development of contemporary neural networks. These extend Hopfield\u2019s ideas by incorporating probabilistic learning, enabling them to perform tasks like optimization and probabilistic inference. Both Hopfield networks and Boltzmann machines are "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "attractor networks"
+          },
+          {
+            "type": "text",
+            "text": ": Hopfield networks\u2019 states evolve iteratively toward local minima, which correspond to stored patterns (memories). Boltzmann machine attractors are states with high probability (low energy) in the network\u2019s energy landscape. The network probabilistically explores this landscape, sampling from various attractor basins over time instead of deterministically settling into one."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7879acxxot",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Such networks provided a key foundation for the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "connectionist revolution"
+          },
+          {
+            "type": "text",
+            "text": ", ushered in by networks in the early- and mid-1980s that simulated complex processes such as written ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n58n6tcipk8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhdgl06ikao\" data-reactroot=\"\">McClelland, J. L., &amp; Rumelhart, D. E. (1981). An interactive activation model of context effects in letter perception: I. An account of basic findings. <em>Psychological Review</em>, <em>88</em>(5), 375. <a href=\"https://doi.org/10.1037/0033-295X.88.5.375\" target=\"_blank\">https://doi.org/10.1037//0033-295X.88.5.375</a></p>",
+              "customLabel": "McClelland & Rumelhart, 1981",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and spoken ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4b834amjq6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nevffl6ktgx\" data-reactroot=\"\">McClelland, J.L., &amp; Elman, J.L. (1986). The TRACE model of speech perception. <em>Cognitive Psychology</em>, <em>18</em>, 1\u201386. <a href=\"https://doi.org/10.1016/0010-0285(86)90015-0\" target=\"_blank\">https://doi.org/10.1016/0010-0285(86)90015-0</a></p>",
+              "customLabel": "McClelland & Elman, 1986",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") word recognition. In these "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "interactive activation models"
+          },
+          {
+            "type": "text",
+            "text": ", activation spreads vertically (via bottom-up and top-down excitatory and/or inhibitory connections) and laterally (typically via inhibitory connections). Interactive activation is held to be a key computational foundation allowing humans to \u201capproximate...optimal perceptual inference in real time\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njx5b391aj3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nh4yplfzunc\" data-reactroot=\"\">McClelland, J. L., Mirman, D., Bolger, D. J., &amp; Khaitan, P. (2014). Interactive activation and mutual constraint satisfaction in perception and cognition. <em>Cognitive Science</em>, <em>38</em>(6), 1139\u20131189. <a href=\"https://doi.org/10.1111/cogs.12146\" target=\"_blank\">https://doi.org/10.1111/cogs.12146</a></p>",
+              "customLabel": "McClelland et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7aw82viekb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Backpropagation algorithms ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ne6imkxoymc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnhauvn28gb\" data-reactroot=\"\">Rumelhart, D. E., Hinton, G. E., &amp; Williams, R. J. (1986). Learning representations by back-propagating errors. <em>Nature</em>, <em>323</em>(6088), 533\u2013536. <a href=\"https://doi.org/10.1038/323533a0\" target=\"_blank\">https://doi.org/10.1038/323533a0</a></p>",
+              "customLabel": "Rumelhart et al., 1986",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") paved the way for a new wave of learning models. Backpropagation assigns credit and blame to weights in a neural network based on errors, making typically tiny weight modifications that lead the network to reduce error. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nguqe1dkayp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4dxgtjo5dm\" data-reactroot=\"\">Jordan, M. I. (1986). <em>Serial order: A parallel distributed processing approach</em> (Technical report ICS 8604). Institute for Cognitive Science, University of California.</p>",
+              "customLabel": "Jordan (1986)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1jtxyibg9g",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv9loju8nny\" data-reactroot=\"\">Elman, J. L. (1990). Finding structure in time. <em>Cognitive Science</em>, <em>14</em>(2), 179\u2013211. <a href=\"https://doi.org/10.1207/s15516709cog1402_1\" target=\"_blank\">https://doi.org/10.1207/s15516709cog1402_1</a></p>",
+              "customLabel": "Elman (1990)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " recognized that a partially recurrent architecture could be trained via backpropagation to process sequential information. In Simple Recurrent Networks (SRNs), later states are passed back to form part of the input for a lower level. In a Jordan network, output states are copied to a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "context layer"
+          },
+          {
+            "type": "text",
+            "text": " at the next time step, with fully connected, trainable weights from context nodes to hidden nodes. In an Elman SRN, the previous "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "hidden"
+          },
+          {
+            "type": "text",
+            "text": " states are copied to the context nodes. At each step, the input includes bottom-up input and context states. Regular backpropagation can be used to train all weights, including those from context to hidden nodes. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuablalsjkc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnzpkpagh6m\" data-reactroot=\"\">Elman, J., Bates, E., Johnson, M. H., Karmiloff-Smith, A., Parisi, D., &amp; Plunkett, K. (1996). <em>Rethinking innateness: A connectionist perspective on development</em>. MIT Press. <a href=\"https://doi.org/10.7551/mitpress/5929.001.0001\" target=\"_blank\">https://doi.org/10.7551/mitpress/5929.001.0001</a></p>",
+              "customLabel": "Elman et al. (1996)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " provided a sweeping reconsideration of many problems in cognitive development, showing how the ability of SRNs to learn temporal dependencies could address development in language, motor control, memory, and decision-making."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqha4uib8r7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The development of the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "backpropagation through time"
+          },
+          {
+            "type": "text",
+            "text": " (BPTT) algorithm ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7bsa26sn5p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"niwulazapel\" data-reactroot=\"\">Williams, R. J., &amp; Zipser, D. (1989). A learning algorithm for continually running fully recurrent neural networks. <em>Neural Computation</em>, <em>1</em>(2), 270\u2013280. <a href=\"https://doi.org/10.1162/neco.1989.1.2.270\" target=\"_blank\">https://doi.org/10.1162/neco.1989.1.2.270</a></p>",
+              "customLabel": "Williams & Zipser, 1989",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") provided a method to train networks over arbitrarily many time steps ("
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "nrqjidc4yyg",
+              "targetId": "n6btp3907m1",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This innovation allowed for the development of RNNs with greater memory capacity than SRNs as well as new kinds of networks with banks of recurrent \u2018cleanup\u2019 units that allowed for pattern separation via attractors ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkgydpvyml3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nndsihdnb17\" data-reactroot=\"\">Hinton, G. E., &amp; Shallice, T. (1991). Lesioning an attractor network: Investigations of acquired dyslexia. <em>Psychological Review</em>, <em>98</em>(1), 74\u201395. <a href=\"https://psycnet.apa.org/doi/10.1037/0033-295X.98.1.74\">https://doi.org/10.1037/0033-295X.98.1.74</a></p>",
+              "customLabel": "Hinton & Shallice, 1991",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This approach has been extended to complex domains such as the Triangle Model of Reading ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncbmuqf9opw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n872v5ga8hd\" data-reactroot=\"\">Harm, M. W., &amp; Seidenberg, M. S. (2004). Computing the meanings of words in reading: Cooperative division of labor between visual and phonological processes. <em>Psychological Review</em>, <em>111</em>(3), 662\u2013720. <a href=\"https://psycnet.apa.org/doi/10.1037/0033-295X.111.3.662\">https://doi.org/10.1037/0033-295X.111.3.662</a></p>",
+              "customLabel": "Harm & Seidenberg, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbmod3d6w9r",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "RNNs suffer from an important limitation: As we apply BPTT over longer sequences, gradients used for learning can either shrink toward zero (vanish) or grow uncontrollably (explode), making it increasingly difficult to assign credit or blame to appropriate units at appropriate time steps. This problem motivated the innovation of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Long Short-Term Memory"
+          },
+          {
+            "type": "text",
+            "text": " nodes ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n37c5vd6t5s",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ncv9rrxnom5\" data-reactroot=\"\">Hochreiter, S., &amp; Schmidhuber, J. (1997). Long short-term memory. <em>Neural Computation</em>, <em>9</em>, 1735\u20131780. <a href=\"https://doi.org/10.1162/neco.1997.9.8.1735\" target=\"_blank\">https://doi.org/10.1162/neco.1997.9.8.1735</a></p>",
+              "customLabel": "Hochreiter & Schmidhuber, 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), which have internal structure that allows each unit to develop different temporal sensitivities. These include a memory cell and gates that modulate how much influence is given to external inputs, the unit\u2019s own memory cell, and the strength of its output. LSTMs mitigate gradient problems. LSTMs are being used productively as models of a variety of cognitive domains, such as developing fairly simple models of human speech recognition that operate on real speech ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfgdtswig5j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsqeuopjtbx\" data-reactroot=\"\">Magnuson, J.S., You, H., Luthra, S., Li, M., Nam, H., Escab\u00ed, M., Brown, K., Allopenna, P.D., Theodore, R.M., Monto, N., &amp; Rueckl, J.G. (2020). EARSHOT: A minimal neural network model of incremental human speech recognition. <em>Cognitive Science</em>,<em> 44</em>, e12823. <a href=\"https://doi.org/10.1111/cogs.12823\" target=\"_blank\">https://doi.org/10.1111/cogs.12823</a></p>",
+              "customLabel": "Magnuson et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/7gukl3db",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Speech Recognition"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "n6btp3907m1",
+          "url": "https://assets.pubpub.org/zzf3kq6g/51748534149583.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"n97ah1hfrkj\" data-reactroot=\"\">Several types of RNNs. &#x27;Simple attractor networks&#x27; include Hopfield networks and Boltzman machines. Circles indicate nodes. White circles in the simple attractor network are &#x27;visible,&#x27; input-receiving nodes; grey circles are hidden nodes. Such networks settle to attractor states as a function of their inputs and weights. In other diagrams, rectangles indicate banks of (unspecified numbers of) nodes. Arrows typically indicate full connectivity with tuneable weights (except for Interactive Activation); knobs indicate inhibitory connections. Dashed arrows indicate fixed, &#x27;copyback&#x27; connections that copy state values from the previous timestep onto context units. Ovals with recurrent connections in the triangle model depict cleanup units, which create attractors that enable separation of similar patterns. Models on the top are mainly attractor networks (except Interactive Activation, though it has some related dynamical properties). Models on the bottom are typically applied to learning sequences (e.g., next-word prediction). In the fully recurrent network, backpropagation through time is used to train the hidden-to-hidden (recurrent) weights based on possibly many preceding time steps.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "interaction",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Interaction"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n175vujow5f",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Interactive activation models of word recognition naturally account for "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "top-down effects"
+          },
+          {
+            "type": "text",
+            "text": ". A key top-down effect is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "word superiority:"
+          },
+          {
+            "type": "text",
+            "text": " Letters or phonemes are detected more readily in a word context than in isolation or a nonword context ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk9d03ry7io",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbondcu8yuv\" data-reactroot=\"\">Reicher, G. M. (1969). Perceptual recognition as a function of meaningfulness of stimulus material. <em>Journal of Experimental Psychology</em>,<em> 81</em>(2), 275\u2013280. <a href=\"https://psycnet.apa.org/doi/10.1037/h0027768\">https://doi.org/10.1037/h0027768</a></p>",
+              "customLabel": "Reicher, 1969",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbdojmb9ns3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nih1efnivz4\" data-reactroot=\"\">Rubin, P., Turvey, M. T., &amp; Van Gelder, P. (1976). Initial phonemes are detected faster in spoken words than in spoken nonwords. <em>Perception &amp; Psychophysics</em>, <em>19</em>, 394\u2013398. <a href=\"https://doi.org/10.3758/BF03199398\" target=\"_blank\">https://doi.org/10.3758/BF03199398</a></p>",
+              "customLabel": "Rubin et al., 1976",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In an interactive activation model, this phenomenon follows from letters and phonemes receiving top-down support from words that contain them in addition to bottom-up support. Joint effects of feedback and lateral inhibition in interactive activation models makes them robust: Given noisy inputs, even a slight bottom-up advantage for a word allows that word to inhibit similar words, which moderates the pattern of lexical-to-form feedback. At the intermediate level (letters or phonemes), lateral inhibition does the same. The joint effects of recurrent feedback and inhibition over time effectively denoise inputs ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmffmep6zji",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nja7q0sfg5s\" data-reactroot=\"\">Magnuson, J. S., Crinnion, A. M., Luthra, S., Gaston, P., &amp; Grubb, S. (2024). Contra assertions, feedback improves word recognition: How feedback and lateral inhibition sharpen signals over noise. <em>Cognition</em>,<em> 242</em>. <a href=\"https://doi.org/10.1016/j.cognition.2023.105661\">https://doi.org/10.1016/j.cognition.2023.105661</a></p>",
+              "customLabel": "Magnuson et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "self-supervised-learning",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Self-supervised learning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nlps20afgqz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nr1sclpc57j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv9loju8nny\" data-reactroot=\"\">Elman, J. L. (1990). Finding structure in time. <em>Cognitive Science</em>, <em>14</em>(2), 179\u2013211. <a href=\"https://doi.org/10.1207/s15516709cog1402_1\" target=\"_blank\">https://doi.org/10.1207/s15516709cog1402_1</a></p>",
+              "customLabel": "Elman (1990)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " used "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "next-element prediction"
+          },
+          {
+            "type": "text",
+            "text": " as a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "self-supervised"
+          },
+          {
+            "type": "text",
+            "text": " method for SRN training. For example, for sentence processing, the current input is the current word in a sentence, and the training target is the next word in the sequence [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/mn7mjhx9",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Sentence Processing"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/hexmhaj8",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Computational Models of Language Learning"
+          },
+          {
+            "type": "text",
+            "text": "]. The network \u2018predicts\u2019 the next word, and then the observed word is used to calculate error. Context layers allow SRNs to develop sensitivity to nonadjacent, long-distance dependencies (e.g., predicting plurally inflected verbs after BOY CHASED BY DOGS [RUNS, WALKS, matching BOY] but singular after BOYS CHASED BY DOGS ...). The network can learn to preserve traces of previous states that guide such predictions."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "biological-plausibility",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Biological plausibility"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7vxtvnqjjr",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "SRNs and LSTMs are unrealistically limited in what they can learn (assuming practical limits on time and computational resources; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6741nve2tp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"no3j4iriqu6\" data-reactroot=\"\">Del\u00e9tang,G, Ruoss, A., Grau-Moya, J., Genewein, T., Wenliang, L. T., Catt, E., Cundy, C., Hutter, H., Legg, H., Veness, J., &amp; Ortega, P. A. (2022). Neural networks and the Chomsky hierarchy. <em>Arxiv</em>. <a href=\"https://doi.org/10.48550/arXiv.2207.02098\">https://doi.org/10.48550/arXiv.2207.02098</a></p>",
+              "customLabel": "Del\u00e9tang et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). They also suffer from "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "catastrophic interference"
+          },
+          {
+            "type": "text",
+            "text": " (training on new materials overwrites previous learning), pointing to the need to develop more complex, biologically inspired models."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "interpretability",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Interpretability"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nlp7ehb2yhn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Even very simple recurrent models defy easy explanation. RNNs, like other learning models, often exhibit unexpected emergent behavior. For example, the LSTM-based EARSHOT model ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny3os74vo47",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsqeuopjtbx\" data-reactroot=\"\">Magnuson, J.S., You, H., Luthra, S., Li, M., Nam, H., Escab\u00ed, M., Brown, K., Allopenna, P.D., Theodore, R.M., Monto, N., &amp; Rueckl, J.G. (2020). EARSHOT: A minimal neural network model of incremental human speech recognition. <em>Cognitive Science</em>,<em> 44</em>, e12823. <a href=\"https://doi.org/10.1111/cogs.12823\" target=\"_blank\">https://doi.org/10.1111/cogs.12823</a></p>",
+              "customLabel": "Magnuson et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") maps speech (spectral slices) to semantic vectors via a hidden layer without any explicit phonetic training. Remarkably, it develops an emergent phonetic coding (some hidden nodes learn to selectively respond to different classes of consonants and vowels) in its hidden LSTM layer that resembles phonetically organized cortical responses to speech. However, other hidden nodes develop complex response properties that defy ready interpretation, limiting the conclusions that can be drawn. RNNs demonstrate what may be possible for recurrent systems to learn, but a large gap remains: how to establish whether or not computations homologous or analogous to those that emerge in an RNN may be implemented in the brain."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4x1gi7rrub",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Contemporary Large Language Models (LLMs) like ChatGPT ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwpa6d2vx37",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny051b8xjuy\" data-reactroot=\"\">Radford, A., Narasimhan, K., Salimans, T., &amp; Sutskever, I. (2018). Improving language understanding by generative pre-training. <a href=\"https://openai.com/index/language-unsupervised\">https://openai.com/index/language-unsupervised</a></p>",
+              "customLabel": "Radford et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") leverage a special \u2018attention\u2019 mechanism in feedforward transformer architectures, enabling parallel processing of large chunks of data simultaneously, thus mitigating the limitations of recurrence by using self-attention to model dependencies in parallel across a sequence [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "]. Although next-word prediction ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzkjz2ethpu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv9loju8nny\" data-reactroot=\"\">Elman, J. L. (1990). Finding structure in time. <em>Cognitive Science</em>, <em>14</em>(2), 179\u2013211. <a href=\"https://doi.org/10.1207/s15516709cog1402_1\" target=\"_blank\">https://doi.org/10.1207/s15516709cog1402_1</a></p>",
+              "customLabel": "Elman, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") remains a core underlying principle (among others) for training LLMs, a fundamental difference compared to RNNs is their simultaneous access to vast quantities of preceding and following context (in the sense that while information at position "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "p"
+          },
+          {
+            "type": "text",
+            "text": " within a chunk is processed, the model has access to substantial preceding and following information within the chunk; a sequence-processing model would have access to information prior to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "p"
+          },
+          {
+            "type": "text",
+            "text": " but not future information)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbx24pn3ewc",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Despite the difficulties in understanding how RNNs operate \u2018under the hood,\u2019 RNNs (and LMMs) can productively be compared to fine-grained time-course measures of neural activity, prompting new hypotheses about the hierarchical organization of neural systems in domains such as language and vision (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncslepqhqo3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbdllp52o8s\" data-reactroot=\"\">Schrimpf, M., Blank, I. A., Tuckute, G., Kauf, C., Hosseini, E. A., Kanwisher, N., ... &amp; Fedorenko, E. (2021). The neural architecture of language: Integrative modeling converges on predictive processing. <em>Proceedings of the National Academy of Sciences</em>, <em>118</em>(45), e2105646118. <a href=\"https://doi.org/10.1073/pnas.2105646118\" target=\"_blank\">https://doi.org/10.1073/pnas.2105646118</a></p>",
+              "customLabel": "Schrimpf et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nn4jb0fr4vb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ncp1i5enchm\" data-reactroot=\"\">Brodbeck, C., Hannagan, T., &amp; Magnuson, J. S. (2024). Recurrent neural networks as neuro-computational models of human speech recognition. <em>Biorxiv</em>. <a href=\"https://doi.org/10.1101/2024.02.20.580731\">https://doi.org/10.1101/2024.02.20.580731</a></p>",
+              "customLabel": "Brodbeck et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "acknowledgements",
+          "id": "acknowledgements",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Acknowledgments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nh3b7btds1y",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Preparation of this article was supported in part by U.S. National Science Foundation grant BCS-PAC 2043903, by Basque Government support to BCBL through the BERC 2022-2025 program, and by the Spanish State Research Agency through BCBL Severo Ochoa excellence accreditation CEX2020-001010-S and project PID2023-149585NB-I00."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nbwz0fjpqip",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nvvvy6zdjqf",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Elman, J., Bates, E., Johnson, M. H., Karmiloff-Smith, A., Parisi, D., & Plunkett, K. (1996). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Rethinking innateness: A connectionist perspective on development"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". MIT Press. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.7551/mitpress/5929.001.0001",
+                          "title": null,
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.7551/mitpress/5929.001.0001"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n1c3unl169g",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Kar, K., Kornblith, S., & Fedorenko, E. (2022). Interpretability of artificial neural network models in artificial intelligence versus neuroscience. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Nature Machine Intelligence"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "4"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(12), 1065\u20131067. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1038/s42256-022-00592-3",
+                          "title": null,
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1038/s42256-022-00592-3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nrey7avbqpl",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Rao, R. P., & Ballard, D. H. (1999). Predictive coding in the visual cortex: A functional interpretation of some extra-classical receptive-field effects. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Nature Neuroscience"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "2"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(1), 79\u201387. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1038/4580",
+                          "title": null,
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1038/4580"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

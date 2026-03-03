@@ -1,0 +1,20 @@
+{{ define "title" }}{{ .Title }} · {{ .Site.Title }}{{ end }}
+{{ define "main" }}
+<div class="oecs-list">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ $slugs := .Params.article_slugs | default slice }}
+  {{ $site := .Site }}
+  <ul>
+    {{ range $slugs }}
+      {{ $p := $site.GetPage (path.Join "/articles" .) }}
+      {{ if $p }}
+    <li><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></li>
+      {{ else }}
+    <li><a href="{{ "articles/" | relLangURL }}{{ . }}/">{{ . }}</a></li>
+      {{ end }}
+    {{ end }}
+  </ul>
+  <p><a href="{{ "thematic-collections/" | relLangURL }}">Return to Thematic Collections</a></p>
+</div>
+{{ end }}

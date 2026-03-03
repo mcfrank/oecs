@@ -1,0 +1,1571 @@
+{
+  "id": "b3b3e5e7-1c84-4f13-a066-86b4c5fee26e",
+  "slug": "lurik5dk",
+  "title": "Rational Analysis",
+  "url": "https://oecs.mit.edu/pub/lurik5dk",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "b3b3e5e7-1c84-4f13-a066-86b4c5fee26e",
+    "slug": "lurik5dk",
+    "title": "Rational Analysis",
+    "htmlTitle": "Rational Analysis",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.b3b3e5e7",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "yoj54esp",
+    "editHash": "wghi6xqo",
+    "reviewHash": "trxtp1xr",
+    "commentHash": "lkrlk74h",
+    "draftId": "f159524d-444b-4958-99df-ff9f24540b01",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "2756351b-c4cf-4779-9659-360c89f76f63",
+    "scopeSummaryId": "51db4576-e45c-47f4-8d02-588f74bc5384",
+    "createdAt": "2025-03-25T18:05:16.668Z",
+    "updatedAt": "2025-04-28T13:18:45.368Z",
+    "attributions": [
+      {
+        "id": "ec7275b3-62a9-4411-a6bf-e9cd1753a3ce",
+        "name": "John R. Anderson",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Carnegie Mellon University, Pittsburgh, PA, USA",
+        "orcid": "0000-0002-4977-6630",
+        "userId": null,
+        "pubId": "b3b3e5e7-1c84-4f13-a066-86b4c5fee26e",
+        "createdAt": "2025-03-25T18:06:50.779Z",
+        "updatedAt": "2025-03-25T18:07:02.882Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "f159524d-444b-4958-99df-ff9f24540b01",
+      "latestKeyAt": "2025-04-25T16:29:08.314Z",
+      "firebasePath": "drafts/draft-f159524d-444b-4958-99df-ff9f24540b01",
+      "createdAt": "2025-03-25T18:05:16.663Z",
+      "updatedAt": "2025-04-28T13:18:13.224Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nle1ee5yg4t",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Rational analysis"
+          },
+          {
+            "type": "text",
+            "text": " is an approach to understanding human cognition that treats it as optimized to solve problems given certain constraints. For example, a rational analysis of memory starts from the idea that memory systems are optimized to the statistics of how the items to be remembered occur in the environment. Constructing a rational analysis requires specifying the goals of the cognitive system and then developing a formal model that instantiates those goals within the organism\u2019s environment. In contrast to many approaches to computational modeling in cognitive science, rational analysis makes limited assumptions about the nature of the organism\u2019s computational processes or resources. The approach of modeling the mind as performing optimal statistical inferences for a particular environment is tightly linked to the broader tradition of Bayesian cognitive modeling. "
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nn90gl73ioq",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The term \u201crational analysis\u201d was introduced by John R. Anderson ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuok56d98y3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntzj47j6h37\" data-reactroot=\"\">Anderson, J. R. (1990). <em>The adaptive character of thought.</em> Psychology Press.</p>",
+              "customLabel": "1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0ojp6ec22n",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbhycfxh9ek\" data-reactroot=\"\">Anderson, J. R. (1991). The adaptive nature of human categorization. <em>Psychological Review</em>, <em>98</em>(3), 409\u2013429. <a href=\"https://doi.org/10.1037/0033-295X.98.3.409\">https://doi.org/10.1037/0033-295X.98.3.409</a> </p>",
+              "customLabel": "1991",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), but it had many intellectual predecessors. There was a long tradition of treating human behavior as adapted to the structure of the environment (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nyziv5rsrxm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nid3g8iv1ua\" data-reactroot=\"\">Brunswick, E. (1956). <em>Perception and representative design of psychological experiments.</em> University of California Press.</p>",
+              "customLabel": "Brunswick, 1956",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk0adz8qu45",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj7narp39sv\" data-reactroot=\"\">Gibson, J. J. (1966). <em>The senses considered as perceptual systems.</em> Houghton Mifflin.</p>",
+              "customLabel": "Gibson, 1966",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Evolutionary analysis in general treats all aspects of organisms as shaped by their environmental history, and there had been successful treatments of an animal\u2019s behavior as arising from optimization to the structure of its environment. For example, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "optimal foraging theory"
+          },
+          {
+            "type": "text",
+            "text": " concerns the best way to search for resources under assumptions about their distribution in the environment ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nz1kehzow0d",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2xaef5uhsz\" data-reactroot=\"\">Stephens, D. W., &amp; Krebs, J. R. (1986). <em>Foraging theory</em> (Vol. 6). Princeton University Press.</p>",
+              "customLabel": "Stephens & Krebs, 1986",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). There were already explicit evolutionary explanations of aspects of cognition prior to the introduction of rational analysis (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqqqneguu4j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbhrvlbjfaq\" data-reactroot=\"\">Cosmides, L. (1989). The logic of social exchange: Has natural selection shaped how humans reason? Studies with the Wason selection task. <em>Cognition</em>, <em>31</em>(3), 187-276. <a href=\"https://doi.org/10.1016/0010-0277(89)90023-1\">https://doi.org/10.1016/0010-0277(89)90023-1</a> </p>",
+              "customLabel": "Cosmides, 1989",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6lyoq8ibgb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Anderson\u2019s two most developed applications were for predicting (1) experimental results in memory from a model of how demands for particular stimuli appear in the environment ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n08moh2wbp5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nntade48rpw\" data-reactroot=\"\">Anderson, J. R., &amp; Milson, R. (1989). Human memory: An adaptive perspective. <em>Psychological Review</em>, <em>96</em>(4), 703\u2013719. <a href=\"https://doi.org/10.1037/0033-295X.96.4.703\">https://doi.org/10.1037/0033-295X.96.4.703</a> </p>",
+              "customLabel": "Anderson & Milson, 1989",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and (2) results in categorization experiments from a model of how features are associated with categories. There have since been rational analyses of many other cognitive domains, including the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Wason selection task"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nf6pk1pkta9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9u1oiack5r\" data-reactroot=\"\">Oaksford, M., &amp; Chater, N. (1994). A rational analysis of the selection task as optimal data selection. <em>Psychological Review</em>, <em>101</em>(4), 608\u2013631. <a href=\"https://doi.org/10.1037/0033-295X.101.4.608\">https://doi.org/10.1037/0033-295X.101.4.608</a>  </p>",
+              "customLabel": "Oaksford & Chater, 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "approximate number system"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2hbgc288xm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlaj8udfyzd\" data-reactroot=\"\">Piantadosi, S. T. (2016). A rational analysis of the approximate number system. <em>Psychonomic Bulletin &amp; Review</em>, <em>23</em>(3), 877-886. <a href=\"https://doi.org/10.3758/s13423-015-0963-8\">https://doi.org/10.3758/s13423-015-0963-8</a> </p>",
+              "customLabel": "Piantadosi, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and curiosity behaviors ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhk9517ofrm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1cmgvizq8a\" data-reactroot=\"\">Dubey, R., &amp; Griffiths, T. L. (2020). Reconciling novelty and complexity through a rational analysis of curiosity. <em>Psychological Review</em>, <em>127</em>(3), 455. <a href=\"https://doi.org/10.1037/rev0000175\">https://doi.org/10.1037/rev0000175</a> </p>",
+              "customLabel": "Dubey & Griffiths, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), to name a few. Many of these efforts have involved extensive Bayesian analyses and can be seen as part of a growing approach that uses Bayesian models of cognition ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0anen0io90",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ne7z0l0igij\" data-reactroot=\"\">Chater, N., Oaksford, M., Hahn, U., &amp; Heit, E. (2010). Bayesian models of cognition. <em>Wiley Interdisciplinary Reviews: Cognitive Science</em>, <em>1</em>(6), 811-823. <a href=\"https://doi.org/10.1002/wcs.79\">https://doi.org/10.1002/wcs.79</a> </p>",
+              "customLabel": "Chater et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/lwxmte1p",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Bayesian Models of Cognition"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/98iya9su",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Bayesianism"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwukzypxaek",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Rational analysis is typically described as a program of research that involves the following six steps:"
+          }
+        ]
+      },
+      {
+        "type": "ordered_list",
+        "attrs": {
+          "id": "nob8we15thc",
+          "order": 1,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "natx248oba8",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Precisely specify the goals of the cognitive system."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nv69mjiuupb",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Develop a formal model of the environment to which the system is adapted."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nzlpesxu8sz",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Make the minimal assumptions about computational limitations."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nuzzvuxd69k",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Derive the optimal behavioral function given items one through three."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n364vfsy3eh",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Examine the empirical literature to see if the predictions of the behavioral function are confirmed."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n2bfzg77mss",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If the predictions are off, then iterate."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nz4hmh0z50p",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Predictions of behavior can be derived from statistical models of the environment (step two). For instance, major effects in human memory can be predicted from a plausible mathematical model of the environmental distribution of memory requests ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nyr5iar9b1i",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nntade48rpw\" data-reactroot=\"\">Anderson, J. R., &amp; Milson, R. (1989). Human memory: An adaptive perspective. <em>Psychological Review</em>, <em>96</em>(4), 703\u2013719. <a href=\"https://doi.org/10.1037/0033-295X.96.4.703\">https://doi.org/10.1037/0033-295X.96.4.703</a> </p>",
+              "customLabel": "Anderson & Milson, 1989",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "np8lbv8hmll",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Early rational analyses involved only minimal computational assumptions (step three) in an effort to focus on environmental models. For instance, the assumption in the memory model was simply that memories become available in a serial order. This focus on the environment rather than the nature of computations inside individual minds led to rational analysis being construed as in opposition to more conventional mechanistic approaches that focused on specific psychological processes. A mechanistic approach would describe the processes that determined how quickly a memory became available; in contrast, rational approaches focused on when they ought to be available based on the typical demands on agents in a specific environment."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ny7oygjncdb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The either/or opposition between rational analysis and mechanistic approaches has disappeared. For instance, the ACT-R"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "(Adaptive Control of Cognition"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "\u2013"
+          },
+          {
+            "type": "text",
+            "text": "Rational)"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "architecture ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0usbtrp7oy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzr4l4ruiil\" data-reactroot=\"\">Anderson, J. R. (2007). <em>How can the human mind occur in the physical universe?</em> Oxford University Press.</p>",
+              "customLabel": "Anderson, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") is a process-based model of cognition, but it uses rational analysis to guide its mechanistic assumptions. For instance, the activation computations in ACT-R\u2019s declarative memory\u2014the computations that determine the strength of a memory\u2014were based on the rational analysis of memory. Rational analysis-based activation computations have been adopted by other theories of cognition as well (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nciwydkj8pd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"no0r21po85m\" data-reactroot=\"\">Laird, J. E. (2012). <em>The Soar cognitive architecture.</em> MIT Press.</p>",
+              "customLabel": "Laird, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "niglm0n3fug",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2kg845skvf\" data-reactroot=\"\">Reder, L. M., Nhouyvansivong, A., Schunn, C. D., Ayers, M. S., Angstadt, P., &amp; Hiraki, K. (2000). A mechanistic account of the mirror effect for word frequency: A computational model of remember/know judgments in a continuous recognition paradigm. <em>Journal of Experimental Psychology: Learning, Memory, &amp; Cognition, 26</em>(2), 294-320. <a href=\"https://doi.org/10.1037//0278-7393.26.2.294\">https://doi.org/10.1037//0278-7393.26.2.294</a> </p>",
+              "customLabel": "Reder et al., 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "just-so-stories",
+          "id": "just-so-stories",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Just-so stories?"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngxg9lrxdkw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Most statistical models developed through rational analysis (including the "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8f3g1lp4jc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nn67psxay58\" data-reactroot=\"\">Anderson, J. R., &amp; Milson, R. (1989). Human memory: An adaptive perspective. <em>Psychological Review</em>, <em>96</em>(4), 703\u2013719. <a href=\"https://doi.org/10.1037/0033-295X.96.4.703\">https://doi.org/10.1037/0033-295X.96.4.703</a> </p>",
+              "customLabel": "Anderson & Milson, 1989",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " memory model) lack hard evidence that they actually describe the environments of humans. This feature leads to the criticism that such models are \u201cjust-so\u201d stories in which the theorist makes up environments to fit the data (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nto6zy6gwqy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngv1c5zkpbf\" data-reactroot=\"\">Simon, H. A. (1989). Cognitive architectures and rational analysis: Comment. In K. Van Lehn (Ed.), <em>Architectures for intelligence</em> (pp. 37\u201352). Psychology Press.</p>",
+              "customLabel": "Simon, 1989",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nki8feu6msx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhep2ndcdke\" data-reactroot=\"\">Bowers, J. S., &amp; Davis, C. J. (2012). Bayesian just-so stories in psychology and neuroscience. <em>Psychological Bulletin</em>, <em>138</em>(3), 389-414. <a href=\"https://doi.org/10.1037/a0026450\">https://doi.org/10.1037/a0026450</a> </p>",
+              "customLabel": "Bowers & Davis, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In the case of memory, however, there is some evidence that the statistics of the environment do match the proposed model ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk1megrfnre",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nn7ud55zog4\" data-reactroot=\"\">Anderson, J. R., &amp; Schooler, L. J. (1991). Reflections of the environment in memory. <em>Psychological Science</em>,<em> 2</em>(6), 396\u2013408. <a href=\"https://doi.org/10.1111/j.1467-9280.1991.tb00174.x\">https://doi.org/10.1111/j.1467-9280.1991.tb00174.x</a> </p>",
+              "customLabel": "Anderson & Schooler, 1991",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For instance, in headlines in the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "New York Times"
+          },
+          {
+            "type": "text",
+            "text": ", the appearance of a word in a headline can be assumed to be a demand on the reader to retrieve the reference of the word to decide whether to read the article. The statistics of these demands (one proxy for the kind of memory environment human organisms find themselves in) were similar to those assumed by the formal model and led to predictions that matched qualitative effects in human memory. These early databases were not large enough to provide quantitative predictions for memory experiments, however. More recent use of large databases (for example, Twitter messages and Reddit comments) have led to changes in the model as well as precise predictions for further memory experiments ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nm82su56lla",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nub3keb95gl\" data-reactroot=\"\">Anderson, J. R., Betts, S., Byrne, M. D., Schooler, L. J., &amp; Stanley, C. (2023). The environmental basis of memory. <em>Psychological Review,</em> <em>130(</em>5), 1137-1166. <a href=\"https://doi.org/10.1037/rev0000409\">https://doi.org/10.1037/rev0000409</a> </p>",
+              "customLabel": "Anderson et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ntu6woybrza",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "More generally, rational analysis tends to consist of post hoc reconstructions of experimental results. It should be possible to predict novel results from the assumption of optimal behavior, however. One instance of such a novel prediction is the prediction of how contextual priming and recency should combine to predict the success of word completions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfr417foys5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5erb9pdcbi\" data-reactroot=\"\">Schooler, L. J., &amp; Anderson, J. R. (1997). The role of process in the rational analysis of memory. <em>Cognitive Psychology</em>,<em> 32</em>(3), 219-250<em>. </em><a href=\"https://doi.org/10.1006/cogp.1997.0652\">https://doi.org/10.1006/cogp.1997.0652</a> </p>",
+              "customLabel": "Schooler & Anderson, 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "resource-rational-analysis",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Resource-rational analysis"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "niolv2cp3vp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Rational analysis is often applied to what, in cognitive architectures, are single steps of cognition, such as retrieving a memory or assigning a category to an object. This feature limits the usefulness of this approach in understanding more complex cognition, where many steps are put together to produce an answer or appropriate behavior. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Resource-rational analysis"
+          },
+          {
+            "type": "text",
+            "text": " (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n88o2rck9od",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqirzvnq30d\" data-reactroot=\"\">Lieder, F., &amp; Griffiths, T. L. (2020). Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources. <em>Behavioral and Brain Sciences</em>, <em>43</em>, e1. <a href=\"https://doi.org/10.1017/S0140525X1900061X\">https://doi.org/10.1017/S0140525X1900061X</a> </p>",
+              "customLabel": "Lieder & Griffiths, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") is an extension of rational analysis that assumes that these steps are put together in an optimal way given the constraints placed on these components. For instance, it is possible to predict fixation patterns in choice tasks from optimal information sampling ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ng8otmoo3zy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzv19hf95tg\" data-reactroot=\"\">Callaway, F., Rangel, A., &amp; Griffiths, T. L. (2021). Fixation patterns in simple choice reflect optimal information sampling. <em>PLoS Computational Biology</em>, <em>17</em>(3), e1008863. <a href=\"https://doi.org/10.1371/journal.pcbi.1008863\">https://doi.org/10.1371/journal.pcbi.1008863</a> </p>",
+              "customLabel": "Callaway et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This approach can be extended to explain individual differences in behavior. For instance, differences in how people play a fast-paced video game can be predicted by assuming that they make optimal choices given differences in the precision of their motor actions that had been measured in simple tasks ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwfs6ootptn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1i0ffnl9dy\" data-reactroot=\"\">Dimov, C. M., Anderson, J. R., &amp; Betts, S. A. (2024). Tight resource-rational analysis. <em>Cognitive Systems Research</em>,<em> 86</em>, 101239. <a href=\"https://doi.org/10.1016/j.cogsys.2024.101239\">https://doi.org/10.1016/j.cogsys.2024.101239</a>  </p>",
+              "customLabel": "Dimov et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nps7w0vabh1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Rational analysis is tightly connected with the broader project of making Bayesian models of cognition because specific rational analyses often make use of the normative statistical inferences available through Bayesian computation. Philosophers and theorists distinguish different levels of explanation for cognitive phenomena; rational analysis is often assumed to be a route to high-level explanations at the level of computational theory ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nyav6ux1tfl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwpljfrha06\" data-reactroot=\"\">Marr, D. (1982). <em>Vision: A computational investigation into the human representation and processing of visual information</em>. MIT Press.</p>",
+              "customLabel": "Marr, 1982",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") rather than mechanistic explanations [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/vgigt1aq",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Mechanistic Explanation"
+          },
+          {
+            "type": "text",
+            "text": "]. Finally, rational analysis is related to evolutionary psychology, although it is typically distinguished by its emphasis on computational modeling."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n7k89k9bwz7",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n01kmphfy32",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Anderson, J. R. (1990). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The adaptive character of thought."
+                  },
+                  {
+                    "type": "text",
+                    "text": " Psychology Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nkkahigo8di",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Chater, N., & Oaksford, M. (1999). Ten years of the rational analysis of cognition. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Trends in Cognitive Sciences, 3"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(2), 57\u201365. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/S1364-6613(98)01273-X",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/S1364-6613(98)01273-X"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nkmi1ylznlp",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Lieder, F., & Griffiths, T. L. (2020). Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Behavioral and Brain Sciences"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "43"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", e1. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1017/S0140525X1900061X",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1017/S0140525X1900061X"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

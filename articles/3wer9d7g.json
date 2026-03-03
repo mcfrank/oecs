@@ -1,0 +1,2665 @@
+{
+  "id": "a2555670-0e39-420e-ba83-270965dced2b",
+  "slug": "3wer9d7g",
+  "title": "Information and Misinformation",
+  "url": "https://oecs.mit.edu/pub/3wer9d7g",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "a2555670-0e39-420e-ba83-270965dced2b",
+    "slug": "3wer9d7g",
+    "title": "Information and Misinformation",
+    "htmlTitle": "Information and Misinformation",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.a2555670",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "41sasck7",
+    "editHash": "0bx2khoa",
+    "reviewHash": "ehys71p7",
+    "commentHash": "rikcysdx",
+    "draftId": "c5bf7e40-4b13-4112-a1eb-d959810539c9",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "04f279ef-0c1a-48c3-88c5-78638ff47e93",
+    "scopeSummaryId": "be4031fa-a117-4ddc-a295-e5b9e67dda9d",
+    "createdAt": "2025-02-18T18:18:08.370Z",
+    "updatedAt": "2025-07-09T16:43:57.394Z",
+    "attributions": [
+      {
+        "id": "30527e4d-a388-4691-af4f-9c8d94ba8e48",
+        "name": "Andrew Perfors",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of Melbourne",
+        "orcid": "0000-0002-6976-0732",
+        "userId": null,
+        "pubId": "a2555670-0e39-420e-ba83-270965dced2b",
+        "createdAt": "2025-02-18T18:18:42.445Z",
+        "updatedAt": "2025-02-18T18:19:04.397Z",
+        "user": null
+      },
+      {
+        "id": "371743cf-ec6f-446c-84ba-11e4b1cd0cf9",
+        "name": null,
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": false,
+        "roles": [
+          "Editor",
+          "Editor-in-Chief"
+        ],
+        "affiliation": "Stanford University",
+        "orcid": null,
+        "userId": "109667a4-3426-4b8d-ab8e-6ed65afced12",
+        "pubId": "a2555670-0e39-420e-ba83-270965dced2b",
+        "createdAt": "2025-02-18T19:13:20.387Z",
+        "updatedAt": "2025-02-18T19:13:46.742Z",
+        "user": {
+          "id": "109667a4-3426-4b8d-ab8e-6ed65afced12",
+          "firstName": "Michael C.",
+          "lastName": "Frank",
+          "fullName": "Michael C. Frank",
+          "avatar": null,
+          "slug": "michael-frank-3",
+          "initials": "MF",
+          "title": "Benjamin Scott Crocker Professor of Human Biology",
+          "orcid": "0000-0002-7551-4378"
+        }
+      },
+      {
+        "id": "e153e8c1-cb4c-47aa-809f-2737ec8c787b",
+        "name": null,
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Editor",
+          "Editor-in-Chief",
+          "Section Editor"
+        ],
+        "affiliation": "Oxford University",
+        "orcid": null,
+        "userId": "c14d977d-7f90-4c28-8da2-e0c718bef862",
+        "pubId": "a2555670-0e39-420e-ba83-270965dced2b",
+        "createdAt": "2025-02-18T19:13:54.886Z",
+        "updatedAt": "2025-02-25T16:34:49.184Z",
+        "user": {
+          "id": "c14d977d-7f90-4c28-8da2-e0c718bef862",
+          "firstName": "Asifa",
+          "lastName": "Majid",
+          "fullName": "Asifa Majid",
+          "avatar": null,
+          "slug": "asifa-majid",
+          "initials": "AM",
+          "title": "Editor-in-Chief",
+          "orcid": "0000-0003-0132-216X"
+        }
+      }
+    ],
+    "draft": {
+      "id": "c5bf7e40-4b13-4112-a1eb-d959810539c9",
+      "latestKeyAt": "2025-02-27T17:53:26.768Z",
+      "firebasePath": "drafts/draft-c5bf7e40-4b13-4112-a1eb-d959810539c9",
+      "createdAt": "2025-02-18T18:18:08.367Z",
+      "updatedAt": "2025-07-09T16:43:54.390Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1re1se7osj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "For scientists whose primary interest is in policy or sociology, there is an important distinction between "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "information"
+          },
+          {
+            "type": "text",
+            "text": " (which is true), "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "misinformation"
+          },
+          {
+            "type": "text",
+            "text": " (which is false but thought by the information provider to be true), and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "disinformation"
+          },
+          {
+            "type": "text",
+            "text": " (which is false and known to be false by the provider). For cognitive scientists, this three-way distinction is less relevant because the focus is on how humans think about all information, regardless of its truth value. Central topics in the study of human information processing include how we update our beliefs, how we draw conclusions from data, how we learn from others, and how we reason in social contexts. These individual-level capacities create our shared information system in both the short term (e.g., news) and the long term (e.g., culture). In return, our individual behaviors are shaped by the system, its content, and each other."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1c1p4ev356",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Humans have shared information since before recorded history began. Indeed, this propensity to learn from each other may be one of our greatest assets as a species: Without it, we would not be able to transfer ideas and innovations across generations and thus would not have been able to accumulate our cultural knowledge ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4vs9zdp8q4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrcr6tof7gg\" data-reactroot=\"\">Mercier, H. (2020). <em>Not born yesterday: The science of who we trust and what we believe</em>. Princeton University Press. https://doi.org/10.1515/9780691198842</p>",
+              "customLabel": "Mercier, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Because people are neither perfectly knowledgeable nor perfectly honest, we have sometimes shared misinformation as well. However, the problems posed by misinformation primarily rose to public consciousness in the first decades of the 21st century in the context of \u201cfake news\u201d and the emergence of social media. Because of this, much research focuses on sociological, political, or technical answers to questions like what factors contribute to the spread of misinformation (e.g., algorithmic amplification or the incentives built into social media platforms) or how the spread of misinformation affects society (e.g., polarization, extremism). Since human cognition is the source and cause of this spread, these questions intersect with core cognitive science questions about how people process information in general."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxr1a0m15xa",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "For many cognitive scientists, misinformation is only a special case of a more general concept of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "information"
+          },
+          {
+            "type": "text",
+            "text": ". The definition cognitive scientists use is often grounded in Shannon\u2019s work, which conceptualizes information in terms of uncertainty ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0n3kjstgsd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntssc63uq8m\" data-reactroot=\"\">Shannon, C. E. (1948). A mathematical theory of communication. <em>Bell System Technical Journal</em>, <em>27</em>(3), 379\u2013423. https://doi.org/10.1002/j.1538-7305.1948.tb01338.x</p>",
+              "customLabel": "Shannon, 1948",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Many of the ideas in information theory have deep commonalities with Bayesian probability theory ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndscfatbdbs",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj2l7mk9v5z\" data-reactroot=\"\">Zellner, A. (1988). Optimal information processing and Bayes\u2019 theorem. <em>The American Statistician</em>, <em>42</em>(4), 278\u2013280. https://doi.org/10.2307/2685143</p>",
+              "customLabel": "Zellner, 1988",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8a2p6v06lo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nihy326y5t4\" data-reactroot=\"\">MacKay, D. (2003). <em>Information theory, inference, and learning algorithms</em>. Cambridge University Press.</p>",
+              "customLabel": "MacKay, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), which has been influential for understanding how people learn and process information. Bayesian models are widely used as a normative framework ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkvl9dr1zoa",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz6fge1ebeo\" data-reactroot=\"\">Griffiths, T. L., Chater, N., Kemp, C., Perfors, A., &amp; Tenenbaum, J. B.(2010). Probabilistic models of cognition: Exploring representations and inductive biases. <em>Trends in Cognitive Sciences</em>, <em>14</em>(8), 357\u2013364. https://doi.org/10.1016/j.tics.2010.05.004</p>",
+              "customLabel": "Griffiths et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and as a methodological tool ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngaihwy7xm6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzhp2f5inkw\" data-reactroot=\"\">Tauber, S., Navarro, D. J., Perfors, A., &amp; Steyvers, M. (2017). Bayesian models of cognition revisited: Setting optimality aside and letting data drive psychological theory. <em>Psychological Review</em>, <em>124</em>(4), 410\u2013441. https://doi.org/10.1037/rev0000052c</p>",
+              "customLabel": "Tauber et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") for understanding individual reasoning and belief updating, even when people fall short of the ideal ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny95ni56bpt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7ghc8q92l0\" data-reactroot=\"\">Lieder, F., &amp; Griffiths, T. L. (2020). Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources. <em>Behavioral and Brain Sciences</em>, <em>43</em>, e1. https://doi.org/10.1017/s0140525x1900061x</p>",
+              "customLabel": "Lieder & Griffiths, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/lwxmte1p/",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Bayesian Models of Cognition"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmd1ztkdxnq",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Because people learn from each other, a full understanding of human information processing (and the resulting information systems we create) entails a much broader approach. One strand of this approach has been the study of cultural evolution and change ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqpyag108tb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3luedlkdsu\" data-reactroot=\"\">Legare, C. H. (2019). The development of cumulative cultural learning. <em>Annual Review of Developmental Psychology</em>, <em>1</em>, 119\u2013147. https://doi.org/10.1146/annurev-devpsych-121318-084848</p>",
+              "customLabel": "Legare, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/u870vxpu/",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Cultural Evolution"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/mfsrxxgb/",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Cultural Attractors"
+          },
+          {
+            "type": "text",
+            "text": "]. Another highly related strand is research on social learning: how we determine who to trust, what to believe, and what information to pass on to other people ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7nbkxpkr82",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrcr6tof7gg\" data-reactroot=\"\">Mercier, H. (2020). <em>Not born yesterday: The science of who we trust and what we believe</em>. Princeton University Press. https://doi.org/10.1515/9780691198842</p>",
+              "customLabel": "Mercier, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/d8e1n1e8/",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Social Learning"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "belief-updating-and-inference",
+          "id": "belief-updating-and-inference",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Belief updating and inference"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nd7lje0bau9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "From a cognitive perspective, a primary purpose of information processing is to learn\u2014that is, to update beliefs and make inferences on the basis of data. Thus, a full understanding of how information (and misinformation) affects behavior requires, as a first step, an understanding of how it affects beliefs. One influential approach is Bayesian probability theory, which provides a normative framework against which human learning and inference can be compared ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njvp6iih2nd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz6fge1ebeo\" data-reactroot=\"\">Griffiths, T. L., Chater, N., Kemp, C., Perfors, A., &amp; Tenenbaum, J. B.(2010). Probabilistic models of cognition: Exploring representations and inductive biases. <em>Trends in Cognitive Sciences</em>, <em>14</em>(8), 357\u2013364. https://doi.org/10.1016/j.tics.2010.05.004</p>",
+              "customLabel": "Griffiths et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and has deep similarities to other paradigms within the field ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1bsij7qiq5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzcoal92oey\" data-reactroot=\"\">Bitzer, S., Park, H., Blankenburg, F., &amp; Kiebel, S. J. (2014). Perceptual decision making: Drift-diffusion model is equivalent to a Bayesian model. <em>Frontiers in Human Neuroscience</em>, <em>8</em>, 102. https://doi.org/10.3389/fnhum.2014.00102</p>",
+              "customLabel": "Bitzer et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndzk0c6zz9g",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnwfvpo8lpw\" data-reactroot=\"\">Friston, K. (2009). The free-energy principle: A rough guide to the brain? <em>Trends in Cognitive Sciences</em>, <em>13</em>(7), 293\u2013301. https://doi.org/10.1016/j.tics.2009.04.005</p>",
+              "customLabel": "Friston, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/98iya9su/",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Bayesianism"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/lwxmte1p/",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Bayesian Models of Cognition"
+          },
+          {
+            "type": "text",
+            "text": "]. It captures the idea that reasoners begin with some initial beliefs ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "priors"
+          },
+          {
+            "type": "text",
+            "text": ") about which hypotheses or models of the world are most probable; new data is then integrated with the priors according to a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "likelihood"
+          },
+          {
+            "type": "text",
+            "text": ", which describes the probability of the data given each hypothesis. The result is a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "posterior"
+          },
+          {
+            "type": "text",
+            "text": " distribution reflecting the probability of each hypothesis after taking both the data and prior beliefs into account (for a tutorial introduction, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njrmmkmthid",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5w7hplnqbf\" data-reactroot=\"\">Perfors, A., Tenenbaum, J. B., Griffiths, T. L., &amp; Xu, F. (2011). A tutorial introduction to Bayesian models of cognitive development. <em>Cognition</em>, <em>120</em>(3), 302\u2013321. https://doi.org/10.1016/j.cognition.2010.11.015</p>",
+              "customLabel": "Perfors et al., 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5bocj7e0f7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "People usually have a strong preference for simpler hypotheses ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqzeu86ni5d",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n86ryzjjtir\" data-reactroot=\"\">Chater, N., &amp; Vit\u00e1nyi, P. (2003). Simplicity: A unifying principle in cognitive science? <em>Trends in Cognitive Sciences</em>, <em>7</em>(1), 19\u201322. https://doi.org/10.1016/s1364-6613(02)00005-0</p>",
+              "customLabel": "Chater & Vit\u00e0nyi, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Exactly how this prior interacts with the nature of mental representations and encoding language is a matter of considerable interest whose details vary depending on the domain and task ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9tn8rn5oe7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3j9bogggny\" data-reactroot=\"\">Lombrozo, T. (2016). Explanatory preferences shape learning and inference. <em>Trends in Cognitive Sciences</em>, <em>20</em>(10), 748\u2013759. https://doi.org/10.1016/j.tics.2016.08.001</p>",
+              "customLabel": "Lombrozo, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n31rx9ldvo1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3pl8z58ub3\" data-reactroot=\"\">Wojtowicz, Z., &amp; DeDeo, S. (2020). From probability to consilience: How explanatory values implement Bayesian reasoning. <em>Trends in Cognitive Sciences</em>, <em>24</em>(12), 981\u2013993. https://doi.org/10.1016/j.tics.2020.09.013</p>",
+              "customLabel": "Wojtowicz & DeDeo, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Inference also often depends critically on a reasoner\u2019s theory about how the data were generated ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkz0z7yfshn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3drppqfdwj\" data-reactroot=\"\">Griffiths, T. L., Daniels, D., Austerweil, J. L., &amp; Tenenbaum, J. B.(2018). Subjective randomness as statistical inference. <em>Cognitive Psychology</em>, <em>103</em>, 85\u2013109. https://doi.org/10.1016/j.cogpsych.2018.02.003</p>",
+              "customLabel": "Griffiths et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "sampling assumption"
+          },
+          {
+            "type": "text",
+            "text": ", which is reflected in the likelihood calculation, has many implications. One of the main ones is that reasoners will draw different conclusions from the same data if they think the data was generated in different ways: For instance, people will generalize more strongly from examples they think were provided by a helpful teacher rather than a random process ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n15c0ajgaqs",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nn0bjqk3hyc\" data-reactroot=\"\">Navarro, D. J., Dry, M. J., &amp; Lee, M. D. (2012). Sampling assumptions in inductive generalization. <em>Cognitive Science</em>, <em>36</em>(2), 187\u2013223. https://doi.org/10.1111/j.1551-6709.2011.01212.x</p>",
+              "customLabel": "Navarro et al., 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ns5t297muq0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npomgwbiflh\" data-reactroot=\"\">Shafto, P., Goodman, N. D., &amp; Griffiths, T. L. (2014). A rational account of pedagogical reasoning: Teaching by, and learning from, examples. <em>Cognitive Psychology</em>, <em>71</em>, 55\u201389. https://doi.org/10.1016/j.cogpsych.2013.12.004</p>",
+              "customLabel": "Shafto et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwshtip8idg",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Because Bayesian models are statistically optimal while real people may not be, another area of research centers on understanding deviations from optimality. These can arise for many reasons including limited cognitive capacity ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no1u1mr9s7g",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7ghc8q92l0\" data-reactroot=\"\">Lieder, F., &amp; Griffiths, T. L. (2020). Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources. <em>Behavioral and Brain Sciences</em>, <em>43</em>, e1. https://doi.org/10.1017/s0140525x1900061x</p>",
+              "customLabel": "Lieder & Griffiths, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or because people make different assumptions than the models ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntw64wd70jc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzhp2f5inkw\" data-reactroot=\"\">Tauber, S., Navarro, D. J., Perfors, A., &amp; Steyvers, M. (2017). Bayesian models of cognition revisited: Setting optimality aside and letting data drive psychological theory. <em>Psychological Review</em>, <em>124</em>(4), 410\u2013441. https://doi.org/10.1037/rev0000052c</p>",
+              "customLabel": "Tauber et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). As such, the question of interest is rarely whether people are \u201coptimal\u201d or \u201crational\u201d but instead what assumptions or capacities they must have in order to explain their pattern of inference."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "learning-from-others",
+          "id": "learning-from-others",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Learning from others"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nycdut2qbyi",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Reality is more complicated than our models of it. For one thing, the data people receive is often noisy, and because humans are social creatures, it is often generated by other people. Social learning is powerful: It is one reason people can acquire an astonishing amount from very little data and is a key driver of our accumulated cultural knowledge ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx6mv2ugsq2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4t7e27ajlk\" data-reactroot=\"\">Tomasello, M., Kruger, A., &amp; Ratner, H. (1993). Cultural learning. <em>Behavioral and Brain Sciences</em>, <em>16</em>(3), 495\u2013511. https://doi.org/10.1017/S0140525X0003123X</p>",
+              "customLabel": "Tomasello et al., 1993",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzwlgxeq7m6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nx4isvl68ck\" data-reactroot=\"\">Mathew, S., &amp; Perreault, C (2015). Behavioural variation in 172 small-scale societies indicates that social learning is the main mode of human adaptation. <em>Proceedings of the Royal Society B</em>, <em>282</em>(1810), 20150061. http://dx.doi.org/10.1098/rspb.2015.0061</p>",
+              "customLabel": "Mathew & Perreault, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The benefits of social learning require coordination and cooperation, which humans are predisposed toward even from early childhood ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwlkmjotfms",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9xrgpjlyd5\" data-reactroot=\"\">Harris, P. (2015). <em>Trusting what you\u2019re told: How children learn from others</em>. Belknap Press.</p>",
+              "customLabel": "Harris, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4gczy5oc6z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3luedlkdsu\" data-reactroot=\"\">Legare, C. H. (2019). The development of cumulative cultural learning. <em>Annual Review of Developmental Psychology</em>, <em>1</em>, 119\u2013147. https://doi.org/10.1146/annurev-devpsych-121318-084848</p>",
+              "customLabel": "Legare, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). That said, people cannot trust blindly, lest they be taken advantage of by deceptive agents. People\u2019s sophisticated theory of mind skills ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxy8tup1r4r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nird765w1px\" data-reactroot=\"\">Jara-Ettinger, J., Gweon, H., Schulz, L. E., &amp; Tenenbaum, J. B. (2016). The na\u00efve utility calculus: Computational principles underlying commonsense psychology. <em>Trends in Cognitive Sciences</em>, <em>20</em>(8), 589\u2013604. https://doi.org/10.1016/j.tics.2016.05.011</p>",
+              "customLabel": "Jara-Ettinger et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndiomfold70",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrcr6tof7gg\" data-reactroot=\"\">Mercier, H. (2020). <em>Not born yesterday: The science of who we trust and what we believe</em>. Princeton University Press. https://doi.org/10.1515/9780691198842</p>",
+              "customLabel": "Mercier, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") may help ameliorate this, but identifying who to trust is still incredibly difficult: Unless the situation is very constrained or the reasoner has direct access to the ground truth, liars have an informational advantage because there are many more false hypotheses than true ones, and most patterns of data are consistent with multiple hypotheses ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8f3v6dqud8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrghunw55ll\" data-reactroot=\"\">Navarro, D. J., &amp; Perfors, A. F. (2011). Hypothesis generation, sparse categories, and the positive test strategy. <em>Psychological Review</em>, <em>118</em>(1), 120\u2013134. https://doi.org/10.1037/a0021110</p>",
+              "customLabel": "Navarro & Perfors, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Indeed, people are not only poor at detecting deception but also consistently overestimate their own abilities ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "niqdascfkhk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n00x0dy14ht\" data-reactroot=\"\">Vrij, A., Hartwig, M., &amp; Granhag, P. A. (2019). Reading lies: Nonverbal communication and deception. <em>Annual Review of Psychology</em>, <em>70</em>, 295\u2013317. https://doi.org/10.1146/annurev-psych-010418-103135</p>",
+              "customLabel": "Vrij et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nx2j4eyjp4d",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "These and other complexities highlight some of the reasons misinformation is difficult to detect, especially when it is about a topic that the reasoner does not have the expertise or data to evaluate directly. Detection requires people somehow determine who to trust, in an environment that may be rife with deception, with socially attuned brains that tend to default toward assuming that information providers are helpful ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlz963u4w9i",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrcr6tof7gg\" data-reactroot=\"\">Mercier, H. (2020). <em>Not born yesterday: The science of who we trust and what we believe</em>. Princeton University Press. https://doi.org/10.1515/9780691198842</p>",
+              "customLabel": "Mercier, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). One consequence of this is that groups of reasoners with no access to ground truth tend to polarize, as initial small differences in who trusts who get magnified ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7dcwovt3qb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzpz9y4tflv\" data-reactroot=\"\">Flache, A., M\u00e4s, M., Feliciani, T., Chattoe-Brown, E., Deffuant, G., Huet, S., &amp; Lorenz, J. (2017). Models of social influence: Towards the next frontiers. <em>Journal of Artificial Societies and Social Simulation</em>, <em>20</em>(4), 2. https://doi.org/10.18564/jasss.3521</p>",
+              "customLabel": "Flache et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Another is that understanding inference requires understanding not just how people learn from the information they see, but also how people choose what to share with each other ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n80vg6dxc6y",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl0s2kdh807\" data-reactroot=\"\">Navarro, D. J., Perfors, A., Kary, A., Brown, S. D., &amp; Donkin, C. (2018). When extremists win: Cultural transmission via iterated learning when populations are heterogeneous. <em>Cognitive Science</em>, <em>42</em>(7), 2108\u20132149. https://doi.org/10.1111/cogs.12667</p>",
+              "customLabel": "Navarro et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfhhxg2ny5x",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nouqmy5xy08\" data-reactroot=\"\">Thompson, B., &amp; Griffiths, T. L. (2021). Human biases limit cumulative innovation. <em>Proceedings of the Royal Society B</em>, <em>288</em>(1946), 20202752. https://doi.org/10.1098/rspb.2020.2752</p>",
+              "customLabel": "Thompson & Griffiths, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This is often complex; information sharing depends in complicated ways on the assumed common ground between the provider and the recipient, the goals of the information provider, and the assumptions made by the recipient ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrdbpehihkk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npomgwbiflh\" data-reactroot=\"\">Shafto, P., Goodman, N. D., &amp; Griffiths, T. L. (2014). A rational account of pedagogical reasoning: Teaching by, and learning from, examples. <em>Cognitive Psychology</em>, <em>71</em>, 55\u201389. https://doi.org/10.1016/j.cogpsych.2013.12.004</p>",
+              "customLabel": "Shafto et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "social-reasoning",
+          "id": "social-reasoning",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Social reasoning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfuyiv1xam9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Perhaps because of the difficulty in identifying the truth based on the pattern of data alone, people often use heuristics and social cues in order to determine who to trust and what information to believe. These include shared identity ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncr8rpi2htq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n74053fvk8j\" data-reactroot=\"\">Van Bavel, J. J., Rathje, S., Vlasceanu, M., &amp; Pretus, C. (2024). Updating the identity-based model of belief: From false belief to the spread of misinformation. <em>Current Opinion in Psychology</em>, <em>56</em>, 101787. https://doi.org/10.1016/j.copsyc.2023.101787</p>",
+              "customLabel": "Van Bavel et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), the prestige of the information provider ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "naycgkmwjid",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzi023bxyaz\" data-reactroot=\"\">Egozi, S., &amp; Ram, Y. (2024). Prestige bias in cultural evolutionary dynamics. <em>Royal Society Open Science</em>, <em>11</em>(7), 230650. https://doi.org/10.1098/rsos.230650</p>",
+              "customLabel": "Egozi & Ram, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), the extent to which multiple people agree ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n07bi4wpigh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ni18rz8787f\" data-reactroot=\"\">Efferson, C., Lalive, R., Richerson, P., McElreath, R., &amp; Lubell, M. (2008). Conformists and mavericks: The empirics of frequency-dependent cultural transmission. <em>Evolution and Human Behavior</em>, <em>29</em>(1), 56\u201364. https://doi.org/10.1016/j.evolhumbehav.2007.08.003</p>",
+              "customLabel": "Efferson et al., 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and the extent to which the information aligns or is consistent with one\u2019s prior beliefs ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrlu105c96x",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhkxonfc0le\" data-reactroot=\"\">Cone, J., Flaharty, K., &amp; Ferguson, M. J. (2019). Believability of evidence matters for correcting social impressions. <em>Proceedings of the National Academy of Sciences</em>, <em>116</em>(20), 9802\u20139807. https://doi.org/10.1073/pnas.1903222116</p>",
+              "customLabel": "Cone et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). On the other side, as information providers, people are motivated not just to share true information ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfyi68fjcuf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk6uzxa1uaa\" data-reactroot=\"\">Guess, A., Nagler, J., &amp; Tucker, J. (2019). Less than you think: Prevalence and predictors of fake news dissemination on Facebook. <em>Science Advances</em>, <em>5</em>(1), eaau4586. https://doi.org/10.1126/sciadv.aau4586</p>",
+              "customLabel": "Guess et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") but also ideas that they think others will find interesting ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n82zclqurgm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nw92o0jp6bi\" data-reactroot=\"\">Altay S., de Araujo, E., &amp; Mercier H. (2021). \u201cIf this account is true, it is most enormously wonderful\u201d: Interestingness-if-true and the sharing of true and false news. <em>Digital Journalism</em>, <em>10</em>(3), 373\u2013394. https://doi.org/10.1080/21670811.2021.1941163</p>",
+              "customLabel": "Altay et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or that they hope will improve their social standing ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6bgyljumf3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0uta33tjgm\" data-reactroot=\"\">Osmundsen, M., Bor, A., Vahlstrup, P., Bechmann, A., &amp; Petersen, M. (2021). Partisan polarization is the primary psychological motivation behind political fake news sharing on Twitter. <em>American Political Science Review</em>, <em>115</em>(3), 999\u20131015. https://doi.org/10.1017/S0003055421000290</p>",
+              "customLabel": "Osmundsen et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nlcvman3it4",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "To make matters even more complicated, people are not passive consumers of information but actively seek it out, often guided by heuristics and assumptions about the costs and benefits of search ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1vpv437zfa",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3o9ifnrpgc\" data-reactroot=\"\">Cohen, J. D., McClure, S. M., &amp; Yu, A. J. (2007). Should I stay or should I go? How the human brain manages the trade-off between exploitation and exploration. <em>Philosophical Transactions of the Royal Society B</em>, <em>362</em>(1481), 933\u2013942. https://doi.org/10.1098/rstb.2007.2098</p>",
+              "customLabel": "Cohen et al., 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This creates an exploration-exploitation tradeoff, which people approach by balancing between curiosity and a desire for novelty ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0apgw2103z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nh1jt7w6nb8\" data-reactroot=\"\">Kidd, C., &amp; Hayden, B. Y. (2015). The psychology and neuroscience of curiosity. <em>Neuron</em>, <em>88</em>(3), 449\u2013460. https://doi.org/10.1016/j.neuron.2015.09.010</p>",
+              "customLabel": "Kidd & Hayden, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") on one hand and an aversion to uncertainty on the other ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmus12jgota",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ns97xfxvv8j\" data-reactroot=\"\">Camerer, C., &amp; Weber, M. (1992). Recent developments in modeling preferences: Uncertainty and ambiguity. <em>Journal of Risk and Uncertainty</em>, <em>5</em>(4), 325\u2013370. https://doi.org/10.1007/BF00122575</p>",
+              "customLabel": "Camerer & Weber, 1992",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). People use their emotions as a critical guide for their behavior ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqcw2krxho3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzsbhj35vb9\" data-reactroot=\"\">Kashima, Y., Coman, A., Pauketat, J., &amp; Yzerbyt, V. (2020). Emotion in cultural dynamics. <em>Emotion Review</em>, <em>12</em>(2), 48\u201364. https://doi.org/10.1177/1754073919875215</p>",
+              "customLabel": "Kashima et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). As just one example, when under threat, people act quickly, explore less, and consider fewer ideas ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngg11voxjyx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkph5nsv945\" data-reactroot=\"\">Flannelly, K. J., Koenig, H. G., Galek, K., &amp; Ellison, C. G. (2007). Beliefs, mental health, and evolutionary threat assessment systems in the brain. <em>The Journal of Nervous and Mental Disease</em>, <em>195</em>(12), 996\u20131003. https://doi.org/10.1097/NMD.0b013e31815c19b1</p>",
+              "customLabel": "Flannelly et al., 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Emotions also affect what information people pay attention to: For instance, people tend to remember and share negative information more than positive ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njmg6bcorjn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ne7163zy8sn\" data-reactroot=\"\">Bebbington, K., MacLeod, C., Ellison, M., &amp; Fay, N. (2017). The sky is falling: Evidence of a negativity bias in the social transmission of information. <em>Evolution and Human Behavior</em>, <em>38</em>(1), 92\u2013101. https://doi.org/10.1016/j.evolhumbehav.2016.07.004</p>",
+              "customLabel": "Bebbington et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "najqrph72dj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One question within the study of misinformation is whether and how much it spreads because people behave suboptimally (e.g., because of biases or laziness). This question relates to a broader question in cognitive science about the extent to which people are \u201crational\u201d information processors. The question of rationality is difficult to answer: What is rational in the first place depends on what a person\u2019s goals are, what assumptions they make about the trustworthiness of people and reliability of data in the world, the extent to which those assumptions map onto the specific situation, and so forth. That said, most of the predispositions discussed above can be interpreted as sensible given the constraints people operate under and the complexity of the real world. For instance, identity may often be a useful cue about trustworthiness, as ingroup members have common values as well as less motivation to deceive than outgroup members might. Similarly, it often makes sense to believe information that more people appear to endorse, since\u2014all else being equal\u2014it is more likely that something is true if multiple people have independently been convinced of it."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nr7wqv7vqzx",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Despite the fact that these heuristics and shortcuts are often sensible, they are also some of the primary drivers through which disinformation and misinformation spreads. Hostile actors as well as systems designed to optimize profit over veracity act to distort the information environment. For instance, thanks to bots, malign influence operations, or misunderstanding, true information might be drowned out by deceptive material on social media platforms ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmmh9ieu86h",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkb7fgpqm61\" data-reactroot=\"\">Vosoughi, S., Roy, D., &amp; Aral, S. (2018). The spread of true and false news online. <em>Science</em>, <em>359</em>(6380), 1146\u20131151. https://doi.org/10.1126/science.aap9559</p>",
+              "customLabel": "Vosoughi et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nclumslqje4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"no5qpu59ra3\" data-reactroot=\"\">Shao, C., Ciampaglie, G. L., Varol, O., Yang, K-C, Flammini, A., &amp; Menczer, F. (2018). The spread of low-credibility content by social bots. <em>Nature Communications</em>, <em>9</em>(1), 4787. https://doi.org/10.1038/s41467-018-06930-7</p>",
+              "customLabel": "Shao et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), creating a false consensus that makes it difficult for people to determine the truth ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsz9lkb4e2f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2lneywz907\" data-reactroot=\"\">Oktar, K., &amp; Lombrozo, T. (2025). How aggregated opinions shape beliefs. <em>Nature Reviews Psychology</em>, <em>4</em>(2), 81\u201395. https://doi.org/10.1038/s44159-024-00398-7</p>",
+              "customLabel": "Oktar & Lombrozo, 2025",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The incentive structures of social media also often revolve specifically around emotions, whether because they exacerbate anger ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nley1mid0wi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsg44vg1ped\" data-reactroot=\"\">Stella, M., Ferrara, E., &amp; De Domenico, M. (2018). Bots increase exposure to negative and inflammatory content in online social systems. <em>Proceedings of the National Academy of Sciences</em>, <em>115</em>(49), 12435\u201312440. https://doi.org/10.1073/pnas.1803470115</p>",
+              "customLabel": "Stella et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or because engagement is driven by feelings like outgroup animosity ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nelj5aa9xvi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuras4ediay\" data-reactroot=\"\">Rathje, S., Van Bavel, J. J., &amp; van der Linden, S. (2021). Out-group animosity drives engagement on social media. <em>Proceedings of the National Academy of Sciences</em>, <em>118</em>(26), e2024292118. https://doi.org/10.1073/pnas.2024292118</p>",
+              "customLabel": "Rathje et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "the-limits-of-rational-inference",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The limits of rational inference"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrxngq95f2q",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Some of the tendencies people demonstrate are difficult to understand in rational terms. For instance, the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "continued influence effect"
+          },
+          {
+            "type": "text",
+            "text": " is a robust phenomenon by which people do not fully revise their beliefs after being corrected ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndrkxjwl4tx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"np0zehkathh\" data-reactroot=\"\">Ecker, E., Lewandowsky, S., Cook, J., Schmid, P., Fazio, L., Brashier, N., Kendeou, P., Vraga, E., &amp; Amazeen, M. (2022). The psychological drivers of misinformation belief and its resistance to correction. <em>Nature Reviews Psychology</em>, <em>1</em>, 13\u201329. https://doi.org/10.1038/s44159-021-00006-y</p>",
+              "customLabel": "Ecker et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). There are many reasons for this. One is that beliefs do not occur in isolation but as part of a network of other beliefs; correcting a mistaken belief can require revising and changing a web of interrelated others, which is not trivial and does not completely erase the original memory. Another reason is that interpreting corrections also requires social reasoning, and this process falls prey to the same factors as the initial beliefs\u2014people might not believe the correction or might have emotional or identity-based reasons to reject them. Indeed, the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "backfire effect"
+          },
+          {
+            "type": "text",
+            "text": " occurs when people believe something even more strongly after correction or endorsement by outgroup members ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9ixf6x25kq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5btab5ytoi\" data-reactroot=\"\">Bail, C. A., Argyle, L. P., Brown, T. W., Bumpus, J. P., Chen, H., Hunzaker, M. B. F., Lee, J., Mann, M., Merhout, F., &amp; Volfovsky, A. (2018). Exposure to opposing views on social media can increase political polarization. <em>Proceedings of the National Academy of Sciences</em>, <em>115</em>(37), 9216\u20139221. https://doi.org/10.1073/pnas.1804840115</p>",
+              "customLabel": "Bail et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nd5gwdr68jq",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Another apparently irrational behavior is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "confirmation bias"
+          },
+          {
+            "type": "text",
+            "text": ", in which people seek out evidence that would confirm their existing beliefs or even actively avoid data that might lead to belief change ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nm76p2m7cgh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrkusms9pwu\" data-reactroot=\"\">Nickerson, R. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. <em>Review of General Psychology</em>, <em>2</em>(2), 175\u2013220. https://doi.org/10.1037/1089-2680.2.2.175</p>",
+              "customLabel": "Nickerson, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This, too, can cause polarization, as initial minor deviations in beliefs become exacerbated over time through biased information seeking. Although there is some debate about how robust these effects are and what causes them, these do seem prima facie irrational in a way that other reasoning biases may not be."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "na478m3e475",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "An additional complexity is that most research in this area studies people in aggregate; much less is known about individual differences in information behavior. This matters since information systems can be shaped by the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "distribution"
+          },
+          {
+            "type": "text",
+            "text": " of people in the system, not just the aggregate and not just the majority ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw8fe4oayy3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl0s2kdh807\" data-reactroot=\"\">Navarro, D. J., Perfors, A., Kary, A., Brown, S. D., &amp; Donkin, C. (2018). When extremists win: Cultural transmission via iterated learning when populations are heterogeneous. <em>Cognitive Science</em>, <em>42</em>(7), 2108\u20132149. https://doi.org/10.1111/cogs.12667</p>",
+              "customLabel": "Navarro et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Differences abound in areas as disparate as conservatism in belief updating ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nusbzuhhpwv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nx16t2h8xlz\" data-reactroot=\"\">Howe, P., Perfors, A., Walker, B., Kashima, Y., &amp; Fay, N. (2022). Base rate neglect and conservatism in probabilistic reasoning: Insights from eliciting full distributions. <em>Judgment and Decision Making</em>, <em>17</em>(5), 962\u2013987. https://doi.org/10.1017/S1930297500009281</p>",
+              "customLabel": "Howe et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), the extent to which people think it is important for data to be independent ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb8df8z5rdz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5wwzapswe0\" data-reactroot=\"\">Xie, B., &amp; Hayes, B. (2022). Sensitivity to evidential dependencies in judgments under uncertainty. <em>Cognitive Science</em>, <em>46</em>(5), e13144. https://doi.org/10.1111/cogs.13144</p>",
+              "customLabel": "Xie & Hayes, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), people\u2019s flexibility and consistency in information use ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngjodumwnl6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6id161ch4z\" data-reactroot=\"\">Toelch, U., Bruce, M. J., Newson, L., Richerson, P. J., &amp; Reader, S. M. (2014). Individual consistency and flexibility in human social information use. <em>Proceedings of the Royal Society B</em>, <em>281</em>(1776), 20132864. https://doi.org/10.1098/rspb.2013.2864</p>",
+              "customLabel": "Toelch et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and individual tendencies toward cognitive reflection ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbwkdrh6oqp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nt3p8ugyq4q\" data-reactroot=\"\">Pennycook, G., &amp; Rand, D. G. (2020). Who falls for fake news? The roles of bullshit receptivity, overclaiming, familiarity, and analytic thinking. <em>Journal of Personality</em>, <em>88</em>(2), 185\u2013200. https://doi.org/10.1111/jopy.12476</p>",
+              "customLabel": "Pennycook & Rand, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, much remains unknown about individual variation in information processing."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4qaw4jmk2m",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This topic intersects with communications, politics, and the other areas concerned about the applied problem related to the spread of misinformation. One approach centers around how to prevent people from falling for misinformation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "na3zvash79a",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nazjseohgr7\" data-reactroot=\"\">Kozyreva, A., Lorenz-Spreen, P., Herzog, S. M., Ecker, U. K. H., Lewandowsky, S., Hertwig, R., Ali, A., Bak-Coleman, J., Barzilai, S., Basol, M., Berinsky, A. J., Betsch, C., Cook, J., Fazio, L. K., Geers, M., Guess, A. M., Huang, H., Larreguy, H., Maertens, R., . . . Wineburg, S. (2024). Toolbox of individual-level interventions against online misinformation. <em>Nature Human Behaviour</em>, <em>8</em>, 1044\u20131052. https://doi.org/10.1038/s41562-024-01881-0</p>",
+              "customLabel": "Kozyreva et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), such as via "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "inoculation"
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "debunking"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8z5jh3rm1e",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngrd1zdwxjf\" data-reactroot=\"\">Tay, L. Q., Hurlstone, M. J., Kurz, T., &amp; Ecker, U. K. H. (2022). A comparison of prebunking and debunking interventions for implied versus explicit misinformation. <em>British Journal of Psychology</em>, <em>113</em>(3), 591\u2013607. https://doi.org/10.1111/bjop.12551</p>",
+              "customLabel": "Tay et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These tactics operate by warning people ahead of time about the likely kinds of misinformation they are going to see or methods people use to spread misinformation. By providing this information ahead of time, these tactics can be more effective than trying to correct misinformation after it has already been accepted as true ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3p9kt6k0do",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"np0zehkathh\" data-reactroot=\"\">Ecker, E., Lewandowsky, S., Cook, J., Schmid, P., Fazio, L., Brashier, N., Kendeou, P., Vraga, E., &amp; Amazeen, M. (2022). The psychological drivers of misinformation belief and its resistance to correction. <em>Nature Reviews Psychology</em>, <em>1</em>, 13\u201329. https://doi.org/10.1038/s44159-021-00006-y</p>",
+              "customLabel": "Ecker et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This is valuable but often only applies to the subset of information that is clearly true or false. Unfortunately, much information is either opinion or has elements of both truth and falsehood (depending on framing, what is omitted, where attention is drawn, and so forth). Furthermore, this approach places the onus on individuals rather than the incentives built into the systems and the sources of misinformation and disinformation in the first place."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ni57f89yee8",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The need for a systems-level approach is increasingly being recognized ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvk2dkzap3y",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkwkejsmtoy\" data-reactroot=\"\">Bliuc, A. M., Betts, J. M., Vergani, M., Bouguettaya, A., &amp; Cristea, M. (2024). A theoretical framework for polarization as the gradual fragmentation of a divided society. <em>Nature Communications Psychology</em>, <em>2</em>(1), 75. https://doi.org/10.1038/s44271-024-00125-1</p>",
+              "customLabel": "Bliuc et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). On a theoretical level, this may involve exploring the deep links between how information flow and system behavior is understood in fields beyond cognitive science, including physics, ecology, or complex systems ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ne6f3r87eot",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nawndmwpzft\" data-reactroot=\"\">Bak-Coleman, J. B., Alfano, M., Barfuss, W., Bergstrom, C., Centeno, M. A., Couzin, I. D., Donges, J. F., Galesic, M., Gersick, A. S., Jacquet, J., Kao, A. B., Moran, R. E., Romanczuk, P., Rubenstein, D. I., Tombak, K. J., Van Bavel, J. J., &amp; Weber, E. U. (2021). Stewardship of global collective behavior. <em>Proceedings of the National Academy of Sciences</em>, <em>118</em>(27), e2025764118. https://doi.org/10.1073/pnas.2025764118</p>",
+              "customLabel": "Bak-Coleman et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). On the applied level, this includes a focus on system design, for example, by altering the nature of the choices or information available ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nancg5cfzrc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntvfr687qkc\" data-reactroot=\"\">Prike, T., Butler, L. H., &amp; Ecker, U. K. H. (2024). Source-credibility information and social norms improve truth discernment and reduce engagement with misinformation online. <em>Nature Scientific Reports</em>, <em>14</em>, 6900. https://doi.org/10.1038/s41598-024-57560-7</p>",
+              "customLabel": "Prike et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "): People are less susceptible to misinformation if they are provided with data about source credibility or are in an environment with norms against misinformation sharing. Indeed, simply changing the ease or naturalness of some behaviors\u2014like bringing people\u2019s attention to the importance of accuracy\u2014can make them less likely to share misinformation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhf7om8lza0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrxq7k12l9q\" data-reactroot=\"\">Pennycook, G., Epstein, Z., Mosleh, M. Arechar, A. A., Eckles, D., &amp; Rand, D. G. (2021). Shifting attention to accuracy can reduce misinformation online. <em>Nature</em>, <em>592</em>(7855), 590\u2013595. https://doi.org/10.1038/s41586-021-03344-2</p>",
+              "customLabel": "Pennycook et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Much work remains to be done, not just in identifying what characteristics of information system designs are compatible with human cognition\u2014but also in ensuring that actual information systems have those characteristics."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nn461w7ce00",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n234oljw932",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bliuc, A. M., Betts, J. M., Vergani, M., Bouguettaya, A., & Cristea, M. (2024). A theoretical framework for polarization as the gradual fragmentation of a divided society. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Nature Communications Psychology"
+                  },
+                  {
+                    "type": "text",
+                    "text": ","
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": " 2"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(1), 75. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1038/s44271-024-00125-1",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1038/s44271-024-00125-1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nmk82rcr2on",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ecker, E., Lewandowsky, S., Cook, J., Schmid, P., Fazio, L., Brashier, N., Kendeou, P., Vraga, E., & Amazeen, M. (2022). The psychological drivers of misinformation belief and its resistance to correction. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Nature Reviews Psychology"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "1"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 13\u201329. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1038/s44159-021-00006-y",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1038/s44159-021-00006-y"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n1jpbthc693",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Lieder, F., & Griffiths, T. L. (2020). Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Behavioral and Brain Sciences"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "43"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", e1. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1017/s0140525x1900061x",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1017/s0140525x1900061x"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nr0aff1btg3",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Mercier, H. (2020). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Not born yesterday: The science of who we trust and what we believe"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Princeton University Press. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1515/9780691198842",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1515/9780691198842"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

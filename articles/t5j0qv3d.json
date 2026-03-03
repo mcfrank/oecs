@@ -1,0 +1,2150 @@
+{
+  "id": "3d4df41d-8ccf-43be-a67c-369f1050caaa",
+  "slug": "t5j0qv3d",
+  "title": "Neuroplasticity",
+  "url": "https://oecs.mit.edu/pub/t5j0qv3d",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "3d4df41d-8ccf-43be-a67c-369f1050caaa",
+    "slug": "t5j0qv3d",
+    "title": "Neuroplasticity",
+    "htmlTitle": "Neuroplasticity",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.3d4df41d",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "mjfwcfo5",
+    "editHash": "ik6shnp5",
+    "reviewHash": "ybhj8lj5",
+    "commentHash": "ohjh9gw7",
+    "draftId": "16414c54-8f4f-44db-baad-a2e1fddba03c",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "dbdac84b-dca9-4b1e-bc6f-2f2b50d88c89",
+    "scopeSummaryId": "aa10c9b3-324b-470f-b91c-e45e1b011816",
+    "createdAt": "2024-07-12T18:21:36.559Z",
+    "updatedAt": "2024-09-24T16:05:58.597Z",
+    "attributions": [
+      {
+        "id": "76a99212-8da9-437e-83f1-cbac3b3695df",
+        "name": "Marina Bedny",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Johns Hopkins University",
+        "orcid": "0000-0002-2907-8042",
+        "userId": null,
+        "pubId": "3d4df41d-8ccf-43be-a67c-369f1050caaa",
+        "createdAt": "2024-07-12T18:23:39.440Z",
+        "updatedAt": "2024-07-23T20:10:07.051Z",
+        "user": null
+      },
+      {
+        "id": "69efb7e9-2dea-4fcc-9b9f-8ff06f45a79a",
+        "name": "Asifa Majid",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "University of Oxford",
+        "orcid": "0000-0003-0132-216X",
+        "userId": null,
+        "pubId": "3d4df41d-8ccf-43be-a67c-369f1050caaa",
+        "createdAt": "2024-07-23T21:44:07.511Z",
+        "updatedAt": "2024-07-23T21:44:27.472Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "16414c54-8f4f-44db-baad-a2e1fddba03c",
+      "latestKeyAt": "2024-09-23T16:29:17.024Z",
+      "firebasePath": "drafts/draft-16414c54-8f4f-44db-baad-a2e1fddba03c",
+      "createdAt": "2024-07-12T18:21:36.498Z",
+      "updatedAt": "2024-09-24T16:01:26.725Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "npnlt190xve",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Neuroplasticity is the capacity of the brain to change as a result of external influence and internal activity. It underpins learning from the environment, from others and from our own thoughts. Neuroplasticity occurs during sensory and cultural learning, adaptation to bodily differences (e.g., blindness, deafness, limb loss) and in response to nervous system damage (e.g., stroke). The term encompasses a wide variety of neurobiological mechanisms at different scales, from strengthening a single synapse to enlarging a fiber pathway. Anatomical neuroplasticity involves structural change, such as enhancement of axonal fibers or synaptic pruning. In functional neuroplasticity, neural structures change their response properties and behavioral role, sometimes without correspondingly large changes in anatomy, for example, by differential use of preexisting anatomical pathways. The potential for neuroplasticity peaks during development but continues throughout the lifespan."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ne7pmrh44h9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "William James used the term \u201cplasticity\u201d to describe the capacity of the nervous system to change during learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6pmv3qwjbz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngu636cd729\" data-reactroot=\"\">James, W. (1890). <em>The principles of psychology</em>. </p>",
+              "customLabel": "James, 1890",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). At the time, little was known about how the nervous system supports information processing. At the end of the 19th century work by neurophysiologists, such as Santiago Ramon y Cajal, established that the brain is comprised of individuated neurons transmitting signals to each other  ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsh5r29yr7n",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsqadrjs2bo\" data-reactroot=\"\">Ram\u00f3n y Cajal, S. (1904). Textura del Sistema Nervioso del Hombre y de los Vertebrados. Imprenta y Librer\u00eda de Nicol\u00e1s Moya.</p>",
+              "customLabel": "Ram\u00f3n y Cajal, 1904",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This paved the way for Donald Hebb\u2019s articulation of activity-dependent synaptic plasticity: when one neuron causes another to fire repeatedly, the connection between these neurons is strengthened ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ns0sw26aq99",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9s6wp29cpj\" data-reactroot=\"\">Hebb, D. O. (1949). <em>The organization of behavior; a neuropsychological theory</em>. Wiley.</p>",
+              "customLabel": "Hebb, 1949",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "npzxmpywy37",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A major advance in understanding neural information processing and neuroplasticity came from "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "niz0o9n4wlx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq49gzu7ild\" data-reactroot=\"\">Hubel, D. H., &amp; Wiesel, T. N. (1970). The period of susceptibility to the physiological effects of unilateral eye closure in kittens. <em>The Journal of Physiology,</em> <em>206</em>(2), 419\u2013436. https://doi.org/10.1113/jphysiol.1970.sp009022</p>",
+              "customLabel": "Hubel & Weisel\u2019s (1970)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " experiments on the visual system of cats and monkeys. They observed that closure of one eye during the first months of life causes primary visual cortex neurons to become dominated by the undeprived eye, suggesting a \u201ccritical period\u201d of sensitivity ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnk1ymy2ami",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq49gzu7ild\" data-reactroot=\"\">Hubel, D. H., &amp; Wiesel, T. N. (1970). The period of susceptibility to the physiological effects of unilateral eye closure in kittens. <em>The Journal of Physiology,</em> <em>206</em>(2), 419\u2013436. https://doi.org/10.1113/jphysiol.1970.sp009022</p>",
+              "customLabel": "Hubel & Weisel, 1970",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", see section on Critical Periods below.) Analogous periods of heightened sensitivity to experience have been documented in humans with early cataracts ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nit8d2wxe44",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3v9cpco3en\" data-reactroot=\"\">Maurer, D. (2017). Critical periods re-examined: Evidence from children treated for dense cataracts. <em>Cognitive Development,</em> <em>42</em>, 27\u201336. https://doi.org/10.1016/j.cogdev.2017.02.006</p>",
+              "customLabel": "Maurer, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncufb30ll8r",
+              "href": null,
+              "value": "10.1038/nn1102",
+              "unstructuredValue": "",
+              "customLabel": "Fine et al., 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Research on language acquisition by Elizabeth Bates, Elissa Newport and Rachel Mayberry, among others, has demonstrated similar effects in higher-order cognition ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "na6si9q713a",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhwwg9lyq5k\" data-reactroot=\"\">Johnson, J. S., &amp; Newport, E. L. (1991). Critical period effects on universal properties of language: The status of subjacency in the acquisition of a second language. <em>Cognition,</em> <em>39</em>(3), 215\u2013258. https://doi.org/10.1016/0010-0277(91)90054-8</p>",
+              "customLabel": "Johnson & Newport, 1991",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n30oxc7odh9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbnufet7hjn\" data-reactroot=\"\">Bates, E., Thal, D., Trauner, D., Fenson, J., Aram, D., Eisele, J., &amp; Nass, R. (1997). From first words to grammar in children with focal brain injury. <em>Developmental Neuropsychology,</em> <em>13</em>(3), 275\u2013343. https://doi.org/10.1080/87565649709540682</p>",
+              "customLabel": "Bates et al., 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nihyksm0vny",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwnx9rx59g2\" data-reactroot=\"\">Mayberry, R. I., Lock, E., &amp; Kazmi, H. (2002). Linguistic ability and early language exposure. <em>Nature,</em> <em>417</em>(6884), 38\u201338. https://doi.org/10.1038/417038a</p>",
+              "customLabel": "Mayberry et al., 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xohbfbix",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Language Acquisition"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "experience-based-plasticity",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Experience-based plasticity"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2q44hd2p4u",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Experience-based plasticity occurs when the brain changes in response to information from the environment and encompasses all learning, from episodic memory to language acquisition, learning of cultural skills (e.g., reading), and adapting to sensory loss. In humans, neuroplasticity is studied by comparing brain function and behavior across subpopulations with naturally occurring differences in experience (e.g., blind vs. sighted people) or by testing the same individuals before and after learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkgp7b1n52j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntyh2uxmvtd\" data-reactroot=\"\">Sadato, N., Pascual-Leone, A., Grafman, J., Iba\u00f1ez, V., Deiber, M. P., Dold, G., &amp; Hallett, M. (1996). Activation of the primary visual cortex by Braille reading in blind subjects. <em>Nature,</em> <em>380</em>(6574), 526\u2013528. https://doi.org/10.1038/380526a0</p>",
+              "customLabel": "Sadato et al., 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4ufng4ucfy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8xiuznbxh8\" data-reactroot=\"\">Dehaene-Lambertz, G., Monzalvo, K., &amp; Dehaene, S. (2018). The emergence of the visual word form: Longitudinal evolution of category-specific ventral visual areas during reading acquisition. <em>PLoS Biology,</em> <em>16</em>(3), e2004103. https://doi.org/10.1371/journal.pbio.2004103</p>",
+              "customLabel": "Dehaene-Lambertz et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). \u201cControlled rearing\u201d studies with animals manipulate experience (e.g., raising animals without visual access to faces) and measure resulting changes in the nervous system and behavior ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntqxfbk46pt",
+              "href": null,
+              "value": "https://doi.org/10.1073/pnas.0706079105",
+              "unstructuredValue": "",
+              "customLabel": "Sugita, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "niczdqw053j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndw0a8mdzhx\" data-reactroot=\"\">Arcaro, M. J., Schade, P. F., Vincent, J. L., Ponce, C. R., &amp; Livingstone, M. S. (2017). Seeing faces is necessary for face-domain formation. <em>Nature Neuroscience,</em> <em>20</em>(10), 1404\u20131412. https://doi.org/10.1038/nn.4635</p>",
+              "customLabel": "Arcaro et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "critical-periods",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Critical periods"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "numba7eilnh",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Critical periods are"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "periods early in life when neurocognitive systems are especially receptive to environmental effects (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmx4i328w0j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq49gzu7ild\" data-reactroot=\"\">Hubel, D. H., &amp; Wiesel, T. N. (1970). The period of susceptibility to the physiological effects of unilateral eye closure in kittens. <em>The Journal of Physiology,</em> <em>206</em>(2), 419\u2013436. https://doi.org/10.1113/jphysiol.1970.sp009022</p>",
+              "customLabel": "Hubel & Weisel, 1970",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The term \u201csensitive period\u201d is sometimes used to indicate a more gradual and incomplete waning in plasticity over time but is also used synonymously with critical periods by some scholars. Cellular and molecular mechanisms governing the opening and closing of critical periods have been identified in sensory systems ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndg7iabkq85",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nm3f181n6d4\" data-reactroot=\"\">Hensch, T. K. (2005). Critical period plasticity in local cortical circuits. <em>Nature Reviews Neuroscience,</em> <em>6</em>(11), 877\u2013888. https://doi.org/10.1038/nrn1787</p>",
+              "customLabel": "Hensch, 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). \u201cExpected\u201d experiences during critical periods are sometimes required for typical development (e.g., coordinated input from the two eyes, seeing faces, language) (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "neceh9kd4rb",
+              "href": null,
+              "value": "https://doi.org/10.1177/0956797614563957",
+              "unstructuredValue": "",
+              "customLabel": "Huber et al., 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8mg940iqfz",
+              "href": null,
+              "value": "https://doi.org/10.2307/1130197",
+              "unstructuredValue": "",
+              "customLabel": "Greenough et al., 1987",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The timing of critical periods differs widely across neurocognitive systems ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nf4y3nubrv2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nx2uejuip89\" data-reactroot=\"\">Maurer, D. (2017). Critical periods re-examined: Evidence from children treated for dense cataracts. <em>Cognitive Development,</em> <em>42</em>, 27\u201336. https://doi.org/10.1016/j.cogdev.2017.02.006</p>",
+              "customLabel": "Maurer, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Not all forms of learning require critical period plasticity: we can learn new faces, stories, facts, and words throughout our lives."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "anatomical-plasticity",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Anatomical plasticity"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "niqlbmnuq3g",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Anatomical plasticity at the largest scale involves growth or pruning of long-range fiber tracts, myelination and changes in cortical thickness. At the smallest scale, learning occurs through synaptic plasticity i.e., the creation, elimination and modification of synaptic connections between neurons ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw9cruoxxv9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8snpx7o6j4\" data-reactroot=\"\">Feldman, D. E. (2009). Synaptic mechanisms for plasticity in neocortex. <em>Annual Review of Neuroscience,</em> <em>32</em>, 33\u201355. https://doi.org/10.1146/annurev.neuro.051508.135516</p>",
+              "customLabel": "Feldman, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). "
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "functional-plasticity",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Functional plasticity"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nt47ffu09uy",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Functional plasticity refers to changes in cognitive function supported by a given neural structure e.g., a neural population, cortical area, or fiber pathway. For example, visual cortices taking on non-visual functions in blindness. All functional plasticity is supported by some form of anatomical change but not always at similar scales e.g., synaptic plasticity (small-scale anatomical change) might enable a cortical area to substantially change function (large-scale functional change). The term functional plasticity is often used when anatomical substrates of functional change are not known or suspected to be small-scale."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "cross-modal-plasticity",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Cross-modal plasticity"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7aum0mqjgc",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cross-modal plasticity is an example of experience-based functional plasticity, where a sensory region that is typically dominated by one sensory modality (e.g., primary visual cortex, V1), shows heightened responses to input from other modalities in people with sensory loss (e.g., blindness) ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n13qhcq1r93",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9ljg99dve7\" data-reactroot=\"\">Bavelier, D., &amp; Neville, H. J. (2002). Cross-modal plasticity: Where and how? <em>Nature Reviews. Neuroscience,</em> <em>3</em>(6), 443\u2013452. https://doi.org/10.1038/nrn848</p>",
+              "customLabel": "Bavelier & Neville, 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbzvthnvtxk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvxdhtceiwz\" data-reactroot=\"\">Pascual-Leone, A., Amedi, A., Fregni, F., &amp; Merabet, L. B. (2005). The plastic human brain cortex. <em>Annual Review of Neuroscience,</em> <em>28</em>, 377\u2013401. https://doi.org/10.1146/annurev.neuro.27.070203.144216</p>",
+              "customLabel": "Pascual-Leone et al., 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In people who are born blind, \u201cvisual\u201d cortices of the occipital lobe, including V1, respond to auditory, tactile and higher-order cognitive tasks e.g., braille reading, auditory sentence processing, verbal memory ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nf8uh1zyoqr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nx3ic1wyeeg\" data-reactroot=\"\">Sadato, N., Pascual-Leone, A., Grafman, J., Iba\u00f1ez, V., Deiber, M. P., Dold, G., &amp; Hallett, M. (1996). Activation of the primary visual cortex by Braille reading in blind subjects. <em>Nature,</em> <em>380</em>(6574), 526\u2013528. https://doi.org/10.1038/380526a0</p>",
+              "customLabel": "Sadato et al., 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnpw7ksmhzk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nploed4lzix\" data-reactroot=\"\">R\u00f6der, B., Stock, O., Bien, S., Neville, H., &amp; R\u00f6sler, F. (2002). Speech processing activates visual cortex in congenitally blind humans. <em>The European Journal of Neuroscience,</em> <em>16</em>(5), 930\u2013936. https://doi.org/10.1046/j.1460-9568.2002.02147.x</p>",
+              "customLabel": "R\u00f6der et al., 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh2xvkuqc7b",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nox9w0wuop9\" data-reactroot=\"\">Bedny, M., Pascual-Leone, A., Dodell-Feder, D., Fedorenko, E., &amp; Saxe, R. (2011). Language processing in the occipital cortex of congenitally blind adults. <em>Proceedings of the National Academy of Sciences of the United States of America,</em> <em>108</em>(11), 4429\u20134434. https://doi.org/10.1073/pnas.1014818108</p>",
+              "customLabel": "Bedny, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Analogously in people born deaf, auditory cortices participate in non-auditory functions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh3j8fane8v",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhvo62hqz1u\" data-reactroot=\"\">Finney, E. M., Fine, I., &amp; Dobkins, K. R. (2001). Visual stimuli activate auditory cortex in the deaf. <em>Nature Neuroscience,</em> <em>4</em>(12), 1171\u20131173. https://doi.org/10.1038/nn763</p>",
+              "customLabel": "Finney et al., 2001",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Large-scale cross-modal reorganization is restricted to congenital sensory loss (from birth), as opposed to acquired sensory loss (in adulthood) ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nc600shiyid",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nasxxfasp7m\" data-reactroot=\"\">Cohen, L. G., Weeks, R. A., Sadato, N., Celnik, P., Ishii, K., &amp; Hallett, M. (1999). Period of susceptibility for cross-modal plasticity in the blind. <em>Annals of Neurology,</em> <em>45</em>(4), 451\u2013460. https://doi.org/10.1002/1531-8249(199904)45:4&lt;451::aid-ana6&gt;3.0.co;2-b</p>",
+              "customLabel": "Cohen et al., 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "flexibility-and-behavioral-relevance",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Flexibility and behavioral relevance"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nh915b3cp9t",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Whether cortical areas can support cognitive functions for which they did not evolve remains debated. In the case of cross-modal plasticity in blindness, one view suggests that visual cortices have entirely changed function, i.e., from low-level vision to language ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncetrbd7z44",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzdc3n5q9rc\" data-reactroot=\"\">Saccone, E. J., Tian, M., &amp; Bedny, M. (2024). Developing cortex is functionally pluripotent: Evidence from blindness. <em>Developmental Cognitive Neuroscience,</em> <em>66</em>, 101360. https://doi.org/10.1016/j.dcn.2024.101360</p>",
+              "customLabel": "Saccone et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Other perspectives suggest maintenance of the original computations, but a change in the modality of input ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2ifrpzcijo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyb4y4uvm8j\" data-reactroot=\"\">Collignon, O., Lassonde, M., Lepore, F., Bastien, D., &amp; Veraart, C. (2007). Functional cerebral reorganization for auditory spatial processing and auditory substitution of vision in early blind subjects. <em>Cerebral Cortex (New York, N.Y.),</em> <em>17</em>(2), 457\u2013465. https://doi.org/10.1093/cercor/bhj162</p>",
+              "customLabel": "Collignon et al., 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The behavioral relevance of neuroplasticity is also debated, and appears variable across different \u00a0examples (e.g., congenital blindness vs. acquired limb-loss) ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9rj8a38cn8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9h03s03wr9\" data-reactroot=\"\">Cohen, L. G., Celnik, P., Pascual-Leone, A., Corwell, B., Falz, L., Dambrosia, J., Honda, M., Sadato, N., Gerloff, C., Catal\u00e1, M. D., &amp; Hallett, M. (1997). Functional relevance of cross-modal plasticity in blind humans. <em>Nature,</em> <em>389</em>(6647), 180\u2013183. https://doi.org/10.1038/38278</p>",
+              "customLabel": "Cohen et al., 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxoa8gxryaj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntitmwievbe\" data-reactroot=\"\">Makin, T. R., Scholz, J., Henderson Slater, D., Johansen-Berg, H., &amp; Tracey, I. (2015). Reassessing cortical reorganization in the primary sensorimotor cortex following arm amputation. <em>Brain,</em> <em>138</em>(Pt 8), 2140\u20132146. https://doi.org/10.1093/brain/awv161</p>",
+              "customLabel": "Makin et al., 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "plasticity-in-cultural-learning",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Plasticity in cultural learning"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n92iawg3zl3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cultural skills, such as literacy, numeracy, and musical expertise, are acquired through a combination of reuse and modification of existing cortical circuits. Different accounts emphasize reuse of innate domain-specific systems ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cultural-recycling hypothesis"
+          },
+          {
+            "type": "text",
+            "text": ") or de novo learning and domain general mechanisms ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cognitive gadgets"
+          },
+          {
+            "type": "text",
+            "text": ") ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njlav66827e",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"noftwcq3f91\" data-reactroot=\"\">Dehaene, S., &amp; Cohen, L. (2007). Cultural recycling of cortical maps. <em>Neuron,</em> <em>56</em>(2), 384\u2013398. https://doi.org/10.1016/j.neuron.2007.10.004</p>",
+              "customLabel": "Dehaene & Cohen, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsrqya5zemr",
+              "href": null,
+              "value": "https://doi.org/10.1016/j.neuron.2012.10.011",
+              "unstructuredValue": "",
+              "customLabel": "Herholz & Zatorre, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntuek3yo0zv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nr31wdrom6g\" data-reactroot=\"\">Heyes, C. (2018).\u00a0<em>Cognitive gadgets: The cultural evolution of thinking</em>. Harvard University Press.</p>",
+              "customLabel": "Heyes, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nr6jtn57y0k",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrluan5p7sh\" data-reactroot=\"\">Hauptman, M., Liu, Y. &amp; Bedny (in press) Built to Adapt: Mechanisms of Cognitive Flexibility in Human Brain. <em>Annual Reviews of Developmental Psychology</em></p>",
+              "customLabel": "Hauptman et al., (in press) ",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". Literacy is a textbook example of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "recycling"
+          },
+          {
+            "type": "text",
+            "text": ", it reuses and modifies neural circuits that evolved for visual object recognition and their connectivity with the language system ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntsobdwdc9z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfxbt2zg0m0\" data-reactroot=\"\">Saygin, Z. M., Osher, D. E., Norton, E. S., Youssoufian, D. A., Beach, S. D., Feather, J., Gaab, N., Gabrieli, J. D., &amp; Kanwisher, N. (2016). Connectivity precedes function in the development of the visual word form area. <em>Nature Neuroscience,</em> <em>19</em>(9), 1250\u20131255. https://doi.org/10.1038/nn.4354</p>",
+              "customLabel": "Saygin et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxckrgirgzd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"noftwcq3f91\" data-reactroot=\"\">Dehaene, S., &amp; Cohen, L. (2007). Cultural recycling of cortical maps. <em>Neuron,</em> <em>56</em>(2), 384\u2013398. https://doi.org/10.1016/j.neuron.2007.10.004</p>",
+              "customLabel": "Dehaene & Cohen, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "criticalsensitive-periods-in-higher-cognition",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Critical/sensitive periods in higher cognition"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n47zevwqbvg",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Language is an example of a higher-cognitive capacity subject to critical or sensitive periods. For example, language deprivation, in deaf children without access to visuo-manual language, is associated with reduced proficiency in phonology and morphosyntax as well as altered neural basis of language ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqh9fyifc5h",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhwwg9lyq5k\" data-reactroot=\"\">Johnson, J. S., &amp; Newport, E. L. (1991). Critical period effects on universal properties of language: The status of subjacency in the acquisition of a second language. <em>Cognition,</em> <em>39</em>(3), 215\u2013258. https://doi.org/10.1016/0010-0277(91)90054-8</p>",
+              "customLabel": "Johnson & Newport, 1991",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsr0o64pe65",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbnufet7hjn\" data-reactroot=\"\">Bates, E., Thal, D., Trauner, D., Fenson, J., Aram, D., Eisele, J., &amp; Nass, R. (1997). From first words to grammar in children with focal brain injury. <em>Developmental Neuropsychology,</em> <em>13</em>(3), 275\u2013343. https://doi.org/10.1080/87565649709540682</p>",
+              "customLabel": "Bates et al., 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1y9ophs8qb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwnx9rx59g2\" data-reactroot=\"\">Mayberry, R. I., Lock, E., &amp; Kazmi, H. (2002). Linguistic ability and early language exposure. <em>Nature,</em> <em>417</em>(6884), 38\u201338. https://doi.org/10.1038/417038a</p>",
+              "customLabel": "Mayberry et al., 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The neurobiological mechanisms that open and close critical/sensitive periods in higher-cognitive systems are not known."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "plasticity-in-brain-damage",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Plasticity in brain damage"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nb4jdhpeuoe",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The brain functionally reorganizes in response to damage ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nllwbnez1rs",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8m66hvzwjb\" data-reactroot=\"\">Luria, A. R. (1963). <em>Restoration of function after brain injury</em>. Macmillan.</p>",
+              "customLabel": "Luria, 1963",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For example, damage to the left hemisphere language network leads to activity increases in right homologue areas and in perilesional tissue ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5gangl5iq1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npsb1cnxu4v\" data-reactroot=\"\">Hartwigsen, G., &amp; Saur, D. (2019). Neuroimaging of stroke recovery from aphasia - Insights into plasticity of the human language network. <em>NeuroImage,</em> <em>190</em>, 14\u201331. https://doi.org/10.1016/j.neuroimage.2017.11.056</p>",
+              "customLabel": "Hartwigsen & Saur, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In some domains, such as language, potential for behavioral recovery is much greater in childhood ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n77z6p0gqwm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbnufet7hjn\" data-reactroot=\"\">Bates, E., Thal, D., Trauner, D., Fenson, J., Aram, D., Eisele, J., &amp; Nass, R. (1997). From first words to grammar in children with focal brain injury. <em>Developmental Neuropsychology,</em> <em>13</em>(3), 275\u2013343. https://doi.org/10.1080/87565649709540682</p>",
+              "customLabel": "Bates et al., 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") (for a counterexample in memory, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nugo2kxmxt5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nn0dujo99z3\" data-reactroot=\"\">Vargha-Khadem, F., Gadian, D. G., Watkins, K. E., Connelly, A., Van Paesschen, W., &amp; Mishkin, M. (1997). Differential effects of early hippocampal pathology on episodic and semantic memory. <em>Science,</em> <em>277</em>(5324), 376\u2013380. https://doi.org/10.1126/science.277.5324.376</p>",
+              "customLabel": "Vargha-Khadem et al., 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Children with extensive early damage to the left hemisphere show little or no change in linguistic behavior in adulthood and show activity in right homologue frontotemporal areas during language tasks ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2uxpqq6k6o",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbnufet7hjn\" data-reactroot=\"\">Bates, E., Thal, D., Trauner, D., Fenson, J., Aram, D., Eisele, J., &amp; Nass, R. (1997). From first words to grammar in children with focal brain injury. <em>Developmental Neuropsychology,</em> <em>13</em>(3), 275\u2013343. https://doi.org/10.1080/87565649709540682</p>",
+              "customLabel": "Bates et al., 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Similar brain damage in adulthood leads to language impairment (i.e., aphasia) ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "neaerivndu5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npsb1cnxu4v\" data-reactroot=\"\">Hartwigsen, G., &amp; Saur, D. (2019). Neuroimaging of stroke recovery from aphasia - Insights into plasticity of the human language network. <em>NeuroImage,</em> <em>190</em>, 14\u201331. https://doi.org/10.1016/j.neuroimage.2017.11.056</p>",
+              "customLabel": "Hartwigsen & Saur, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "edge-cases-is-this-plasticity",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Edge cases: is this plasticity?"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ntg3wn7971t",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Some definitions of plasticity include neural change of any kind, including maturation. Most consider plasticity to be neural changes resulting from neural activity or effects of the environment on the brain. There are \u201cedge\u201d cases that may or may not count as neuroplasticity: \u201cRetinal waves\u201d are innate patterns of activity in the retina that propagate into the cortex before onset of vision "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngg9huu930j",
+              "href": null,
+              "value": "https://doi.org/10.1146/annurev.neuro.22.1.29",
+              "unstructuredValue": "",
+              "customLabel": "",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". Since these waves themselves are innately programmed, it is unclear whether this should count as plasticity.\u00a0\u00a0\u00a0\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrp07hsv5fx",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Research on neuroplasticity is connected to work in artificial intelligence and machine learning. In neural network models, plasticity occurs when connection weights among units are updated during learning "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nia6nzso0a6",
+              "href": null,
+              "value": "https://doi.org/10.1017/S0140525X00052432",
+              "unstructuredValue": "",
+              "customLabel": "",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". Neuroplasticity research in cognitive science has focused on large-scale functional changes in humans (but connects to plasticity work at cellular and molecular levels, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkewf6wlp73",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nh126je798n\" data-reactroot=\"\">Feldman, D. E. (2009). Synaptic mechanisms for plasticity in neocortex. <em>Annual Review of Neuroscience,</em> <em>32</em>, 33\u201355. https://doi.org/10.1146/annurev.neuro.051508.135516</p>",
+              "customLabel": "Feldman, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Research on plasticity connects to developmental psychology, cognitive psychology, comparative psychology, anthropology and philosophy. For example, experience-based change is relevant to nature/nurture debates within developmental psychology, evolutionary biology and philosophy ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb042x3d8ab",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nc3ga4f1ald\" data-reactroot=\"\">Carey, S., &amp; Spelke, E. (1996). Science and core knowledge. <em>Philosophy of Science,</em> <em>63</em>(4), 515\u2013533. https://doi.org/10.1086/289971</p>",
+              "customLabel": "Carey & Spelke, 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Neuroplasticty is also relevant to cultural anthropology and archeology, which examine adaptation of humans to varying cultural and environmental contexts ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nna1nfp1zik",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npfr8pty00s\" data-reactroot=\"\">Boyd, R., &amp; Richerson, P. J. (2005). <em>The origin and evolution of cultures</em>. Oxford University Press. https://doi.org/10.1093/oso/9780195165241.001.0001</p>",
+              "customLabel": "Boyd & Richerson, 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nszzc0l7kv7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ncyp7vq01gy\" data-reactroot=\"\">Tomasello, M. (2009). <em>The cultural origins of human cognition</em>. Harvard University Press. https://doi.org/10.2307/j.ctvjsf4jc</p>",
+              "customLabel": "Tomasello, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrwe1642zoo",
+              "href": null,
+              "value": "https://doi.org/10.1038/s41562-018-0394-4\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Roberts & Stewart, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nr5ycky9807",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "noamj1kqdew",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Pascual-Leone, A., Amedi, A., Fregni, F., & Merabet, L. B. (2005). The plastic human brain cortex. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Annual Review of Neuroscience"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "28"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 377\u2013401. https://doi.org/10.1146/annurev.neuro.27.070203.144216"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "ngyge2fqns7",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bavelier, D., & Neville, H. J. (2002). Cross-modal plasticity: where and how? "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Nature Reviews Neuroscience"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "3"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(6), 443\u2013452. https://doi.org/10.1038/nrn848"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nb7do8dusgh",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Dehaene, S., & Cohen, L. (2007). Cultural recycling of cortical maps. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Neuron"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "56"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(2), 384\u2013398. https://doi.org/10.1016/j.neuron.2007.10.004"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nrluan5p7sh",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hauptman, M., Liu, Y. & Bedny (in press) Built to Adapt: Mechanisms of Cognitive Flexibility in Human Brain. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Annual Reviews of Developmental Psychology"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

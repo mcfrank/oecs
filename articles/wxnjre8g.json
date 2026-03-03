@@ -1,0 +1,1607 @@
+{
+  "id": "96cf440a-1191-42e3-892f-9d0bcf10bd47",
+  "slug": "wxnjre8g",
+  "title": "Reasoning and Argumentation",
+  "url": "https://oecs.mit.edu/pub/wxnjre8g",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "96cf440a-1191-42e3-892f-9d0bcf10bd47",
+    "slug": "wxnjre8g",
+    "title": "Reasoning and Argumentation",
+    "htmlTitle": "Reasoning and Argumentation",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.96cf440a",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "fgwbcoy5",
+    "editHash": "ypqn5plv",
+    "reviewHash": "kyvlwbqg",
+    "commentHash": "7a8h38k5",
+    "draftId": "9210996b-8a63-469d-9e05-a95bc0f62001",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "d21d42fb-dea4-4892-ab4d-1af877103797",
+    "scopeSummaryId": "152f9e20-04f9-40db-830a-048b6eee2a2a",
+    "createdAt": "2025-04-22T18:55:47.730Z",
+    "updatedAt": "2025-05-28T18:04:32.902Z",
+    "attributions": [
+      {
+        "id": "7dca8bfb-61b9-434c-b910-eba3e9563652",
+        "name": "Fr\u00e9d\u00e9rique de Vignemont",
+        "avatar": null,
+        "title": null,
+        "order": 0.625,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Institut Jean Nicod, ENS-PSL University, EHESS, CNRS",
+        "orcid": "0009-0006-1354-1553",
+        "userId": null,
+        "pubId": "96cf440a-1191-42e3-892f-9d0bcf10bd47",
+        "createdAt": "2025-05-05T15:31:44.689Z",
+        "updatedAt": "2025-05-05T15:32:08.160Z",
+        "user": null
+      },
+      {
+        "id": "b61227ad-7a94-40a7-931e-0373e5600837",
+        "name": "Hugo Mercier",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Institut Jean Nicod, ENS-PSL University, EHESS, CNRS",
+        "orcid": "0000-0002-0575-7913",
+        "userId": null,
+        "pubId": "96cf440a-1191-42e3-892f-9d0bcf10bd47",
+        "createdAt": "2025-04-22T18:56:34.409Z",
+        "updatedAt": "2025-04-22T18:56:45.932Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "9210996b-8a63-469d-9e05-a95bc0f62001",
+      "latestKeyAt": "2025-05-28T16:09:25.198Z",
+      "firebasePath": "drafts/draft-9210996b-8a63-469d-9e05-a95bc0f62001",
+      "createdAt": "2025-04-22T18:55:47.714Z",
+      "updatedAt": "2025-05-28T18:46:17.806Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5cowxse1m2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "By a common definition, reasoning is the private mental act of weighing reasons to decide whether to accept a given conclusion. In argumentation, reasons in favor of a conclusion are exchanged between at least two people, who take turns producing and evaluating them. In spite of what seems to be an obvious link between reasoning and argumentation, cognitive science had until recently focused on reasoning, neglecting argumentation. More recently, experimental and theoretical work has renewed interest in argumentation and strengthened the ties between reasoning and argumentation. Work on reasoning and argumentation promises to shed light on the cognitive mechanisms underpinning a critical human-specific ability\u2014exchanging reasons\u2014and, since argumentation is more easily observable than reasoning, to facilitate the study of reasoning."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nz0gjjlw3ve",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In the Western tradition at least, reasoning and argumentation were originally, and until the modern era, largely seen as synonymous, with Aristotle defining \u201cdeduction [as] a discourse\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0yfzi8kniq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4d7bmf2gsg\" data-reactroot=\"\">Aristotle. (2009). <em>Prior analytics</em> (G. Striker, Trans.). Oxford University Press. (Original work published 350 BCE)</p>",
+              "customLabel": "Aristotle, 350 BCE/2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; see also "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5dlyg7g8zx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyuaxr4h70j\" data-reactroot=\"\">Isocrates. (1928). Antidosis<em> </em>(G. Norlin, Trans.). In <em>Isocrates: Volume II. </em>Harvard University Press.</p>",
+              "customLabel": "Isocrates, 1928",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). By contrast, an "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "individualist"
+          },
+          {
+            "type": "text",
+            "text": " tradition, which sees reasoning as distinct from, and more important than, argumentation, developed later, following Descartes in particular."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "npszcw75vvn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The perspective that conflates reasoning and argumentation has exerted some influence on modern research. In social psychology, Michael "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfbnr5ttwfa",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3v61uif5us\" data-reactroot=\"\">Billig, M. (1996). <em>Arguing and thinking: A rhetorical approach to social psychology</em>. Cambridge University Press.</p>",
+              "customLabel": "Billig (1996)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " drew attention to the importance of arguing in our social and cognitive lives. Jean Piaget\u2019s early suggestion that \u201clogical reasoning is an argument which we have with ourselves, and which reproduces internally the features of a real argument\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvebgk3pwdq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzbuxv0aa4q\" data-reactroot=\"\">Piaget, J. (1928). <em>Judgment and reasoning in the child</em>. Routledge and Kegan Paul.</p>",
+              "customLabel": "Piaget, 1928",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", 204) has influenced work in developmental psychology ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7h1vzvoyhh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5joxddpfr7\" data-reactroot=\"\">Doise, W., &amp; Mugny, G. (1984). <em>The social development of the intellect</em>. Pergamon Press. </p>",
+              "customLabel": "Doise & Mugny, 1984",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nu8zss6soib",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkeo026u4bc\" data-reactroot=\"\">Perret-Clermont, A.-N. (1980). <em>Social interaction and cognitive development in children</em>. Academic Press.</p>",
+              "customLabel": "Perret-Clermont, 1980",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The individualist tradition, however, proved vastly more influential (including on Piaget\u2019s later work). Until very recently, the experimental study of reasoning was dominated by traditions\u2014mental models ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnfzcezd6hk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nn5ygik6zjs\" data-reactroot=\"\">Johnson-Laird, P. N. (1983). <em>Mental models</em>. Cambridge University Press.</p>",
+              "customLabel": "Johnson-Laird, 1983",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and mental logic ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrl2555u9ab",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqmfvooedrs\" data-reactroot=\"\">Rips, L. J. (1994). <em>The psychology of proof: Deductive reasoning in human thinking</em>. MIT Press.</p>",
+              "customLabel": "Rips, 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")\u2014which largely ignored argumentation (although for a notable exception situated outside the mainstream of work on reasoning, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9d5ej5px6b",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4askya8en4\" data-reactroot=\"\">Kuhn, D. (1991). <em>The skills of arguments</em>. Cambridge University Press. </p>",
+              "customLabel": "Kuhn, 1991",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). On their side, argumentation scholars showed little interest in the cognitive underpinnings of argumentative skills (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvgwqqofbky",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzk6hws8zck\" data-reactroot=\"\">Van Eemeren, F. H., &amp; Grootendorst, R. (2004). <em>A systematic theory of argumentation: The pragma-dialectical approach</em>. Cambridge University Press.</p>",
+              "customLabel": "Van Eemeren & Grootendorst, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2b75pswzsk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "First, researchers have developed a fruitful research program extending to argumentation the Bayesian framework used to model internal reasoning (for review, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni1ek6vfljj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0amoevkb77\" data-reactroot=\"\">Hahn, U., &amp; Oaksford, M. (2007). The rationality of informal argumentation: A Bayesian approach to reasoning fallacies. <em>Psychological Review</em>, <em>114</em>(3), 704\u2013732. <a href=\"https://doi.org/10.1037/0033-295X.114.3.704\" target=\"_blank\">https://doi.org/10.1037/0033-295X.114.3.704</a></p>",
+              "customLabel": "Hahn & Oaksford, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Second, there has been a renewed interest in children\u2019s ability to give and to evaluate reasons within a broadly cognitive framework. Third, the interactionist theory of reason offers a framework in which argumentation\u2014and the social exchange of reasons more generally\u2014is the function for which reasoning would have evolved."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhg79117115",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Over the past 20 years, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "dual process theories"
+          },
+          {
+            "type": "text",
+            "text": " have played an important role in the psychology of reasoning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5jjvo1qhdu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nth4gfd1grw\" data-reactroot=\"\">Evans, J. St. B. T. (2003). In two minds: Dual-process accounts of reasoning. <em>Trends in Cognitive Sciences</em>, <em>7</em>(10), 454\u2013459. <a href=\"https://doi.org/10.1016/j.tics.2003.08.012\" target=\"_blank\">https://doi.org/10.1016/j.tics.2003.08.012</a></p>",
+              "customLabel": "Evans, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4q2eipcc6v",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf5mamkixvv\" data-reactroot=\"\">Kahneman, D. (2003). A perspective on judgment and choice: Mapping bounded rationality. <em>American Psychologist</em>, <em>58</em>(9), 697\u2013720. <a href=\"https://doi.org/10.1037/0003-066X.58.9.697\" target=\"_blank\">https://doi.org/10.1037/0003-066X.58.9.697</a></p>",
+              "customLabel": "Kahneman, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nyq7jentn4d",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrlohtu244k\" data-reactroot=\"\">Sloman, S. A. (1996). The empirical case for two systems of reasoning. <em>Psychological Bulletin</em>, <em>119</em>(1), 3\u201322. <a href=\"https://doi.org/10.1037/0033-2909.119.1.3\" target=\"_blank\">https://doi.org/10.1037/0033-2909.119.1.3</a></p>",
+              "customLabel": "Sloman, 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In these models, the mind is composed of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "System 1"
+          },
+          {
+            "type": "text",
+            "text": " processes, which work unconsciously, quickly, and effortlessly, delivering broadly reliable but also systematically flawed outputs. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "System 2"
+          },
+          {
+            "type": "text",
+            "text": ", or reasoning, would have evolved to process information more slowly, systematically, and consciously, in order to fix the mistakes made by System 1 processes. For instance, according to these theories, it is System 1 that drives individuals towards intuitive but mistaken answers in tricky logical or mathematical problems such as the bat and ball (a bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost? Intuitive answer: 10 cents; correct answer: 5 cents). Dual process theories focus nearly entirely on internal reasoning processes in the individual."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nnxgsdbfbvo",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "interactionist theory of reason"
+          },
+          {
+            "type": "text",
+            "text": ", by contrast, seeks to give the social exchange of reason a central place ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncbgvtpanl6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqq2y4on51k\" data-reactroot=\"\">Mercier, H., &amp; Sperber, D. (2011). Why do humans reason? Arguments for an argumentative theory. <em>Behavioral and Brain Sciences</em>, <em>34</em>(2), 57\u201374. <a href=\"https://doi.org/10.1017/S0140525X10000968\" target=\"_blank\">https://doi.org/10.1017/S0140525X10000968</a></p>",
+              "customLabel": "Mercier & Sperber, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6dz4qf4jol",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnhysrjes5k\" data-reactroot=\"\">Mercier, H., &amp; Sperber, D. (2017). <em>The enigma of reason</em>. Harvard University Press. </p>",
+              "customLabel": "2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Grounded in evolutionary theorizing, it criticizes dual process models for the implausible function ascribed to reasoning, seen as a silver bullet able to perform any task better than System 1 mechanisms. Instead, it suggests that reasoning is another System 1 mechanism, with a specific function: finding and evaluating reasons in a social context\u2014for instance, when people exchange arguments over what the correct answer to the bat and ball problem is. Reasoning would perform this task well, quickly, effortlessly, and also largely unconsciously, but it would perform quite poorly when required to perform any other task."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "does-individual-reasoning-work-as-internalized-argumentation",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Does individual reasoning work as internalized argumentation?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nox5sde71qw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Dual process theories suggest that reasoning helps to discard mistaken outputs from System 1 processes (for some contradictory findings, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2fzxhtyxsn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nh83o2zjbni\" data-reactroot=\"\">Bago, B., &amp; De Neys, W. (2017). Fast logic?: Examining the time course assumption of dual process theory. <em>Cognition</em>, <em>158</em>, 90\u2013109. <a href=\"https://doi.org/10.1016/j.cognition.2016.10.014\" target=\"_blank\">https://doi.org/10.1016/j.cognition.2016.10.014</a></p>",
+              "customLabel": "Bago & De Neys, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). By contrast, the interactionist theory of reason suggests that individual reasoning mostly serves either to find arguments for preexisting beliefs, giving rise to the confirmation bias (or myside bias, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx7ynv3n7of",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvgnecfew0h\" data-reactroot=\"\">Mercier, H. (2016). Confirmation (or myside) bias. In R. Pohl (Ed.), <em>Cognitive illusions</em> (2nd ed., pp. 99\u2013114). Psychology Press.</p>",
+              "customLabel": "Mercier, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), or to estimate which of several possible choices is easiest to defend with arguments (reason-based choice, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "na6ulnzw19k",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqbjq91wwbb\" data-reactroot=\"\">Shafir, E., Simonson, I., &amp; Tversky, A. (1993). Reason-based choice. <em>Cognition</em>, <em>49</em>(1\u20132), 11\u201336. <a href=\"https://doi.org/10.1016/0010-0277(93)90034-S\" target=\"_blank\">https://doi.org/10.1016/0010-0277(93)90034-S</a></p>",
+              "customLabel": "Shafir et al., 1993",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "how-well-do-people-reason-together",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "How well do people reason together?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqazndukx37",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Early results in social psychology suggested that group performance in a variety of tasks tended to be disappointing, either because participants lost their motivation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nks7x38nblh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njkeynty97l\" data-reactroot=\"\">Karau, S. J., &amp; Williams, K. D. (1993). Social loafing: A meta-analytic review and theoretical integration. <em>Journal of Personality and Social Psychology</em>, <em>65</em>(4), 681\u2013706. <a href=\"https://doi.org/10.1037/0022-3514.65.4.681\" target=\"_blank\">https://doi.org/10.1037/0022-3514.65.4.681</a></p>",
+              "customLabel": "Karau & Williams, 1993",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or because the group dynamic led to worse outcomes compared to individual performance, such as polarization ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxh7euh1bu6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqejhcf9z9a\" data-reactroot=\"\">Isenberg, D. J. (1986). Group polarization: A critical review and meta-analysis. <em>Journal of Personality and Social Psychology</em>, <em>50</em>(6), 1141\u20131151. <a href=\"https://doi.org/10.1037/0022-3514.50.6.1141\" target=\"_blank\">https://doi.org/10.1037/0022-3514.50.6.1141</a></p>",
+              "customLabel": "Isenberg, 1986",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, studies also revealed that under some conditions, groups could outperform individuals, as those with the best ideas were able to convince other group members (a phenomenon known as truth wins, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2yykm1ixlj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n502ynzo7i5\" data-reactroot=\"\">Laughlin, P. R. (2011). <em>Group problem solving</em>. Princeton University Press. </p>",
+              "customLabel": "Laughlin, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnsdgk1kec9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n81yq8xnh3h\" data-reactroot=\"\">Moshman, D., &amp; Geil, M. (1998). Collaborative reasoning: Evidence for collective rationality. <em>Thinking and Reasoning</em>, <em>4</em>(3), 231\u2013248. <a href=\"https://doi.org/10.1080/135467898394148\" target=\"_blank\">https://doi.org/10.1080/135467898394148</a></p>",
+              "customLabel": "Moshman & Geil, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Overall, it seems that group discussion improves performance when participants are motivated to exchange arguments in an open-minded but also somewhat adversarial manner\u2014that is, when the group has common incentives but also disagrees about something ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0zlkoaj5gv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzxrg8kyvvd\" data-reactroot=\"\">Mercier, H. (2016). The argumentative theory: Predictions and empirical evidence. <em>Trends in Cognitive Sciences</em>, <em>20</em>(9), 689\u2013700. <a href=\"https://doi.org/10.1016/j.tics.2016.07.001\" target=\"_blank\">https://doi.org/10.1016/j.tics.2016.07.001</a></p>",
+              "customLabel": "Mercier, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "how-does-argumentation-develop",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "How does argumentation develop?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nuel2mntqa0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Developmental studies have shown that very young children possess at least basic argumentative abilities, allowing them to be more persuaded by strong arguments than by weak ones (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nv5tk1c43ix",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuyjajxjxb9\" data-reactroot=\"\">Castelain, T., Bernard, S., Van der Henst, J.-B., &amp; Mercier, H. (2016). The influence of power and reason on young Maya children\u2019s endorsement of testimony. <em>Developmental Science</em>, <em>19</em>(6), 957\u2013966. <a href=\"https://doi.org/10.1111/desc.12336\" target=\"_blank\">https://doi.org/10.1111/desc.12336</a></p>",
+              "customLabel": "Castelain et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmmcu7o018v",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7plbocm5jw\" data-reactroot=\"\">Koenig, M. A. (2012). Beyond semantic accuracy: Preschoolers evaluate a speaker\u2019s reasons. <em>Child Development</em>, <em>83</em>(3), 1051\u20131063. <a href=\"https://doi.org/10.1111/j.1467-8624.2012.01742.x\" target=\"_blank\">https://doi.org/10.1111/j.1467-8624.2012.01742.x</a></p>",
+              "customLabel": "Koenig, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and to provide reasons appropriate to their audience (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni6gnmw18wz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhfoti9ajfq\" data-reactroot=\"\">K\u00f6ymen, B., Rosenbaum, L., &amp; Tomasello, M. (2014). Reasoning during joint decision-making by preschool peers. <em>Cognitive Development</em>, <em>32</em>, 74\u201385. <a href=\"https://doi.org/10.1016/j.cogdev.2014.09.001\" target=\"_blank\">https://doi.org/10.1016/j.cogdev.2014.09.001</a></p>",
+              "customLabel": "K\u00f6ymen et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nr0bs4p4y7z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj1qz5mer39\" data-reactroot=\"\">K\u00f6ymen, B., Mammen, M., &amp; Tomasello, M. (2015). Preschoolers use common ground in their justificatory reasoning with peers. <em>Developmental Psychology</em>, <em>52</em>(3), 423\u2013429. <a href=\"https://doi.org/10.1037/dev0000089\" target=\"_blank\">https://doi.org/10.1037/dev0000089</a></p>",
+              "customLabel": "2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, much more work remains to be done to better understand how these skills are refined with age and experience [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zw60p83x",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Cognitive Development"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "do-large-language-models-argue-like-humans",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Do large language models argue like humans?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nneigiasyhb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Recent studies have shown that discussions with a chatbot can have large and persistent effects on attitudes ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nl8ari6f3fm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0j2dv481q9\" data-reactroot=\"\">Costello, T. H., Pennycook, G., &amp; Rand, D. G. (2024). Durably reducing conspiracy beliefs through dialogues with AI. <em>Science</em>, <em>385</em>(6714), eadq1814. <a href=\"https://doi.org/10.1126/science.adq1814\">https://doi.org/10.1126/science.adq1814</a> </p>",
+              "customLabel": "Costello et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; see also "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "na225x23lcw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3k6a09caim\" data-reactroot=\"\">Altay, S., Hacquin, A.-S., Chevallier, C., &amp; Mercier, H. (2021). Information delivered by a chatbot has a positive impact on COVID-19 vaccines attitudes and intentions. <em>PsyArXiv Preprints</em>. <a href=\"https://doi.org/10.31234/osf.io/eb2gt\" target=\"_blank\">https://doi.org/10.31234/osf.io/eb2gt</a></p>",
+              "customLabel": "Altay et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "]. Discussions between chatbots also appear to emulate the positive effects of discussion between humans ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni23yvjgxfg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxsmfgok37u\" data-reactroot=\"\">Du, Y., Li, S., Torralba, A., Tenenbaum, J. B., &amp; Mordatch, I. (2023). Improving factuality and reasoning in language models through multiagent debate. <em>Proceedings of the 41st International Conference on Machine Learning</em>, (467), 11733\u201311763. <a href=\"https://dl.acm.org/doi/10.5555/3692070.3692537\">https://dl.acm.org/doi/10.5555/3692070.3692537</a> </p>",
+              "customLabel": "Du et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The rapidly evolving performance of large language models will warrant continued attention."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrqhpq8w824",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Work linking reasoning and argumentation could help bridge different areas of research at two levels: that of mechanisms and that of function [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/x0sk7df7",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Mental Representation"
+          },
+          {
+            "type": "text",
+            "text": "]. Reason is a metarepresentational mechanism; it deals with representations of representations: for instance, a representation of a given reason (itself a representation) as being a good reason. As such, reason relates to other metarepresentational mechanisms such as mentalizing or ostensive communication. All of these metarepresentational mechanisms might be partially overlapping, and their study could be more integrated\u2014while keeping in mind that each serves a different function and should thus also have specific components. Which brings us to the functional level. According to the interactionist theory of reason, attributing a social function to reason helps make sense of some of its features. The same could be true of other metarepresentational or metacognitive mechanisms [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zjuzickv",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Metacognition"
+          },
+          {
+            "type": "text",
+            "text": "]. In particular, it has been suggested that some metacognitive mechanisms also serve a social communicative function ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njjamhcbzwg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntnjmeufzwq\" data-reactroot=\"\">Shea, N., Boldt, A., Bang, D., Yeung, N., Heyes, C., &amp; Frith, C. D. (2014). Supra-personal cognitive control and metacognition. <em>Trends in Cognitive Sciences</em>, <em>18</em>(4), 186\u2013193. <a href=\"https://doi.org/10.1016/j.tics.2014.01.006\" target=\"_blank\">https://doi.org/10.1016/j.tics.2014.01.006</a></p>",
+              "customLabel": "Shea et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). If many, or maybe all, metarepresentational mechanisms serve social functions\u2014even if the functions are not exactly the same\u2014this would further argue for their more integrated study."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nqpz7c1fzyd",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "npdalliwvqp",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hahn, U., & Oaksford, M. (2007). The rationality of informal argumentation: A Bayesian approach to reasoning fallacies. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Psychological Review"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "114"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(3), 704\u2013732. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1037/0033-295X.114.3.704",
+                          "title": null,
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1037/0033-295X.114.3.704"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "no0g2zuyq1e",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Kuhn, D. (1991). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The skills of arguments"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Cambridge University Press. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n4n7klya563",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Mercier, H., & Sperber, D. (2011). Why do humans reason? Arguments for an argumentative theory. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Behavioral and Brain Sciences"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "34"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(2), 57\u201374. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1017/S0140525X10000968",
+                          "title": null,
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1017/S0140525X10000968"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nlsl6qi6x3s",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Moshman, D., & Geil, M. (1998). Collaborative reasoning: Evidence for collective rationality. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Thinking and Reasoning"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "4"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(3), 231\u2013248. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1080/135467898394148",
+                          "title": null,
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1080/135467898394148"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

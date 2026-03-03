@@ -1,0 +1,1968 @@
+{
+  "id": "0b8879c0-25a9-4d2b-8f5a-2f27b89b3282",
+  "slug": "l3hscpvx",
+  "title": "Motor Learning",
+  "url": "https://oecs.mit.edu/pub/l3hscpvx",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "0b8879c0-25a9-4d2b-8f5a-2f27b89b3282",
+    "slug": "l3hscpvx",
+    "title": "Motor Learning",
+    "htmlTitle": "Motor Learning",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.0b8879c0",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "ypmplw55",
+    "editHash": "ltwucdk3",
+    "reviewHash": "iz6apt67",
+    "commentHash": "20nut90q",
+    "draftId": "98b227da-0c39-43aa-9f79-578e147e20d0",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "9dcca362-77eb-4b91-82ef-3fc2fa866a4d",
+    "scopeSummaryId": "44b98783-49ad-429b-95f0-19583582dce4",
+    "createdAt": "2025-12-04T14:47:49.784Z",
+    "updatedAt": "2026-01-22T22:07:00.482Z",
+    "attributions": [
+      {
+        "id": "51ab2740-7ea1-4505-b83a-18bdd2fa93c1",
+        "name": "Jonathan Tsay",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Department of Psychology, Carnegie Mellon University",
+        "orcid": "0000-0002-3992-9023",
+        "userId": null,
+        "pubId": "0b8879c0-25a9-4d2b-8f5a-2f27b89b3282",
+        "createdAt": "2025-12-04T14:48:33.175Z",
+        "updatedAt": "2025-12-04T14:48:43.542Z",
+        "user": null
+      },
+      {
+        "id": "a68bdaef-0aa1-4008-b556-3f9146aa0f57",
+        "name": "Michael C. Frank",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Stanford University",
+        "orcid": "0000-0002-7551-4378",
+        "userId": null,
+        "pubId": "0b8879c0-25a9-4d2b-8f5a-2f27b89b3282",
+        "createdAt": "2026-01-06T18:29:49.956Z",
+        "updatedAt": "2026-01-06T18:30:00.454Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "98b227da-0c39-43aa-9f79-578e147e20d0",
+      "latestKeyAt": "2026-01-22T16:54:53.017Z",
+      "firebasePath": "drafts/draft-98b227da-0c39-43aa-9f79-578e147e20d0",
+      "createdAt": "2025-12-04T14:47:49.768Z",
+      "updatedAt": "2026-01-22T22:04:52.694Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njywuny5gtb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Humans possess a remarkable ability to acquire, adapt, and retain movements\u2014a capacity known as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "motor learning"
+          },
+          {
+            "type": "text",
+            "text": " (literally \u201clearning to move,\u201d from the Latin "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "movere"
+          },
+          {
+            "type": "text",
+            "text": ", \u201cto move\u201d). Through motor learning, we continuously compare expected movement outcomes with actual movement outcomes, using errors, rewards, cognitive strategies, and repeated practice to refine performance as the body (e.g., muscle fatigue), environment (e.g., uneven terrain), and goals (e.g., performing a wheelie or winning a race) dynamically evolve. Motor learning engages multiple learning processes, each supported by specialized brain networks and tuned to distinct forms of feedback and contextual factors. Situated at the intersection of multiple disciplines, motor learning research has uncovered fundamental principles of learning and memory while catalyzing transformative advances in neurorehabilitation and neurotechnology.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbtbtbwe888",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "From a baby\u2019s first steps to a pianist\u2019s flawless recital, humans exhibit an extraordinary ability for motor learning\u2014the ability to acquire, adapt, and retain skilled movement. Motor learning may be one of the nervous system\u2019s most fundamental functions. Consider the sea squirt: after a brief period of movement to find a home, it anchors to a surface and digests its own nervous system. From this observation, evolutionary biologists have suggested that the ability to move, and to learn from movement, may be the very reason nervous systems evolved in the first place."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nv752chsght",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Understanding motor learning has long fascinated scientists across fields. Its scientific roots trace back to the early days of experimental psychology. In 1896, George Stratton conducted a classic self-experiment, wearing mirror-inverting glasses for eight days ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7rc373p0ha",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5rrzh04kui\" data-reactroot=\"\">Stratton, G. M. (1896). Some preliminary experiments on vision without inversion of the retinal image. <em>Psychological Review</em>, <em>3</em>(6), 611\u2013617. <a href=\"https://doi.org/10.1037/h0072918\">https://doi.org/10.1037/h0072918</a> </p>",
+              "customLabel": "Stratton, 1896",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Stratton describes how, at first, \u201call images . . . appeared to be inverted; the room and all in it seemed upside down,\u201d and his movements were \u201cawkward, uncertain, and full of surprises.\u201d Yet, through repeated trial and error, he gradually regained coordination: \u201cThe mistake was then seen . . . and the desired movement was at last brought about.\u201d This landmark study offered an early glimpse into the brain\u2019s ability to rapidly recalibrate movement in response to feedback and practice."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nji1vp8p60x",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The cognitive revolution marked a breakthrough in motor learning, sparked by Brenda Milner\u2019s seminal work with patient H.M. After surgeons removed both medial temporal lobes, including the hippocampus, to treat his severe epilepsy, H.M. was left unable to form new long-term memories ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxo3wfp0fqk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng6iyarzq4t\" data-reactroot=\"\">Milner, B. (1962). Les troubles de la memoire accompagnant des lesions hippocampiques bilaterales. In P. Passouant (Ed.), <em>Physiologie de l\u2019Hippocampe</em> (pp. 257\u2013272). Centre National de la Recherche Scientifique.</p>",
+              "customLabel": "Milner, 1962",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Yet, in a mirror-tracing task, in which H.M. was asked to trace a star as quickly as possible while viewing his hand only through a mirror, he showed normal learning, with steady improvements in both speed and accuracy over three days, despite having no memory of ever performing the task before. This striking dissociation revealed that motor learning constitutes a distinct form of memory\u2014separate from episodic memory for past events or semantic memory for words and concepts\u2014one that can operate implicitly, without conscious awareness [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/s41l0yu6",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Memory"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nsb1685jtuz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "These foundational studies paved the way for the cognitive neuroscience era, which sought to uncover the neural and computational principles supporting motor learning. The motor system came to be modeled as a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "controller"
+          },
+          {
+            "type": "text",
+            "text": "\u2014similar to a thermostat that adjusts its output based on the mismatch between the desired and actual temperature. In this "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "control-theoretic framework"
+          },
+          {
+            "type": "text",
+            "text": ", motor learning arises from comparisons between the predicted movement outcome (e.g., reaching for a cup of milk) and the actual movement outcome (e.g., spilling milk all over the floor). Errors in turn drive corrective adjustments that keep the motor system calibrated amid changes in the body or environment ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmjfrb9d31p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nme8xoknfzi\" data-reactroot=\"\">Shadmehr, R., Smith, M. A., &amp; Krakauer, J. (2010). Error correction, sensory prediction, and adaptation in motor control. <em>Annual Review of Neuroscience</em>, <em>33</em>, 89\u2013108. <a href=\"https://doi.org/10.1146/annurev-neuro-060909-153135\">https://doi.org/10.1146/annurev-neuro-060909-153135</a> </p>",
+              "customLabel": "Shadmehr et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhnst81layw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Consider the challenge of learning to ride a bike. Staying upright requires the brain to estimate the body\u2019s current state\u2014how fast you\u2019re moving, how far you\u2019re leaning\u2014by integrating sensory inputs such as vision and proprioception. Based on this "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "state estimate"
+          },
+          {
+            "type": "text",
+            "text": ", the system generates motor commands to steer, balance, and pedal. However, sensory feedback alone is way too slow to support fast, seamless control. Imagine riding a bike over uneven terrain but only being able to adjust your balance 50 ms after hitting a rock (the typical delay in proprioception) or 100 ms later (the typical delay in vision). By the time you feel the wobble, you\u2019ve already fallen!\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmwgvlgiwmy",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "To overcome sensory delays, the motor system relies on forward and inverse models working in concert. The "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "forward model"
+          },
+          {
+            "type": "text",
+            "text": " uses an"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " efference copy"
+          },
+          {
+            "type": "text",
+            "text": "\u2014an internal duplicate of the motor command\u2014to predict the sensory consequences of movement, whereas the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "inverse model"
+          },
+          {
+            "type": "text",
+            "text": " translates desired sensory outcomes into the motor commands needed to achieve them. For example, when you turn the handlebars on uneven ground, your brain predicts how your balance will shift (forward model) and instantly generates the corrective motor commands to stabilize your posture (inverse model)\u2014all before any sensory feedback reaches the brain.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nsegg0cskda",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Yet, these forward and inverse models, collectively known as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "internal models"
+          },
+          {
+            "type": "text",
+            "text": ", are not always perfectly calibrated. Motor learning occurs when predicted and actual movement outcomes diverge, generating a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "sensory prediction error"
+          },
+          {
+            "type": "text",
+            "text": " that recalibrates these internal models. Consequently, the next time a cyclist encounters similar uneven terrain, they draw on these refined models to anticipate and correct their movements more effectively."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrzxz9jj4tk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Internal models are rapidly established in childhood ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2brxxhbxjk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n33uaqleq70\" data-reactroot=\"\">Hill, N. M., Tripp, H. M., Wolpert, D. M., Malone, L. A., &amp; Bastian, A. J. (2025). Age-dependent predictors of effective reinforcement motor learning across childhood. <em>eLife</em>, <em>13</em>, RP101036. <a href=\"https://doi.org/10.7554/eLife.101036\">https://doi.org/10.7554/eLife.101036</a> </p>",
+              "customLabel": "Hill et al., 2025",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Because these models are still developing, children often appear clumsy, making countless motor errors as they gradually learn the sensory consequences of their actions and how to interact effectively with the world around them. This process also continues throughout the lifespan\u2014whether in athletes refining their swing or musicians mastering a difficult passage\u2014each repetition fine-tuning the brain\u2019s internal models to achieve smoother, more precise, and more predictive motor control."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nn1bqib1z35",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Motor learning engages almost the entire brain\u2014a complex network in which each component of the control loop crudely maps onto distinct neural substrates ("
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "n6sxu0ebajz",
+              "targetId": "n6jxukvf0fn",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4k4olvhk9t",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nh2m9knvlm7\" data-reactroot=\"\">Shadmehr, R., &amp; Krakauer, J. W. (2008). A computational neuroanatomy for motor control. <em>Experimental Brain Research</em>, <em>185</em>(3), 359\u2013381. <a href=\"https://doi.org/10.1007/s00221-008-1280-5\">https://doi.org/10.1007/s00221-008-1280-5</a> \u00a0 </p>",
+              "customLabel": "Shadmehr & Krakauer, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Goals are encoded in the prefrontal and parietal cortices. The cerebellum generates sensory predictions through a forward model and translates desired sensory outcomes into motor commands via an inverse model. Peripheral sensors in the muscles, joints, and eyes send signals to sensory cortices, allowing the brain to estimate the body\u2019s current state. The basal ganglia maintain an internal model that predicts a movement\u2019s utility\u2014balancing costs (e.g., effort) against benefits (e.g., reward)\u2014and use reward prediction errors, arising when actual and expected utility diverge, to keep this model calibrated. The primary motor cortex issues the motor command to activate muscles downstream. Altogether, this distributed organization highlights that motor learning is not localized to a single brain region but emerges from the integration of neural systems supporting perception, decision-making, and action."
+          },
+          {
+            "type": "hard_break",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "n6jxukvf0fn",
+          "url": "https://assets.pubpub.org/czu0fn9y/oecs_motor-learning_fig1-01764859845145.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"ng40o743hrv\" data-reactroot=\"\">The motor system uses a motor goal (e.g., drinking) to generate a motor command (e.g., reaching toward a cup). A forward model in the cerebellum predicts the sensory consequences of this command (e.g., feeling the fingers contact the cup handle) while an inverse model rapidly computes the next movement in the sequence (e.g., bringing the cup to one\u2019s mouth)\u2014well before sensory feedback arrives from the muscles, joints, and eyes. When the delayed sensory outcome becomes available, it is compared with the predicted outcome to compute a sensory prediction error, updating the cerebellar internal models. In parallel, the basal ganglia compute reward prediction errors\u2014the mismatch between expected utility (e.g., the anticipated pleasure of drinking) and actual utility (e.g., whether the beverage tastes good or bad)\u2014allowing its internal model to remain calibrated. This control theoretic framework continues to evolve, with modern formulations incorporating multiple, interacting control loops that operate across different timescales, feedback modalities, and behavioral contexts.\u00a0</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5nuzgzfuru",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Motor learning is supported by multiple interacting systems that can be distinguished along several dimensions. One key distinction lies in their temporal dynamics; fast processes respond rapidly to sensory prediction errors but decay quickly, whereas slow processes adapt more gradually and retain their effects over extended timescales ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwsq77hteci",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n53vmxvj8oq\" data-reactroot=\"\">Hadjiosif, A. M., Morehead, J. R., &amp; Smith, M. A. (2023). A double dissociation between savings and long-term memory in motor learning. <em>PLoS Biology</em>, <em>21</em>(4), e3001799. <a href=\"https://doi.org/10.1371/journal.pbio.3001799\">https://doi.org/10.1371/journal.pbio.3001799</a> </p>",
+              "customLabel": "Hadjiosif et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngnq5ipnfsl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl691qarccb\" data-reactroot=\"\">Smith, M. A., Ghazizadeh, A., &amp; Shadmehr, R. (2006). Interacting adaptive processes with different timescales underlie short-term motor learning. <em>PLoS Biology</em>, <em>4</em>(6), e179. <a href=\"https://doi.org/10.1371/journal.pbio.0040179\">https://doi.org/10.1371/journal.pbio.0040179</a> </p>",
+              "customLabel": "Smith et al., 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Different systems also differ in the types of feedback they use. E"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "rror-based learning"
+          },
+          {
+            "type": "text",
+            "text": " relies on sensory prediction errors ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nm7f7mmvq9q",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3cjxiunzhm\" data-reactroot=\"\">Tseng, Y. W., Diedrichsen, J., Krakauer, J. W., Shadmehr, R., &amp; Bastian, A. J. (2007). Sensory prediction errors drive cerebellum-dependent adaptation of reaching. <em>Journal of Neurophysiology</em>, <em>98</em>(1), 54\u201362. <a href=\"https://doi.org/10.1152/jn.00266.2007\">https://doi.org/10.1152/jn.00266.2007</a> </p>",
+              "customLabel": "Tseng et al., 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In contrast, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "reward-based motor learning"
+          },
+          {
+            "type": "text",
+            "text": " is driven by "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "reward prediction errors"
+          },
+          {
+            "type": "text",
+            "text": "\u2014the discrepancy between expected and actual rewards ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nz4tuxalaax",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5cc2lwrw8k\" data-reactroot=\"\">Nikooyan, A. A., &amp; Ahmed, A. A. (2015). Reward feedback accelerates motor learning. <em>Journal of Neurophysiology</em>, <em>113</em>(2), 633\u2013646. <a href=\"https://doi.org/10.1152/jn.00032.2014\">https://doi.org/10.1152/jn.00032.2014</a> </p>",
+              "customLabel": "Nikooyan & Ahmed, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbhhhvo126d",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrblam61z6z\" data-reactroot=\"\">Therrien, A. S., Wolpert, D. M., &amp; Bastian, A. J. (2016). Effective reinforcement learning following cerebellar damage requires a balance between exploration and motor noise. <em>Brain: A Journal of Neurology</em>, <em>139</em>(Pt 1), 101\u2013114. <a href=\"https://doi.org/10.1093/brain/awv329\">https://doi.org/10.1093/brain/awv329</a> </p>",
+              "customLabel": "Therrien et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/k2ek981x",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Reinforcement Learning"
+          },
+          {
+            "type": "text",
+            "text": "]. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Strategy-based learning"
+          },
+          {
+            "type": "text",
+            "text": " depends on explicit instructions, such as verbal cues (\u201caim farther to the right\u201d) or imagery-based strategies (\u201cimagine your body as a stable tripod\u201d), prompting deliberate, reasoning-based adjustments rather than purely sensory-driven ones ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njee8erqk4h",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8sd3awr6a1\" data-reactroot=\"\">Taylor, J. A., Krakauer, J. W., &amp; Ivry, R. B. (2014). Explicit and implicit contributions to learning in a sensorimotor adaptation task. <em>Journal of Neuroscience</em>, <em>34</em>(8), 3023\u20133032. <a href=\"https://doi.org/10.1523/JNEUROSCI.3619-13.2014\">https://doi.org/10.1523/JNEUROSCI.3619-13.2014</a> </p>",
+              "customLabel": "Taylor et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Finally, some forms of motor learning arise with minimal feedback, emerging through repetition alone to enhance movement accuracy"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "(use-dependent learning;"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqst61fv84b",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nd4z9ilxsf2\" data-reactroot=\"\">Verstynen, T., &amp; Sabes, P. N. (2011). How each movement changes the next: An experimental and theoretical study of fast adaptive priors in reaching. <em>Journal of Neuroscience</em>, <em>31</em>(27), 10050\u201310059. <a href=\"https://doi.org/10.1523/JNEUROSCI.6525-10.2011\">https://doi.org/10.1523/JNEUROSCI.6525-10.2011</a> </p>",
+              "customLabel": "Verstynen & Sabes, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "and/or movement precision"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " (motor acuity"
+          },
+          {
+            "type": "text",
+            "text": ";"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6mm7qklqjh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsygntl5e7b\" data-reactroot=\"\">Shmuelof, L., Krakauer, J. W., &amp; Mazzoni, P. (2012). How is a motor skill learned? Change and invariance at the levels of task success and trajectory control. <em>Journal of Neurophysiology</em>, <em>108</em>(2), 578\u2013594. <a href=\"https://doi.org/10.1152/jn.00856.2011\">https://doi.org/10.1152/jn.00856.2011</a> </p>",
+              "customLabel": "Shmuelof et al., 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "no03mjw8ltz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A central challenge is understanding whether these learning systems operate independently ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhr6bjaiul4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8sd3awr6a1\" data-reactroot=\"\">Taylor, J. A., Krakauer, J. W., &amp; Ivry, R. B. (2014). Explicit and implicit contributions to learning in a sensorimotor adaptation task. <em>Journal of Neuroscience</em>, <em>34</em>(8), 3023\u20133032. <a href=\"https://doi.org/10.1523/JNEUROSCI.3619-13.2014\">https://doi.org/10.1523/JNEUROSCI.3619-13.2014</a> </p>",
+              "customLabel": "Taylor et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), compete for shared resources ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngljd1m782m",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nny5khouuk0\" data-reactroot=\"\">Albert, S. T., Jang, J., Modchalingam, S., \u2019t Hart, M., Henriques, D., Lerner, G., Della-Maggiore, V., Haith, A. M., Krakauer, J. W., &amp; Shadmehr, R. (2022). Competition between parallel sensorimotor learning systems. <em>eLife</em>, <em>11, </em>e65361. <a href=\"https://doi.org/10.7554/eLife.65361\">https://doi.org/10.7554/eLife.65361</a> </p>",
+              "customLabel": "Albert et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), or interact in complementary ways ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nv8jwr46dyf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7fx2f75jug\" data-reactroot=\"\">Miyamoto, Y. R., Wang, S., &amp; Smith, M. A. (2020). Implicit adaptation compensates for erratic explicit strategy in human motor learning. <em>Nature Neuroscience</em>, <em>23</em>(3), 443\u2013455. <a href=\"https://doi.org/10.1038/s41593-020-0600-3\">https://doi.org/10.1038/s41593-020-0600-3</a> </p>",
+              "customLabel": "Miyamoto et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These processes are now being examined with increasing granularity, revealing that each comprises multiple subprocesses that differ in their degree of conscious awareness, the speed with which they respond to feedback, the computational resources they require, and the neural substrates they engage. Understanding these interactions is crucial for explaining how the brain flexibly combines distinct learning mechanisms to support adaptive, efficient motor behavior."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njuchbzr2po",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Motor learning is undergoing a cognitive revolution, highlighting the often-overlooked influence of higher-order decision-making, attentional, memory, and motivational processes that shape how we learn to move ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxkwsjgzrn0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvc8xuszm49\" data-reactroot=\"\">Song, J. H. (2019). The role of attention in motor control and learning. <em>Current Opinion in Psychology</em>, <em>29</em>, 261\u2013265. <a href=\"https://doi.org/10.1016/j.copsyc.2019.08.002\">https://doi.org/10.1016/j.copsyc.2019.08.002</a> </p>",
+              "customLabel": "Song, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "neb2sj9m38t",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8unw5h1u6x\" data-reactroot=\"\">Vassiliadis, P., Derosiere, G., Dubuc, C., Lete, A., Crevecoeur, F., Hummel, F. C., &amp; Duque, J. (2021). Reward boosts reinforcement-based motor learning. <em>iScience</em>, <em>24</em>(7), 102821. <a href=\"https://doi.org/10.1016/j.isci.2021.102821\">https://doi.org/10.1016/j.isci.2021.102821</a> </p>",
+              "customLabel": "Vassiliadis et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Recent work has moved beyond examining how people execute movements to explore how they decide when to move, stop, or change course ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nstf5oqtiin",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ns0j6ewox6v\" data-reactroot=\"\">Wadsley, C. G., &amp; Greenhouse, I. (2024). Failures to launch preclude response inhibition. <em>Trends in Cognitive Sciences</em>, <em>28</em>(5), 400\u2013403. <a href=\"https://doi.org/10.1016/j.tics.2024.03.001\">https://doi.org/10.1016/j.tics.2024.03.001</a> </p>",
+              "customLabel": "Wadsley & Greenhouse, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). As researchers increasingly recognize the limitations of the traditional control theoretic framework, which fails to accurately capture the richness and diversity of individual motor learning strategies, the field is borrowing computational approaches grounded in cognitive science that enable a deeper understanding of how people plan, select, and optimize complex, ecological movements ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4cknfb2pid",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nh6js3fc8ab\" data-reactroot=\"\">Tsay, J. S., Kim, H. E., McDougle, S. D., Taylor, J. A., Haith, A., Avraham, G., Krakauer, J. W., Collins, A. G. E., &amp; Ivry, R. B. (2024). Fundamental processes in sensorimotor learning: Reasoning, refinement, and retrieval. <em>eLife</em>, <em>13</em>, e91839. <a href=\"https://doi.org/10.7554/eLife.91839\">https://doi.org/10.7554/eLife.91839</a> </p>",
+              "customLabel": "Tsay et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "noeuohy8jec",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Motor learning does not occur in a vacuum\u2014context matters ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0ejfr7m2sp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz7azqsychp\" data-reactroot=\"\">Heald, J. B., Lengyel, M., &amp; Wolpert, D. M. (2023). Contextual inference in learning and memory. <em>Trends in Cognitive Sciences</em>, <em>27</em>(1), 43\u201364. <a href=\"https://doi.org/10.1016/j.tics.2022.10.004\">https://doi.org/10.1016/j.tics.2022.10.004</a> </p>",
+              "customLabel": "Heald et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Growing evidence shows that factors such as the spatial arrangement of movement targets, the timing and structure of feedback during practice, and the overall demands of the learning environment all shape how we acquire and refine motor skills ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd8a98n4iw7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvu2qgdbf3c\" data-reactroot=\"\">Ogasa, K., Yokoi, A., Okazawa, G., Nishigaki, M., Hirashima, M., &amp; Hagura, N. (2024). Decision uncertainty as a context for motor memory. <em>Nature Human Behaviour</em>, <em>8</em>(9), 1738\u20131751. <a href=\"https://doi.org/10.1038/s41562-024-01911-x\">https://doi.org/10.1038/s41562-024-01911-x</a> </p>",
+              "customLabel": "Ogasa et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Understanding how context modulates these processes is crucial for predicting when learning will generalize to new situations or, conversely, when conflicting contextual cues will lead to interference. These insights have direct implications for optimizing training and rehabilitation, in which tailoring the learning context to the individual can determine whether recovery is accelerated or hindered."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6gw2ad12n4",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Motor learning can be harnessed to develop more effective rehabilitation strategies. When one learning system is compromised, therapy can leverage intact learning systems to promote recovery ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncx2bkijar6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwgpvy3udu1\" data-reactroot=\"\">Roemmich, R. T., &amp; Bastian, A. J. (2018). Closing the loop: From motor neuroscience to neurorehabilitation. <em>Annual Review of Neuroscience</em>, <em>41</em>, 415\u2013429. <a href=\"https://doi.org/10.1146/annurev-neuro-080317-062245\">https://doi.org/10.1146/annurev-neuro-080317-062245</a> </p>",
+              "customLabel": "Roemmich & Bastian, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These mechanisms can also augment human performance\u2014from lifting heavier loads to refining finger dexterity for musical skill ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntt8tvhxlb4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj423ipmywh\" data-reactroot=\"\">Kieliba, P., Clode, D., Maimon-Mor, R. O., &amp; Makin, T. R. (2021). Robotic hand augmentation drives changes in neural body representation. <em>Science Robotics</em>, <em>6</em>(54), eabd7935. <a href=\"https://doi.org/10.1126/scirobotics.abd7935\">https://doi.org/10.1126/scirobotics.abd7935</a> </p>",
+              "customLabel": "Kieliba et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")\u2014and reveal principles that generalize beyond the motor domain, informing cognitive science, robotic learning, and the design of prosthetic control in amputees ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no8g66659is",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny9hifi4eq5\" data-reactroot=\"\">Schone, H. R., Udeozor, M., Moninghoff, M., Rispoli, B., Vandersea, J., Lock, B., Hargrove, L., Makin, T. R., &amp; Baker, C. I. (2024). Biomimetic versus arbitrary motor control strategies for bionic hand skill learning. <em>Nature Human Behaviour</em>, <em>8</em>(6), 1108\u20131123. <a href=\"https://doi.org/10.1038/s41562-023-01811-6\">https://doi.org/10.1038/s41562-023-01811-6</a> </p>",
+              "customLabel": "Schone et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkp9gu6iu54",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Motor learning plays a central role in the design of brain\u2013computer interfaces, guiding training protocols that enable users to interact more effectively with technology and the world around them ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngtqyro53td",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4ltgu1vad3\" data-reactroot=\"\">Collinger, J. L., Wodlinger, B., Downey, J. E., Wang, W., Tyler-Kabara, E. C., Weber, D. J., McMorland, A. J. C., Velliste, M., Boninger, M. L., &amp; Schwartz, A. B. (2013). High-performance neuroprosthetic control by an individual with tetraplegia. <em>Lancet</em>, <em>381</em>(9866), 557\u2013564. <a href=\"https://doi.org/10.1016/S0140-6736(12)61816-9\">https://doi.org/10.1016/S0140-6736(12)61816-9</a> </p>",
+              "customLabel": "Collinger et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0cfflx6j6g",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nc4lpymagpb\" data-reactroot=\"\">Orsborn, A. L., Moorman, H. G., Overduin, S. A., Shanechi, M. M., Dimitrov, D. F., &amp; Carmena, J. M. (2014). Closed-loop decoder adaptation shapes neural plasticity for skillful neuroprosthetic control. <em>Neuron</em>, <em>82</em>(6), 1380\u20131393. <a href=\"https://doi.org/10.1016/j.neuron.2014.04.048\">https://doi.org/10.1016/j.neuron.2014.04.048</a> </p>",
+              "customLabel": "Orsborn et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Brain\u2013computer interfaces also offer longitudinal access to neural dynamics during human\u2013computer interaction, making them a powerful tool for uncovering the neural mechanisms of motor learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5c8aaooqd6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0wilwvxm5k\" data-reactroot=\"\">Sadtler, P. T., Quick, K. M., Golub, M. D., Chase, S. M., Ryu, S. I., Tyler-Kabara, E. C., Yu, B. M., &amp; Batista, A. P. (2014). Neural constraints on learning. <em>Nature</em>, <em>512</em>(7515), 423\u2013426. <a href=\"https://doi.org/10.1038/nature13665\">https://doi.org/10.1038/nature13665</a> </p>",
+              "customLabel": "Sadtler et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). More broadly, advances in motor control and learning can inform the design of neurotechnologies that leverage these principles to restore and enhance movement (see, e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no6y7tfflqt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1pm92iy57w\" data-reactroot=\"\">de Freitas, R. M., Bhatia, S., Sorensen, E., Verma, N., Carranza, E., Ensel, S., Borda, L., Boos, A., Goldsmith, J., Fisher, L. E., Fields, D. P., Powell, M. P., Gordon, S., Balzer, J., Friedlander, R. M., Wittenberg, G. F., Gerszten, P., Krakauer, J. W., Pirondini, E., \u2026 Capogrosso, M. (2025). Spinal cord stimulation improves motor function and spasticity in chronic post-stroke upper limb hemiparesis. <em>medRxiv</em>. <a href=\"https://doi.org/10.1101/2025.08.01.25332445\">https://doi.org/10.1101/2025.08.01.25332445</a> </p>",
+              "customLabel": "de Freitas et al., 2025",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5pq322svh3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1k8zydx20t\" data-reactroot=\"\">Pimenta Silva, D., Bou\u00e7a-Machado, R., Pona-Ferreira, F., Lobo, T., Cacho, R., Anker, R., Krakauer, J. W., &amp; Ferreira, J. J. (2025). Combining immersive exergaming with physiotherapy in a specialized intensive Parkinson\u2019s disease rehabilitation program: A randomized controlled trial. <em>Journal of Neuroengineering and Rehabilitation</em>, <em>22</em>(1), 131. <a href=\"https://doi.org/10.1186/s12984-025-01640-w\">https://doi.org/10.1186/s12984-025-01640-w</a> </p>",
+              "customLabel": "Pimenta Silva et al., 2025",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5tlz9k0ir6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"non7orbtija\" data-reactroot=\"\">Spix, T. A., Nanivadekar, S., Toong, N., Kaplow, I. M., Isett, B. R., Goksen, Y., Pfenning, A. R., &amp; Gittis, A. H. (2021). Population-specific neuromodulation prolongs therapeutic benefits of deep brain stimulation. <em>Science</em>, <em>374</em>(6564), 201\u2013206. <a href=\"https://doi.org/10.1126/science.abi7852\">https://doi.org/10.1126/science.abi7852</a> </p>",
+              "customLabel": "Spix et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9mmra7z048",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Digital games, virtual reality, and crowdsourced platforms enable large-scale investigation of naturalistic motor behavior ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nl24mpwqncb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7sktf2nbp1\" data-reactroot=\"\">Russell, H. E. B., Harbott, L. K., Nisky, I., Pan, S., Okamura, A. M., &amp; Gerdes, J. C. (2016). Motor learning affects car-to-driver handover in automated vehicles. <em>Science Robotics</em>, <em>1</em>(1), eaah5682. <a href=\"https://doi.org/10.1126/scirobotics.aah5682\">https://doi.org/10.1126/scirobotics.aah5682</a> </p>",
+              "customLabel": "Russell et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntntdq8abwn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqnngotp3ff\" data-reactroot=\"\">Tsay, J. S., Asmerian, H., Germine, L. T., Wilmer, J., Ivry, R. B., &amp; Nakayama, K. (2024). Large-scale citizen science reveals predictors of sensorimotor adaptation. <em>Nature Human Behaviour</em>, <em>8</em>, 510-525. <a href=\"https://doi.org/10.1038/s41562-023-01798-0\">https://doi.org/10.1038/s41562-023-01798-0</a> </p>",
+              "customLabel": "Tsay et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/2vci5sg1",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Virtual Reality"
+          },
+          {
+            "type": "text",
+            "text": "]. This shift allows researchers to track skill development not just over minutes or hours but across months or even years ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nno07t7fyd6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz6zn0j3rka\" data-reactroot=\"\">Listman, J. B., Tsay, J. S., Kim, H. E., Mackey, W. E., &amp; Heeger, D. J. (2021). Long-term motor learning in the \u201cwild\u201d with high volume video game data. <em>Frontiers in Human Neuroscience</em>, <em>15</em>, 777779. <a href=\"https://doi.org/10.3389/fnhum.2021.777779\">https://doi.org/10.3389/fnhum.2021.777779</a> </p>",
+              "customLabel": "Listman et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Recent technological advances also make it possible to capture motor behavior with high precision at scale, offering a richer and more ecological view of how skills are acquired, adapted, and retained in the real world ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnv2t15n3ha",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"neykzd8gj4k\" data-reactroot=\"\">Fooken, J., Baltaretu, B. R., Barany, D. A., Diaz, G., Semrau, J. A., Singh, T., &amp; Crawford, J. D. (2023). Perceptual-cognitive integration for goal-directed action in naturalistic environments. <em>Journal of Neuroscience</em>, <em>43</em>(45), 7511\u20137522. <a href=\"https://doi.org/10.1523/JNEUROSCI.1373-23.2023\">https://doi.org/10.1523/JNEUROSCI.1373-23.2023</a> </p>",
+              "customLabel": "Fooken et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Indeed, we are moving toward a future in which insights from motor learning drive training programs for everyday skills that are not only effective and accessible but also precisely tailored to the individual."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfdncpkvqp1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Note: If you want to experience motor learning tasks firsthand, you can see a number of demonstrations here: "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.tsaylab.com/play",
+                  "title": null,
+                  "target": "_blank",
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "https://www.tsaylab.com/play"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Further reading\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nc29zfgzsei",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "naiwhrlmzv9",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bastian, A. J. (2006). Learning to predict the future: the cerebellum adapts feedforward movement control. Current Opinion in Neurobiology, 16(6), 645\u2013649. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/j.conb.2006.08.016",
+                          "title": "Persistent link using digital object identifier",
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/j.conb.2006.08.016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nb1kxj93d0a",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Krakauer, J., Hadjiosif, A. M., Xu, J., Wong, A. L., & Haith, A. M. (2019). Motor learning. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Comprehensive Physiology"
+                  },
+                  {
+                    "type": "text",
+                    "text": ","
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": " 9"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(2), 613-663. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1002/cphy.c170043",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1002/cphy.c170043"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nvw62sgzt1o",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Shadmehr, R., & Krakauer, J. W. (2008). A computational neuroanatomy for motor control. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Experimental Brain Research"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "185"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(3), 359-381. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1007/s00221-008-1280-5",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1007/s00221-008-1280-5"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n8dkpsdzjoz",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Tsay, J. S., Kim, H. E., McDougle, S. D., Taylor, J. A., Haith, A., Avraham, G., Krakauer, J. W., Collins, A. G. E., & Ivry, R. B. (2024). Fundamental processes in sensorimotor learning: Reasoning, refinement, and retrieval. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "eLife"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "13"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", e91839. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.7554/eLife.91839",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.7554/eLife.91839"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

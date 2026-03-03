@@ -1,0 +1,3897 @@
+{
+  "id": "b4a2349c-24b3-4065-afa2-cfd10ca18c0e",
+  "slug": "xohbfbix",
+  "title": "Language Acquisition",
+  "url": "https://oecs.mit.edu/pub/xohbfbix",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "b4a2349c-24b3-4065-afa2-cfd10ca18c0e",
+    "slug": "xohbfbix",
+    "title": "Language Acquisition",
+    "htmlTitle": "Language Acquisition",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.b4a2349c",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "gldlstxe",
+    "editHash": "ndk9x4zx",
+    "reviewHash": "pm9lq3uf",
+    "commentHash": "jh4odlyz",
+    "draftId": "e765b61c-3b89-484a-bde2-c2900b6ef9d5",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "bfeb96f4-dcb8-48e5-a5b5-f3b608739ee6",
+    "scopeSummaryId": "c5356b14-bc49-42b5-af3c-ed5c583aa318",
+    "createdAt": "2024-04-17T19:38:19.609Z",
+    "updatedAt": "2024-07-24T13:00:34.668Z",
+    "attributions": [
+      {
+        "id": "3bcf630d-e05b-4b8e-ba17-f41c748d3c56",
+        "name": "Ben Ambridge",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Division of Psychology, Communication and Human Neuroscience, University of Manchester and the ESRC International Centre for Language and Communicative Development (LuCiD)",
+        "orcid": "0000-0003-2389-8477",
+        "userId": null,
+        "pubId": "b4a2349c-24b3-4065-afa2-cfd10ca18c0e",
+        "createdAt": "2024-04-23T14:52:15.600Z",
+        "updatedAt": "2024-07-15T09:09:32.047Z",
+        "user": null
+      },
+      {
+        "id": "3c2f15d1-670f-49ea-86f0-8552bc612223",
+        "name": "Evan Kidd",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "The Australian National University",
+        "orcid": "0000-0003-4301-2290",
+        "userId": null,
+        "pubId": "b4a2349c-24b3-4065-afa2-cfd10ca18c0e",
+        "createdAt": "2024-07-23T21:36:09.808Z",
+        "updatedAt": "2024-07-23T21:36:25.232Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "e765b61c-3b89-484a-bde2-c2900b6ef9d5",
+      "latestKeyAt": "2024-07-23T21:36:52.355Z",
+      "firebasePath": "drafts/draft-e765b61c-3b89-484a-bde2-c2900b6ef9d5",
+      "createdAt": "2024-04-17T19:38:19.605Z",
+      "updatedAt": "2025-10-06T16:09:10.462Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkr34bg311c",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Child language acquisition is the process by which infants and children come to speak the language of the community around them. Children must acquire a great deal of linguistic knowledge, including the set of speech sounds in the language they are learning, the ways in which their language combines them (phonetics and phonology), the individual words of their language, the ways these words are used in context, and more. In particular, language acquisition must also include the acquisition of core morphology and syntax (i.e., how languages mark who did what to whom). In very broad terms, there are two answers to the question of how children acquire language, each taking a different view of language. Under "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "generativist"
+          },
+          {
+            "type": "text",
+            "text": " accounts, language is a set of formal rules for putting words together; under "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "constructivist"
+          },
+          {
+            "type": "text",
+            "text": " accounts, children do not start out with formal rules but begin by storing phrases that they hear around them. "
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "prehistory",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Prehistory"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfxtq0e3tga",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Until the mid 1950s, child language acquisition research consisted mainly of diaries and informal observations of children\u2019s speech. The earliest known example is Dietrich Tiedemann\u2019s 1787 diary of the linguistic development of his (German-speaking) son (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx61x2hppro",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng9zd0v7016\" data-reactroot=\"\">Levelt, W. J. (2013). <em>A history of psycholinguistics: The pre-Chomskyan era</em>. Oxford University Press.</p>",
+              "customLabel": "Levelt, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Other diaries soon followed, including those by Hippolyte Taine (1876, French), Charles Darwin (1877, English), William Preyer (1882, German), and Clara and William Stern (1907, German)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbkc29weo78",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Although the Sterns also conducted some of the earliest experimental studies of child language acquisition ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nty8xmd3tsx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng9zd0v7016\" data-reactroot=\"\">Levelt, W. J. (2013). <em>A history of psycholinguistics: The pre-Chomskyan era</em>. Oxford University Press.</p>",
+              "customLabel": "Levelt, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), perhaps the first that remains influential and highly cited to this day is Jean Berko-Gleason\u2019s study of English morphology ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9pj9f4gqrh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv1wf1flggq\" data-reactroot=\"\">Berko, J. (1958). The child\u2019s learning of English morphology. <em>Word,</em> <em>14</em>(2-3), 150\u2013177. <a href=\"https://doi.org/10.1080/00437956.1958.11659661\" title=\"\" target=\"_blank\">https://doi.org/10.1080/00437956.1958.11659661</a></p>",
+              "customLabel": "Berko, 1958",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Morphology is the process by which words change (or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "morph"
+          },
+          {
+            "type": "text",
+            "text": ") to mark things like singular versus plural (\u201cone cat,\u201d \u201ctwo cats\u201d) or who is doing the action (e.g., \u201cI read,\u201d \u201che reads\u201d) [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/k0l9s1hf",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Morphology"
+          },
+          {
+            "type": "text",
+            "text": "]. In the most famous part of the study, Berko showed children a picture of a novel, made-up creature and said, \u201cThis is a wug\u201d (a novel, made-up word). She then showed children a picture with two of these creatures and said, \u201cNow there is another one. There are two of them. There are two\u2026\u201d, inviting children to fill in the blank. The headline finding is that children correctly said \u201cwugs.\u201d Indeed, this was true for 97% of children aged five years and over. What is less commonly reported is that, for under-fives, this figure was only 76%. Furthermore, for more complex plurals (e.g., \u201ctasses\u201d or \u201cgutches\u201d), only around 30%\u201340% of children gave the correct answer regardless of age group. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "np955dr6x5t",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The findings of "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0zzzvj9af8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv1wf1flggq\" data-reactroot=\"\">Berko, J. (1958). The child\u2019s learning of English morphology. <em>Word,</em> <em>14</em>(2-3), 150\u2013177. <a href=\"https://doi.org/10.1080/00437956.1958.11659661\" title=\"\" target=\"_blank\">https://doi.org/10.1080/00437956.1958.11659661</a></p>",
+              "customLabel": "Berko (1958)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " prefigure later debates between generativist and constructivist approaches to children\u2019s acquisition of morphology. The key distinction between these views can be illustrated with a simple example. Under a generativist account, one rule of English says that a determiner (e.g., \u201ca,\u201d"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "\u201cthe\u201d) always goes before the relevant noun (e.g., \u201ccat,\u201d \u201cdog\u201d); we say \u201cthe cat and the dog,\u201d not \u201c"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "*"
+          },
+          {
+            "type": "text",
+            "text": "dog the\u201d (\u201c*\u201d means that the combination is ungrammatical). Generativist accounts assume that children figure out these rules very early, in some cases before they speak themselves, perhaps with the help of innate knowledge (e.g., knowledge from birth that, generally speaking, determiners are either always before or always after nouns rather than varying randomly). \u00a0In contrast, under most constructivist accounts, the adult endpoint is not a set of rules at all, but groups of exemplars (e.g., \u201ca dog,\u201d \u201ca cat\u201d ). Children produce\u00a0new sentences by analogizing across stored exemplars (e.g., \u201cIt\u2019s\u00a0"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "a cat"
+          },
+          {
+            "type": "text",
+            "text": "\u00a0and\u00a0"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "a dog"
+          },
+          {
+            "type": "text",
+            "text": ", so it must be\u00a0"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "a dinosaur"
+          },
+          {
+            "type": "text",
+            "text": ", not\u00a0"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "*dinosaur a"
+          },
+          {
+            "type": "text",
+            "text": "\u201d) and building low-level\u00a0generalizations known as\u00a0"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "constructions"
+          },
+          {
+            "type": "text",
+            "text": "\u00a0(e.g.,\u00a0"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "a\u00a0[THING"
+          },
+          {
+            "type": "text",
+            "text": "]; the"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "\u00a0[THING"
+          },
+          {
+            "type": "text",
+            "text": "])."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n66xzqcz5a1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Returning to the findings of "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni6lkjcbbec",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv1wf1flggq\" data-reactroot=\"\">Berko, J. (1958). The child\u2019s learning of English morphology. <em>Word,</em> <em>14</em>(2-3), 150\u2013177. <a href=\"https://doi.org/10.1080/00437956.1958.11659661\" title=\"\" target=\"_blank\">https://doi.org/10.1080/00437956.1958.11659661</a></p>",
+              "customLabel": "Berko (1958)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", generativist researchers point to children\u2019s high level of success with some items as evidence that they have learned the general rule (e.g., plural = NOUN + \u201cs\u201d). Constructivist researchers point to between-item differences as evidence for analogy; i.e., that children are more easily able to find a soundalike analogy for \u201cwug\u201d > \u201cwugs\u201d (e.g., \u201cbug\u201d > \u201cbugs,\u201d \u201chug\u201d > \u201chugs,\u201d \u201cmug\u201d > \u201cmugs\u201d) than \u201cgutch\u201d > \u201cgutches\u201d (e.g., perhaps only the relatively rare \u201ccrutch\u201d > \u201ccrutches\u201d)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "the-development-of-modern-theoretical-perspectives-1960-1990",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The development of modern theoretical perspectives (1960 \u2013 1990)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "np3dkr77jm2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The 1960s saw the development of the precursors of modern generativist and constructivist accounts. Given his development of the general theoretical frameworks that underpin acquisition research in the generativist framework, Noam Chomsky is considered an important figure in child language acquisition research (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npe8lchg257",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnp9qm0ymwj\" data-reactroot=\"\">Chomsky, N. (1965). <em>Aspects of the theory of syntax</em>. MIT Press.</p>",
+              "customLabel": "Chomsky, 1965",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Much research in the constructivist framework takes the position that Chomsky\u2019s theoretical frameworks have led the field of language acquisition in the wrong direction (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbje5nb4qx8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1noja6pz7t\" data-reactroot=\"\">Tomasello, M. (2003). <em>Constructing a language</em>. Harvard University Press.</p>",
+              "customLabel": "Tomasello, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Either way, it is important to be clear that Chomksy\u2019s contributions to language acquisition\u2014like B.F Skinner\u2019s\u2014are purely theoretical; neither conducted a study of children or the language input they hear."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nr3cl32vcyl",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The 1960s also saw the publication of an influential paper on "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "pivot schemas"
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni0l8wckrvx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n33aahztpgy\" data-reactroot=\"\">Braine, M. D. (1963). The ontogeny of English phrase structure: The first phase. <em>Language,</em> <em>39</em>(1), 1\u201313. <a href=\"https://doi.org/10.2307/410757\" title=\"\" target=\"_blank\">https://doi.org/10.2307/410757</a></p>",
+              "customLabel": "Braine (1963)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " reported the findings of one of the earliest naturalistic corpus studies, in which investigators (typically the child\u2019s parents) try to capture everything the child says in a given period (in those days, generally by keeping handwritten notebooks). Braine reported that at the earliest stages of acquisition, children\u2019s knowledge of language seems to consist of a toolkit of schemas that each combine a fixed word (the pivot) and a kind of slot into which suitable words can be inserted (e.g., \u201cmy [THING]\u201d; e.g., \u201cmy Mommy,\u201d \u201cmy Daddy,\u201d \u201cmy milk\u201d) [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/dubzy1cd",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Word Learning"
+          },
+          {
+            "type": "text",
+            "text": "]. It was soon recognized that pivot schemas per se are far too coarse and simplistic to capture even early language development, but the analysis is important historically as perhaps the first to formalize a constructivist input-based approach to language acquisition as opposed to a generativist approach based on formal rules."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3hkw1zr7oj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The 1970s saw the publication of another landmark corpus study ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nc0ulb2xzko",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npm0mzm01bk\" data-reactroot=\"\">Brown, R. (1973). <em>A first language: The early stages</em>. Harvard University Press. <a href=\"https://doi.org/10.4159/harvard.9780674732469\" title=\"\" target=\"_blank\">https://doi.org/10.4159/harvard.9780674732469</a></p>",
+              "customLabel": "Brown, 1973",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Although the (Biblically codenamed) children Adam, Eve, and Sarah were recorded in the early 1960s, the corpus was later computerized and made publicly available and is still used in research today (as part of the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://childes.talkbank.org",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "CHILDES corpus"
+          },
+          {
+            "type": "text",
+            "text": "). Much of Brown\u2019s focus was on inflectional morphology. A morphological rule (e.g., adding \u201c-s\u201d to a verb referring to \u201che/she/it\u201d: \u201cshe likes cake,\u201d \u201cJohn likes cake,\u201d \u201cit goes there\u201d) was deemed to have been mastered when a child applied it correctly on 90% of occasions (as opposed to, for example, incorrectly saying \u201c"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "*"
+          },
+          {
+            "type": "text",
+            "text": "John like cake\u201d\u2014a common error by English-speaking children). This analysis prefigured later theoretical debates around exactly why children make these kinds of errors. On a generativist analysis, errors such as \u201c"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "*"
+          },
+          {
+            "type": "text",
+            "text": "He like cake\u201d reflect either a stage in which children treat certain rules as optional (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh75aqcfzk8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv86pbb8rnd\" data-reactroot=\"\">Wexler, K. (1998). Very early parameter setting and the unique checking constraint: A new explanation of the optional infinitive stage. <em>Lingua,</em> <em>106</em>(1-4), 23\u201379. <a href=\"https://doi.org/10.1016/S0024-3841(98)00029-1\" title=\"\" target=\"_blank\">https://doi.org/10.1016/S0024-3841(98)00029-1</a></p>",
+              "customLabel": "Wexler, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), or in which they are trying out different rules before settling on those that apply to their particular language (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8wln9z25w1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkdwane8qz4\" data-reactroot=\"\">Legate, J. A., &amp; Yang, C. (2007). Morphosyntactic learning and the develoment of tense. <em>Language Acquisition,</em> <em>14</em>(3), 315\u2013344. <a href=\"https://doi.org/10.1080/10489220701471081\" title=\"\" target=\"_blank\">https://doi.org/10.1080/10489220701471081</a></p>",
+              "customLabel": "Legate & Yang, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). On a constructivist analysis (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3t9lyiylk5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n56v4tnoa9q\" data-reactroot=\"\">Freudenthal, D., Gobet, F., &amp; Pine, J. M. (2023). MOSAIC+: A crosslinguistic model of verb\u2010marking errors in typically developing children and children with developmental language disorder. <em>Language Learning</em>. <a href=\"https://doi.org/10.1111/lang.12580\">https://doi.org/10.1111/lang.12580</a></p>",
+              "customLabel": "Freudenthal, Gobet, & Pine, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), these errors do reflect not children\u2019s failure to apply a VERB + \u201cs\u201d rule, but the truncation (shortening) of rote-learned phrases from the input (e.g., \u201c["
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strike"
+              }
+            ],
+            "text": "Does]"
+          },
+          {
+            "type": "text",
+            "text": " he like cake?\u201d) or the fact that forms without the \u201c-s\u201d ending dominate in the language that children hear (e.g., \u201cI like,\u201d \u201cyou like,\u201d \u201cthey like\u201d\u2026)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "np45vztvfeo",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Although the 1970s saw occasional studies of the acquisition of languages other than English (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk6ggtkyjwn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfnoy6njycl\" data-reactroot=\"\">Bowerman, M. (1973). <em>Early syntactic development: A cross-linguistic study with special reference to Finnish.</em> Cambridge University Press.</p>",
+              "customLabel": "Bowerman, 1973",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", Finnish; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4znzlzj9y0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ni42z0rvjv4\" data-reactroot=\"\">MacWhinney, B. (1976). Hungarian research on the acquisition of morphology and syntax. <em>Journal of Child Language,</em> <em>3</em>(3), 397\u2013410. <a href=\"https://doi.org/10.1017/S0305000900007261\" title=\"\" target=\"_blank\">https://doi.org/10.1017/S0305000900007261</a></p>",
+              "customLabel": "MacWhinney, 1976",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", Hungarian), it was only in the 1980s that researchers began to systematically compare acquisition across multiple languages. Beginning with "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlq7rmsy34s",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzrtsc6qwll\" data-reactroot=\"\">Slobin, D. I., &amp; Bever, T. G. (1982). Children use canonical sentence schemas: A crosslinguistic study of word order and inflections. <em>Cognition,</em> <em>12</em>(3), 229\u2013265. <a href=\"https://doi.org/10.1016/0010-0277(82)90033-6\" title=\"\" target=\"_blank\">https://doi.org/10.1016/0010-0277(82)90033-6</a></p>",
+              "customLabel": "Slobin and Bever (1982)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", a series of studies investigated how children learning different languages come to understand \u201cwho did what to whom\u201d in the sentences they hear. English relies strictly on word order: \u201cThe dog chased the cat\u201d can mean only that the dog is the chaser and the cat, the one chased. But in languages such as Italian and Serbian/Croatian (among those studied by Slobin and Bever), morphological "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "case"
+          },
+          {
+            "type": "text",
+            "text": " markers on nouns mark (for examples like this one) the SUBJECT (chaser) and OBJECT (the one chased), allowing the word order to vary. For example, \u201cThe dog + OBJECT chased the + cat + SUBJECT\u201d means \u201cThe cat chased the dog\u201d (or something like \u201cAs for the dog, the cast chased it\u201d). At least, this is true for adults. For many languages, children misinterpret such sentences by assuming that they follow the more frequent word order of their language (e.g., SUBJECT VERB OBJECT for Serbian/Croatian), effectively ignoring the morphological case markers. The constructivist-oriented "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "competition model"
+          },
+          {
+            "type": "text",
+            "text": " (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlq0h0gr0qc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl5b7hyhprg\" data-reactroot=\"\">Bates, E., &amp; MacWhinney, B. (1989). Functionalism and the competition model. In B. MacWhinney &amp; E. Bates (Eds.),<em> The crosslinguistic study of sentence processing</em> (pp. 3\u201376). Cambridge University Press.</p>",
+              "customLabel": "Bates & MacWhinney, 1989",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") argues that this pattern arises because the word-order cue is present in just about all of the relevant sentences children hear, while case marking is present and informative relatively rarely."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3hxupl87cx",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Many generativist accounts of the 1980s also focused on word-order acquisition. For example, the edited book "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Parameter Setting"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnrow6emrw3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nn67wkt60vb\" data-reactroot=\"\">Roeper, T., &amp; Williams, E. (Eds.). (1987). <em>Parameter setting</em>. Springer. <a href=\"https://doi.org/10.1007/978-94-009-3727-7\" title=\"\" target=\"_blank\">https://doi.org/10.1007/978-94-009-3727-7</a></p>",
+              "customLabel": "Roeper & Williams, 1987",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") set out several theoretical accounts under which children learn word order by using the language they hear to set innate "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "switches"
+          },
+          {
+            "type": "text",
+            "text": " or parameters to the relevant setting for their language (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ns8bob7uses",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb5dpar34ff\" data-reactroot=\"\">Snyder, W. (2021). A parametric approach to the acquisition of syntax. <em>Journal of Child Language,</em> <em>48</em>(5), 862\u2013887. <a href=\"https://doi.org/10.1017/S0305000921000465\" title=\"\" target=\"_blank\">https://doi.org/10.1017/S0305000921000465</a></p>",
+              "customLabel": "Snyder, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Serbian/Croatian (like English) generally follows SVO word order (e.g., \u201cthe girl kicked the ball\u201d), but between them, the world\u2019s languages allow all logically possible word orders (from most to least common, SOV, SVO, VSO, VOS, OVS, and OSV). Under parameter-setting accounts, then, children set (broadly speaking) one switch that determines whether the VERB comes before or after the OBJECT, and another that determines whether the SUBJECT comes before or after the VERB. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfttj2danrc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbpg7ezrm7b\" data-reactroot=\"\">Pinker, S. (1984). <em>Language learnability and language development.</em> Harvard University Press.</p>",
+              "customLabel": "Pinker (1984)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " set out an alternative generativist account under which children use innate mappings between semantic and syntax ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "linking rules"
+          },
+          {
+            "type": "text",
+            "text": ") to learn word order. For example, children are born knowing the following across languages:"
+          }
+        ]
+      },
+      {
+        "type": "ordered_list",
+        "attrs": {
+          "id": "nz5fqsat9gb",
+          "order": 1,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n7pscqzgcjp",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The AGENT (the one doing the action) tends to be the SUBJECT (e.g., \u201cthe girl\u201d)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nfgnontfskd",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The PATIENT (the person/thing that has the action done to it) tends to be the OBJECT (e.g., \u201cthe ball\u201d)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nkhlbpslbuq",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The ACTION (e.g., \u201ckicked\u201d) tends to be the verb."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nta3x792if7",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This means that a child who heard (and understood) \u201cthe girl kicked the ball\u201d could read off the word order of her language (here, SVO)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "further-methodological-and-theoretical-debate-1990-present",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Further methodological and theoretical debate (1990 \u2013 present)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "newqaljssbs",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Technological developments in the 1990s allowed recordings of adult\u2013child conversations to be computerized and, crucially, automatically searched for whatever linguistic structures were being investigated (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nal9ka4wgsj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nutvaq23ewx\" data-reactroot=\"\">MacWhinney, B., &amp; Snow, C. (1990). The child language data exchange system: An update. <em>Journal of Child Language,</em> <em>17</em>(2), 457\u2013472. <a href=\"https://doi.org/10.1017/S0305000900013866\" title=\"\" target=\"_blank\">https://doi.org/10.1017/S0305000900013866</a></p>",
+              "customLabel": "MacWhinney & Snow, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), leading to a resurgence in naturalistic corpus-based studies. For example, focusing on children\u2019s acquisition of determiners (e.g., \u201cthe\u201d and \u201ca\u201d), generativist-oriented researchers argued that corpus data suggest that children have a \u201cthe\u201d/\u201ca\u201d + NOUN rule (e.g, \u201ca dog,\u201d \u201cthe cat,\u201d \u201ca dinosaur\u201d) from the earliest stages of development (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ns9yanwg2ze",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv5hmzx4g03\" data-reactroot=\"\">Valian, V. (1986). Syntactic categories in the speech of young children. Developmental Psychology 22, 562\u201379</p>",
+              "customLabel": "Valian, 1986",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqrlsvz9qsp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nniiihsuowu\" data-reactroot=\"\">Yang, C. (2013).\u00a0Who\u2019s afraid of George Kingsley Zipf?\u00a0<em>Significance: The Magazine of the Royal Statistical Society and the American Statistical Society</em>. Dec. 29-34.</p>",
+              "customLabel": "Yang, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), with constructivist researchers arguing that this position is not supported by the data (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n430t73eiry",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7si4897pb4\" data-reactroot=\"\">Pine, J. M., &amp; Martindale, H. (1996). Syntactic categories in the speech of young children: The case of the determiner. <em>Journal of Child Language,</em> <em>23</em>(2), 369\u2013395. <a href=\"https://doi.org/10.1017/S0305000900008849\" title=\"\" target=\"_blank\">https://doi.org/10.1017/S0305000900008849</a></p>",
+              "customLabel": "Pine & Martindale, 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnwuo1qrqt8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nezg2i33qrf\" data-reactroot=\"\">Pine, J. M., Freudenthal, D., Krajewski, G., &amp; Gobet, F. (2013). Do young children have adult-like syntactic categories? Zipf\u2019s law and the case of the determiner. <em>Cognition,</em> <em>127</em>(3), 345\u2013360. <a href=\"https://doi.org/10.1016/j.cognition.2013.02.006\" title=\"\" target=\"_blank\">https://doi.org/10.1016/j.cognition.2013.02.006</a></p>",
+              "customLabel": "Pine, Freudenthal, Krajewski & Gobet, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The debate continues into the modern era (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx8bnl9qu6s",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj9ndjvzhoe\" data-reactroot=\"\">Meylan, S. C., Frank, M. C., Roy, B. C., &amp; Levy, R. (2017). The emergence of an abstract grammatical category in children\u2019s early speech. <em>Psychological Science,</em> <em>28</em>(2), 181\u2013192. <a href=\"https://doi.org/10.1177/0956797616677753\" title=\"\" target=\"_blank\">https://doi.org/10.1177/0956797616677753</a></p>",
+              "customLabel": "Meylan, Frank, Roy, & Levy, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), though some accounts (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nosecok776n",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1wbok92mju\" data-reactroot=\"\">Ambridge, B. (2020a). Against stored abstractions: A radical exemplar model of language acquisition. <em>First Language,</em> <em>40</em>(5-6), 509\u2013559. <a href=\"https://doi.org/10.1177/0142723719869731\" title=\"\" target=\"_blank\">https://doi.org/10.1177/0142723719869731</a></p>",
+              "customLabel": "Ambridge 2020a",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n56tcq4kzd4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuf144bv3m7\" data-reactroot=\"\">Ambridge, B. (2020b). Abstractions made of exemplars or You\u2019re all right and I\u2019ve changed my mind. Response to commentators. <em>First Language,</em> <em>40</em>(5-6), 640\u2013659. <a href=\"https://doi.org/10.1177/0142723720949723\" title=\"\" target=\"_blank\">https://doi.org/10.1177/0142723720949723</a></p>",
+              "customLabel": "2020b",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") have argued that these kinds of data are consistent with both generativist-style early productivity and constructivist-style early rote-learned phrases (e.g., \u201cthe\u201d + \u201ccup,\u201d \u201cthe\u201d + \u201cball\u201d)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmbc6vfet9d",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The 1990s also saw a slew of experimental studies investigating children\u2019s acquisition of basic word order. In general terms, the generativist position (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nghdzajejkc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv86pbb8rnd\" data-reactroot=\"\">Wexler, K. (1998). Very early parameter setting and the unique checking constraint: A new explanation of the optional infinitive stage. <em>Lingua,</em> <em>106</em>(1-4), 23\u201379. <a href=\"https://doi.org/10.1016/S0024-3841(98)00029-1\" title=\"\" target=\"_blank\">https://doi.org/10.1016/S0024-3841(98)00029-1</a></p>",
+              "customLabel": "Wexler, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") is that children already have the relevant rules (e.g., for English, SVO) from the youngest age at which they can be tested. The constructivist position (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ne4sune86n1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6x5dw7lteg\" data-reactroot=\"\">Tomasello, M. (2000). Do young children have adult syntactic competence? <em>Cognition,</em> <em>74</em>(3), 209\u2013253. <a href=\"https://doi.org/10.1016/S0010-0277(99)00069-4\" title=\"\" target=\"_blank\">https://doi.org/10.1016/S0010-0277(99)00069-4</a></p>",
+              "customLabel": "Tomasello, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") is that children start out with rote-learned phrases (e.g., \u201cI\u201d + \u201cwant\u201d + \u201cit\u201d) and slot-and-frame patterns (e.g., \u201cI want [THING]\u201d) and do not acquire the equivalent of a fully general SVO \u201crule\u201d \u201cin most cases until around the third birthday\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxn492q0py7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6x5dw7lteg\" data-reactroot=\"\">Tomasello, M. (2000). Do young children have adult syntactic competence? <em>Cognition,</em> <em>74</em>(3), 209\u2013253. <a href=\"https://doi.org/10.1016/S0010-0277(99)00069-4\" title=\"\" target=\"_blank\">https://doi.org/10.1016/S0010-0277(99)00069-4</a></p>",
+              "customLabel": "Tomasello, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 215). In the 1990s, a series of studies used novel, made-up verbs created for the purposes of the experiment (e.g., \u201cmeeking\u201d or \u201ctaming\u201d) to test the generativist claim of general rules that apply to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "any"
+          },
+          {
+            "type": "text",
+            "text": " verb against the constructivist claim of (amongst other things) individual slot-and-frame patterns for particular verbs (e.g., \u201che\u2019s eating [THING]\u201d for the verb \u201ceat\u201d). A comprehensive summary of these studies can be found in "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9f6fdy2m72",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nurtdnz0cik\" data-reactroot=\"\">Ambridge, B., &amp; Lieven, E. V. M. (2015). A Constructivist account of child language acquisition. In B. MacWhinney &amp; W. O\u2019Grady (Eds.), <em>Handbook of language emergence</em> (pp. 478\u2013510). Wiley Blackwell. <a href=\"https://doi.org/10.1002/9781118346136.ch22\" title=\"\" target=\"_blank\">https://doi.org/10.1002/9781118346136.ch22</a></p>",
+              "customLabel": "Ambridge and Lieven (2015)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", but, in brief, the pattern is as follows. In production studies, which require children to actually produce new sentences with the novel verbs (e.g., \u201cBig Bird is meeking Cookie Monster\u201d), it is true that children do not generally succeed \u201cuntil around the third birthday,\u201d except when they have a suitable slot-and-frame pattern into which they can insert the novel verb (e.g., \u201che\u2019s [ACTION]ing it\u201d; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrv5p1igl23",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkz797h4wpr\" data-reactroot=\"\">Dodson, K., &amp; Tomasello, M. (1998). Acquiring the transitive construction in English: The role of animacy and pronouns. <em>Journal of Child Language,</em> <em>25</em>(3), 605\u2013622. <a href=\"https://doi.org/10.1017/S0305000998003535\" title=\"\" target=\"_blank\">https://doi.org/10.1017/S0305000998003535</a></p>",
+              "customLabel": "Dodson & Tomasello, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). A similar pattern is found in act-out studies in which children are given familiar toys and asked to act out, for example, \u201cBig Bird is meeking Cookie Monster\u201d (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nok2vfpxddt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkoemfzs9qg\" data-reactroot=\"\">Akhtar, N., &amp; Tomasello, M. (1997). Young children\u2019s productivity with word order and verb morphology. <em>Developmental Psychology,</em> <em>33</em>(6), 952\u2013965. <a href=\"https://doi.org/10.1037/0012-1649.33.6.952\" title=\"\" target=\"_blank\">https://doi.org/10.1037/0012-1649.33.6.952</a></p>",
+              "customLabel": "Akhtar & Tomasello, 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nz77qwlewx5",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "However, children show earlier knowledge of SVO word order in comprehension studies in which they hear (for example) \u201cthe duck is meeking the bunny\u201d and have to choose between one screen showing a duck performing a novel action on a bunny and another screen showing a bunny performing a novel action on a duck (by either pointing at, or simply looking at, the matching screen). The \u201cthird birthday\u201d claim was finally put to bed in the mid-2000s with studies showing that, although the effect is fragile, children can succeed even before their second birthday ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsl4r1gbujf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlz765ruozn\" data-reactroot=\"\">Gertner, Y., Fisher, C., &amp; Eisengart, J. (2006). Learning words and rules: Abstract knowledge of word order in early sentence comprehension. <em>Psychological Science,</em> <em>17</em>(8), 684\u2013691. <a href=\"https://doi.org/10.1111/j.1467-9280.2006.01767.x\" title=\"\" target=\"_blank\">https://doi.org/10.1111/j.1467-9280.2006.01767.x</a></p>",
+              "customLabel": "Gertner, Fisher & Eisengart, 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncljyviurjd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nr80bfspt2b\" data-reactroot=\"\">Fernandes, K. J., Marcus, G. F., Di Nubila, J. A., &amp; Vouloumanos, A. (2006). From semantics to syntax and back again: Argument structure in the third year of life. <em>Cognition,</em> <em>100</em>(2), B10\u2013B20. <a href=\"https://doi.org/10.1016/j.cognition.2005.08.003\" title=\"\" target=\"_blank\">https://doi.org/10.1016/j.cognition.2005.08.003</a></p>",
+              "customLabel": "Fernandes, Marcus, Di Nubila & Vouloumanos, 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Taken together with the word-order studies summarized above, these findings suggest the need for a theoretical account of basic word-order acquisition that can accommodate both generativist-style early knowledge of \u201crules\u201d and constructivist-style early reliance on simple slot-and-frame patterns (e.g., \u201cI\u2019m [ACTION]ing it\u201d)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nn5b77her96",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A similar conclusion can be drawn from the debate around children\u2019s acquisition of questions, which came to the fore in the 2000s. Questions are particularly interesting because (at least in languages such as English) a particular type of word-order error is very common: Children ask, for example, \u201c"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "*"
+          },
+          {
+            "type": "text",
+            "text": "What he is eating?\u201d rather than \u201cWhat is he eating?\u201d Generativist accounts (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "np1qa7w9flw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6okucveav7\" data-reactroot=\"\">Pozzan, L., &amp; Valian, V. (2017). Asking questions in child English: Evidence for early abstract representations. <em>Language Acquisition,</em> <em>24</em>(3), 209\u2013233. <a href=\"https://doi.org/10.1080/10489223.2016.1187615\" title=\"\" target=\"_blank\">https://doi.org/10.1080/10489223.2016.1187615</a></p>",
+              "customLabel": "Pozzan and Valian, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") see such errors in terms of children\u2019s occasional failure to apply a general (possibly innate) rule that starts out with non-question word order (e.g., \u201che is eating\u201d) and moves the auxiliary verb (\u201cis\u201d) before the SUBJECT (\u201che\u201d). Constructivist accounts (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvd2si29euh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb9v38wdbto\" data-reactroot=\"\">McCauley, S., Bannard, C., Theakston, A.L., Davis, M., Cameron-Faulkner, T., &amp; Ambridge, B. (2021). Multiword units lead to errors of commission in children&#x27;s spontaneous production: &#x27;What corpus data can tell us?&#x27;\u00a0<em>Developmental Science, 24, 6,</em> e13125.\u00a0<a href=\"https://doi.org/10.1111/desc.13125\" title=\"\" target=\"_blank\">https://doi.org/10.1111/desc.13125</a>\u00a0</p>",
+              "customLabel": "McCauley et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") argue that errors such as \u201c"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "*"
+          },
+          {
+            "type": "text",
+            "text": "What he is eating?\u201d instead reflect the use of stored chunks that children have heard in declarative (non-question) sentences (e.g., \u201cHe is eating\u201d), which they then combine with a question word (\u201cwhat\u201d). Again, detailed explanation is still required to elucidate why children seem able to apply a general \u201crule\u201d in some cases but produce errors in others."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nir058jnira",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Finally, no historical account of child language acquisition research would be complete without mention of the long-running and (in)famous English past-tense debate (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny3nc2y0imi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyzgp0oi2nf\" data-reactroot=\"\">Rumelhart, D. E., &amp; McClelland, J. L. (1986). Learning the past tenses of English verbs: implicit rules of parallel distributed processing? In B. MacWhinney (Ed.), <em>Mechanisms of language acquisition</em>. Erlbaum.</p>",
+              "customLabel": "Rumelhart & McClelland, 1986",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nf1o4gzmbwe",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5obiu0wzdr\" data-reactroot=\"\">Prasada, S., &amp; Pinker, S. (1993). Generalisation of regular and irregular morphological patterns. <em>Language and Cognitive Processes,</em> <em>8</em>(1), 1\u201356. <a href=\"https://doi.org/10.1080/01690969308406948\" title=\"\" target=\"_blank\">https://doi.org/10.1080/01690969308406948</a></p>",
+              "customLabel": "Prasada & Pinker, 1993",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Generativist accounts (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3zfgiciyhi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq1g2gobkhj\" data-reactroot=\"\">Pinker, S. (1999). <em>Words and rules</em>. Basic Books.</p>",
+              "customLabel": "Pinker, 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") argue that children show evidence for a default rule (adding \u201c-ed\u201d) that can be applied to any verb (including made-up verbs) regardless of its sound (e.g., \u201cyesterday, I ploamphed\u201d). Constructivist accounts (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njikljkepqc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0as6vcwxuq\" data-reactroot=\"\">Marchman, V. A., Wulfeck, B., &amp; Ellis Weismer, S. (1999). Morphological productivity in children with normal language and SLI: A study of the English past tense. <em>Journal of Speech, Language, and Hearing Research: JSLHR,</em> <em>42</em>(1), 206\u2013219. <a href=\"https://doi.org/10.1044/jslhr.4201.206\" title=\"\" target=\"_blank\">https://doi.org/10.1044/jslhr.4201.206</a></p>",
+              "customLabel": "Marchman, Wulfeck & Weismer, 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") argue that children show evidence for analogy between similar-sounding words (e.g., the made-up verb \u201cwiss\u201d has the past-tense \u201cwissed\u201d [pronounced \u201cwist\u201d]) by analogy with \u201cmiss\u201d\u2013\u201cmissed,\u201d \u201chiss\u201d\u2013\u201chissed,\u201d and so on. As is often the case, the debate petered out with both sides claiming victory (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni02pm41f7j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nr3z0nfr98z\" data-reactroot=\"\">Pinker, S., &amp; Ullman, M. T. (2002). The past and future of the past tense. <em>Trends in Cognitive Sciences,</em> <em>6</em>(11), 456\u2013463. <a href=\"https://doi.org/10.1016/S1364-6613(02)01990-3\" title=\"\" target=\"_blank\">https://doi.org/10.1016/S1364-6613(02)01990-3</a></p>",
+              "customLabel": "Pinker & Ullman, 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n26j3a16luw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nie3bhjixre\" data-reactroot=\"\">McClelland, J. L., &amp; Patterson, K. (2002). \u2018Words or Rules\u2019 cannot exploit the regularity in exceptions. <em>Trends in Cognitive Sciences,</em> <em>6</em>(11), 464\u2013465. <a href=\"https://doi.org/10.1016/S1364-6613(02)02012-0\" title=\"\" target=\"_blank\">https://doi.org/10.1016/S1364-6613(02)02012-0</a></p>",
+              "customLabel": "McClelland & Patterson, 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). One thing is clear: This debate, like many of those summarized above, has been hampered by an overreliance on English (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk2me370n7q",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n03t86luqnm\" data-reactroot=\"\">Granlund, S., Kolak, J., Vihman, V., Engelmann, F., Lieven, E. V., Pine, J. M., Theakston, A. L., &amp; Ambridge, B. (2019). Language-general and language-specific phenomena in the acquisition of inflectional noun morphology: A cross-linguistic elicited-production study of Polish, Finnish and Estonian. <em>Journal of Memory and Language,</em> <em>107</em>, 169\u2013194. <a href=\"https://doi.org/10.1016/j.jml.2019.04.004\" title=\"\" target=\"_blank\">https://doi.org/10.1016/j.jml.2019.04.004</a></p>",
+              "customLabel": "Granlund et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Any successful account of the acquisition of inflectional morphology, or of language more generally, will have to apply in principle to all the 7,000 or so languages spoken worldwide ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8tw7oobxm5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyxt2gg3z6v\" data-reactroot=\"\">Kidd, E., &amp; Garcia, R. (2022). How diverse is child language acquisition research? <em>First Language,</em> <em>42</em>(6), 703\u2013735. <a href=\"https://doi.org/10.1177/01427237211066405\" title=\"\" target=\"_blank\">https://doi.org/10.1177/01427237211066405</a></p>",
+              "customLabel": "Kidd & Garcia, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9jlz2pr2kt",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "It is important to emphasize that the labels adopted here\u2014"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "generativist"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "constructivist"
+          },
+          {
+            "type": "text",
+            "text": "\u2014are necessarily broad and imprecise. Each approach encompasses a wide variety of different individual theories, which often differ importantly in their details. Neither would individual researchers necessarily self-identify as members of one or another theoretical camp (much as musical genres might be helpful for critics and listeners but are often eschewed or even derided by artists themselves). In the same way, each of the core concepts set out here is broadly consistent with one or another general approach but does not necessarily form a key part of any particular theory."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "generativist-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Generativist concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nirc83wvu2w",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Generativist theories generally adopt the assumption of the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "autonomy of syntax"
+          },
+          {
+            "type": "text",
+            "text": ": that \u201cthe rules (principles, constraints, etc.) that determine the combinatorial possibilities of the formal elements of a language make no reference to constructs from meaning, discourse, or language use\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6b6huvtp1m",
+              "href": null,
+              "value": "https://doi.org/10.1111/cogs.12333",
+              "unstructuredValue": "",
+              "customLabel": "Newmeyer, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Of course, syntax must "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "interface"
+          },
+          {
+            "type": "text",
+            "text": " with meaning, discourse, and language use, and at least one generativist approach (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3tybchinfw",
+              "href": null,
+              "value": "10.1017/S0305000921000477",
+              "unstructuredValue": "",
+              "customLabel": "Grinstead, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") argues that childlike errors are not a result of non-adultlike knowledge of grammar (syntax) but of the interface between syntax and discourse/language use. This is an example of the famous generativist distinction between "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "competence"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "performance"
+          },
+          {
+            "type": "text",
+            "text": " (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2mzy1crmff",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnp9qm0ymwj\" data-reactroot=\"\">Chomsky, N. (1965). <em>Aspects of the theory of syntax</em>. MIT Press.</p>",
+              "customLabel": "Chomsky, 1965",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "): A child might have fully adultlike knowledge of syntax (perfect competence) but still make childlike errors with language (e.g., \u201cit goed over there\u201d)\u2014that is, imperfect performance\u2014due to other nonlinguistic factors such as memory failure."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0dspss7e22",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Most, perhaps all, generativist accounts are also "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "nativist"
+          },
+          {
+            "type": "text",
+            "text": " accounts: \u201cThe prevailing opinion among generative grammarians since the 1960s has been that this system (i.e., the system that combines words and phrases into sentences) is not only situated in the human mind, but also that its fundamental principles, its inventory of combinatorial elements, and so on are innate\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6w9ppv83ae",
+              "href": null,
+              "value": "https://doi.org/10.1111/cogs.12333",
+              "unstructuredValue": "",
+              "customLabel": "Newmeyer, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Precisely what is innate varies from theory to theory, but it is usually, minimally, some grammatical categories such as NOUN and VERB (but not, of course, the individual nouns and verbs of the language to be learned) and some basic rules for combining them into sentences. Some theories remain rather vague about exactly what is innate, but an excellent counterexample to this vagueness is "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndw4itdpimj",
+              "href": null,
+              "value": "https://doi.org/10.1017/S0305000914000336",
+              "unstructuredValue": "",
+              "customLabel": "Valian (2014)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ": \u201cThere is good evidence for at least one innate idea \u2013 Determiners\u2026It is impossible to have Determiners without having Nouns, because part of the definition of Determiners is that they take Noun Phrases as their complement. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Apr\u00e8s Determiners, le deluge"
+          },
+          {
+            "type": "text",
+            "text": ".\u201d "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "niqolvs7fvn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Chomsky famously coined the terms "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "language acquisition device"
+          },
+          {
+            "type": "text",
+            "text": " (LAD) and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "universal grammar"
+          },
+          {
+            "type": "text",
+            "text": " (UG) as metaphors for this innate knowledge possessed by learners of all the world\u2019s languages (i.e., \u201cuniversal\u201d). One common generativist argument for the necessity of the LAD or UG is the argument from the poverty of the stimulus: the claim that it is not possible to figure out the underlying rules of language simply by hearing examples of sentences generated using those rules. It is important to note that the term "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "language acquisition"
+          },
+          {
+            "type": "text",
+            "text": " itself is controversial, as it carries the implication that many crucial aspects of language are not learned\u2014only \u201cacquired\u201d\u2014since they rely on innate knowledge or mature like \u201cthe development of a second set of teeth\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmf9bqnq4p5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ne7rcrtv846\" data-reactroot=\"\">Wexler, K. (1996). The development of inflection in a biologically based theory of language acquisition. In M. L. Rice (Ed.), <em>Towards a genetics of language</em> (pp. 113\u2013144). Lawrence Erlbaum Associates.</p>",
+              "customLabel": "Wexler, 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 117): an implication generally disputed by constructivist accounts, which eschew innate linguistic knowledge and emphasize learning."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "constructivist-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Constructivist concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrze1crc2qb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Constructivist accounts are often called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "input-based"
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "usage-based"
+          },
+          {
+            "type": "text",
+            "text": " accounts because they emphasize the importance of children learning language on the basis of the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "input"
+          },
+          {
+            "type": "text",
+            "text": " (i.e., the language of parents, caregivers, and other adults) and, importantly, by understanding how these adults are "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "using"
+          },
+          {
+            "type": "text",
+            "text": " language (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb29fqw7qvn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1noja6pz7t\" data-reactroot=\"\">Tomasello, M. (2003). <em>Constructing a language</em>. Harvard University Press.</p>",
+              "customLabel": "Tomasello, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For example, a child might understand that \u201cDo you want some juice?\u201d is a question not because it has certain grammatical properties (i.e., auxiliary-before-subject word order, as discussed above) but because it is produced with a particular intonation and because the parent is holding a cup and an open bottle of juice and raising their eyebrows in the child\u2019s direction. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkxesb2tif8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nva1gj1c62z\" data-reactroot=\"\">Bruner, J. S. (1983). <em>Child\u2019s talk: Learning to use language</em>. Norton.</p>",
+              "customLabel": "Bruner (1983)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " famously coined the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "language acquisition support system"
+          },
+          {
+            "type": "text",
+            "text": " as a metaphor for this real-world support, and as a kind of retort or alternative to Chomksy\u2019s LAD."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n40g1p1kvdm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Constructivist accounts assume that children start out by learning "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "frozen phrases"
+          },
+          {
+            "type": "text",
+            "text": " (also known as [rote-learned] fixed phrases or holophrases) such as \u201cI\u2019m kicking it\u201d and \u201cI\u2019m eating it,\u201d each paired with a meaning. Next, children abstract across these frozen phrases via a process known as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "schematization"
+          },
+          {
+            "type": "text",
+            "text": " to form partially productive, lexically specific construction schemas (also known as slot-and-frame patterns) such as \u201cI\u2019m [ACTION]ing it\u201d (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n66xvk5a0me",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n03rzjlo2iy\" data-reactroot=\"\">Lieven, E. V., Pine, J. M., &amp; Baldwin, G. (1997). Lexically-based learning and early grammatical development. <em>Journal of Child Language,</em> <em>24</em>(1), 187\u2013219. <a href=\"https://doi.org/10.1017/S0305000996002930\" title=\"\" target=\"_blank\">https://doi.org/10.1017/S0305000996002930</a></p>",
+              "customLabel": "Lieven, Pine & Baldwin, 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Finally, children abstract across these schemas (or individual stored utterances) to arrive at "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "fully abstract constructions"
+          },
+          {
+            "type": "text",
+            "text": " (e.g., [SUBJECT] [VERB] [OBJECT]) that can be used to produce or understand any relevant sentence. Constructivist accounts are not always clear as to whether an abstract construction like [SUBJECT] [VERB] [OBJECT] is actually stored in some sense, or whether a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "construction"
+          },
+          {
+            "type": "text",
+            "text": " is just a kind of shorthand or metaphor for a fuzzy cluster of stored individual utterances ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "exemplars"
+          },
+          {
+            "type": "text",
+            "text": "), which speakers generalize across when producing or understanding relevant utterances (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwge8r0j1yh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1wbok92mju\" data-reactroot=\"\">Ambridge, B. (2020a). Against stored abstractions: A radical exemplar model of language acquisition. <em>First Language,</em> <em>40</em>(5-6), 509\u2013559. <a href=\"https://doi.org/10.1177/0142723719869731\" title=\"\" target=\"_blank\">https://doi.org/10.1177/0142723719869731</a></p>",
+              "customLabel": "Ambridge 2020a",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzk6cqkgtqo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuf144bv3m7\" data-reactroot=\"\">Ambridge, B. (2020b). Abstractions made of exemplars or You\u2019re all right and I\u2019ve changed my mind. Response to commentators. <em>First Language,</em> <em>40</em>(5-6), 640\u2013659. <a href=\"https://doi.org/10.1177/0142723720949723\" title=\"\" target=\"_blank\">https://doi.org/10.1177/0142723720949723</a></p>",
+              "customLabel": "2020b",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "open-science",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Open Science"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nttwvyb4xbe",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One recent development in the field\u2014as in cognitive science more broadly\u2014has been an increasing adoption of open science [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/3r6pj6pn",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Open Science"
+          },
+          {
+            "type": "text",
+            "text": "]. These practices attempt to combat what "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqe34q4i8nx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n730smr3ixe\" data-reactroot=\"\">Bishop, D. (2019). Rein in the four horsemen of irreproducibility. <em>Nature,</em> <em>568</em>(7753), 435. <a href=\"https://doi.org/10.1038/d41586-019-01307-2\" title=\"\" target=\"_blank\">https://doi.org/10.1038/d41586-019-01307-2</a></p><p id=\"nu3fabi8jrr\" data-reactroot=\"\"></p>",
+              "customLabel": "Bishop (2019)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " calls the \u201cfour horsemen of irreproducibility,\u201d referring to the fact that many key findings reported in published papers cannot successfully be reproduced by colleagues: "
+          }
+        ]
+      },
+      {
+        "type": "ordered_list",
+        "attrs": {
+          "id": "nc8vhsmj81g",
+          "order": 1,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nem49n8ey6k",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "publication bias, whereby studies that fail to show an expected effect are deemed too uninteresting for publication; "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nlx0955vcts",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "low statistical power, whereby studies are run with low numbers of participants (or few observations per participant), making their results unreliable; "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nlc83wzddxd",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "p"
+                  },
+                  {
+                    "type": "text",
+                    "text": "-hacking, whereby researchers run multiple statistical analyses and report only those that meet a criterion of statistical significance; and "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nchdovrq8de",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "hypothesizing after results are known (HARKing), whereby unexpected (and perhaps supurious) results are retrospectively \u201cpredicted\u201d in the Introduction section of the paper (like a would-be sharpshooter firing at a barn at random, then drawing a target around the bullet holes). "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncf32x5p4lv",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In an attempt to rein in the third and fourth horsemen, many researchers now publicly pre-register their hypotheses and analysis plans on websites such as the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://osf.io",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Open Science Framework"
+          },
+          {
+            "type": "text",
+            "text": ", and many journals offer a registered report format by which studies are accepted in principle on the basis of their methods and analysis plans regardless of the eventual results. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6vvknbx2vk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One solution to the problem of low statistical power is large, multisite replications. Here, language acquisition research has been a leader of the wider field, especially through the efforts of the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://manybabies.org",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "ManyBabies Consortium"
+          },
+          {
+            "type": "text",
+            "text": ". In an attempt to combat publication bias, a new open science journal, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Language Development Research"
+          },
+          {
+            "type": "text",
+            "text": ", launched in 2020 with a commitment \u201cto publishing any empirical or theoretical paper that is relevant to the field of language development and that meets our criteria for rigour, without regard to the perceived novelty or importance of the findings.\u201d"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "theoretical-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Theoretical developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9t6izvfvys",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Turning from methods to theory, recent years have seen the acceleration of an approach that gained traction in the 1980s: implementing theoretical proposals as computational models of language learning [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/lwxmte1p",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Bayesian Models of Cognition"
+          },
+          {
+            "type": "text",
+            "text": "]. The advantage of computational models\u2014as opposed to traditional descriptive verbal theories\u2014is that they make precise quantitative predictions that can then be tested against data from child corpora or experiments. For example, the patterning of a particular error made by English-learning children (e.g., saying \u201c"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "*"
+          },
+          {
+            "type": "text",
+            "text": "mouses\u201d instead of \u201cmice\u201d) can be explained by a simple discriminative-learning model in which various meaning-based factors or \u201ccues\u201d (e.g., multiple items, multiple mouse items, mousiness) compete to predict the occurrence of the form \u201cmice\u201d versus \u201cmouses\u201d "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1tfytjrd8n",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny97iu87c5a\" data-reactroot=\"\">Ramscar, M., Dye, M., &amp; McCauley, S. M. (2013). Error and expectation in language learning: The curious absence of mouses in adult speech. <em>Language,</em> <em>89</em>(4), 760\u2013793. <a href=\"https://doi.org/10.1353/lan.2013.0068\" title=\"\" target=\"_blank\">https://doi.org/10.1353/lan.2013.0068</a></p>",
+              "customLabel": "(Ramscar, Dye, and McCauley, 2013)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". While discriminative learning is broadly consistent with a constructivist approach, generativist approaches have also adopted computational modeling as a way of formal theory testing. For example, variational learning approaches (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngie9gwdc0s",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8k42rs1dc6\" data-reactroot=\"\">Pearl, L. (2021). Theory and predictions for the development of morphology and syntax: A universal grammar + statistics approach. <em>Journal of Child Language,</em> <em>48</em>(5), 907\u2013936. <a href=\"https://doi.org/10.1017/S0305000920000665\" title=\"\" target=\"_blank\">https://doi.org/10.1017/S0305000920000665</a></p>",
+              "customLabel": "Pearl, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", for a review) adopt traditional generativist assumptions such as parameter setting and rules for question formation but assume that children implement these parameters or rules gradually and probabilistically on the basis of the input."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n96f0p40zvr",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Most recently, child language acquisition\u2014like many other fields\u2014has seen its attention captured by large language models (LLMs) such as ChatGPT [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "]("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxixi8lxdqp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"niplewiy0pa\" data-reactroot=\"\">OpenAI (2023). ChatGPT [Large language model]. <a href=\"https://chat.openai.com/chat\" title=\"\" target=\"xrefwindow\">https://chat.openai.com/chat</a></p>",
+              "customLabel": "OpenAI, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Interestingly, the field\u2019s response to LLMs has largely split along traditional party lines: Constructivist-oriented researchers (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnuggb7e78w",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nexlei8fwcb\" data-reactroot=\"\">Piantadosi, S. (2023). Modern language models refute Chomsky\u2019s approach to language. <a href=\"https://lingbuzz.net/lingbuzz/007180\" title=\"\" target=\"xrefwindow\">https://lingbuzz.net/lingbuzz/007180</a></p>",
+              "customLabel": "Piantadosi, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") argue that LLMs not only simulate many aspects of a constructivist approach to language acquisition, but even\u2014to quote the title of Piantadosi\u2019s controversial paper\u2014\u201crefute Chomsky\u2019s approach to language.\u201d Generativist-oriented researchers (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfz84cdf265",
+              "href": null,
+              "value": "dx.doi.org/10.48550/arXiv.2308.03228",
+              "unstructuredValue": "",
+              "customLabel": "Kodner, Payne & Heinz, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") are skeptical precisely because LLMs eschew the symbolic, categorical representations (e.g., VERB, NOUN) that are assumed, under this approach, to characterize language and its acquisition. On this view, as "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nn2r5jkouhp",
+              "href": null,
+              "value": "dx.doi.org/10.48550/arXiv.2308.03228",
+              "unstructuredValue": "",
+              "customLabel": "Kodner et al. (2023)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " put it, \u201cthe implications of LLMs for our understanding of the cognitive structures and mechanisms underlying language and its acquisition are like the implications of airplanes for understanding how birds fly.\u201d Either way, with the ever-increasing processing power and flexibility of modern computer systems, what seems certain is that computational modeling\u2014of whatever theoretical stripe\u2014will play an increasingly key role in understanding child language acquisition."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nr3d5rzqe79",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Signed languages  (e.g., British Sign Language, American Sign Language) are acquired in more or less the same way as spoken languages (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuykuk0iird",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng9fvwtbkye\" data-reactroot=\"\">Lillo-Martin, D., &amp; Henner, J. (2021). Acquisition of sign languages. <em>Annual Review of Linguistics,</em> <em>7</em>, 395\u2013419. <a href=\"https://doi.org/10.1146/annurev-linguistics-043020-092357\" title=\"\" target=\"_blank\">https://doi.org/10.1146/annurev-linguistics-043020-092357</a></p>",
+              "customLabel": "Lillo-Martin & Henner, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", for a review). Therefore, any successful theory will have to account for the acquisition of spoken and signed languages alike. Language acquisition research also includes children whose acquisition of language is (for want of a better term) \u201catypical\u201d in some way: particularly the 7%\u20138% of children with developmental language disorder ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7xe39l2nao",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n40svqlh8ow\" data-reactroot=\"\">Norbury, C. F., Gooch, D., Wray, C., Baird, G., Charman, T., Simonoff, E., Vamvakas, G., &amp; Pickles, A. (2016). The impact of nonverbal ability on prevalence and clinical presentation of language disorder: Evidence from a population study. <em>Journal of Child Psychology and Psychiatry, and Allied Disciplines,</em> <em>57</em>, 1247\u20131257. Advance online publication. <a href=\"https://doi.org/10.1111/jcpp.12573\" title=\"\" target=\"_blank\">https://doi.org/10.1111/jcpp.12573</a></p>",
+              "customLabel": "Norbury et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nc4erhhq6u2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "As is usual for the field, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "language acquisition"
+          },
+          {
+            "type": "text",
+            "text": " in this entry is defined as the process by which children come to speak their first (or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "native"
+          },
+          {
+            "type": "text",
+            "text": ") language (or, since bi- or multilingual acquisition is very much included, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "first languages"
+          },
+          {
+            "type": "text",
+            "text": " [plural]). A field that is clearly related, but that has perhaps surprisingly little overlap, investigates how older children or adults learn a second (or third, etc.) language, either via formal instruction (e.g., in school) or immersion (e.g., moving to a country where that language is spoken). Indeed, this area of research is often called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "language learning"
+          },
+          {
+            "type": "text",
+            "text": " specifically to contrast with the field of language acquisition. A large study of almost 700,000 (aspiring) English speakers found that the cut-off point between "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "native language acquisition"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "foreign language learning"
+          },
+          {
+            "type": "text",
+            "text": " is surprisingly late: Given sufficient immersion, learners can acquire native-like accuracy in a foreign language up until around age 17, after which it tails off ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9fvfl0daao",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqdv033o8f2\" data-reactroot=\"\">Hartshorne, J. K., Tenenbaum, J. B., &amp; Pinker, S. (2018). A critical period for second language acquisition: Evidence from 2/3 million English speakers. <em>Cognition,</em> <em>177</em>, 263\u2013277. <a href=\"https://doi.org/10.1016/j.cognition.2018.04.007\" title=\"\" target=\"_blank\">https://doi.org/10.1016/j.cognition.2018.04.007</a></p>",
+              "customLabel": "Hartshorne, Tenenbaum & Pinker, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The study of language representation and processing in mature adult native speakers is called psycholinguistics [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/y1uhdz0y",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Psycholinguistics"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ntfjtx5476s",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Another field that is clearly related to language acquisition, but that is again perhaps surprisingly distinct, is literacy acquisition (i.e., learning to read and write). The two are linked in that, as you might expect, children who experience difficulty with spoken language early in life often experience difficulties with reading and writing later (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no1arsmvo6f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndy94sa8dy7\" data-reactroot=\"\">Botting, N. (2020). Language, literacy and cognitive skills of young adults with developmental language disorder (DLD). <em>International Journal of Language &amp; Communication Disorders,</em> <em>55</em>(2), 255\u2013265. <a href=\"https://doi.org/10.1111/1460-6984.12518\" title=\"\" target=\"_blank\">https://doi.org/10.1111/1460-6984.12518</a></p>",
+              "customLabel": "Botting, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, the two are distinct in that while almost all children come to speak the language of those around them (and without explicit instruction), it is only since the 1960s that a majority of children globally have been taught to read and write ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n80wpwmcavs",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngujuygxmqg\" data-reactroot=\"\">Roser, M., &amp; Ortiz-Ospina, E. (2016). Literacy. Published online at OurWorldInData.org. Retrieved from: <a href=\"https://ourworldindata.org/literacy\" title=\"\" target=\"xrefwindow\">https://ourworldindata.org/literacy</a></p>",
+              "customLabel": "Roser & Ortiz-Ospina, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n827cohas1j",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In summary, although considerable progress has been made in the past two-thirds of a century of systematic research, many questions surrounding child language acquisition remain unanswered. Hopefully, the methodological and theoretical developments summarized here will accelerate the progress of the field towards a more complete understanding of the processes and mechanisms by which children acquire their native language."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "acknowledgments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Acknowledgments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n08atu7hk3i",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The support of the Economic and Social Research Council [ES/L008955/1] is gratefully acknowledged."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "key-references",
+          "id": "key-references",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n38j6ligo8o",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nwqnp5lv65e",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Behrens, H. (2021). Constructivist approaches to first language acquisition. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Journal of Child Language,"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "48"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(5), 959\u2013983. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1017/S0305000921000556",
+                          "title": "",
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1017/S0305000921000556"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nd7f2kogxmm",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Pearl, L. (2021). Theory and predictions for the development of morphology and syntax: A universal grammar + statistics approach. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Journal of Child Language,"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "48"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(5), 907\u2013936. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1017/S0305000920000665",
+                          "title": "",
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1017/S0305000920000665"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n0vtn85fc28",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ramscar, M. (2021). How children learn to communicate discriminatively. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Journal of Child Language,"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "48"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(5), 984\u20131022. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1017/S0305000921000544",
+                          "title": "",
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1017/S0305000921000544"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nlcgp0327vn",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Snyder, W. (2021). A parametric approach to the acquisition of syntax. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Journal of Child Language,"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "48"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(5), 862\u2013887. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1017/S0305000921000465",
+                          "title": "",
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1017/S0305000921000465"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

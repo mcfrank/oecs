@@ -1,0 +1,1535 @@
+{
+  "id": "34857b04-96a7-46a1-bf96-8ca767a7d16a",
+  "slug": "18miikqb",
+  "title": "Language Evolution",
+  "url": "https://oecs.mit.edu/pub/18miikqb",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "34857b04-96a7-46a1-bf96-8ca767a7d16a",
+    "slug": "18miikqb",
+    "title": "Language Evolution",
+    "htmlTitle": "Language Evolution",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.34857b04",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "wugfime0",
+    "editHash": "68520hdo",
+    "reviewHash": "9v9iwwko",
+    "commentHash": "4yziydqf",
+    "draftId": "bb601a63-fcb3-4cd6-ae7e-dd513c355d6b",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "3ce4cba5-8b1b-45b3-99b2-f626d93df7cc",
+    "scopeSummaryId": "ff620e13-a89c-458d-9bb0-8dbd691d9dc9",
+    "createdAt": "2025-06-24T17:45:26.020Z",
+    "updatedAt": "2025-07-17T12:21:32.009Z",
+    "attributions": [
+      {
+        "id": "504d7115-8ef9-48bb-8787-08a1c26c5778",
+        "name": null,
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "University of Oxford",
+        "orcid": null,
+        "userId": "c14d977d-7f90-4c28-8da2-e0c718bef862",
+        "pubId": "34857b04-96a7-46a1-bf96-8ca767a7d16a",
+        "createdAt": "2025-06-24T17:47:51.470Z",
+        "updatedAt": "2025-06-27T21:51:46.897Z",
+        "user": {
+          "id": "c14d977d-7f90-4c28-8da2-e0c718bef862",
+          "firstName": "Asifa",
+          "lastName": "Majid",
+          "fullName": "Asifa Majid",
+          "avatar": null,
+          "slug": "asifa-majid",
+          "initials": "AM",
+          "title": "Editor-in-Chief",
+          "orcid": "0000-0003-0132-216X"
+        }
+      },
+      {
+        "id": "d20dfa85-4a0c-488b-b40c-f20a736eb3f1",
+        "name": "Morten H. Christiansen",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Department of Psychology, Cornell University (USA); School of Communication and Culture, Aarhus University (Denmark)",
+        "orcid": "0000-0002-3850-0655",
+        "userId": null,
+        "pubId": "34857b04-96a7-46a1-bf96-8ca767a7d16a",
+        "createdAt": "2025-06-24T17:47:13.982Z",
+        "updatedAt": "2025-06-24T17:47:36.979Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "bb601a63-fcb3-4cd6-ae7e-dd513c355d6b",
+      "latestKeyAt": "2025-07-16T18:28:31.894Z",
+      "firebasePath": "drafts/draft-bb601a63-fcb3-4cd6-ae7e-dd513c355d6b",
+      "createdAt": "2025-06-24T17:45:26.000Z",
+      "updatedAt": "2025-07-17T12:21:06.636Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ny6mioeh986",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The study of language evolution aims to uncover why language is the way it is and how it came to be that way. Answering these questions is difficult because the typical methods for studying the evolution of a trait\u2014by tracing anatomical changes in the fossil record or by comparing the behavior of living species\u2014do not straightforwardly apply to language. Because language does not fossilize, the paleontological record provides no direct evidence on its evolution. Comparison with other species is also complicated; human language appears to have several unique properties when compared to other animal communication systems, including "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "productivity"
+          },
+          {
+            "type": "text",
+            "text": " (the ability to invent new words and combine them in novel ways) and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "displacement"
+          },
+          {
+            "type": "text",
+            "text": " (the ability to talk about things that are remote in time and place). Despite these obstacles, considerable progress has been made over the past decades by bringing together evidence across different areas of research from psycholinguistics and computational modeling to comparative psychology and cultural evolution. This work has highlighted the importance of cultural transmission in the evolution of language, while controversies still abound regarding what kind of biological adaptations were necessary for language to emerge."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njcas3vr4s3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Humans have long pondered where language came from, as reflected in many myths from around the world that often picture linguistic abilities as a gift from the gods. During the Enlightenment, European scholars, too, speculated about the origin of language, but lacking any concrete evidence, they often derived absurd conclusions such as that Chinese, Hebrew, or Swedish was the original language bestowed upon humankind. The debate eventually grew so heated that in 1866, the Soci\u00e9t\u00e9 Linguistique de Paris, the leading academic society for the study of language, banned all discussion of the origin of language. Because of this ban, the next century saw little work on the origin and evolution of language (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n215swqa8eg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0drb6169gj\" data-reactroot=\"\">Christiansen, M.H., &amp; Chater, N. (2022). <em>The language game: How improvisation created language and changed the world</em>. Basic Books.</p>",
+              "customLabel": "Christiansen & Chater, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " for further discussion of early ideas about language evolution)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncpuvjzkgii",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "It was not until the second half of the 20th century that the scientific interest in language evolution was slowly rekindled, starting with Charles "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nyecfv9jya9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb7qo4o0mhe\" data-reactroot=\"\">Hockett, C. F. (1960). The origin of speech. <em>Scientific American</em>, <em>603</em>(3), 89-96. <a href=\"https://doi.org/10.1038/scientificamerican0960-88\">https://doi.org/10.1038/scientificamerican0960-88</a> </p>",
+              "customLabel": "Hockett's (1960)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " landmark article on the origin of speech. He described 13 design features of human language, including productivity, displacement, and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "arbitrariness"
+          },
+          {
+            "type": "text",
+            "text": " (that the speech signal does not directly reflect its meaning\u2014the word \u201cdog\u201d does not sound like a dog). However, it took another 30 years for the study of language evolution to take off, following the publication of an article by Steven "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrtm7lnc45p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8hlr90ifjb\" data-reactroot=\"\">Pinker, S., &amp; Bloom, P. (1990). Natural language and natural selection. <em>Behavioral and Brain Sciences</em>, <em>13</em>(4), 707-727. <a href=\"https://doi.org/10.1017/S0140525X00081061\">https://doi.org/10.1017/S0140525X00081061</a> </p>",
+              "customLabel": "Pinker and Paul Bloom (1990)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", who argued that language emerged through gradual biological adaptations for abstract linguistic grammar. The rapidly growing interest in this topic was further cemented by the 1996 inauguration of the biennial conference on the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.evolang.org/History",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Evolution of Language"
+          },
+          {
+            "type": "text",
+            "text": " and the 2016 establishment of the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Journal of Language Evolution"
+          },
+          {
+            "type": "text",
+            "text": ". "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ng1fukjz0zn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Although much of the initial resurgence of interest in language evolution manifested itself in terms of papers focused on theoretical considerations and computational modeling, the new millennium saw a broadening out to include cross-species comparisons, the use of miniature artificial languages to study constraints on language learning in cultural transmission ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd8yktnlcyw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvrzpqwfqy3\" data-reactroot=\"\">Scott-Phillips, T. C., &amp; Kirby, S. (2010). Language evolution in the laboratory. <em>Trends in Cognitive Sciences</em>, <em>14</em>(9), 411-417. <a href=\"https://doi.org/10.1016/j.tics.2010.06.006\">https://doi.org/10.1016/j.tics.2010.06.006</a> </p>",
+              "customLabel": "Scott-Phillips & Kirby, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and insights from the study of sound symbolism [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/suwgvzqg",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Primate Communication"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/jr9encpg",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Statistical Learning"
+          },
+          {
+            "type": "text",
+            "text": ", and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/in0y7zea",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Sound Symbolism"
+          },
+          {
+            "type": "text",
+            "text": "]. Whereas much of the focus of language evolution research in the 20th century was on biological adaptations for language, the 21st century saw a reorientation toward explaining language evolution primarily in terms of cultural evolution ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd2f6xio7hb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsfl1w40xck\" data-reactroot=\"\">Christiansen, M. H., &amp; Chater, N. (2008). Language as shaped by the brain. <em>Behavioral and Brain Sciences</em>, <em>31</em>, 489-509. https://doi.org/10.1017/S0140525X08004998</p><p id=\"nyuxdw8u1xy\" data-reactroot=\"\"></p>",
+              "customLabel": "Christiansen & Chater, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), viewing language as an evolutionary system in its own right ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4yzqudhbu6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhvr1kg5q00\" data-reactroot=\"\">Beckner, C., Blythe, R., Bybee, J., Christiansen, M. H., Croft, W., Ellis, N. C., Holland, J., Ke, J., Larsen-Freeman, D., &amp; Schoenemann, T. (2009). Language is a complex adaptive system: Position paper. <em>Language learning</em>, <em>59</em>, 1-26. <a href=\"https://doi.org/10.1111/j.1467-9922.2009.00533.x\">https://doi.org/10.1111/j.1467-9922.2009.00533.x</a> </p>",
+              "customLabel": "Beckner et al., 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/u870vxpu",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Cultural Evolution"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwibrk0k6gu",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Theories of language evolution aim to explain the emergence of language as it is today [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/ho9e9c80",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Language"
+          },
+          {
+            "type": "text",
+            "text": "]. Thus, the specific ways that scholars characterize what evolved\u2014the current human linguistic abilities\u2014will determine their theory of how it evolved. Paralleling debates about the nature of language acquisition, theories of language evolution can roughly be divided into those emphasizing the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "biological"
+          },
+          {
+            "type": "text",
+            "text": " evolution of a genetically determined language faculty versus those stressing the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cultural"
+          },
+          {
+            "type": "text",
+            "text": " evolution of language piggybacking on more general cognitive, social, and communicative abilities [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xohbfbix",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Language Acquisition"
+          },
+          {
+            "type": "text",
+            "text": "]. For proponents of the former, the task of a theory of language evolution is to explain how evolutionary processes could have given rise to a language-specific genetic endowment, either by gradual natural selection for better grammatical abilities ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxvpukdk1n3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrpb82ppuix\" data-reactroot=\"\">Pinker, S., &amp; Bloom, P. (1990). Natural language and natural selection. <em>Behavioral and Brain Sciences</em>, <em>13</em>(4), 707-727. <a href=\"https://doi.org/10.1017/S0140525X00081061\">https://doi.org/10.1017/S0140525X00081061</a> </p>",
+              "customLabel": "Pinker & Bloom, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or through some accidental rewiring of the brain ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n592nbyyd91",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"noaohc9ezkp\" data-reactroot=\"\">Chomsky, N. (2017). The language capacity: Architecture and evolution. <em>Psychonomic Bulletin &amp; Review, 24</em>, 200-203. <a href=\"https://doi.org/10.3758/s13423-016-1078-6\">https://doi.org/10.3758/s13423-016-1078-6</a> </p>",
+              "customLabel": "Chomsky, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For proponents of the latter, theories instead aim to explain how language could have evolved into its current forms through established processes of language change writ large ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nv67w2y3xs8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbgfrr0pkp1\" data-reactroot=\"\">Heine, B., &amp; Kuteva, T. (2011). Grammaticalization theory as a tool for reconstructing language evolution. In M. Tallerman, and K. R. Gibson (Eds.), <em>The Oxford handbook of language evolution</em> (pp. 511\u2013527). Oxford University Press. <a href=\"https://doi.org/10.1093/oxfordhb/9780199541119.013.0054\">https://doi.org/10.1093/oxfordhb/9780199541119.013.0054</a> </p>",
+              "customLabel": "Heine & Kuteva, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and general processes of cultural transmission within and across generations of language users ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3v4uq7jtey",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsfl1w40xck\" data-reactroot=\"\">Christiansen, M. H., &amp; Chater, N. (2008). Language as shaped by the brain. <em>Behavioral and Brain Sciences</em>, <em>31</em>, 489-509. https://doi.org/10.1017/S0140525X08004998</p><p id=\"nyuxdw8u1xy\" data-reactroot=\"\"></p>",
+              "customLabel": "Christiansen & Chater, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsxr15p9of4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvrzpqwfqy3\" data-reactroot=\"\">Scott-Phillips, T. C., &amp; Kirby, S. (2010). Language evolution in the laboratory. <em>Trends in Cognitive Sciences</em>, <em>14</em>(9), 411-417. <a href=\"https://doi.org/10.1016/j.tics.2010.06.006\">https://doi.org/10.1016/j.tics.2010.06.006</a> </p>",
+              "customLabel": "Scott-Phillips & Kirby, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nx4pcvr5kex",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Importantly, while the two types of theories disagree about what it is that evolved, they both view the outcome of language evolution\u2014the present-day ability to learn and use language\u2014as being constrained by biology. The key difference is whether those constraints are viewed as specific to language or not. Theories advocating the biological evolution of a language faculty have traditionally viewed these constraints as language specific ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nubw5t64o3e",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfh8uwvv2bf\" data-reactroot=\"\">Jackendoff, R. (2010). Your theory of language evolution depends on your theory of language. In R. K. Larson, V. D\u00e9prez, &amp; H. Yamakido (Eds.), <em>The evolution of human language: Biolinguistic perspectives</em> (pp. 63\u201372). Cambridge University Press. <a href=\"https://doi.org/10.1017/CBO9780511817755.004\">https://doi.org/10.1017/CBO9780511817755.004</a> </p>",
+              "customLabel": "Jackendoff, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbtthkoqfx2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrpb82ppuix\" data-reactroot=\"\">Pinker, S., &amp; Bloom, P. (1990). Natural language and natural selection. <em>Behavioral and Brain Sciences</em>, <em>13</em>(4), 707-727. <a href=\"https://doi.org/10.1017/S0140525X00081061\">https://doi.org/10.1017/S0140525X00081061</a> </p>",
+              "customLabel": "Pinker & Bloom, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). By contrast, cultural evolution theorists suggest that the biological constraints are more general in nature (such as limitations on learning, memory, and cognition), deriving from the reuse of neural mechanisms existing prior to the emergence of language ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhb4prd0tui",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsfl1w40xck\" data-reactroot=\"\">Christiansen, M. H., &amp; Chater, N. (2008). Language as shaped by the brain. <em>Behavioral and Brain Sciences</em>, <em>31</em>, 489-509. https://doi.org/10.1017/S0140525X08004998</p><p id=\"nyuxdw8u1xy\" data-reactroot=\"\"></p>",
+              "customLabel": "Christiansen & Chater, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Recent years, however, have seen some rapprochement between the two types of theories, which suggests that the future might see increased common ground among theories of language evolution."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nljbx9sqcgn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Given the complexity and uniqueness of human language, it is perhaps not surprising that the study of its evolution has numerous open questions, many of which pertain to the initial emergence of language. For example, there is considerable disagreement about when language emerged, ranging from only about 100,000 years ago ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9nmv36pcnx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"noaohc9ezkp\" data-reactroot=\"\">Chomsky, N. (2017). The language capacity: Architecture and evolution. <em>Psychonomic Bulletin &amp; Review, 24</em>, 200-203. <a href=\"https://doi.org/10.3758/s13423-016-1078-6\">https://doi.org/10.3758/s13423-016-1078-6</a> </p>",
+              "customLabel": "Chomsky, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") to more than 1 million years ago ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8f88ukymqk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nle0txw6ky3\" data-reactroot=\"\">Barham, L., &amp; Everett, D. (2021). Semiotics and the origin of language in the Lower Palaeolithic. <em>Journal of Archaeological Method and Theory</em>, <em>28</em>, 535-579. <a href=\"https://doi.org/10.1007/s10816-020-09480-9\">https://doi.org/10.1007/s10816-020-09480-9</a> </p>",
+              "customLabel": "Barham & Everett, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), often driven by differences in assumptions about what language is."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nclyuatd28l",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Another longstanding issue concerns whether language originated in earlier primate vocalizations or whether it had a gestural origin. Although nonspeech vocalizations relative to gestures might appear less capable of representing things and actions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n29kvosi3xy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfr30z5whwd\" data-reactroot=\"\">Tomasello, M. (2008). <em>The origins of human communication</em>. MIT Press.</p>",
+              "customLabel": "Tomasello, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), recent work on sound symbolism has found considerable evidence of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "iconicity"
+          },
+          {
+            "type": "text",
+            "text": " in human vocalizations (such as using a \u201cglob-glob-glob\u201d sound to signify water; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1u9odvhfio",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnvcbanas88\" data-reactroot=\"\">Perlman, M., &amp; Lupyan, G. (2018). People can create iconic vocalizations to communicate various meanings to na\u00efve listeners. <em>Scientific Reports</em>, <em>8</em>, 2634. <a href=\"https://doi.org/10.1038/s41598-018-20961-6\">https://doi.org/10.1038/s41598-018-20961-6</a> </p>",
+              "customLabel": "Perlman & Lupyan, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/usvwqp80",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Gesture"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/in0y7zea",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Sound Symbolism"
+          },
+          {
+            "type": "text",
+            "text": "]. Moreover, a comparison of gesture repertoires in nonhuman great apes has found that gestures are largely the same across species, indicating that they may be largely fixed by biology and thus not allow the kind of open-ended productivity characteristic of human language ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhe0qhzjms7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbh4hs795ob\" data-reactroot=\"\">Byrne, R. W., &amp; Cochet, H. (2017). Where have all the (ape) gestures gone? <em>Psychonomic Bulletin &amp; Review</em>, <em>24</em>, 68-71. <a href=\"https://doi.org/10.3758/s13423-016-1071-0\">https://doi.org/10.3758/s13423-016-1071-0</a> </p>",
+              "customLabel": "Byrne & Cochet, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9ww90mcqxq",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A more recent development is the proposal that human self-domestication paved the way for human language ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh5oup1t5tj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ni8vcietpzc\" data-reactroot=\"\">Hare, B. (2017). Survival of the friendliest: Homo sapiens evolved via selection for prosociality. <em>Annual Review of Psychology</em>, <em>68</em>, 155-186. <a href=\"https://doi.org/10.1146/annurev-psych-010416-044201\">https://doi.org/10.1146/annurev-psych-010416-044201</a> </p>",
+              "customLabel": "Hare, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), a hypothesis taken up by proponents of both biological adaptation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndy5cjtip57",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nekrp8qlnjl\" data-reactroot=\"\">Ben\u00edtez-Burraco, A., &amp; Progovac, L. (2020). A four-stage model for language evolution under the effects of human self-domestication. <em>Language &amp; Communication, 73</em>, 1-17. <a href=\"https://doi.org/10.1016/j.langcom.2020.03.002\">https://doi.org/10.1016/j.langcom.2020.03.002</a> </p>",
+              "customLabel": "Ben\u00edtez-Burraco & Progovac, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and cultural evolution ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncthuniqsiw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"negp2yqbtys\" data-reactroot=\"\">Thomas, J., &amp; Kirby, S. (2018). Self domestication and the evolution of language. <em>Biology &amp; Philosophy</em>, <em>33</em>, 1-30. <a href=\"https://doi.org/10.1007/s10539-018-9612-8\">https://doi.org/10.1007/s10539-018-9612-8</a> </p>",
+              "customLabel": "Thomas & Kirby, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The basic suggestion is that humans underwent an evolutionary process paralleling the biological changes observed in domesticated animals, specifically selecting for "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "prosociality"
+          },
+          {
+            "type": "text",
+            "text": ": tolerance toward and collaborations with nonfamily members. This \u201csurvival of the friendliest\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nafgebxkuxo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ni8vcietpzc\" data-reactroot=\"\">Hare, B. (2017). Survival of the friendliest: Homo sapiens evolved via selection for prosociality. <em>Annual Review of Psychology</em>, <em>68</em>, 155-186. <a href=\"https://doi.org/10.1146/annurev-psych-010416-044201\">https://doi.org/10.1146/annurev-psych-010416-044201</a> </p>",
+              "customLabel": "Hare, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") is presumed to have enabled a socio-communicative niche within which language could evolve culturally [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xyn6l8i3",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Niche Construction"
+          },
+          {
+            "type": "text",
+            "text": "]. A key prediction of the self-domestication hypothesis is that humans should show evidence of the purported domestication syndrome seen in domesticated animals. However, a recent comprehensive review of the evolutionary neuroscience of domesticated animals fails to find convincing evidence of domestication syndrome once well-established factors in brain evolution are taken into account ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nu6naipxmlo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6uist951uj\" data-reactroot=\"\">Hecht, E. E., Barton, S. A., Flattery, C. N. R., &amp; Meza, A. M. (2023). The evolutionary neuroscience of domestication. <em>Trends in Cognitive Sciences</em>, <em>27</em>(6), 553-567. <a href=\"https://doi.org/10.1016/j.tics.2023.03.008\">https://doi.org/10.1016/j.tics.2023.03.008</a> </p>",
+              "customLabel": "Hecht et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nlosnbp4jc0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Understanding how our species evolved its linguistic abilities is by necessity a highly interdisciplinary endeavor, touching on all parts of cognitive science. Thus, new developments in any area of cognitive science may inform theories of language evolution. For example, the mounting evidence regarding the incredible variation across languages, communities, and individuals in ways of expressing themselves is likely to become a key source of constraints on theories of language evolution ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfm81wktf2z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbt66fvl4lw\" data-reactroot=\"\">Evans, N., &amp; Levinson, S. C. (2009). The myth of language universals: Language diversity and its importance for cognitive science. <em>Behavioral and Brain Sciences</em>, <em>32</em>(5), 429-448. <a href=\"https://doi.org/10.1017/S0140525X0999094X\">https://doi.org/10.1017/S0140525X0999094X</a> </p>",
+              "customLabel": "Evans & Levinson, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")\u2014especially in the context of the relative importance of biological versus cultural evolution [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/5wqto9iq",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Linguistic Variation"
+          },
+          {
+            "type": "text",
+            "text": "]. Similarly, the development of a new breed of neural networks capable of producing human-like language offers opportunities for exploring the cultural evolution of language at a level of complexity beyond prior computational modeling work ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n39cv46a6pf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n636hwb5p3i\" data-reactroot=\"\">Perez, J., L\u00e9ger, C., Ovando-Tellez, M., Foulon, C., Dussauld, J., Oudeyer, P. Y., &amp; Moulin-Frier, C. (2024). <em>Cultural evolution in populations of large language models</em>. <em>arXiv.</em> <a href=\"https://doi.org/10.48550/arXiv.2403.08882\">https://doi.org/10.48550/arXiv.2403.08882</a> </p>",
+              "customLabel": "Perez et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "]. Future work on language evolution will surely benefit from additional advances in cognitive science."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "acknowledgements",
+          "id": "acknowledgements",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Acknowledgments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "npgb81b5idg",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "I would like to thank Yngwie A. Nielsen, Calen MacDonald, and Juliana Marques de Souza for comments on an earlier draft."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading "
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nml1pryq9hn",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n8pvmsoom3q",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Christiansen, M. H., & Chater, N. (2022). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The language game: How improvisation created language and changed the world"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Basic Books."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nc3hsiy2y0q",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Pleyer, M., & Hartmann, S. (2019). Constructing a consensus on language evolution? Convergences and differences between biolinguistic and usage-based approaches. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Frontiers in Psychology"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "10"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 2537. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.3389/fpsyg.2019.02537",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.3389/fpsyg.2019.02537"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nb40wbozhob",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Smith, K. (2022). How language learning and language use create linguistic structure. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Current Directions in Psychological Science"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "31"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(2), 177-186. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1177/09637214211068127",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1177/09637214211068127"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

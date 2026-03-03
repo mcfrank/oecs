@@ -1,0 +1,1564 @@
+{
+  "id": "ff10c6af-74ab-41dc-98e2-4bd1c84cf7c2",
+  "slug": "oye8m8nz",
+  "title": "Generative Modeling",
+  "url": "https://oecs.mit.edu/pub/oye8m8nz",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "ff10c6af-74ab-41dc-98e2-4bd1c84cf7c2",
+    "slug": "oye8m8nz",
+    "title": "Generative Modeling",
+    "htmlTitle": "Generative Modeling",
+    "description": "",
+    "htmlDescription": "Phillip Isola (0000-0002-1411-6704), Massachusetts Institute of Technology",
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.ff10c6af",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "mh4nvy94",
+    "editHash": "0ka7utd0",
+    "reviewHash": "e23tv4nh",
+    "commentHash": "2ufmvidu",
+    "draftId": "69d8ed4d-0f3c-43f5-ac26-62d80b92816f",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "50e158e2-8bc2-4068-be92-7ca828347c73",
+    "scopeSummaryId": "686fc1ba-3d38-4fc6-927d-26d4eff3252c",
+    "createdAt": "2025-01-24T19:30:20.964Z",
+    "updatedAt": "2025-02-12T13:29:31.953Z",
+    "attributions": [
+      {
+        "id": "e38e1be5-92c6-46f2-82f5-1bdc27764b16",
+        "name": "Jun-Yan Zhu",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Carnegie Mellon University",
+        "orcid": "0000-0001-8504-3410",
+        "userId": null,
+        "pubId": "ff10c6af-74ab-41dc-98e2-4bd1c84cf7c2",
+        "createdAt": "2025-01-24T19:31:11.233Z",
+        "updatedAt": "2025-01-24T19:31:24.848Z",
+        "user": null
+      },
+      {
+        "id": "25458a21-f37e-4d1a-bc71-d0f55aa61aae",
+        "name": "Phillip Isola",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Massachusetts Institute of Technology",
+        "orcid": "0000-0002-1411-6704",
+        "userId": null,
+        "pubId": "ff10c6af-74ab-41dc-98e2-4bd1c84cf7c2",
+        "createdAt": "2025-01-24T19:31:46.246Z",
+        "updatedAt": "2025-01-24T19:31:57.608Z",
+        "user": null
+      },
+      {
+        "id": "e2ecc54b-23d3-4fa7-a249-5edbf2c94726",
+        "name": "Michael C. Frank",
+        "avatar": null,
+        "title": null,
+        "order": 0.9375,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Stanford University",
+        "orcid": "0000-0002-7551-4378",
+        "userId": null,
+        "pubId": "ff10c6af-74ab-41dc-98e2-4bd1c84cf7c2",
+        "createdAt": "2025-02-01T00:33:44.185Z",
+        "updatedAt": "2025-02-01T00:34:05.078Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "69d8ed4d-0f3c-43f5-ac26-62d80b92816f",
+      "latestKeyAt": "2025-03-04T21:10:19.424Z",
+      "firebasePath": "drafts/draft-69d8ed4d-0f3c-43f5-ac26-62d80b92816f",
+      "createdAt": "2025-01-24T19:30:20.962Z",
+      "updatedAt": "2025-06-26T20:40:53.450Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nd220iq29k8",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Generative models are statistical models that learn to generate data samples following the probability distribution "
+          },
+          {
+            "type": "math_inline",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "p(x)"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " of data "
+          },
+          {
+            "type": "math_inline",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "x"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". For example, a generative model trained on cat images could learn to produce new photos of cats. A useful variant, conditional generative models, can further take instructions c and create data according to the distribution "
+          },
+          {
+            "type": "math_inline",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "p(x\\mid c)"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " in its conditional form. For example, given the instruction, \u201cMake me a video of kids playing on a beach at sunset,\u201d a text-conditioned video generative model produces videos corresponding to this description. Generative models are distinguished from other kinds of machine learning models by two properties. First, their output is high dimensional and structured\u2014in other words, it is something that we would call \u201cdata\u201d rather than a label or a decision. Examples include text, images, videos, weather patterns, and more. Second, the mapping from input instructions to outputs is one-to-many. Many photos match the text instruction \u201ca beach at sunset,\u201d and the model should be able to output the entire distribution of possibilities. Generative models are widely used in computer vision, natural language processing, and machine learning. In cognitive science, probabilistic generative models are commonly used as priors for Bayesian models of perception and cognition."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5pve18w80y",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Humans have always been fascinated by creating data. For most of history, this was the domain of artists, musicians, and authors, among others. With the advent of machine learning, the ability to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "automate"
+          },
+          {
+            "type": "text",
+            "text": " the creation process, modeling and generating data via algorithms, has become a new focus."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nl2pxj0wsqu",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Classic generative models such as the Gaussian mixture model, which models observations as coming from a mixture of multiple different Gaussian distributions, have long been used to analyze data. Later, probabilistic graphical models ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny2oaz8tfff",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7a6icugc1r\" data-reactroot=\"\">Koller, D., &amp; Friedman, N. (2009). <em>Probabilistic graphical models: Principles and techniques</em>. MIT Press.</p>",
+              "customLabel": "Koller & Friedman, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") became popular tools for generative modeling, with a focus on discovering latent structures. Notable examples include restricted Boltzmann machines ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvrxp8yk1c6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwxapxpzmp3\" data-reactroot=\"\">Smolensky, P. (1986). <em>Information processing in dynamical systems: Foundations of harmony theory</em>. University of Colorado.</p>",
+              "customLabel": "Smolensky, 1986",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and deep belief networks ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqndbbf37y6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nazztk9yc03\" data-reactroot=\"\">Hinton, G. E. (2009). Deep belief networks. <em>Scholarpedia Journal</em>. <a href=\"http://scholarpedia.org/article/Deep_Belief_Networks\" title=\"\">http://scholarpedia.org/article/Deep_Belief_Networks</a></p>",
+              "customLabel": "Hinton, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Since learning a probability density is quite challenging, several methods were introduced to instead learn unnormalized densities (energy functions) or density derivatives (score functions; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6efxhjp3kn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nji2fj9pe6t\" data-reactroot=\"\">Hinton, G. E. (2002). Training products of experts by minimizing contrastive divergence. <em>Neural Computation</em>, <em>14</em>(8), 1771\u20131800. <a href=\"https://doi.org/10.1162/089976602760128018\">https://doi.org/10.1162/089976602760128018</a> </p>",
+              "customLabel": "Hinton, 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nssp5kr6uac",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf6931x09ej\" data-reactroot=\"\">Hyv\u00e4rinen, A. (2005). Estimation of non-normalized statistical models by score matching. <em>Journal of Machine Learning Research</em>, <em>6</em>, 695\u2013709.</p>",
+              "customLabel": "Hyv\u00e4rinen, 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), as these relative quantities are often sufficient for sampling. However, the models of this era were relatively small and only succeeded on modeling simple, low-dimensional distributions."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "neytxzhq1h3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Since 2014, deep neural networks have become the dominant architecture for generative modeling. Popular methods within this family include generative adversarial networks ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n88tce8x0rb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nh071ajvx0j\" data-reactroot=\"\">Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., &amp; Bengio, Y. (2014). Generative adversarial nets. In Z. Ghahramani, M. Welling, C. Cortes, N. Lawrence, &amp; K.Q. Weinberger (Eds.), <em>Advances in Neural Information Processing Systems 27 (NIPS 2014). </em>NeurIPS Proceedings.</p>",
+              "customLabel": "Goodfellow et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), variational autoencoders ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nya9511s6oo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2syltzvxer\" data-reactroot=\"\">Kingma, D. P., &amp; Welling, M. (2014). Auto-encoding variational bayes. <em>arXiv</em>. <a href=\"https://doi.org/10.48550/arXiv.1312.6114\">https://doi.org/10.48550/arXiv.1312.6114</a> </p>",
+              "customLabel": "Kingma & Welling, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), autoregressive models ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0nczz10s72",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nr9aiwoq0al\" data-reactroot=\"\">van den Oord, A., Dieleman, S., Zen, H., Simonyan, K., Vinyals, O., Graves, A., Kalchbrenner, N., Senior, A., &amp; Kavukcuoglu, K. (2016). WaveNet: A generative model for raw audio. <em>Speech Synthesis Workshop</em>, 125.</p>",
+              "customLabel": "van den Oord et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), flow-based models ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngu1h1spk97",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ncaeviurtdg\" data-reactroot=\"\">Dinh, L., Sohl-Dickstein, J., &amp; Bengio, S. (2017). Density estimation using Real NVP. <em>arXiv. </em><a href=\"https://doi.org/10.48550/arXiv.1605.08803\">https://doi.org/10.48550/arXiv.1605.08803</a> </p>",
+              "customLabel": "Dinh et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), diffusion models ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuv95gl6sie",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmbmikvlofq\" data-reactroot=\"\">Ho, J., Jain, A., &amp; Abbeel, P. (2020). Denoising diffusion probabilistic models. <em>Advances in Neural Information Processing Systems</em>, <em>33</em>, 6840\u20136851.</p>",
+              "customLabel": "Ho et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny2b8s5fga5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxget2zpmxl\" data-reactroot=\"\">Sohl-Dickstein, J., Weiss, E., Maheswaranathan, N., &amp; Ganguli, S. (2015). Deep unsupervised learning using nonequilibrium thermodynamics. In F. Bach &amp; D. Blei (Eds.), <em>Proceedings of the 32nd International Conference on Machine Learning</em> (vol. 37, pp. 2256\u20132265). PMLR.</p>",
+              "customLabel": "Sohl-Dickstein et al., 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and score-based models ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npw23d63pr3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyxlra4022p\" data-reactroot=\"\">Song, Y., &amp; Ermon, S. (2019). Generative modeling by estimating gradients of the data distribution. <em>arXiv. </em><a href=\"https://doi.org/10.48550/arXiv.1907.05600\">https://doi.org/10.48550/arXiv.1907.05600</a> </p>",
+              "customLabel": "Song & Ermon, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These methods are effective at modeling the full distribution of high-dimensional data. Their success is due to development of the abovementioned new generative models, advances in neural network architectures, and the availability of massive training datasets."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ns7zfpv0amj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Generative models need to map from each given input instruction to a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "distribution"
+          },
+          {
+            "type": "text",
+            "text": " of outputs. This is a one-to-many mapping problem. The typical way to solve it is to define a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "stochastic"
+          },
+          {
+            "type": "text",
+            "text": " mapping, in which each time you run the model, you get a different randomized output. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/oye8m8nz#n25098wqsqb",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Figure 1"
+          },
+          {
+            "type": "text",
+            "text": " provides an overview of learning and sampling algorithms."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "sampling",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Sampling"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nk55rbp4dwe",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "How can we define such a stochastic mapping? There are two main methods: sampling with a generator and sampling from a density function. In the first method, we augment the input to the generator with a random variable, often referred to as \u201cnoise.\u201d The generator, a deterministic function, uses this variable to produce the output directly. The idea is that this variable specifies all the latent factors necessary to determine the output, which are unspecified by the input instructions. For example, in a cat generator, the random variables might determine the cat\u2019s pose, lighting, and appearance."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n8u3qgyvzra",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "n25098wqsqb",
+          "url": "https://assets.pubpub.org/gdy4396k/fig1-71737747188063.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"no205bqtcp8\" data-reactroot=\"\">Generative models consist of two phases: (1) learning\u2014from a set of training examples, the model learns a distribution from which these examples could have been sampled\u2014and (2) sampling\u2014new samples are drawn from the inferred distribution.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6eijfu86uf",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbo05tcpswx",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The other approach is to learn a density function that maps from inputs "
+          },
+          {
+            "type": "math_inline",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "x"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " to a probability distribution that assigns a scalar to each possible output representing their probability of occurring. We then draw new samples from this distribution with algorithms such as the Markov Chain Monte Carlo (MCMC; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nml4akfixaq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n12yxdwl4vn\" data-reactroot=\"\">Robert, C., &amp; Casella, G. (2013). <em>Monte Carlo statistical methods</em>. Springer Science &amp; Business Media.</p>",
+              "customLabel": "Robert & Casella, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or its Langevin-type variant ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ng42usy6v0a",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2bcfam84py\" data-reactroot=\"\">Neal, R. M. (2012). MCMC using Hamiltonian dynamics. <em>arXiv</em>. <a href=\"https://doi.org/10.48550/arXiv.1206.1901\">https://doi.org/10.48550/arXiv.1206.1901</a> </p>",
+              "customLabel": "Neal, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/n6c8sb19",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Markov Chain Monte Carlo"
+          },
+          {
+            "type": "text",
+            "text": "]. The high-level idea is to begin with a randomly initialized data point "
+          },
+          {
+            "type": "math_inline",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "x"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " and iteratively move it toward regions of higher probability. For example, we can initialize an image with Gaussian noise, where no training images are nearby. The sampling algorithm then moves this image into a high-density area, where many training images reside, resulting in a more realistic cat image."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "learning",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Learning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n8al93zerp2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "How can we learn such a model? Most generative modeling methods use some form of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "maximum likelihood estimation"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "math_inline",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "\\arg \\max_{\\theta} E_x \\log p_{\\theta}(x)"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "), in which we maximize the expected log-likelihood of the training data under the density function "
+          },
+          {
+            "type": "math_inline",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "p_{\\theta}"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". The idea is to assign more probability density to regions of the output space where the training data is found while reducing the density for regions where there is little or no training data. However, estimating the probability of high-dimensional data is often intractable. To tackle this issue, researchers either rely on architectures with certain restrictions (e.g., invertible networks and sequential data generation) to compute exact likelihood, use approximation methods such as variational methods and MCMC, or adopt adversarial learning, which uses a binary classifier that distinguishes generated samples from real data and trains a generator to\u00a0fool the classifier."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "applications",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Applications"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n118ukm127f",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In addition to content creation, generative models can be used for a wide variety of applications, including producing synthetic training data for other machine learning algorithms, acting as world models in model-based reinforcement learning, discovering data structures through latent variable modeling, deriving useful representations for downstream tasks, and compressing data."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrupvk7hzlb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Generative models introduce two types of controversies: that they are not good enough and that they are too good. The first deals with issues of bias and hallucinations. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Bias"
+          },
+          {
+            "type": "text",
+            "text": " occurs when a model\u2019s outputs systematically differ from what we want, either due to training on data that is biased (compared to the ideal data distribution we want) or due to the model poorly fitting the data. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Hallucination"
+          },
+          {
+            "type": "text",
+            "text": " happens when the model\u2019s outputs are inconsistent with reality. For example, a language model might produce sentences that are factually incorrect [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5t30i8q3oa",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The second controversy is that generative models can be too good, producing images, voices, videos, and more that look so real they can fool humans. This can lead to misinformation, as seeing is no longer believing. To address this issue, visual forensics techniques ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvhp8vv9mh9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndnv689tld6\" data-reactroot=\"\">Farid, H. (2009). Image forgery detection. <em>IEEE Signal Processing Magazine</em>, <em>26</em>(2), 16-25. <a href=\"https://doi.org/10.1109/MSP.2008.931079\">https://doi.org/10.1109/MSP.2008.931079</a> </p>",
+              "customLabel": "Farid, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") have been developed to automatically detect synthetic images, although this cat-and-mouse game continues as both forensics algorithms and generative models become more powerful."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhi7mmmu3a9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One notable example of generative modeling in language domains is large language models, which are primarily based on autoregressive models. More broadly, generative models have seen extensive use in defining priors for Bayesian models as they are used to model psychological phenomena [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/lwxmte1p",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Bayesian Models of Cognition"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/98iya9su",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Bayesianism"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "acknowledgments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Acknowledgments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ng5jl6pxabj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "We would like to thank the valuable comments from reviewers and editors. We also thank the generous support from the Packard Foundation, Sloan Foundation, and the National Science Foundation (IIS-2239076 and ISS-2403303)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Further reading"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nmt6zhkzxr5",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n8wnzrslqed",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Goodfellow, I. (2016). NIPS 2016 tutorial: Generative adversarial networks. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "arXiv"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.48550/arXiv.1701.00160",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.48550/arXiv.1701.00160"
+                  },
+                  {
+                    "type": "text",
+                    "text": "  "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nhajl29yr2e",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Kingma, D. P., & Welling, M. (2019). An introduction to variational autoencoders. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Foundations and Trends\u00ae in Machine Learning"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "12"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(4), 307\u2013392. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1561/2200000056",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1561/2200000056"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nm6gacevthe",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Song, Y., & Kingma, D. P. (2021). How to train your energy-based models. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "arXiv"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.48550/arXiv.2101.03288",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.48550/arXiv.2101.03288"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n0rb8ltjv0j",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Tomczak, J. M. (2022). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Deep generative modeling."
+                  },
+                  {
+                    "type": "text",
+                    "text": " Springer."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

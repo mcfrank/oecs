@@ -1,0 +1,961 @@
+{
+  "id": "83209e91-e2a9-4e53-9fcf-1ddc2e520525",
+  "slug": "2vci5sg1",
+  "title": "Virtual Reality",
+  "url": "https://oecs.mit.edu/pub/2vci5sg1",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "83209e91-e2a9-4e53-9fcf-1ddc2e520525",
+    "slug": "2vci5sg1",
+    "title": "Virtual Reality",
+    "htmlTitle": "Virtual Reality",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.83209e91",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "kazt7o41",
+    "editHash": "yd49l5nf",
+    "reviewHash": "bud38jk5",
+    "commentHash": "xxd73763",
+    "draftId": "eb767613-119f-4655-9bcf-bbc6239d0126",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "86616305-b8a0-4253-8ae7-e5fa70ab0a87",
+    "scopeSummaryId": "5c0d7d54-6957-478b-b8b5-104abaff184d",
+    "createdAt": "2024-06-14T13:45:17.176Z",
+    "updatedAt": "2024-07-24T13:27:32.193Z",
+    "attributions": [
+      {
+        "id": "ba0c64ad-1278-4394-a033-b9ba8d8fb18b",
+        "name": "Jeremy N. Bailenson",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Stanford University",
+        "orcid": "0000-0003-2813-3297",
+        "userId": null,
+        "pubId": "83209e91-e2a9-4e53-9fcf-1ddc2e520525",
+        "createdAt": "2024-06-14T13:46:01.282Z",
+        "updatedAt": "2024-06-14T13:46:15.808Z",
+        "user": null
+      },
+      {
+        "id": "39a09b56-42b7-4b25-8009-3f91f288240d",
+        "name": "Michael C. Frank",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "section editor"
+        ],
+        "affiliation": "Stanford University",
+        "orcid": "0000-0002-7551-4378",
+        "userId": null,
+        "pubId": "83209e91-e2a9-4e53-9fcf-1ddc2e520525",
+        "createdAt": "2024-07-23T22:13:34.395Z",
+        "updatedAt": "2024-07-23T22:13:50.203Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "eb767613-119f-4655-9bcf-bbc6239d0126",
+      "latestKeyAt": "2024-07-23T11:10:53.838Z",
+      "firebasePath": "drafts/draft-eb767613-119f-4655-9bcf-bbc6239d0126",
+      "createdAt": "2024-06-14T13:45:17.173Z",
+      "updatedAt": "2024-07-24T13:33:05.956Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ni52vg70pps",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Virtual reality (VR) is a technology that provides perceptually rich, multisensory simulations that surround users and respond to naturalistic body movements. VR has been studied by cognitive scientists in three main areas. First, VR has been used as a tool to study basic cognitive processes, for example, creating experimental stimuli using rich, realistic scenes in which people can interact naturally while still maintaining rigid experimental control.\u00a0 Second, VR has been studied as a medium itself; scholars have developed theories based on the medium and have researched the affordances of the technology as its own intellectual endeavor. Finally, the medium has a rich history of applications related to cognitive science, including mental health and training.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nr4q1qpzvh0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The emergence of VR as a medium is most associated with the work of Ivan Sutherland and Jaron Lanier (for a thorough discussion of the history of the technology, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nne2zmo91wj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqvnc4q77n9\" data-reactroot=\"\">Lanier, J. (2017). <em>Dawn of the new everything: Encounters with reality and virtual reality</em>. Henry Holt and Company.</p>",
+              "customLabel": "Lanier, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0 Although Lanier is most known as a technologist, his development of VR hardware and software was accompanied by theoretical work central to cognitive science.\u00a0 For example, he developed the concept of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "homuncular flexibility"
+          },
+          {
+            "type": "text",
+            "text": ", the ability to transform one\u2019s body by remapping biological movements of nonhuman avatars with novel limbs and other appendages [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/ydxr9tvu",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Bodily Sensations"
+          },
+          {
+            "type": "text",
+            "text": "]. However, the direct use of the medium in psychological research is most associated with the work of Jack Loomis and colleagues at the University of California, Santa Barbara in the mid 1990s ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrma2en1q0w",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9a8d2kt24f\" data-reactroot=\"\">Loomis, J. M., Blascovich, J. J., &amp; Beall, A. C. (1999). Immersive virtual environment technology as a basic research tool in psychology. <em>Behavior Research Methods, Instruments, &amp; Computers</em>, <em>31</em>(4), 557\u2013564. <a href=\"https://doi.org/10.3758/BF03200735\" target=\"_blank\">https://doi.org/10.3758/BF03200735</a></p>",
+              "customLabel": "Loomis et al., 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), which provided early theories and empirical work on VR\u2019s use to study perception, cognition, and social interaction."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "notqt8zg7zy",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "There are three main areas of research within cognitive science.\u00a0 Although there is some overlap among them, in general, scholars tend to primarily focus on one of the three.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "vr-as-a-tool-to-study-the-mind",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "VR as a tool to study the mind"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqoz1r5cnw6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "An early paper outlined the advantages of using VR, referred to as \u201cimmersive virtual environment technology\u201d, as a tool to study basic psychological processes ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny1o2ts64lt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny8qbj4oj92\" data-reactroot=\"\">Loomis, J. M., Blascovich, J. J., &amp; Beall, A. C. (1999). Immersive virtual environment technology as a basic research tool in psychology. <em>Behavior Research Methods, Instruments, &amp; Computers</em>, <em>31</em>(4), 557\u2013564. <a href=\"https://doi.org/10.3758/BF03200735\" target=\"_blank\">https://doi.org/10.3758/BF03200735</a></p>",
+              "customLabel": "Loomis et al., 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The same way computers drastically changed psychological study by allowing researchers to easily present text, images, and movies in controlled sequences and measure outcomes such as reaction time, it was argued VR could similarly transform the field.\u00a0 Although computers give great amounts of experimental control, seeing images flashed on a screen while clicking buttons is not how people interact in the real world, and VR can provide the best of both worlds, creating realistic experiences for participants that still allow precise control by researchers. An extension of this work into social interaction (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6899mcwvdw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5ehfkz9tg1\" data-reactroot=\"\">Blascovich, J., Loomis, J., Beall, A. C., Swinth, K. R., Hoyt, C. L., &amp; Bailenson, J. N. (2002). Immersive virtual environment technology as a methodological tool for social psychology. <em>Psychological Inquiry</em>, <em>13</em>(2), 103\u2013124. <a href=\"https://doi.org/10.1207/S15327965PLI1302_01\" target=\"_blank\">https://doi.org/10.1207/S15327965PLI1302_01</a></p>",
+              "customLabel": "Blascovich et al., 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), led to the Threshold Model of Social Influence, which is a theoretical model generating research hypotheses and interpreting outcomes of studies that feature some form of social interaction [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/1cafk2cg",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Proxemics"
+          },
+          {
+            "type": "text",
+            "text": "]. Since those papers were initially published, there have been hundreds of studies using VR as a tool to study memory, perception, decision-making, attitude change, nonverbal synchrony, and a host of other cognitive and social processes."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "studying-the-medium-itself",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Studying the medium itself"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkoxcnhx3ue",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "VR is so drastically different from other media that many scholars have dedicated careers to creating theories and collecting empirical data about the medium itself.\u00a0 Early scholars explicated and studied the concept of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "presence "
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk6uef275or",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5wro9eu2nm\" data-reactroot=\"\">Biocca, F., &amp; Levy, M. R. (1995). Virtual reality as a communication system. In F. Biocca &amp; M. R. Levy (Eds.), <em>Communication in the age of virtual reality</em> (pp. 15\u201331). Erlbaum Associates, Inc.</p>",
+              "customLabel": "Biocca & Levy, 1995",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4cn1x5z5f6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny5hznvqds7\" data-reactroot=\"\">Slater, M., &amp; Wilbur, S. (1997). A framework for immersive virtual environments (FIVE): Speculations on the role of presence in virtual environments. <em>Presence: Teleoperators &amp; Virtual Environments</em>, <em>6</em>(6), 603\u2013616. <a href=\"https://doi.org/10.1162/pres.1997.6.6.603\" target=\"_blank\">https://doi.org/10.1162/pres.1997.6.6.603</a></p>",
+              "customLabel": "Slater & Wilbur, 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0 Although there are many instantiations and definitions of presence, the basic concept is \u201cthe illusion of nonmediation.\u201d\u00a0 When people use VR, the medium tends to disappear, and people behave in a similar manner to how they behave in the real world. There have been thousands of studies of VR as a medium, including several meta-analyses, for example, linking the immersive technological features (i.e., field of view, resolution, amount of body tracking) to the psychological outcome of presence ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4pakwwqqng",
+              "href": null,
+              "value": "https://doi.org/10.1080/15213269.2015.1015740",
+              "unstructuredValue": "",
+              "customLabel": "Cummings & Bailenson, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0 Presence can be applied to the virtual environment itself as well as to social actors within the environment ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny1hdow620j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"na883j4o3jw\" data-reactroot=\"\">Lee, K. M. (2004). Presence, explicated. <em>Communication Theory</em>, <em>14</em>(1), 27\u201350. <a href=\"https://doi.org/10.1111/j.1468-2885.2004.tb00302.x\" target=\"_blank\">https://doi.org/10.1111/j.1468-2885.2004.tb00302.x</a></p>",
+              "customLabel": "Lee, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "applications-of-vr",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Applications of VR"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nab8826f5ka",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "VR has long been used in the real world in various cognitive and more general psychological applications. For example, after the 9/11 attacks in the United States, psychologists reconstructed the horrible events such as first-person views of planes hitting the towers in order to help first responders to overcome the trauma they experienced ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nenxfglh6jv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbzw2fy8ihk\" data-reactroot=\"\">Difede, J., &amp; Hoffman, H. G. (2002). Virtual reality exposure therapy for World Trade Center Post-traumatic Stress Disorder: A case report. <em>Cyberpsychology &amp; Behavior</em>, <em>5</em>(6), 529\u2013535. <a href=\"https://doi.org/10.1089/109493102321018169\" target=\"_blank\">https://doi.org/10.1089/109493102321018169</a></p>",
+              "customLabel": "Difede & Hoffman, 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Clinicians have also used the medium to implement cognitive exposure therapy, allowing therapists to safely guide patients to immersive scenes that simulate trauma (for a recent review, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsr8cbhefyg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5saf1woh00\" data-reactroot=\"\">Rizzo, A. S., Hartholt, A., &amp; Mozgai, S. (2024). Settling the score: Virtual reality as a tool to enhance trauma-focused therapy for PTSD. In G. J. Rich, V. K. Kumar, &amp; F. H. Farley (Eds.), <em>Handbook of media psychology: The science and the practice</em> (pp. 187\u2013213). Springer. <a href=\"https://doi.org/10.1007/978-3-031-56537-3_14\" target=\"_blank\">https://doi.org/10.1007/978-3-031-56537-3_14</a></p>",
+              "customLabel": "Rizzo et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Outside of clinical applications, one of the largest uses of VR has been in training scenarios, for example, leveraging the embodied aspect of the medium to improve learning transfer ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxikz3acb6d",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvxx6aajpow\" data-reactroot=\"\">Makransky, G., Borre\u2010Gude, S., &amp; Mayer, R. E. (2019). Motivational and cognitive benefits of training in immersive virtual reality based on multiple assessments. <em>Journal of Computer Assisted Learning</em>, <em>35</em>(6), 691\u2013707. <a href=\"https://doi.org/10.1111/jcal.12375\" target=\"_blank\">https://doi.org/10.1111/jcal.12375</a></p>",
+              "customLabel": "Makranksy et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0 In general, VR\u2019s most compelling use cases often involve training, where learners can safely make mistakes during simulations that would be dangerous, impossible, counterproductive, or expensive (i.e., DICE) in the real world ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nl43itysgxz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nriru07jn7r\" data-reactroot=\"\">Bailenson, J., &amp; Lesher, M. (2024). Virtual reality and its opportunities and risks. In <em>OECD Digital Economy Outlook 2024: Embracing the Technology Frontier</em>. (Vol. 1).\u00a0<a href=\"https://doi.org/10.1787/a1689dc5-en\">https://doi.org/10.1787/a1689dc5-en</a></p>",
+              "customLabel": "Bailenson & Lesher, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhgx87i9cui",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "As VR migrates from academic laboratories into homes and classrooms around the world, researchers need to study the effect this medium will have on society.\u00a0 Recent technological implementations of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "mixed reality "
+          },
+          {
+            "type": "text",
+            "text": "(sometimes described as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "augmented reality"
+          },
+          {
+            "type": "text",
+            "text": "), where users can see real-time video of the actual world while simultaneously viewing immersive content, now cost less than a smartphone.\u00a0 Technology companies are hoping these new immersive headsets will become the new interface for computing and are investing billions of dollars, hoping the devices become pervasive.\u00a0 However, as yet there are limited studies from the research community of the cognitive and other psychological effects of VR use.\u00a0 More scholarship\u2014in particular, studies with large and diverse samples\u2014is needed ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nezdto94b3r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz15r34wkqy\" data-reactroot=\"\">Peck, T. C., McMullen, K. A., &amp; Quarles, J. (2021). Divrsify: Break the cycle and develop VR for everyone. <em>IEEE Computer Graphics and Applications</em>, <em>41</em>(6), 133\u2013142. <a href=\"https://doi.org/10.1109/MCG.2021.3113455\" target=\"_blank\">https://doi.org/10.1109/MCG.2021.3113455</a></p>",
+              "customLabel": "Peck et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "npbmufugzui",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Many VR researchers take inspiration from the vast literature on perceptual\u00a0 illusions.\u00a0 After all, VR tricks the mind into believing one has traveled to a new location or has swapped bodies into an avatar.\u00a0 For those looking to learn more about VR, understanding how the brain processes illusions is a great way to start.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Further reading\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nn6uwsctcgr",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n3bpx8t22h0",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bailenson, J. (2018). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Experience on demand: What virtual reality is, how it works, and what it can do"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". WW Norton & Company."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "noqfm7c17ys",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Sanchez-Vives, M. V., & Slater, M. (2005). From presence to consciousness through virtual reality. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Nature Reviews Neuroscience"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "6"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(4), 332\u2013339. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1038/nrn1651",
+                          "title": "",
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1038/nrn1651"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

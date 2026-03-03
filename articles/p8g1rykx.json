@@ -1,0 +1,1684 @@
+{
+  "id": "1e7a47fb-f710-46b3-aa3d-273fb7d38403",
+  "slug": "p8g1rykx",
+  "title": "Event Cognition",
+  "url": "https://oecs.mit.edu/pub/p8g1rykx",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "1e7a47fb-f710-46b3-aa3d-273fb7d38403",
+    "slug": "p8g1rykx",
+    "title": "Event Cognition",
+    "htmlTitle": "Event Cognition",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.1e7a47fb",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "rdbrf2b1",
+    "editHash": "43eqr3ds",
+    "reviewHash": "9vljh2tb",
+    "commentHash": "ycg8e9qy",
+    "draftId": "fe725f82-5832-4cde-86e2-9dc32fe84bb1",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "406475bc-632d-4676-a8e7-83a76902b45d",
+    "scopeSummaryId": "c7bc5fd4-b5b7-4615-ac04-fcf6e9c24b63",
+    "createdAt": "2025-09-02T14:49:17.128Z",
+    "updatedAt": "2025-09-23T12:23:44.730Z",
+    "attributions": [
+      {
+        "id": "a119e4ae-95f5-4f8d-96bf-12782a34e65c",
+        "name": "Asifa Majid",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "University of Oxford",
+        "orcid": "0000-0003-0132-216X",
+        "userId": null,
+        "pubId": "1e7a47fb-f710-46b3-aa3d-273fb7d38403",
+        "createdAt": "2025-09-08T20:52:08.572Z",
+        "updatedAt": "2025-09-08T20:52:18.882Z",
+        "user": null
+      },
+      {
+        "id": "8706b0e6-6101-4e10-ba54-549545c501b3",
+        "name": "Jeffrey M. Zacks",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Washington University in Saint Louis",
+        "orcid": "0000-0003-1171-3690",
+        "userId": null,
+        "pubId": "1e7a47fb-f710-46b3-aa3d-273fb7d38403",
+        "createdAt": "2025-09-02T14:49:51.227Z",
+        "updatedAt": "2025-09-02T14:50:02.730Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "fe725f82-5832-4cde-86e2-9dc32fe84bb1",
+      "latestKeyAt": "2025-09-21T03:41:01.912Z",
+      "firebasePath": "drafts/draft-fe725f82-5832-4cde-86e2-9dc32fe84bb1",
+      "createdAt": "2025-09-02T14:49:17.112Z",
+      "updatedAt": "2025-09-23T12:23:06.527Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqpxx7xe4bf",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Event cognition"
+          },
+          {
+            "type": "text",
+            "text": " is the study of how minds and brains form, manipulate, store, and use representations of events. It encompasses "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "event perception"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "event memory"
+          },
+          {
+            "type": "text",
+            "text": ", and aspects of planning and action control. Events are a central feature of human experience, but they are somewhat under-studied compared to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "objects"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "entities"
+          },
+          {
+            "type": "text",
+            "text": " (people and other animate agents). Event cognition has roots in philosophical investigations of actions and events, in ecological psychology, and in investigations of text processing by humans and computers. Natural activity is dynamic and continuous, but perception segments activity into discrete events, which bind together features in a common spatiotemporal framework. These events are simultaneously represented on multiple timescales. Event segmentation during perception determines the units of later long-term memory. A significant volume of the cortex appears to be involved in constructing and updating representations of events, which makes sense given the central role that events play in comprehension, memory, and action planning."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ny9xhhh6l5a",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Event cognition has philosophical roots in two twin questions: \u201cwhat is an event?\u201d and \u201cwhat is an action?\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5wr0kwzfs6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8uine56no7\" data-reactroot=\"\">Casati, R., &amp; Varzi, A. C. (1996). <em>Events</em>. Dartmouth.</p>",
+              "customLabel": "Casati & Varzi, 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Philosophers have looked for analogies to objects, considering what constitutes the boundaries of events, their parts, their category structure, and their relations to other kinds of things. In psychology, one important basis for event cognition is "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsrfy2235ut",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzqhp7i14me\" data-reactroot=\"\">Gibson, J. J. (1979). <em>The ecological approach to visual perception</em>. Houghton Mifflin.</p>",
+              "customLabel": "Gibson\u2019s (1979)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "ecological"
+          },
+          {
+            "type": "text",
+            "text": " approach to event perception, which emphasized analyzing the spatiotemporal structure of the environment in which an organism perceives and acts. Whereas Gibson\u2019s approach focused on the structure in the external world and avoided proposing structured mental representations, work on "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "scripts"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n73m4k0wfma",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0lzocr9nsj\" data-reactroot=\"\">Schank, R. C., &amp; Abelson, R. P. (1977). <em>Scripts, plans, goals, and understanding: An inquiry into human knowledge structures</em>. L. Erlbaum Associates.</p>",
+              "customLabel": "Schank & Abelson, 1977",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "schemas"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5cv1e7kef3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzkjz41xgct\" data-reactroot=\"\">Bartlett, F. C. (1932). <em>Remembering: A study in experimental and social psychology.</em> The Macmillan Company.</p>",
+              "customLabel": "Bartlett, 1932",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2b010x8bvb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlmcuwrm88b\" data-reactroot=\"\">Rumelhart, D. E. (1980). Schemata: The building blocks of cognition. In R. J. Spiro, B. C. Bruce, &amp; W. F. Brewer (Eds.), <em>Theoretical issues in reading comprehension: Perspectives from cognitive psychology, linguistics, artificial intelligence, and education</em> (pp. 33\u201358). L. Erlbaum Associates.</p>",
+              "customLabel": "Rumelhart, 1980",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") in psychology and computer science focused intensively on how structured knowledge representations contribute to understanding and remembering events. Another important basis for current thinking about events comes from "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni9tfl9jish",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5vp8a60oz3\" data-reactroot=\"\">Newtson, D. (1976). Foundations of attribution: The perception of ongoing behavior. In J. H. Harvey, W. J. Ickes, &amp; R. F. Kidd (Eds.), <em>New directions in attribution research</em> (pp. 223\u2013248). Lawrence Erlbaum Associates.</p>",
+              "customLabel": "Darren Newtson\u2019s (1976)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " studies of how events are individuated in the stream of behavior; his research crystallized the problem of event segmentation as an important one for cognitive science."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nt9bafti9li",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "After Gibson\u2019s and Newtson\u2019s major works, work on events in perception waned for two decades, while research on comprehension and memory for events in narrative text picked up ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw3qmin8hbn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njsnvhd4uxc\" data-reactroot=\"\">Bower, G. H., &amp; Morrow, D. G. (1990). Mental models in narrative comprehension. <em>Science</em>, <em>247</em>(4938), 44\u201348. <a href=\"https://doi.org/10.1126/science.2403694\" target=\"_blank\">https://doi.org/10.1126/science.2403694</a></p>",
+              "customLabel": "Bower & Morrow, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nov4q6sxvjs",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqaceqe71dw\" data-reactroot=\"\">van Dijk, T. A., &amp; Kintsch, W. (1983). <em>Strategies of discourse comprehension</em>. Academic Press.</p>",
+              "customLabel": "van Dijk & Kintsch, 1983",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Since about 2000, there has been a rekindled interest in event perception and its relationship to memory and other related phenomena ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n64c994iuw0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf1vmhecnp0\" data-reactroot=\"\">Zacks, J. M. (2020). Event perception and memory. <em>Annual Review of Psychology</em>, <em>71</em>(1), 165\u2013191. <a href=\"https://doi.org/10.1146/annurev-psych-010419-051101\">https://doi.org/10.1146/annurev-psych-010419-051101</a></p>",
+              "customLabel": "Zacks, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "segmentation",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Segmentation"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nz5di6t5x6e",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Imagine you are watching someone make banana bread. Their movements are continuous and dynamic, but you will likely have the sense that the continuous stream of behavior is segmented into a set of distinct events that follow one after the other: mashing the bananas, mixing the wet ingredients, adding the dry one, and so forth. The "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "segmentation"
+          },
+          {
+            "type": "text",
+            "text": " of the continuous stream of behavior into meaningful chunks separated by "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "event boundaries"
+          },
+          {
+            "type": "text",
+            "text": " is a striking phenomenological feature of everyday experience, and it is accompanied by robust behavioral and neurophysiological correlates"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nforj8ml9sc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf1vmhecnp0\" data-reactroot=\"\">Zacks, J. M. (2020). Event perception and memory. <em>Annual Review of Psychology</em>, <em>71</em>(1), 165\u2013191. <a href=\"https://doi.org/10.1146/annurev-psych-010419-051101\">https://doi.org/10.1146/annurev-psych-010419-051101</a></p>",
+              "customLabel": "Zacks, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Event segmentation is consistent across observers and is accompanied by changes in eye movements ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nv05napvr6n",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyb12am2olg\" data-reactroot=\"\">Smith, M. E., Loschky, L. C., &amp; Bailey, H. R. (2024). Eye movements and event segmentation: Eye movements reveal age-related differences in event model updating. <em>Psychology and Aging</em>, <em>39</em>(2), 180\u2013187. <a href=\"https://doi.org/10.1037/pag0000773\" target=\"_blank\">https://doi.org/10.1037/pag0000773</a></p>",
+              "customLabel": "Smith et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), increases in brain activity in components of the brain\u2019s default mode network ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0szs4b9nte",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhs663ki3ex\" data-reactroot=\"\">Zacks, J. M., Braver, T. S., Sheridan, M. A., Donaldson, D. I., Snyder, A. Z., Ollinger, J. M., Buckner, R. L., &amp; Raichle, M. E. (2001). Human brain activity time-locked to perceptual event boundaries. <em>Nature Neuroscience</em>, <em>4</em>(6), 651\u2013655. <a href=\"https://doi.org/10.1038/88486\" target=\"_blank\">https://doi.org/10.1038/88486</a></p>",
+              "customLabel": "Zacks, Braver, et al., 2001",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and shifts in the local pattern of activity in regions of the cortex ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nt3ytf7iyp7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyhsjq0aekv\" data-reactroot=\"\">Baldassano, C., Chen, J., Zadbood, A., Pillow, J. W., Hasson, U., &amp; Norman, K. A. (2017). Discovering event structure in continuous narrative perception and memory. <em>Neuron</em>, <em>95</em>(3), 709\u2013721.e5. <a href=\"https://doi.org/10.1016/j.neuron.2017.06.041\" target=\"_blank\">https://doi.org/10.1016/j.neuron.2017.06.041</a></p>",
+              "customLabel": "Baldassano et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwjz8hhtlaw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nagfgm3arz7\" data-reactroot=\"\">Geerligs, L., van Gerven, M., &amp; G\u00fc\u00e7l\u00fc, U. (2021). Detecting neural state transitions underlying event segmentation. <em>NeuroImage</em>, <em>236</em>, 118085. <a href=\"https://doi.org/10.1016/j.neuroimage.2021.118085\" target=\"_blank\">https://doi.org/10.1016/j.neuroimage.2021.118085</a></p>",
+              "customLabel": "Geerligs et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These findings converge on a conclusion that each experienced event corresponds to an "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "event model"
+          },
+          {
+            "type": "text",
+            "text": " constructed in working memory [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.21428/e2759450.4f342e36",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Working Memory"
+          },
+          {
+            "type": "text",
+            "text": "] that represents the current state of affairs\u2014for example, while watching banana bread being made, you might have an event model that includes information about the cook, the countertop, the ingredients, the actions being performed, and relations among these. Event boundaries are then the points at which comprehenders update their event models."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "spatiotemporal-framework",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Spatiotemporal framework"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "noefk3uvljd",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Event models encode relationships between objects, people, and the actions performed by people by locating them within a shared "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "spatiotemporal framework"
+          },
+          {
+            "type": "text",
+            "text": " [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.21428/e2759450.3036d218",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Action"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.21428/e2759450.f1b0237e",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Spatial Cognition"
+          },
+          {
+            "type": "text",
+            "text": "] ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nq0wjx6v6q1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npwtppaveys\" data-reactroot=\"\">Johnson-Laird, P. N. (1983). <em>Mental models: Towards a cognitive science of language, inference, and consciousness</em>. Harvard University Press.</p>",
+              "customLabel": "Johnson-Laird, 1983",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4blap7f74c",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2ekl715dix\" data-reactroot=\"\">Zwaan, R. A., &amp; Radvansky, G. A. (1998). Situation models in language comprehension and memory. <em>Psychological Bulletin</em>, <em>123</em>(2), 162\u2013185. <a href=\"https://doi.org/10.1037/0033-2909.123.2.162\" target=\"_blank\">https://doi.org/10.1037/0033-2909.123.2.162</a></p>",
+              "customLabel": "Zwaan & Radvansky, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "."
+          },
+          {
+            "type": "text",
+            "text": " This form of representation facilitates inferences; for example, if someone reads that \u201cthe mixing bowl is to the left of the bananas\u201d and \u201cthe spoon is in the mixing bowl,\u201d they can verify that the spoon is left of the bananas. Abundant evidence indicates that viewers represent the locations of objects in a scene that are occluded from view and that readers represent mentioned objects and people in a common spatial reference frame. The representational framework is temporal as well as spatial, for example, tracking how the bananas move and are transformed over time."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "multiple-temporal-scales",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Multiple temporal scales"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "naopk2upsnm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Event models represent activity at multiple timescales. Brain systems specialized for representing events in working memory probably function at timescales from about one second to tens of minutes. Event boundaries are hierarchically nested, such that events on coarser timescales break down into subevents on finer timescales ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4lhipsv49j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3e9poy044g\" data-reactroot=\"\">Zacks, J. M., Tversky, B., &amp; Iyer, G. (2001). Perceiving, remembering, and communicating structure in events. <em>Journal of Experimental Psychology: General</em>, <em>130</em>(1), 29\u201358. <a href=\"https://doi.org/10.1037/0096-3445.130.1.29\" target=\"_blank\">https://doi.org/10.1037/0096-3445.130.1.29</a></p>",
+              "customLabel": "Zacks, Tversky, et al., 2001",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). As information is taken in by the brain\u2019s sensory systems and passed forward through successive processing stages, the timescales of representation become increasingly long ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9ednsfzg16",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyhsjq0aekv\" data-reactroot=\"\">Baldassano, C., Chen, J., Zadbood, A., Pillow, J. W., Hasson, U., &amp; Norman, K. A. (2017). Discovering event structure in continuous narrative perception and memory. <em>Neuron</em>, <em>95</em>(3), 709\u2013721.e5. <a href=\"https://doi.org/10.1016/j.neuron.2017.06.041\" target=\"_blank\">https://doi.org/10.1016/j.neuron.2017.06.041</a></p>",
+              "customLabel": "Baldassano et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "); this suggests that the outputs of fine-grained event processing provide inputs to coarser-grained event representations."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "perception-and-memory",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Perception and memory"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nh4jbx3qg96",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "During comprehension, event models in working memory support rapid access to potentially relevant event features. After an event boundary, information from the previous event is often less accessible ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nyixy0brx9w",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"noj00evlc48\" data-reactroot=\"\">Bower, G. H., &amp; Morrow, D. G. (1990). Mental models in narrative comprehension. <em>Science</em>, <em>247</em>(4938), 44\u201348. <a href=\"https://doi.org/10.1126/science.2403694\" target=\"_blank\">https://doi.org/10.1126/science.2403694</a></p>",
+              "customLabel": "Bower & Morrow, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1xjnhzjizu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n39byp86qpe\" data-reactroot=\"\">Zwaan, R. A. (1996). Processing narrative time shifts. <em>Journal of Experimental Psychology: Learning, Memory, and Cognition</em>, <em>22</em>(5), 1196\u20131207. <a href=\"https://doi.org/10.1037/0278-7393.22.5.1196\" target=\"_blank\">https://doi.org/10.1037/0278-7393.22.5.1196</a></p>",
+              "customLabel": "Zwaan, 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Event segmentation during perception also forms the units of episodic long-term memory. As a result, recalling some features of an event primes retrieval of other features of that event ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n19e6wzklq0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ns5vpucbk0v\" data-reactroot=\"\">Ezzyat, Y., &amp; Davachi, L. (2011). What constitutes an episode in episodic memory? <em>Psychological Science</em>, <em>22</em>(2), 243\u2013252. <a href=\"https://doi.org/10.1177/0956797610393742\" target=\"_blank\">https://doi.org/10.1177/0956797610393742</a></p>",
+              "customLabel": "Ezzyat & Davachi, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). It is also the case that individuals who segment activity more reliably during encoding show better subsequent memory for that activity ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3lx8i71e2d",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n24lc39qxx3\" data-reactroot=\"\">Sargent, J. Q., Zacks, J. M., Hambrick, D. Z., Zacks, R. T., Kurby, C. A., Bailey, H. R., Eisenberg, M. L., &amp; Beck, T. M. (2013). Event segmentation ability uniquely predicts event memory. <em>Cognition</em>, <em>129</em>(2), 241\u2013255. <a href=\"https://doi.org/10.1016/j.cognition.2013.07.002\" target=\"_blank\">https://doi.org/10.1016/j.cognition.2013.07.002</a></p>",
+              "customLabel": "Sargent et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and that interventions to improve event segmentation improve subsequent memory ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9egmxmq6fe",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv3q7sggxk5\" data-reactroot=\"\">Flores, S., Bailey, H. R., Eisenberg, M. L., &amp; Zacks, J. M. (2017). Event segmentation improves event memory up to one month later. <em>Journal of Experimental Psychology: Learning, Memory, and Cognition</em>, <em>43</em>(8), 1183\u20131202. <a href=\"https://doi.org/10.1037/xlm0000367\" target=\"_blank\">https://doi.org/10.1037/xlm0000367</a></p>",
+              "customLabel": "Flores et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Finally, event models in working memory also form the substrate for thinking about events in the future [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.21428/e2759450.112fbf72",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Episodic Future Thinking"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n71prd2qixp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Functional MRI methods for studying the temporal and spatial structure of processing have revealed a temporal hierarchy of event representations distributed across the cortex, such that brain areas closer to sensory inputs update their spatial patterns frequently and association areas in later processing stages update infrequently ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no73ik3dyj4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyhsjq0aekv\" data-reactroot=\"\">Baldassano, C., Chen, J., Zadbood, A., Pillow, J. W., Hasson, U., &amp; Norman, K. A. (2017). Discovering event structure in continuous narrative perception and memory. <em>Neuron</em>, <em>95</em>(3), 709\u2013721.e5. <a href=\"https://doi.org/10.1016/j.neuron.2017.06.041\" target=\"_blank\">https://doi.org/10.1016/j.neuron.2017.06.041</a></p>",
+              "customLabel": "Baldassano et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Returning to the banana bread example, an early-stage processing area might update its pattern as the cook switches from picking up a fork to mashing the bananas, whereas a later-stage area might maintain its pattern until the batter is completed. Event-specific cortical patterns that are instantiated during perception are reinstantiated during memory retrieval ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncg4s1gybtj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nilg427apl3\" data-reactroot=\"\">Chen, J., Leong, Y. C., Honey, C. J., Yong, C. H., Norman, K. A., &amp; Hasson, U. (2017). Shared memories reveal shared structure in neural activity across individuals. <em>Nature Neuroscience</em>, <em>20</em>(1), 115\u2013125. <a href=\"https://doi.org/10.1038/nn.4450\" target=\"_blank\">https://doi.org/10.1038/nn.4450</a></p>",
+              "customLabel": "Chen et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nguzby1hf4w",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A current area of controversy is the nature of the control signals the brain uses to control the updating of event models. Some theories propose that the brain monitors errors in its predictions, or its uncertainty about predictions, and updates when these signals spike ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwqz5ejkjxu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nptm58jjunl\" data-reactroot=\"\">Nguyen, T. T., Bezdek, M. A., Gershman, S. J., Bobick, A. F., Braver, T. S., &amp; Zacks, J. M. (2024). Modeling human activity comprehension at human scale: Prediction, segmentation, and categorization. <em>PNAS Nexus</em>, <em>3</em>(10), pgae459. Advance online publication. <a href=\"https://doi.org/10.1093/pnasnexus/pgae459\" target=\"_blank\">https://doi.org/10.1093/pnasnexus/pgae459</a></p>",
+              "customLabel": "Nguyen et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Other theories propose that event models are updated when features change ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njmgqkm51xt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb3n6ea94og\" data-reactroot=\"\">Newtson, D. (1976). Foundations of attribution: The perception of ongoing behavior. In J. H. Harvey, W. J. Ickes, &amp; R. F. Kidd (Eds.), <em>New directions in attribution research</em> (pp. 223\u2013248). Lawrence Erlbaum Associates.</p>",
+              "customLabel": "Newtson, 1976",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), when the perceptual system infers that a new cause is driving the observed activity ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7ffyoypvy5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqwu3uqb6se\" data-reactroot=\"\">Kuperberg, G. R. (2021). Tea with milk? A hierarchical generative framework of sequential event comprehension. <em>Topics in Cognitive Science</em>, <em>13</em>(1), 256\u2013298. <a href=\"https://doi.org/10.1111/tops.12518\" target=\"_blank\">https://doi.org/10.1111/tops.12518</a></p>",
+              "customLabel": "Kuperberg, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), or when a script or schema indicates that a segment is coming to an end ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nykn6yjpgcp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmjzsab00ws\" data-reactroot=\"\">Baldwin, D. A., &amp; Kosie, J. E. (2021). How does the mind render streaming experience as events? <em>Topics in Cognitive Science</em>, <em>13</em>(1), 79\u2013105. <a href=\"https://doi.org/10.1111/tops.12502\" target=\"_blank\">https://doi.org/10.1111/tops.12502</a></p>",
+              "customLabel": "Baldwin & Kosie, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). It is possible to generate intuitions supporting each of these possibilities: When a cook finishes mashing bananas, a viewer\u2019s event comprehension systems would likely have greater uncertainty and greater error in predictions about how the body will interact with objects. At the same time, more features are likely changing, including the actor\u2019s posture and the objects contacted. Comprehension systems might infer that the goal to mash the bananas is no longer driving the activity. Finally, if the viewer knows how to make banana bread, they might have a script that says that the next action will likely be to combine the wet ingredients. Quite possibly, multiple mechanisms collaborate to guide event segmentation."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqq0tlkvkpo",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Event cognition has roots in philosophy and computer science, and also has broad connections to contemporary research in multiple fields. Event representations are important for action planning and the control of robotic systems. Because event structure impacts learning and memory, it has important implications for education, including teaching students about processes in science and about events in history. Event representations may be affected by differences in language and culture, by development across the lifespan [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://doi.org/10.21428/e2759450.a24eecd4",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Cognitive Development"
+          },
+          {
+            "type": "text",
+            "text": "], and by neurological injury and neuropsychiatric disease. Finally, event cognition has potentially important implications for robotics and human-computer interaction: In order to develop artificial agents that can collaborate effectively with human partners, it may be important for them to have an understanding of how humans represent events."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "acknowledgments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Acknowledgments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nocchbozhgt",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This work was supported in part by National Institutes of Health grant R01AG06243801, Office of Naval Research grant N00014-17-1-2961, and the James S. McDonnell Foundation."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Further reading\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n9ik9b7xn3f",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "ngvy0qu99sv",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hasson, U., Chen, J., & Honey, C. J. (2015). Hierarchical process memory: Memory as an integral component of information processing. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Trends in Cognitive Sciences"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "19"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(6), 304\u2013313. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/j.tics.2015.04.006",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/j.tics.2015.04.006"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nhn3ev4n6bs",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Rubin, D. C., & Umanath, S. (2015). Event memory: A theory of memory for laboratory, autobiographical, and fictional events. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Psychological Review"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "122"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(1), 1\u201323. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1037/a0037907",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1037/a0037907"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nwz9c47iit3",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Zacks, J. M. (2020). Event perception and memory. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Annual Review of Psychology"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "71"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(1), 165\u2013191. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1146/annurev-psych-010419-051101",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1146/annurev-psych-010419-051101"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

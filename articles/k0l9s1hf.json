@@ -1,0 +1,5012 @@
+{
+  "id": "7772416b-3721-45f0-8ccf-545e409a196f",
+  "slug": "k0l9s1hf",
+  "title": "Morphology",
+  "url": "https://oecs.mit.edu/pub/k0l9s1hf",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "7772416b-3721-45f0-8ccf-545e409a196f",
+    "slug": "k0l9s1hf",
+    "title": "Morphology",
+    "htmlTitle": "Morphology",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": "2024-07-24T00:00:00.000Z",
+    "doi": "10.21428/e2759450.7772416b",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "hdsoornw",
+    "editHash": "a0bq2api",
+    "reviewHash": "98xuy9m9",
+    "commentHash": "owkehd4v",
+    "draftId": "f1259fbf-3372-4894-a4ac-c162e81d1e2c",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "e9d24b92-5b95-4e72-b88f-6eb5b55cd92c",
+    "scopeSummaryId": "cc9ba549-3567-4925-bd8a-e78c9d4d8d36",
+    "createdAt": "2024-04-09T13:15:03.728Z",
+    "updatedAt": "2024-07-24T13:05:23.820Z",
+    "attributions": [
+      {
+        "id": "e90956a3-7a33-45c8-800f-676cc9d18e58",
+        "name": "John Mansfield",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of Zurich",
+        "orcid": "",
+        "userId": null,
+        "pubId": "7772416b-3721-45f0-8ccf-545e409a196f",
+        "createdAt": "2024-04-09T13:18:25.375Z",
+        "updatedAt": "2024-07-23T21:42:26.173Z",
+        "user": null
+      },
+      {
+        "id": "068f0e1a-734e-4fb9-85c3-c4c3812ede04",
+        "name": "Evan Kidd",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "The Australian National University",
+        "orcid": "0000-0003-4301-2290",
+        "userId": null,
+        "pubId": "7772416b-3721-45f0-8ccf-545e409a196f",
+        "createdAt": "2024-07-23T21:42:41.215Z",
+        "updatedAt": "2024-07-23T21:43:03.705Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "f1259fbf-3372-4894-a4ac-c162e81d1e2c",
+      "latestKeyAt": "2024-07-23T21:43:29.212Z",
+      "firebasePath": "drafts/draft-f1259fbf-3372-4894-a4ac-c162e81d1e2c",
+      "createdAt": "2024-04-09T13:15:03.723Z",
+      "updatedAt": "2024-07-24T13:04:04.224Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvi6886nzxm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Morphology is the study of the structure of words and their constituent parts. The subparts of words are called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "morphemes"
+          },
+          {
+            "type": "text",
+            "text": ". For example, the English (Indo-European) words "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cat-s"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "walk-ed"
+          },
+          {
+            "type": "text",
+            "text": ", and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "un-believ-able"
+          },
+          {
+            "type": "text",
+            "text": " can each be analyzed as consisting of two or three morphemes, indicted by hyphens. Plural "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "-s"
+          },
+          {
+            "type": "text",
+            "text": " and past "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "-ed"
+          },
+          {
+            "type": "text",
+            "text": " are examples of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "inflectional"
+          },
+          {
+            "type": "text",
+            "text": " morphology, where the same word appears in several distinct forms, such as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "walk"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "walks"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "walked"
+          },
+          {
+            "type": "text",
+            "text": ", and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "walking"
+          },
+          {
+            "type": "text",
+            "text": ". But "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "un-believ-able"
+          },
+          {
+            "type": "text",
+            "text": " is a different type, i.e., "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "derivational"
+          },
+          {
+            "type": "text",
+            "text": " morphology, where one word ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "believe"
+          },
+          {
+            "type": "text",
+            "text": ") is used as the base for distinct words ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "believable, unbelievable"
+          },
+          {
+            "type": "text",
+            "text": "). Each language has its own unique morphological patterns. For example, many African languages express inflection using tonal shifts such as Chimwiini (Atlantic-Congo) "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "j\u00edile"
+          },
+          {
+            "type": "text",
+            "text": ", \u201cs/he ate,\u201d and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "jiil\u00e9"
+          },
+          {
+            "type": "text",
+            "text": ", \u201cyou ate,\u201d instead of segmentable word parts as in "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "walk-ed"
+          },
+          {
+            "type": "text",
+            "text": ". Languages also vary in their overall morphological complexity, with some relying more on morphology to express meaning. For example, in the Australian Aboriginal language Murrinhpatha (Southern Daly), the word "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "dem-ngi-dhama-rtum"
+          },
+          {
+            "type": "text",
+            "text": " expresses \u201cmy throat is dry.\u201d Morphology is a strikingly diverse aspect of human language, although there are also intriguing cross-linguistic regularities."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0q30ru3cgm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The European tradition of morphological analysis grew out of teaching methods for Classical Greek and Latin, at a time when these were prerequisites for scholarship ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1l86nfzukf",
+              "href": null,
+              "value": "\n\n",
+              "unstructuredValue": "<p id=\"nz6bw5uosnk\" data-reactroot=\"\">Seuren, P. A. M. (1998). <em>Western linguistics: An historical introduction</em>. Wiley-Blackwell.</p>",
+              "customLabel": "Seuren, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This was also influenced by an earlier, similar tradition that had arisen in India for the learning of Vedic Sanskrit. What all three of these Indo-European languages have in common is very rich inflectional morphology, requiring special effort to learn the many distinct forms of each noun and verb. To this day, students of classics learn these "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "conjugation"
+          },
+          {
+            "type": "text",
+            "text": " patterns; for example, the partial conjugation of the Latin verb "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "laborare"
+          },
+          {
+            "type": "text",
+            "text": ", \u201cwork,\u201d shown in Table 1. Rows are used to differentiate the persons doing the action, for example, first singular (1SG) \u201cI work\u201d or third plural (3PL) \u201cthey work,\u201d while columns are used to differentiate tenses."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "attrs": {
+          "id": "nzcvxpwpcgs",
+          "hideLabel": false,
+          "align": null,
+          "size": null,
+          "smallerFont": true,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 5,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.42460317460318,
+                    125.58730158730158,
+                    153.16666666666666,
+                    140.07142857142856,
+                    167.75
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n967mt8i140",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Partial Conjugation of Latin Verb "
+                      },
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "Laborare"
+                      },
+                      {
+                        "type": "text",
+                        "text": ", \u201cWork\u201d"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_header",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.42460317460318
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nlnd8qeyey9",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "table_header",
+                "attrs": {
+                  "colspan": 2,
+                  "rowspan": 1,
+                  "colwidth": [
+                    125.58730158730158,
+                    153.16666666666666
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n47tmg4zf82",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Present"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_header",
+                "attrs": {
+                  "colspan": 2,
+                  "rowspan": 1,
+                  "colwidth": [
+                    140.07142857142856,
+                    167.75
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n88t6xk2qyq",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Past"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.42460317460318
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nwsx7xsfb3c",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "1SG"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    125.58730158730158
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nl6dfr7qmvn",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "labor-o"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    153.16666666666666
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nz61lx5l59b",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\u201cI work\u201d"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    140.07142857142856
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n595gs6ji9y",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "labor-av-i"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    167.75
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "neio3uya6uw",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\u201cI worked\u201d"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.42460317460318
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nzaodh2qfcs",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "2SG"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    125.58730158730158
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "npo3pu7e1xl",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "labor-as"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    153.16666666666666
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nvu1g6req5f",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\u201cyou work\u201d"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    140.07142857142856
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "ntrjc91lpp3",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "labor-av-isti"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    167.75
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n471rcy3wkv",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\u201cyou worked\u201d"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.42460317460318
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nt8g3pgx849",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "3SG"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    125.58730158730158
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nnsysas4auo",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "labor-at"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    153.16666666666666
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nfl86fe6bbh",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\u201c(s)he works\u201d"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    140.07142857142856
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "npy0og77vwd",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "labor-av-it"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    167.75
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "ns8hn4amktm",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\u201c(s)he worked\u201d"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.42460317460318
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n8jtdwknbt2",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "1PL"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    125.58730158730158
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n7dqswkc2wb",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "labor-amus"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    153.16666666666666
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "na55v9cqehg",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\u201cwe work\u201d"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    140.07142857142856
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "ntye7azcv1n",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "labor-av-imus"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    167.75
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n4j10rpx78i",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\u201cwe worked\u201d"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.42460317460318
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n999pi64m3h",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "2PL"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    125.58730158730158
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n2o9nohpurn",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "labor-atis"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    153.16666666666666
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n95owd8bi3t",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\u201cyou (pl.) work\u201d"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    140.07142857142856
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n2xrqif0n68",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "labor-av-istis"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    167.75
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nwda9t8fof1",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\u201cyou (pl.) worked\u201d"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    83.42460317460318
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nm8ze9m4sfv",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "3PL"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    125.58730158730158
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n20s5qfmyyv",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "labor-ant"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    153.16666666666666
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "ns93ydtamri",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\u201cthey work\u201d"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    140.07142857142856
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nm0tp28wg10",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "labor-av-erunt"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    167.75
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n040uo7l62j",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\u201cthey worked\u201d"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nthdbu4abnk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In the 18th and 19th centuries, didactic grammar was partially replaced by new modes of inquiry into the natural history of languages. Tracing the history of Indo-European languages inspired a new perspective on morphology, now viewed as the outcome of language change over hundreds or thousands of years. In the mid-20th century, syntax became the main focus of linguistic theory, and morphology was somewhat sidelined. However, the last decades have seen resurgent interest in linguistic morphology, including new connections to psychology and computation [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xohbfbix",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Language Acquisition"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/y1uhdz0y",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Psycholinguistics"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "inflection-and-derivation",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Inflection and derivation"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nb0b88so0r4",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Inflectional morphology is when a word occurs in many forms with distinct grammatical properties. These are specific "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "wordforms"
+          },
+          {
+            "type": "text",
+            "text": " of a single "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "lexeme"
+          },
+          {
+            "type": "text",
+            "text": "; for example, the lexeme WALK has the wordforms "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "walk"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "walks"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "walked"
+          },
+          {
+            "type": "text",
+            "text": ", and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "walking"
+          },
+          {
+            "type": "text",
+            "text": ". These wordforms are said to have distinct grammatical "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "features"
+          },
+          {
+            "type": "text",
+            "text": ", usually annotated in capitals such as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "walks"
+          },
+          {
+            "type": "text",
+            "text": ",  "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "3SG.PRESENT"
+          },
+          {
+            "type": "text",
+            "text": " (third person singular present tense), or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "walked"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "PAST"
+          },
+          {
+            "type": "text",
+            "text": " (past tense). These features apply to all lexemes of a particular word class in the given language. For example, every verb lexeme in Spanish (Indo-European) has wordforms with the same range of person and tense features (\u201chave\u201d: "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "tengo"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "tienes"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "tiene"
+          },
+          {
+            "type": "text",
+            "text": "; \u201cwalk\u201d: "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "marcho"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "marchas"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "marcha"
+          },
+          {
+            "type": "text",
+            "text": "; etc.)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nelp40uubvg",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Derivational morphology is instead about distinct lexemes that are related to one another in their morphological structure. For example, the verb "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "believe"
+          },
+          {
+            "type": "text",
+            "text": " provides the base from which we can derive distinct lexemes such as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "believ-able"
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "un-believ-able"
+          },
+          {
+            "type": "text",
+            "text": ". In some cases, derived lexemes belong to a different word class than their base; for example, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "believ-able"
+          },
+          {
+            "type": "text",
+            "text": " is an adjective, whereas "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "believe"
+          },
+          {
+            "type": "text",
+            "text": " is a verb."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "morphological-features-and-formal-expression",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Morphological features and formal expression"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nt4hbhxc5xq",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "When a morphological feature is expressed by preceding or following morphemes, such as German (Indo-European) "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "ge-fahren"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "PAST.PERFECT"
+          },
+          {
+            "type": "text",
+            "text": "-travel, and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "verbesser-te"
+          },
+          {
+            "type": "text",
+            "text": ", improve-"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "PAST.PRETERITE"
+          },
+          {
+            "type": "text",
+            "text": ", these are called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "prefixes"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "suffixes"
+          },
+          {
+            "type": "text",
+            "text": ", respectively. A single wordform may include several prefixes and suffixes, as in the following Murrinhpatha example (1):"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "attrs": {
+          "id": "n2bir7q2x2r",
+          "hideLabel": true,
+          "align": null,
+          "size": null,
+          "smallerFont": true,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_header",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    285
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nqwj0eeeaha",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "(1)"
+                      },
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": " Pu-mam-ngi-ngintha"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    285
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nufe9x25fu0",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "3PL.SUBJ-say-1SG.OBJ-DUAL.FEM"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    285
+                  ],
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n27vkwqa1z7",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": " \u2018They [two women] said to me.\u2019"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "no5etmozku4",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Strings of morphemes as in (1) are called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "concatenative"
+          },
+          {
+            "type": "text",
+            "text": " morphology, but this is only one way that morphological features can be expressed. Other major patterns include changes of internal vowels (2), consonant strengthening or weakening (3), consonantal root patterns (4), and tonal shifts (5), as illustrated in the following examples. These also illustrate that morphological features may be expressed in complex ways, for example, a combination of vowel change plus suffix in "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "empfiehl-t"
+          },
+          {
+            "type": "text",
+            "text": " (2)."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "attrs": {
+          "id": "n26nrrvhf74",
+          "hideLabel": true,
+          "align": null,
+          "size": null,
+          "smallerFont": true,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_header",
+                "attrs": {
+                  "colspan": 3,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "ndi6oyy8qi0",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "(2) Vowel alternation: German "
+                      },
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "empfehlen"
+                      },
+                      {
+                        "type": "text",
+                        "text": ", \u201crecommend,\u201d"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nt7127ehuuu",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "empfehl-e"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n5seskh8lom",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "empfiehl-t"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nqrf1ncrpif",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "empfohl-en"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nmvxq0l4u6l",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "1SG.PRESENT"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n0gghdktorg",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "3SG.PRESENT"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "ngnf2ahc68b",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "PAST.PERFECT"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "attrs": {
+          "id": "n9na76cgash",
+          "hideLabel": true,
+          "align": null,
+          "size": null,
+          "smallerFont": true,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_header",
+                "attrs": {
+                  "colspan": 3,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nqxa46opb5o",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "(3) Consonant weakening: Sklot Saami (Uralic) "
+                      },
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "k\u00e5\u00e5\u02b9pp"
+                      },
+                      {
+                        "type": "text",
+                        "text": ", \u201chole, pit\u201d ("
+                      },
+                      {
+                        "type": "citation",
+                        "attrs": {
+                          "id": "n9rip29w3lg",
+                          "href": null,
+                          "value": "\n\n",
+                          "unstructuredValue": "<p id=\"nw5pm8p22q5\" data-reactroot=\"\">Feist, T. (2015). <em>A grammar of Skolt Saami</em>. Suomalais-Ugrilainen Seura.</p>",
+                          "customLabel": "Feist, 2015, p. 143",
+                          "suggestionId": null,
+                          "suggestionTimestamp": null,
+                          "suggestionUserId": null,
+                          "suggestionDiscussionId": null,
+                          "suggestionKind": null,
+                          "suggestionOriginalAttrs": null
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": ") "
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "np4z84ox283",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "k\u00e5\u00e5\u02b9pp"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n5hvoz8zv3g",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "k\u00e5\u00e5\u02b9v"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nkey8xe3a2j",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "k\u00e5\u00e5\u02b9pp-ed"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nxdg7tounvl",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "NOMINATIVE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nxtu5zadch7",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "ACCUSATIVE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n6pgy5an2p9",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "PARTITIVE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "attrs": {
+          "id": "n425m5hn4xl",
+          "hideLabel": true,
+          "align": null,
+          "size": null,
+          "smallerFont": true,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_header",
+                "attrs": {
+                  "colspan": 3,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nmkdckbj56z",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "(4) Consonantal root patterns: Arabic (Afro-Asiatic) "
+                      },
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "k-t-b"
+                      },
+                      {
+                        "type": "text",
+                        "text": ", \u201cwrite,\u201d"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nhk18imunbo",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "kataba"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "njol4udp3qu",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "aktubu"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nwrdgcdn7wf",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "k\u0101tib"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nc1a9407aem",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "3SG.PAST"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "ncj12hmhhfo",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "1SG.PRESENT"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n4o5409ilbp",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\u201cwriter\u201d"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "attrs": {
+          "id": "n89dsm3dtye",
+          "hideLabel": true,
+          "align": null,
+          "size": null,
+          "smallerFont": true,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_header",
+                "attrs": {
+                  "colspan": 3,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n571ccoos5k",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "(5) Tonal shift: Chimwiini "
+                      },
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "jiile"
+                      },
+                      {
+                        "type": "text",
+                        "text": ", \u201ceat\u201d ("
+                      },
+                      {
+                        "type": "citation",
+                        "attrs": {
+                          "id": "nwy5mpo8bfj",
+                          "href": null,
+                          "value": "",
+                          "unstructuredValue": "<p id=\"npot1mwas45\" data-reactroot=\"\">Kisseberth, C. W., &amp; Abasheikh, M. I. (2011). Chimwiini phonological phrasing revisited. <em>Lingua</em>, <em>121</em>(13), 1987\u20132013. <a href=\"https://doi.org/10.1016/j.lingua.2011.06.003\" title=\"Persistent link using digital object identifier\" target=\"_blank\">https://doi.org/10.1016/j.lingua.2011.06.003</a></p>",
+                          "customLabel": "Kisseberth & Abasheikh, 2011",
+                          "suggestionId": null,
+                          "suggestionTimestamp": null,
+                          "suggestionUserId": null,
+                          "suggestionDiscussionId": null,
+                          "suggestionKind": null,
+                          "suggestionOriginalAttrs": null
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": ")"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nc8scrjrkwd",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "n-jiil\u00e9"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nxc20sz3q04",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "jiil\u00e9 "
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nzbylii5az3",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "em"
+                          }
+                        ],
+                        "text": "j\u00edile"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n6k1f70oszq",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "1SG.PAST"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "nj47gmlyoxk",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "2SG.PAST"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null,
+                  "background": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "id": "n96aun98a4l",
+                      "class": null,
+                      "textAlign": null,
+                      "rtl": null,
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "3SG.PAST"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nsjbc1278u3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Although all words of a given class generally inflect for the same features, the manner of expression may be quite different from one lexeme to another. This is evident in English past verbs, for example, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "walk-ed"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "see-n"
+          },
+          {
+            "type": "text",
+            "text": ", and"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " bought"
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Regular"
+          },
+          {
+            "type": "text",
+            "text": " patterns are those found in many lexemes (like "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "walk-ed"
+          },
+          {
+            "type": "text",
+            "text": "), whereas "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "irregular"
+          },
+          {
+            "type": "text",
+            "text": " patterns are specific to a few lexemes (like "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "bought"
+          },
+          {
+            "type": "text",
+            "text": "). In some languages, there are several "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "inflectional classes"
+          },
+          {
+            "type": "text",
+            "text": ", each of which applies to many lexemes (e.g., Spanish verbs have three main classes with "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "-ar"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "-er"
+          },
+          {
+            "type": "text",
+            "text": ", and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "-ir"
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nb2834p3pje",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Words"
+          },
+          {
+            "type": "text",
+            "text": " are a foundational concept of linguistic morphology, but, perhaps surprisingly, linguists struggle to define words in a principled way. In practice, linguists usually assume that the white spaces delimiting words in writing reflect some kind of basic linguistic unit. But it is difficult to find grammatical or phonological patterns that consistently align with these writing conventions, and many writing systems either lack white space altogether or lack clear community conventions about where the white spaces should occur ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2oh4y46ejq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl4smnnyiha\" data-reactroot=\"\">Haspelmath, M. (2011). The indeterminacy of word segmentation and the nature of morphology and syntax. <em>Folia Linguistica</em>, <em>45</em>(1), 31\u201380. <a href=\"https://doi.org/10.1515/flin.2011.002\" target=\"_blank\">https://doi.org/10.1515/flin.2011.002</a></p>",
+              "customLabel": "Haspelmath, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk8gvwp7nut",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxdk8lcvqlp\" data-reactroot=\"\">Wray, A. (2015). Why are we so sure we know what a word is? In J. R. Taylor (Ed.), <em>The Oxford handbook of the word</em> (pp. 725\u2013750). Oxford University Press. <a href=\"https://doi.org/10.1093/oxfordhb/9780199641604.013.032\">https://doi.org/10.1093/oxfordhb/9780199641604.013.032</a></p>",
+              "customLabel": "Wray, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This is a theoretical and practical problem because without a clear definition of words, it is unclear which linguistic structures should fall within the purview of morphological analysis."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxccd06bnnv",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Recent morphological research increasingly uses mathematical, information-theoretic, and computational methods drawing on large corpora of language data ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1lfs44f5jt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlnhbgdlv80\" data-reactroot=\"\">Moscoso del Prado Mart\u00edn, F., Kosti\u0107, A., &amp; Baayen, R. H. (2004). Putting the bits together: An information theoretical perspective on morphological processing. <em>Cognition</em>, <em>94</em>(1), 1\u201318. <a href=\"https://doi.org/10.1016/j.cognition.2003.10.015\" title=\"Persistent link using digital object identifier\" target=\"_blank\">https://doi.org/10.1016/j.cognition.2003.10.015</a></p>",
+              "customLabel": "Moscoso del Prado Mart\u00edn et al., 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7yulimks98",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrdnr5w5dcg\" data-reactroot=\"\">Ackerman, F., Blevins, J. P., &amp; Malouf, R. (2009). Parts and wholes: Implicative patterns in inflectional paradigms. In J. P. Blevins &amp; J. Blevins (Eds.), <em>Analogy in grammar: Form and acquisition</em> (pp. 54\u201382). Oxford University Press. <a href=\"https://doi.org/10.1093/acprof:oso/9780199547548.003.0003\">https://doi.org/10.1093/acprof:oso/9780199547548.003.0003</a></p>",
+              "customLabel": "Ackerman et al., 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk7sncfuhpz",
+              "href": null,
+              "value": "\n",
+              "unstructuredValue": "<p id=\"njnqvwfbf50\" data-reactroot=\"\">Hahn, M., Mathew, R., &amp; Degen, J. (2022). Morpheme ordering across languages reflects optimization for memory efficiency. <em>Open Mind: Discoveries in Cognitive Science, 5</em>, 208\u2013232. https://doi.org/10.1162/opmi_a_00051</p>",
+              "customLabel": "Hahn et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Intersecting with the explosion of neural network methods, these approaches may eventually side-step the theoretical problem of defining words, replacing discrete definitions with gradient probabilistic approaches [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngiz534oeaz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Morphology provides a window into the workings of the mind and brain. For example, psychological experiments can test how morphology is activated in memory or use specially designed artificial languages to investigate the learnability of different patterns ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlz6mn3iofw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nale4imh31e\" data-reactroot=\"\">Gagn\u00e9, C. L. (2017). Psycholinguistic approaches to morphology: Theoretical issues. <em>Oxford Research Encyclopedia of Linguistics</em>. <a href=\"https://doi.org/10.1093/acrefore/9780199384655.013.258\">https://doi.org/10.1093/acrefore/9780199384655.013.258</a></p>",
+              "customLabel": "Gagn\u00e9, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nyii3lzhc7f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ns02nuajm97\" data-reactroot=\"\">Saldana, C., Oseki, Y., &amp; Culbertson, J. (2021). Cross-linguistic patterns of morpheme order reflect cognitive biases: An experimental study of case and number morphology. <em>Journal of Memory and Language</em>, <em>118</em>, 104204. <a href=\"https://doi.org/10.1016/j.jml.2020.104204\" title=\"Persistent link using digital object identifier\" target=\"_blank\">https://doi.org/10.1016/j.jml.2020.104204</a></p>",
+              "customLabel": "Saldana et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/y1uhdz0y",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Psycholinguistics"
+          },
+          {
+            "type": "text",
+            "text": "]. These behavioral studies are increasingly complemented by neurolinguistic experiments ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw8us224kem",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nt5c6nrlq8c\" data-reactroot=\"\">Bulut, T. (2022). Neural correlates of morphological processing: An activation likelihood estimation meta-analysis. <em>Cortex</em>, <em>151</em>, 49\u201369. <a href=\"https://doi.org/10.1016/j.cortex.2022.02.010\" title=\"Persistent link using digital object identifier\" target=\"_blank\">https://doi.org/10.1016/j.cortex.2022.02.010</a></p>",
+              "customLabel": "Bulut, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Morphology also reflects the long-term outcomes of cognitive and communicative processes. Many morphological affixes are derived from words that have eroded over centuries or millennia, and cross-linguistic investigation of such processes allows us to hypothesize general principles of linguistic cognition ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ne0vjiqllor",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nr8bo4wo2gv\" data-reactroot=\"\">Hopper, P., &amp; Traugott, E. C. (2003). <em>Grammaticalization</em> (2nd ed). Cambridge University Press. <a href=\"https://doi.org/10.1017/CBO9781139165525\">https://doi.org/10.1017/CBO9781139165525</a></p>",
+              "customLabel": "Hopper & Traugott, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This also reveals localized variations. For example, in the Amazon, many languages use "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "evidential"
+          },
+          {
+            "type": "text",
+            "text": " morphology to indicate how the speaker arrived at the assertion they are making, for example, by direct visual evidence or indirect inference ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbmf9khcgc9",
+              "href": null,
+              "value": "@article{Epps2005Areal,\n\tauthor = {Epps, Patience},\n\tjournal = {Studies in Language},\n\tnumber = {3},\n\tyear = {2005},\n\tmonth = {nov 16},\n\tpages = {617--650},\n\tpublisher = {John Benjamins Publishing Company},\n\ttitle = {Areal diffusion and the development of evidentiality: Evidence from {Hup}},\n\tvolume = {29},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Epps, 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Such phenomena suggest that morphology is driven not just by universal principles of human cognition but also by more culturally specific communicative norms."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "key-references",
+          "id": "key-references",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "ni96l6u3epf",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nzcamy4ki3d",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Baerman, M., Brown, D., & Corbett, G. G. (2017). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Morphological complexity"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Cambridge University Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nv5rsg5mcny",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Blevins, J. P. (2016). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Word and paradigm morphology"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Oxford University Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n468tn6l8n9",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hay, J. B. & Baayen, R. H. (2005). Shifting paradigms: Gradient structure in morphology. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Trends in Cognitive Sciences, 9"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(7), 342\u2013348. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/j.tics.2005.04.002",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/j.tics.2005.04.002"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nse2kvipz8w",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jackendoff, R. & Audring, J. (2019). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The texture of the lexicon: Relational morphology and the parallel architecture"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Oxford University Press."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

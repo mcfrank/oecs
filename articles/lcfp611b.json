@@ -1,0 +1,1575 @@
+{
+  "id": "0fce3550-03f4-4a6b-bca3-1b08f48c3a9d",
+  "slug": "lcfp611b",
+  "title": "Cognitive Variability",
+  "url": "https://oecs.mit.edu/pub/lcfp611b",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "0fce3550-03f4-4a6b-bca3-1b08f48c3a9d",
+    "slug": "lcfp611b",
+    "title": "Cognitive Variability",
+    "htmlTitle": "Cognitive Variability",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.0fce3550",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "u7jw6rzq",
+    "editHash": "g2hrw4k3",
+    "reviewHash": "771x18uw",
+    "commentHash": "a6vgmaiw",
+    "draftId": "9a7484bc-73b7-45df-9927-fb0df177bf4a",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "5be4289f-b8a4-44a3-97a0-b5c20bc14a3c",
+    "scopeSummaryId": "6fa5d973-f506-4af8-ab8b-551b79a41cfd",
+    "createdAt": "2025-08-19T19:30:00.531Z",
+    "updatedAt": "2025-09-10T17:38:29.281Z",
+    "attributions": [
+      {
+        "id": "ab55b157-9750-4536-abcf-81e347c6202a",
+        "name": "Rogier A. Kievit",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Donders Institute for Brain, Cognition and Behaviour  RadboudUMC, department of Medical Neuroscience",
+        "orcid": "0000-0003-0700-4568",
+        "userId": null,
+        "pubId": "0fce3550-03f4-4a6b-bca3-1b08f48c3a9d",
+        "createdAt": "2025-08-19T19:34:30.576Z",
+        "updatedAt": "2025-08-19T19:34:50.208Z",
+        "user": null
+      },
+      {
+        "id": "3398bcf9-0fd5-4edf-8645-5062a4182623",
+        "name": "Daniel Haun",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Max Planck Institute for Evolutionary Anthropology",
+        "orcid": "0000-0002-3262-645X",
+        "userId": null,
+        "pubId": "0fce3550-03f4-4a6b-bca3-1b08f48c3a9d",
+        "createdAt": "2025-08-19T23:20:28.389Z",
+        "updatedAt": "2025-08-19T23:21:12.625Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "9a7484bc-73b7-45df-9927-fb0df177bf4a",
+      "latestKeyAt": "2025-09-10T17:22:39.394Z",
+      "firebasePath": "drafts/draft-9a7484bc-73b7-45df-9927-fb0df177bf4a",
+      "createdAt": "2025-08-19T19:30:00.527Z",
+      "updatedAt": "2025-09-10T20:45:10.290Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwldtz6l4wr",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cognitive variability reflects the instability of our cognitive abilities. Our ability to reason, respond, and remember fluctuates within the same person across seconds, minutes and hours, and even days, weeks, and months. Imagine two children, Charles and Ada, performing a cognitive task, such as remembering up to 10 digits. Across trials, they may have the same average performance, but the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "variability"
+          },
+          {
+            "type": "text",
+            "text": " in their cognitive performance is very different, with Charles having pronounced peaks and troughs and Ada consistently scoring similarly. Cognitive variability refers to the degree to which the same individual shows differences in cognitive performance across different moments (e.g., trials or days) or different contexts. Such cognitive variability, or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cognitive fluctuation"
+          },
+          {
+            "type": "text",
+            "text": ", is familiar to every person. Cognitive abilities wax and wane across time and environment, affected by sleep, mood, and circumstance. Cognitive variability as a scientific construct remains relatively underexplored compared to the more well-established construct of mean performance. This neglect of variability in favor of the mean is a mistake. Cognitive variability affects how we manage our day-to-day challenges; it is clearly distinct from mean performance, with separate causes and consequences, and offers a source of unique insights into cognitive performance and development over time."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n86t579lnxh",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Over a century ago, Raymond "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nv30l4jckxs",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njbjhbkblkt\" data-reactroot=\"\">Dodge, R. (1924). Problems of human variability. <em>Science</em>, <em>59</em>(1525), 263-270. <a href=\"https://doi.org/10.1126/science.59.1525.263\">https://doi.org/10.1126/science.59.1525.263</a> </p>",
+              "customLabel": "Dodge (1924)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " argued in the journal "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Science "
+          },
+          {
+            "type": "text",
+            "text": "that variability in performance is just as real, and worth studying, as average performance. Dodge showed how understanding variation in behavior (unlike physical measurements) around a hypothesized true value is a crucial goal rather than simply error to adjust for. This sentiment was echoed by Clark "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0mpkejgpx6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nck03m56ijn\" data-reactroot=\"\">Hull, C. L. (1943). <em>Principles of behavior: An introduction to behavior theory.</em> Appleton-Century.</p>",
+              "customLabel": "Hull (1943)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", who even stated that variability in performance is the central distinction between biological humans and inorganic machines. A decade later, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5kqk5qj6p6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4xhzz26un9\" data-reactroot=\"\">Fiske, D. W., &amp; Rice, L. (1955). Intra-individual response variability. <em>Psychological Bulletin</em>, <em>52</em>(3), 217-250. <a href=\"https://doi.org/10.1037/h0045276\">https://doi.org/10.1037/h0045276</a>  </p>",
+              "customLabel": "Fiske and Rice (1955)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " presented a more rigorous examination of (psychological) variability, distinguishing between systematic (e.g., periodic) and unsystematic variability, and examined the role of internal and external factors. John "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nggu776ncku",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvw16v6jgvd\" data-reactroot=\"\">Nesselroade, J. R. (1991). The warp and woof of the developmental fabric. In R. Downs, L. Liben, &amp; D. Palermo (Eds.), <em>Views of development, the environment, and aethestics: The legacy of Joachim F. Wohlwill</em> (pp. 213\u2013240). Erlbaum.</p>",
+              "customLabel": "Nesselroade (1991)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " gave the first fully modern treatment of cognitive variability, discussing it in the broader context of human lifespan development and setting out a methodological agenda to measure variability rigorously."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "what-is-cognitive-variability",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "What is cognitive variability?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nj29yykzrl1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cognitive variability reflects differences in performance on a cognitive task across different occasions, ranging from trial to mean performance on different occasions (e.g., days, months, seasonal, or different settings). The recent increase in availability of high temporal resolution data that samples individuals more frequently (e.g., many trials within a session or multiple measurements on consecutive days) alongside quantitative innovations have opened up this fascinating construct to rigorous empirical definition and investigation, offering a range of empirical discoveries and open questions sure to shape the field for decades.\u00a0"
+          },
+          {
+            "type": "hard_break",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "n2072tdavxl",
+          "url": "https://assets.pubpub.org/lhfhxib1/oecs_cognitive-variability_fig1-41755634343850.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"ng68o07o9ae\" data-reactroot=\"\">Two hypothetical children with the same mean performance (6) but with substantial differences in cognitive variability (Charles is much more variable than Ada).</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nb4ooc7orlr",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Although variability is sometimes used to refer to differences between individuals (more commonly referred to as \u201cindividual differences\u201d) or to differences in mean performance between different task domains (to assess relative discrepancies in performance), we prefer individual differences and dispersion for those constructs instead. The cognitive task used can vary from simple (e.g., a basic reaction time task) to cognitively challenging (working memory or abstract reasoning). The measure to quantify variability can also vary between (or within) tasks. Although reaction time is commonly used, measures can be any (ideally continuous) measure of performance, including accuracy (spatial or directional) or capacity (how many questions on a test are answered correctly)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "how-to-quantify-variability",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "How to quantify variability?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmqlmr2sz3s",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cognitive variability is easy to explain but hard to quantify. Simple methods include the intraindividual standard deviation, residual standard deviation from linear models, or the (root) mean square of successive differences, which can be computed deterministically from trial sequences. However, known shortcomings include conflation with the mean and an outsized impact of trends and outliers (cf., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxiy7ib469t",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndmdtduhvk8\" data-reactroot=\"\">Mestdagh, M., Pe, M., Pestman, W., Verdonck, S., Kuppens, P., &amp; Tuerlinckx, F. (2018). Sidelining the mean: The relative variability index as a generic mean-corrected variability measure for bounded variables. <em>Psychological Methods</em>, <em>23</em>(4), 690-707. <a href=\"https://doi.org/10.1037/met0000153\">https://doi.org/10.1037/met0000153</a> </p>",
+              "customLabel": "Mestdagh et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). More recent innovations include the relative variability index ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8stl7roet7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndmdtduhvk8\" data-reactroot=\"\">Mestdagh, M., Pe, M., Pestman, W., Verdonck, S., Kuppens, P., &amp; Tuerlinckx, F. (2018). Sidelining the mean: The relative variability index as a generic mean-corrected variability measure for bounded variables. <em>Psychological Methods</em>, <em>23</em>(4), 690-707. <a href=\"https://doi.org/10.1037/met0000153\">https://doi.org/10.1037/met0000153</a> </p>",
+              "customLabel": "Mestdagh et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), residual variability from a dynamic structural equation model ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh1ou3nbsu9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nh5a67cluoq\" data-reactroot=\"\">Hamaker, E. L., Asparouhov, T., &amp; Muth\u00e9n, B. (2021). Dynamic structural equation modeling as a combination of time series modeling, multilevel modeling, and structural equation modeling. In R. H. Hoyle (Ed.), <em>The handbook of structural equation modeling</em> (2nd ed.). Guilford Press.</p>",
+              "customLabel": "Hamaker et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nycojrgn67p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngj8wpibry1\" data-reactroot=\"\">Judd, N., Aristodemou, M., Klingberg, T., &amp; Kievit, R. (2024). Interindividual differences in cognitive variability are ubiquitous and distinct from mean performance in a battery of eleven tasks. <em>Journal of Cognition</em>, <em>7</em>(1), 45. <a href=\"https://doi.org/10.5334/joc.371\">https://doi.org/10.5334/joc.371</a> </p>",
+              "customLabel": "Judd et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), location scale models (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8fgfkj8eav",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nc59nj6viar\" data-reactroot=\"\">Hedeker, D., Mermelstein, R. J., &amp; Demirtas, H. (2012). Modeling between\u2010subject and within\u2010subject variances in ecological momentary assessment data using mixed\u2010effects location scale models. <em>Statistics in Medicine</em>, <em>31</em>(27), 3328-3336. <a href=\"https://doi.org/10.1002/sim.5338\">https://doi.org/10.1002/sim.5338</a> </p>",
+              "customLabel": "Hedeker et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), or leveraging structural equation modeling to estimate variability as a fully latent variable ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzcvwhrg77h",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsqbbdra9fs\" data-reactroot=\"\">Feng, Y., &amp; Hancock, G. R. (2024). A structural equation modeling approach for modeling variability as a latent variable. <em>Psychological Methods</em>, <em>29</em>(2), 262-286. <a href=\"https://doi.org/10.1037/met0000477\">https://doi.org/10.1037/met0000477</a> </p>",
+              "customLabel": "Feng & Hancock, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Other avenues include drift diffusion or ex-Gaussian models, which allow for the estimation of (noisy) information accumulation and (attentional) lapses as drivers of variable performance. Quantifying variability is an active area of research and application. Each of these methods have strengths and weaknesses and should be selected based on a series of considerations including the fit to the research question and the nature of the data."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "causes-and-consequences-of-variability",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Causes and consequences of variability"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvby2vgzr42",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Although rigorous empirical investigations of variability are still relatively recent, several robust findings have emerged. Between individuals, existing evidence suggests that individuals with greater inattention (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkf2esbvolw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuv764411ye\" data-reactroot=\"\">Aristodemou, M. E., Rommelse, N., &amp; Kievit, R. (2024). Attentiveness modulates reaction-time variability: Findings from a population-based sample of 1032 children. <em>Collabra: Psychology</em>, <em>10</em>(1), 122517. <a href=\"https://doi.org/10.1525/collabra.122517\">https://doi.org/10.1525/collabra.122517</a> </p>",
+              "customLabel": "Aristodemou et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and more mind wandering (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n85n2o7tt4y",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4kll1y0llq\" data-reactroot=\"\">Seli, P., Cheyne, J. A., &amp; Smilek, D. (2013). Wandering minds and wavering rhythms: Linking mind wandering and behavioral variability. <em>Journal of Experimental Psychology: Human Perception and Performance</em>, <em>39</em>(1), 1-5. <a href=\"https://doi.org/10.1037/a0030954\">https://doi.org/10.1037/a0030954</a> </p>",
+              "customLabel": "Seli et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") tend to show greater cognitive variability. Moreover, greater variability has been linked with neurodevelopmental disorders including attention deficit hyperactivity disorder (ADHD) and (less clearly) autistic spectrum disorders ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nckigigzwly",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nif583pauod\" data-reactroot=\"\">Karalunas, S. L., Geurts, H. M., Konrad, K., Bender, S., &amp; Nigg, J. T. (2014). Annual research review: Reaction time variability in ADHD and autism spectrum disorders: Measurement and mechanisms of a proposed trans\u2010diagnostic phenotype. <em>Journal of Child Psychology and Psychiatry</em>, <em>55</em>(6), 685-710. <a href=\"https://doi.org/10.1111/jcpp.12217\">https://doi.org/10.1111/jcpp.12217</a> </p>",
+              "customLabel": "Karalunas et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In fact, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "np0xaytdbtx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuv764411ye\" data-reactroot=\"\">Aristodemou, M. E., Rommelse, N., &amp; Kievit, R. (2024). Attentiveness modulates reaction-time variability: Findings from a population-based sample of 1032 children. <em>Collabra: Psychology</em>, <em>10</em>(1), 122517. <a href=\"https://doi.org/10.1525/collabra.122517\">https://doi.org/10.1525/collabra.122517</a> </p>",
+              "customLabel": "Aristodemou et al. (2024)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " found that cognitive variability is associated with the dimension of inattention but not hyperactivity, demonstrating specificity within"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "ADHD symptomatology. At the neural level, greater myelination of axons\u00a0(myelin is a fatty tissue that wraps around axons and functions as insulation, supporting more rapid, reliable signal transmission between neurons) has been associated with less variability in reaction time performance, likely because of less signal transmission loss (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nko8zgrg6r9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"noh34r4gmfc\" data-reactroot=\"\">MacDonald, S. W., Nyberg, L., &amp; B\u00e4ckman, L. (2006). Intra-individual variability in behavior: Links to brain structure, neurotransmission and neuronal activity. <em>Trends in Neurosciences</em>, <em>29</em>(8), 474-480. <a href=\"https://doi.org/10.1016/j.tins.2006.06.011\">https://doi.org/10.1016/j.tins.2006.06.011</a> </p>",
+              "customLabel": "MacDonald et al., 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nr89gn7qhlx",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Within individuals, day-to-day variation in sleep and mood are linked with day-to-day changes in performance, more so in some areas than others ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvjr6zr8yrg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwckvm7exb3\" data-reactroot=\"\">Neubauer, A. B., Dirk, J., &amp; Schmiedek, F. (2019). Momentary working memory performance is coupled with different dimensions of affect for different children: A mixture model analysis of ambulatory assessment data. <em>Developmental Psychology</em>, <em>55</em>(4), 754-766. <a href=\"https://doi.org/10.1037/dev0000668\">https://doi.org/10.1037/dev0000668</a> </p>",
+              "customLabel": "Neubauer et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Across the lifespan, there is a decrease in variability across childhood into adolescence followed by an increase in variability in old age, with an especially pronounced increase in variability in atypical (e.g., dementia) aging ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7hbkvdsnqb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzoxkeufazm\" data-reactroot=\"\">Hultsch, D. F., MacDonald, S. W., Hunter, M. A., Levy-Bencheton, J., &amp; Strauss, E. (2000). Intraindividual variability in cognitive performance in older adults: Comparison of adults with mild dementia, adults with arthritis, and healthy adults. <em>Neuropsychology</em>, <em>14</em>(4), 588-598. <a href=\"https://doi.org/10.1037//0894-4105.14.4.588\">https://doi.org/10.1037//0894-4105.14.4.588</a> </p>",
+              "customLabel": "Hultsch et al., 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1cv8ke54q8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7udw1rqfag\" data-reactroot=\"\">Ram, N., Rabbitt, P., Stollery, B., &amp; Nesselroade, J. R. (2005). Cognitive performance inconsistency: Intraindividual change and variability. <em>Psychology and Aging</em>, <em>20</em>(4), 623-633. <a href=\"https://doi.org/10.1037/0882-7974.20.4.623\">https://doi.org/10.1037/0882-7974.20.4.623</a> </p>",
+              "customLabel": "Ram et al., 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nozw0uc7fve",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Although much progress has been made on understanding cognitive variability, many questions remain. One avenue for both fundamental and applied work is to decide on the most suitable measure to capture variability. A range of measures and implementations exist\u2014their relative performance and conceptual implications are still being explored.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nml6ogag40k",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Second, what are the (metabolic) costs of stability? Although it is easy to imagine scenarios in which excessive variability is risky, it is equally easy to overlook the costs of excessive stability (e.g., see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nu2ae8hmb94",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntbpb1ct4b3\" data-reactroot=\"\">Pfeffer, T., Ponce-Alvarez, A., Tsetsos, K., Meindertsma, T., Gahnstr\u00f6m, C. J., van den Brink, R. L., Nolte, G., Engel, A. K., Deco, G., &amp; Donner, T. H. (2021). Circuit mechanisms for the chemical modulation of cortex-wide network interactions and behavioral variability. <em>Science Advances</em>, <em>7</em>(29), eabf5620. <a href=\"https://doi.org/10.1126/sciadv.abf5620\">https://doi.org/10.1126/sciadv.abf5620</a> </p>",
+              "customLabel": "Pfeffer et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or the benefits of variability when dealing with variable challenges in a dynamic world (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n88j6hgvgc7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ney13faytlx\" data-reactroot=\"\">Vaughan, A. C., &amp; Birney, D. P. (2023). Within-individual variation in cognitive performance is not noise: Why and how cognitive assessments should examine within-person performance. <em>Journal of Intelligence</em>, <em>11</em>(6), 110.\u00a0<a href=\"https://doi.org/10.3390/jintelligence11060110\">https://doi.org/10.3390/jintelligence11060110</a> </p>",
+              "customLabel": "Vaughan & Birney, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Does this imply an (evolutionary) tradeoff between stability and flexibility and that individuals simply vary in terms of their optimization of this tradeoff?\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nydr7q2m0iy",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Finally, most of the empirical work has suggested that greater cognitive variability is generally associated with negative outcomes, such as (pathological) aging, inattention, and a lack of expertise. However, it is plausible that certain types of variability, or variability in certain contexts, is not only adaptive but necessary [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/lurik5dk",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Rational Analysis"
+          },
+          {
+            "type": "text",
+            "text": "]. A key open question is how to isolate such good or desirable variability: Which tasks, contexts, and measures allow such variability to shine?"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nltamtf198d",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Studying cognitive variability has pushed methodological boundaries, opened new empirical frontiers, and provided a richer empirical and conceptual view of cognitive performance and development as a dynamic system [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/00hsw4x2",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Complex Dynamical Systems"
+          },
+          {
+            "type": "text",
+            "text": "]. One particular avenue for broader connections is with educational technology. Digital tools for learning are now all but ubiquitous in Western education systems, but the richness they offer has not been fully leveraged, either scientifically or translationally. Not only do such platforms allow for greater sample sizes and temporal richness to enable a quantitative handle on variability but they offer the promise of ecological validity of real performance fluctuation in the classroom (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzpps2cn02i",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ney13faytlx\" data-reactroot=\"\">Vaughan, A. C., &amp; Birney, D. P. (2023). Within-individual variation in cognitive performance is not noise: Why and how cognitive assessments should examine within-person performance. <em>Journal of Intelligence</em>, <em>11</em>(6), 110.\u00a0<a href=\"https://doi.org/10.3390/jintelligence11060110\">https://doi.org/10.3390/jintelligence11060110</a> </p>",
+              "customLabel": "Vaughan & Birney, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and a way to address how easily measurable factors such as background noise may affect day-to-day or session-to-session differences in performance ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0lvz4rxnbv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv7dgjuf2xl\" data-reactroot=\"\">Coolen, I. E. J. I., van Langen, J., Hofman, S., van Aagten, F. E., Schaaf, J. V., Michel, L., Aristodemou, M., Judd, N., van Hout, A. T. B., Meeussen, E., &amp; Kievit, R. A. (2024). Protocol and preregistration for the CODEC project: Measuring, modelling and mechanistically understanding the nature of cognitive variability in early childhood. <em>BMC Psychology</em>, <em>12</em>(1), 407. https://doi.org/10.1186/s40359-024-01904-5 </p>",
+              "customLabel": "Coolen et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/5cdl3f1m",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Citizen Science"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nik2fh5d80w",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A second broader connection is with (pharmacological) intervention. The majority of the empirical work on cognitive variability has been observational, relying on either purely descriptive characteristics or the a priori plausibility of (causal) mechanisms. However, it has been shown that pharmacological intervention using (for instance) methylphenidate to decrease ADHD symptomatology has pronounced effects on response time variability, even though that was not the primary target ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n91ls9mefx8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq3w56grm3x\" data-reactroot=\"\">Kofler, M. J., Rapport, M. D., Sarver, D. E., Raiker, J. S., Orban, S. A., Friedman, L. M., &amp; Kolomeyer, E. G. (2013). Reaction time variability in ADHD: A meta-analytic review of 319 studies. <em>Clinical Psychology Review</em>, <em>33</em>(6), 795-811. <a href=\"https://doi.org/10.1016/j.cpr.2013.06.001\">https://doi.org/10.1016/j.cpr.2013.06.001</a> </p>",
+              "customLabel": "Kofler et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Future experimental manipulations will allow cognitive scientists to tease apart the efficacy (or lack thereof) of behavioral manipulations (including neurofeedback or incentivization) to affect variability. Alternatively,\u00a0experimental manipulation of brain processes using transcranial magnetic stimulation or transcranial direct current stimulation could be used to disrupt (or boost) brain processes thought to be involved with variability. Such approaches will allow the field to better triangulate the diverse mechanisms underlying individual differences in intraindividual cognitive variability."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "acknowledgments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Acknowledgments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n49uw5m53fi",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The thoughts in this piece have been shaped by the lab members of the"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://lifespancognitivedynamics.com/",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": " Lifespan Cognitive Dynamics"
+          },
+          {
+            "type": "text",
+            "text": " lab, particularly "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://scholar.google.co.uk/citations?user=AXBd2n4AAAAJ&hl=en&oi=ao",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Michael Aristodemou"
+          },
+          {
+            "type": "text",
+            "text": ". R.A. Kievit is supported by\u00a0the European Union (ERC StG, CODEC, grant number 101040534)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nkxq0hgt9u1",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n038ndq5pfe",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Fiske, D. W., & Rice, L. (1955). Intra-individual response variability. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Psychological Bulletin"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "52"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(3), 217-250. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1037/h0045276",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1037/h0045276"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nzqyg4ar8iv",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Galeano Weber, E. M., Dirk, J., & Schmiedek, F. (2018). Variability in the precision of children\u2019s spatial working memory. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Journal of Intelligence"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "6"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(1), 8. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.3390/jintelligence6010008",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.3390/jintelligence6010008"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nl5dexjk66u",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Judd, N., Aristodemou, M., Klingberg, T., & Kievit, R. (2024). Interindividual differences in cognitive variability are ubiquitous and distinct from mean performance in a battery of eleven tasks. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Journal of Cognition"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "7"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(1), 45. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.5334/joc.371",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.5334/joc.371"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "njct7uwtuz3",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Kofler, M. J., Rapport, M. D., Sarver, D. E., Raiker, J. S., Orban, S. A., Friedman, L. M., & Kolomeyer, E. G. (2013). Reaction time variability in ADHD: A meta-analytic review of 319 studies. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Clinical Psychology Review"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "33"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(6), 795-811. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/j.cpr.2013.06.001",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/j.cpr.2013.06.001"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

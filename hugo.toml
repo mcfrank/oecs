@@ -1,0 +1,12 @@
+baseURL = "https://example.github.io/oecs-static/"
+languageCode = "en-us"
+title = "Open Encyclopedia of Cognitive Science"
+
+# Override iframe URL here to avoid editing data/iframe_semantic_network.json
+# [params]
+# semantic_network_iframe_url = "https://..."
+
+# Required for GitHub Actions (Hugo docs)
+[caches]
+[caches.images]
+  dir = ":cacheDir/images"

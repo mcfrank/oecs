@@ -1,0 +1,1620 @@
+{
+  "id": "a7b4f718-9eef-4e5a-b186-ac4b4305960e",
+  "slug": "hggua2hs",
+  "title": "Foundations of Rationality",
+  "url": "https://oecs.mit.edu/pub/hggua2hs",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "a7b4f718-9eef-4e5a-b186-ac4b4305960e",
+    "slug": "hggua2hs",
+    "title": "Foundations of Rationality",
+    "htmlTitle": "Foundations of Rationality",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.a7b4f718",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "dpflnbme",
+    "editHash": "i0iluqi6",
+    "reviewHash": "g5jairdn",
+    "commentHash": "ie69x6vc",
+    "draftId": "0ed45ec7-5302-4687-8ea1-2898f542cdd6",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "527d979a-87b0-4575-8db0-9e587fd651bb",
+    "scopeSummaryId": "6e1dac07-b887-4cb4-8544-ceddd1a5d2dd",
+    "createdAt": "2025-06-02T17:33:32.968Z",
+    "updatedAt": "2025-09-10T17:41:10.391Z",
+    "attributions": [
+      {
+        "id": "41faff56-2e41-4488-8eaf-51a2ad5d8536",
+        "name": "Nick Chater",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Warwick Business School",
+        "orcid": "0000-0002-9745-0686",
+        "userId": null,
+        "pubId": "a7b4f718-9eef-4e5a-b186-ac4b4305960e",
+        "createdAt": "2025-06-02T17:35:33.991Z",
+        "updatedAt": "2025-06-02T17:35:45.926Z",
+        "user": null
+      },
+      {
+        "id": "3ecc4a72-4410-4ba0-a573-8331777708c3",
+        "name": null,
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "University of Oxford",
+        "orcid": null,
+        "userId": "c14d977d-7f90-4c28-8da2-e0c718bef862",
+        "pubId": "a7b4f718-9eef-4e5a-b186-ac4b4305960e",
+        "createdAt": "2025-06-02T17:35:56.275Z",
+        "updatedAt": "2025-06-18T21:32:11.697Z",
+        "user": {
+          "id": "c14d977d-7f90-4c28-8da2-e0c718bef862",
+          "firstName": "Asifa",
+          "lastName": "Majid",
+          "fullName": "Asifa Majid",
+          "avatar": null,
+          "slug": "asifa-majid",
+          "initials": "AM",
+          "title": "Editor-in-Chief",
+          "orcid": "0000-0003-0132-216X"
+        }
+      }
+    ],
+    "draft": {
+      "id": "0ed45ec7-5302-4687-8ea1-2898f542cdd6",
+      "latestKeyAt": "2025-09-10T17:30:35.763Z",
+      "firebasePath": "drafts/draft-0ed45ec7-5302-4687-8ea1-2898f542cdd6",
+      "createdAt": "2025-06-02T17:33:32.960Z",
+      "updatedAt": "2025-09-18T18:22:51.084Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nolqqmgmppo",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Rationality is one of the most central concepts in cognitive science, yet also one of the least well defined. In some contexts, it is used interchangeably with terms like "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "intelligence"
+          },
+          {
+            "type": "text",
+            "text": " or even "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "reasonableness"
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Rationality"
+          },
+          {
+            "type": "text",
+            "text": " in its narrower conception is taken to be adherence to a set of normative standards that constitute justifiable reasoning. In both its broad and narrow senses, rationality is typically viewed as a prerequisite for interpreting the behavior of another person, artificial intelligence, or animal as having mental states at all. Attributing a belief, desire, or expectation to an entity implies an anticipation that it will act rationally given that belief, desire, or expectation\u2014alongside the broader network of their other mental states. Some philosophers have gone further, arguing that rationality is essential to the very notion of the interpretability of language: that is, the idea that a person\u2019s utterances are not meaningless gibberish but instead follow, at least to some degree, from a justifiable pattern of reasoning. This perspective suggests that rationality underpins the human ability to reconstruct meaning and intention in communication."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2ezfv8s9sl",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "From the late 19th century onwards, various mathematical methods have been developed to model different aspects of rationality. For example, various patterns of verbal reasoning have been formalized through increasingly sophisticated systems of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "formal logic"
+          },
+          {
+            "type": "text",
+            "text": ". Indeed, it has often been supposed that the meaning of sentences can be captured in an underlying logical form (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuwp29q6ucb",
+              "href": null,
+              "value": "https://doi.org/10.1007/978-94-009-9065-4",
+              "unstructuredValue": "",
+              "customLabel": "Dowty et al., 1981",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This tradition, rooted in the work of the logicians and philosophers Gottlob Frege and Bertrand Russell more than a century ago, holds that logical inference determines the deductive implications of a sentence in virtue of its structure. So, for example, \u201cAll As are Bs\u201d and \u201cx is an A,\u201d implies that x is a B, irrespective of the specific properties A or B or the identity of the particular object x. According to this viewpoint, one role of logic is to provide a mathematically precise way of capturing, and studying the properties of, deductive verbal arguments."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "noa0si3nd5x",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In parallel with the logical tradition, which aims to formalize inferences that can be made with deductive certainty, intuitive judgments about likelihood and uncertainty have been formalized using probability theory. Rational choice theory extends these ideas to decision-making, providing a formal framework for analyzing what counts as rational decision-making, whether in individual choices\u2014balancing options and risks\u2014or in strategic, interactive decisions, the domain of game theory. This framework has profoundly influenced economics, serving as a foundation for microeconomic analysis."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ntr7uscrv4e",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Despite these advances, formal models of rationality cover only narrow, well-defined domains. Everyday human reasoning\u2014rich with metaphor, analogy, past experience, background knowledge, and countless other factors\u2014remains largely resistant to formalization. Efforts to capture such reasoning in logic-based artificial intelligence frameworks during the 1970s and 1980s highlighted the complexity of the challenge but fell short of providing comprehensive models."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "styles-of-rational-explanation",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Styles of rational explanation"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6ylxvqe0uz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In cognitive science, many researchers have attempted to capture thought and behavior using formal methods such as logic, probability theory, decision theory, and game theory (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx4xugf4n7f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nym6bx6fghe\" data-reactroot=\"\">Griffiths, T. L., Chater, N., &amp; Tenenbaum, J. B. (2024). <em>Bayesian models of cognition: The probabilistic approach to the mind</em>. MIT Press. </p>",
+              "customLabel": "Griffiths et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This approach aligns with applications of rational choice theory in economics and the social sciences as well as behavioral ecology, in which animal behavior is often interpreted as a rational adaptation to environmental challenges."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfoltk28y8u",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Within this tradition are notable frameworks such as the notion of a computational-level explanation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntzj4f9kdqh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n90na0am61a\" data-reactroot=\"\">Marr, D. (1982). <em>Vision: A computational investigation into the human representation and processing of visual information</em>. W. H. Freeman and Company.\u200b</p>",
+              "customLabel": "Marr, 1982",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and rational analysis ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbqriybv9nr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ns3ng0ty9v7\" data-reactroot=\"\">Anderson, J. R. (1990). <em>The adaptive character of thought</em>. Lawrence Erlbaum Associates.\u200b</p>",
+              "customLabel": "Anderson, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/lurik5dk",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Rational Analysis"
+          },
+          {
+            "type": "text",
+            "text": "]. The common aim is to explain why human thought and behavior are so effective by demonstrating their adherence to rational standards, justified by what the agent knows or desires. Many theorists go further, arguing that the actual computations carried out by the mind follow, at least to some approximation, rational principles."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nyi4moxjczl",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "For instance, psychologists of reasoning proposed that the mind reasons verbally by carrying out inferential steps according to a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "mental logic "
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "niuv0s4td84",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3tmtt4itjr\" data-reactroot=\"\">Rips, L. J. (1994). <em>The psychology of proof: Deductive reasoning in human thinking</em>. MIT Press.</p>",
+              "customLabel": "Rips, 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Similarly, many in Bayesian cognitive science argue that the brain\u2019s underlying representations and computations across domains\u2014such as perception, categorization, causal reasoning, and learning\u2014follow principles of rational probabilistic inference [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/lwxmte1p/release/2?readingCollection=9dd2a47d",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Bayesian Models of Cognition"
+          },
+          {
+            "type": "text",
+            "text": "]. This perspective has been embodied most recently in the probabilistic language of thought framework [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/64sucmct",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "The Language of Thought Hypothesis"
+          },
+          {
+            "type": "text",
+            "text": "], which views cognition as underpinned by sophisticated rational calculations, using probabilistic inference over rich logical representations ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsmbos5jbux",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny0q8596ylb\" data-reactroot=\"\">Piantadosi, S. T., Tenenbaum, J. B., &amp; Goodman, N. D. (2016). The logical primitives of thought: Empirical foundations for compositional cognitive models.\u00a0<em>Psychological Review</em>,\u00a0<em>123</em>(4), 392. <a href=\"https://doi.org/10.1037/a0039980\" target=\"_blank\">https://doi.org/10.1037/a0039980</a></p>",
+              "customLabel": "Piantadosi et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "irrationality-in-the-lab",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Irrationality in the lab?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7ymp3xykpg",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "While many phenomena seem to be well explained by rational models, when human reasoning is tested directly in experiments, people appear to flagrantly and repeatedly violate formal rational principles. Thus, the psychology of verbal reasoning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1kw2psubyb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nff472xhm7h\" data-reactroot=\"\">Evans, J. St. B. T., Newstead, S. E., &amp; Byrne, R. M. J. (1993). <em>Human reasoning: The psychology of deduction</em>. Lawrence Erlbaum Associates.</p>",
+              "customLabel": "Evans et al., 1993",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and the vast and closely related fields of judgement and decision-making and behavioral economics ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nstjqwgmuam",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfpmq3qmzn6\" data-reactroot=\"\">Kahneman, D., &amp; Tversky, A. (Eds.). (2000). <em>Choices, values, and frames</em>. Cambridge University Press.</p>",
+              "customLabel": "Kahneman & Tversky, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") have generated ever-growing catalogues of apparent reasoning blunders, inconsistencies, and biases that violate the principles of logic, probability, and rational choice theory."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nuxpnwc80af",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This contrast has been explained in different ways. One approach is to postulate that the mind divides into two very different systems: an irrational system that is fast, intuitive, but error prone ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "System 1"
+          },
+          {
+            "type": "text",
+            "text": "), and a more rational system, which is slow and deliberative ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "System 2"
+          },
+          {
+            "type": "text",
+            "text": "; e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9pu6fxzql6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6pazuss7y8\" data-reactroot=\"\">Kahneman, D. (2011).\u00a0<em>Thinking, fast and slow</em>. Macmillan.</p>",
+              "customLabel": "Kahneman, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). From a cognitive science perspective, this seems unsatisfying because rational cognitive models tend to be most successful in domains like vision and motor control, which seem to be paradigmatic System 1 processes: they operate rapidly and without deliberation or reflection."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqhwyvy06ff",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A second, and radical, viewpoint is that formal models of rationality should be abandoned entirely as descriptive models of thought (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nngbexd7ckh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxef0ifbd2c\" data-reactroot=\"\">Elqayam, S., &amp; Evans, J. S. B. (2011). Subtracting \u201cought\u201d from \u201cis\u201d: Descriptivism versus normativism in the study of human thinking.\u00a0<em>Behavioral and Brain Sciences</em>,\u00a0<em>34</em>(5), 233-248. <a href=\"https://doi.org/10.1017/S0140525X1100001X\">https://doi.org/10.1017/S0140525X1100001X</a></p>",
+              "customLabel": "Elqayam & Evans, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, this approach runs the risk of failing to capture the obvious rational patterns in thought and behavior. For example, people formulate plans to achieve goals and follow them step by step, based on beliefs about the relevant states of the world. Indeed, as noted above, it has been widely argued that without some assumption of rationality, attributing mental states of any kind to agents at all seems unjustified."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbh9wl3ij6k",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A third approach is not to abandon formal models of rationality but to modify rational models to better account for how people actually think and reason: recognizing that rational thought is subject to severe computational limitations. For example, a natural proposal is that Bayesian probabilistic models are approximated by drawing samples from complex probability distributions rather than engaging in analytic probabilistic calculations. Indeed, this approach may systematically explain some patterns of apparent probabilistic reasoning errors ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nv1y12vzetx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz54eizc9mp\" data-reactroot=\"\">Chater, N., Zhu, J.-Q., Spicer, J., Sundh, J., Le\u00f3n-Villagr\u00e1, P., &amp; Sanborn, A. N. (2020). Probabilistic biases meet the Bayesian brain. <em>Current Directions in Psychological Science, 29</em>(5), 506\u2013512. <a href=\"https://doi.org/10.1177/0963721420954801\" title=\"\">https://doi.org/10.1177/0963721420954801</a></p>",
+              "customLabel": "Chater et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncv2g6gtqai",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvlwcwg6s6w\" data-reactroot=\"\">Dasgupta, I., Schulz, E., &amp; Gershman, S. J. (2017). Where do hypotheses come from? <em>Cognitive Psychology, 96</em>, 1\u201325. <a href=\"https://doi.org/10.1016/j.cogpsych.2017.05.001\" title=\"\">https://doi.org/10.1016/j.cogpsych.2017.05.001</a></p>",
+              "customLabel": "Dasgupta et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). More broadly, the idea that cognition can be viewed as rational computation under resource constraints is a focus of current research ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhonyf7apuc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnuola88apv\" data-reactroot=\"\">Lieder, F., &amp; Griffiths, T. L. (2020). Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources.\u00a0<em>Behavioral and Brain Sciences</em>,\u00a0<em>43</em>, e1. <a href=\"https://doi.org/10.1017/S0140525X1900061X\" target=\"_blank\">https://doi.org/10.1017/S0140525X1900061X</a></p>",
+              "customLabel": "Lieder & Griffiths, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "expanding-the-scope-of-formal-theories-of-rationality",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Expanding the scope of formal theories of rationality"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nnxgskxhiy2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Alongside, and not necessarily in tension with, the restrictive approach to rationality is a more recent tradition in cognitive science that seeks to expand the scope of formal rational theories to incorporate the contextual and social richness of human interaction. This includes models of rational speech acts ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhhe8se51v9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n45bckjj7e7\" data-reactroot=\"\">Frank, M. C., &amp; Goodman, N. D. (2012). Predicting pragmatic reasoning in language games. <em>Science, 336</em>(6084), 998. <a href=\"https://doi.org/10.1126/science.1218633\" title=\"\">https://doi.org/10.1126/science.1218633</a></p>",
+              "customLabel": "Frank & Goodman, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), virtual bargaining in social interactions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzt4gcc6kzm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz7dsnm15m9\" data-reactroot=\"\">Chater, N., Zeitoun, H., &amp; Melkonyan, T. A. (2022). The paradox of social interaction: Shared intentionality, we-reasoning, and virtual bargaining. <em>Psychological Review, 129</em>(3), 415\u2013437. <a href=\"https://doi.org/10.1037/rev0000343\" title=\"\">https://doi.org/10.1037/rev0000343</a>\u200b<a href=\"https://wrap.warwick.ac.uk/id/eprint/158948/\" title=\"\">wrap.warwick.ac.uk+6</a></p>",
+              "customLabel": "Chater et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and frameworks for reasoning about causality ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2gor4rj1fq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9ib40seqhq\" data-reactroot=\"\">Pearl, J. (2000). <em>Causality: Models, reasoning, and inference</em>. Cambridge University Press.\u200b</p>",
+              "customLabel": "Pearl, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), other minds ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni53ymyuhqb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nw9se0tuiwt\" data-reactroot=\"\">Baker, C. L., Jara-Ettinger, J., Saxe, R., &amp; Tenenbaum, J. B. (2017). Rational quantitative attribution of beliefs, desires, and percepts in human mentalizing. <em>Nature Human Behaviour, 1</em>, 0064. <a href=\"https://doi.org/10.1038/s41562-017-0064\" title=\"\">https://doi.org/10.1038/s41562-017-0064</a></p>",
+              "customLabel": "Baker et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and morality ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nip5zt0iy4f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nynloioiiju\" data-reactroot=\"\">Levine, S., Chater, N., Tenenbaum, J. B., &amp; Cushman, F. (2024). Resource-rational contractualism: A triple theory of moral cognition. <em>Behavioral and Brain Sciences</em>. Advance online publication. <a href=\"https://doi.org/10.1017/S0140525X24001067\" title=\"\">https://doi.org/10.1017/S0140525X24001067</a>\u200b</p>",
+              "customLabel": "Levine et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Interestingly, an important strand of this work reconceptualizes verbal reasoning as being primarily directed toward arguing and persuading rather than seeking objective truth ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfmgq7n44fy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndn1bcpmp4n\" data-reactroot=\"\">Mercier, H., &amp; Sperber, D. (2011). Why do humans reason? Arguments for an argumentative theory.\u00a0<em>Behavioral and Brain Sciences</em>,\u00a0<em>34</em>(2), 57-74. <a href=\"https://doi.org/10.1017/S0140525X10000968\" target=\"_blank\">https://doi.org/10.1017/S0140525X10000968</a></p>",
+              "customLabel": "Mercier & Sperber, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). That is, verbal reasoning may be better understood as rhetoric in the traditional sense rather than as an exercise in pure reason [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/wxnjre8g",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Reasoning and Argumentation"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nk6a9flgi1a",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "From this viewpoint, an important challenge for cognitive science is to develop formal models of the rationality underpinning the rhetorical games humans engage in. The rise of large language models with impressive verbal reasoning abilities presents a further challenge [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "]. These models do not appear to be grounded in formal theories of reasoning. Rather, their capabilities emerge as a by-product of training deep neural networks on vast amounts of text. A key question for the future of cognitive science is whether such systems eliminate the need for formal theories of rationality in cognitive science or whether these models remain necessary to explain the operations of black-box artificial intelligence (AI) systems, just as they are required to understand the black-box neural network that is the human brain."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "rationality-as-emergent-from-social-interaction",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Rationality as emergent from social interaction"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n27z5ef27wh",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Another tantalizing possibility for cognitive science is that formal theories of rationality\u2014and perhaps rationality more broadly\u2014have been viewed from the wrong end of the telescope ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "newfyn8dwa3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndn1bcpmp4n\" data-reactroot=\"\">Mercier, H., &amp; Sperber, D. (2011). Why do humans reason? Arguments for an argumentative theory.\u00a0<em>Behavioral and Brain Sciences</em>,\u00a0<em>34</em>(2), 57-74. <a href=\"https://doi.org/10.1017/S0140525X10000968\" target=\"_blank\">https://doi.org/10.1017/S0140525X10000968</a></p>",
+              "customLabel": "Mercier & Sperber, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Rather than treating rationality as primarily a property of individual minds and brains, it may be more appropriate to see at least some aspects of rationality as emerging from distributed computation arising from the interactions of many individuals operating over a shared cultural "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "workspace"
+          },
+          {
+            "type": "text",
+            "text": "\u2014a public realm of argument, debate, observation and experimentation which allow humans collectively to refine ideas over time. Indeed, the most striking examples of rational systems in human culture\u2014mathematics, science, legal reasoning, and financial and economic markets\u2014seem less like the product of any single individual and more like vast edifices with complex (although imperfect) rational structure, which are continuously modified by many people over time ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n41xgymlc3u",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npk2qm1pjk5\" data-reactroot=\"\">Chater, N. (2015). Can cognitive science create a cognitive economics? <em>Cognition, 135</em>, 52\u201355. <a href=\"https://doi.org/10.1016/j.cognition.2014.11.020\">https://doi.org/10.1016/j.cognition.2014.11.020</a> </p>",
+              "customLabel": "Chater, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nm6aj2i25ym",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "From this perspective, perhaps formal theories of rationality\u2014such as logic and probability\u2014are not best viewed as in-built mechanisms of the human mind from which rationality arises. Rather, they may be the endpoints of extended cultural processes of reflection, negotiation, refinement, and experimentation [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/u870vxpu",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Cultural Evolution"
+          },
+          {
+            "type": "text",
+            "text": "]. That is, they emerge not from within the brain itself but from the long history of public deliberation, debate, bargaining, and reflection (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnkddf340as",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlkrb3mwdcn\" data-reactroot=\"\">Oaksford, M. (2024). Social rationality and human reasoning: Logical expressivism and the flat mind. <em>Topics in Cognitive Science</em>. Advance online publication. <a href=\"https://doi.org/10.1111/tops.12757\">https://doi.org/10.1111/tops.12757</a> </p>",
+              "customLabel": "Oaksford, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Rationality may, from this point of view, be primarily social rather than a property of individual minds."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "np6k3xd10b1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Formal rational theories extend far beyond cognitive science. These formal accounts have their origins in philosophy and mathematics but have applications throughout computer science and AI (where computations are typically seen as approximating some rationally justified computation), in the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "rational actor"
+          },
+          {
+            "type": "text",
+            "text": " model that is dominant in modern economics, and extends further to many areas of social science and to animal behavior and in models of neural computation in the brain sciences. Indeed, any aspect of intelligent behavior\u2014whether human, nonhuman animal, or AI\u2014seems to demand an explanation of both why the behavior is intelligent and how such intelligence is achieved. Theories based on formal models of rationality attempt to answer these questions."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "acknowledgments",
+          "id": "acknowledgments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Acknowledgments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nv2o96oq4rh",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The author gratefully acknowledges support from the European Union/UKRI under Horizon Europe Programme Grant Agreement no. 101120763\u2014TANGO, ESRC UKRI/NSF\u2014Grant Ref: ES/Z504397/1 and Advanced Research and Invention Agency  Collaboration Agreement SCNI-PR01-P16. The views and opinions expressed are however those of the author only and do not necessarily reflect those of the European Union or the European Health and Digital Executive Agency. Neither the European Union nor the granting authority can be held responsible for them. "
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading "
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nybge7uq8jz",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n1yc7yzxqq5",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Briggs, R. A. (2023). Normative theories of rational choice: Expected utility. In E. N. Zalta & U. Nodelman (Eds.), "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The Stanford encyclopedia of philosophy"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (Winter 2023 Edition). Stanford University. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://plato.stanford.edu/archives/win2023/entries/rationality-normative-utility/",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://plato.stanford.edu/archives/win2023/entries/rationality-normative-utility/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nym6bx6fghe",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Griffiths, T. L., Chater, N., & Tenenbaum, J. B. (2024). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Bayesian models of cognition: The probabilistic approach to the mind"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". MIT Press. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nh795989hno",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Oaksford, M., & Chater, N. (2020). New paradigms in the psychology of reasoning. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Annual Review of Psychology, 71"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 305\u2013330. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1146/annurev-psych-010419-051132",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1146/annurev-psych-010419-051132"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nwch1lbhuzg",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wheeler, G. (2024). Bounded rationality. In E. N. Zalta (Ed.), "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The Stanford encyclopedia of philosophy"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (Winter 2024 Edition). Stanford University. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://plato.stanford.edu/entries/bounded-rationality/",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://plato.stanford.edu/entries/bounded-rationality/"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\u200b"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

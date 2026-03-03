@@ -1,0 +1,1515 @@
+{
+  "id": "b492816e-b52d-4767-83f0-94484b0e70d1",
+  "slug": "wdkwb956",
+  "title": "Wisdom",
+  "url": "https://oecs.mit.edu/pub/wdkwb956",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "b492816e-b52d-4767-83f0-94484b0e70d1",
+    "slug": "wdkwb956",
+    "title": "Wisdom",
+    "htmlTitle": "Wisdom",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.b492816e",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "wibrptgr",
+    "editHash": "q46ku9ri",
+    "reviewHash": "tlffm0l4",
+    "commentHash": "1xn5ij3s",
+    "draftId": "e886cc47-a6ed-4bfd-a011-842e834a419a",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "f8a4a57f-1563-4ec8-936b-28bff783b484",
+    "scopeSummaryId": "602dd0f6-396e-4a1f-bc2f-fe2b6a826e16",
+    "createdAt": "2024-09-24T15:41:16.467Z",
+    "updatedAt": "2024-10-21T17:39:37.531Z",
+    "attributions": [
+      {
+        "id": "ea920d60-6e3b-4070-994a-5e76e218eaaf",
+        "name": "Igor Grossmann",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of Waterloo",
+        "orcid": "0000-0003-2681-3600",
+        "userId": null,
+        "pubId": "b492816e-b52d-4767-83f0-94484b0e70d1",
+        "createdAt": "2024-09-24T15:41:51.481Z",
+        "updatedAt": "2024-09-24T15:42:01.682Z",
+        "user": null
+      },
+      {
+        "id": "9e72e708-2b7b-483d-9e26-8f4897b06634",
+        "name": "H. Clark Barrett",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "University of California, Los Angeles",
+        "orcid": "0000-0002-4157-6511",
+        "userId": null,
+        "pubId": "b492816e-b52d-4767-83f0-94484b0e70d1",
+        "createdAt": "2024-09-24T17:49:13.965Z",
+        "updatedAt": "2024-09-24T17:49:56.801Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "e886cc47-a6ed-4bfd-a011-842e834a419a",
+      "latestKeyAt": "2024-10-18T15:57:37.563Z",
+      "firebasePath": "drafts/draft-e886cc47-a6ed-4bfd-a011-842e834a419a",
+      "createdAt": "2024-09-24T15:41:16.464Z",
+      "updatedAt": "2024-11-13T15:18:19.005Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncjvkosifbz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Wisdom involves sound judgment in complex situations. It is a complex construct that integrates metacognitive processes, enabling individuals to navigate life\u2019s challenges effectively. Wise individuals demonstrate intellectual humility, consider diverse perspectives, engage in self-reflection, regulate emotions, and balance competing interests for a common good. Wisdom is not merely an accumulation of knowledge but the judicious application of knowledge, guided by ethical principles. The manifestation of wisdom is influenced by individual capacities and situational contexts, making it context-dependent. By examining how these capacities develop and vary across cultures, wisdom research aims to enhance personal and communal well-being. Cognitive science research on wisdom spans developmental, philosophical, personality, and social-cognitive perspectives, each highlighting the role of wisdom for human condition and societal functioning, aiming to uncover its underlying mechanisms and cultivate wisdom in individuals and societies."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nirrxpxktju",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Western scientific study of wisdom draws from ancient philosophical ideas and modern research, encompassing three interrelated themes: developmental (with age comes wisdom), individual differences (beyond conventional IQ testing), and social-cognitive (tuning wisdom to social and ecological context) [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/k9va0mfe",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Experimental Philosophy"
+          },
+          {
+            "type": "text",
+            "text": "]. Early work by Baltes and his team conceptualized wisdom as a pinnacle of cognitive development, analyzing life\u2019s complex problems with an appreciation for the varying circumstances and values people face over time and recognizing that many situations have no clear answers ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nf0x9oheyrx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsmirf0jnpd\" data-reactroot=\"\">Baltes, P. B., &amp; Smith, J. (2008). The fascination of wisdom: Its nature, ontogeny, and function.\u00a0<em>Perspectives on Psychological Science</em>,\u00a0<em>3</em>(1), 56\u201364. <a href=\"https://doi.org/10.1111/j.1745-6916.2008.00062.x\" target=\"_blank\">https://doi.org/10.1111/j.1745-6916.2008.00062.x</a></p>",
+              "customLabel": "Baltes & Smith, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This view of wisdom builds on earlier studies of mature thought, which highlight the recognition of knowledge limitations, adaptability, understanding of context-dependent reasoning, and the ability to balance and integrate diverse viewpoints ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfaogs2dfak",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqgali9o5li\" data-reactroot=\"\">Basseches, M. (1984).\u00a0<em>Dialectical thinking and adult development</em>. Ablex.</p>",
+              "customLabel": "Basseches, 1984",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7fu7zutqio",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In parallel, researchers studying individual difference sought to advance scholarship by developing theoretical models (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1d08jryl6e",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbjv4sogn1l\" data-reactroot=\"\">Sternberg, R. J. (1998). A balance theory of wisdom.\u00a0<em>Review of General Psychology</em>,\u00a0<em>2</em>(4), 347\u2013365. <a href=\"https://doi.org/10.1037/1089-2680.2.4.347\" target=\"_blank\">https://doi.org/10.1037/1089-2680.2.4.347</a></p>",
+              "customLabel": "Sternberg, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and assessment methods. Popular assessment tools have involved self-report questionnaires targeting characteristics that are cognitive (insight into inter- and intra-personal matters, including limits of knowledge and unpredictability), reflective (perception of phenomena and events from multiple perspectives), and affective (sympathy and compassion) (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlqfz36frd0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1t1uuukx5x\" data-reactroot=\"\">Ardelt, M. (2003). Empirical assessment of a three-dimensional wisdom scale.\u00a0<em>Research on Aging</em>,\u00a0<em>25</em>(3), 275\u2013324. <a href=\"https://doi.org/10.1177/0164027503025003004\" target=\"_blank\">https://doi.org/10.1177/0164027503025003004</a></p>",
+              "customLabel": "Ardelt, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntp2m0uun2y",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhtmfezyv62\" data-reactroot=\"\">Webster, J. D. (2003). An exploratory analysis of a self-assessed wisdom scale.\u00a0<em>Journal of Adult Development</em>,\u00a0<em>10</em>(1), 13\u201322. <a href=\"https://doi.org/10.1023/A:1020782619051\" target=\"_blank\">https://doi.org/10.1023/A:1020782619051</a></p>",
+              "customLabel": "Webster, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, the validity of self-report methods has been challenged due to eliciting potentially socially desirable responses ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkrsp6n5t2a",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvk8cs5yhk3\" data-reactroot=\"\">Gl\u00fcck, J., K\u00f6nig, S., Naschenweng, K., Redzanowski, U., Dorner, L., Stra\u00dfer, I., &amp; Wiedermann, W. (2013). How to measure wisdom: Content, reliability, and validity of five measures.\u00a0<em>Frontiers in Psychology</em>,\u00a0<em>4</em>, 405. <a href=\"https://doi.org/10.3389/fpsyg.2013.00405\" target=\"_blank\">https://doi.org/10.3389/fpsyg.2013.00405</a></p>",
+              "customLabel": "Gl\u00fcck et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nw9xwuo7i6h",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "As the field matured, the focus shifted slightly to incorporate more of the social-cognitive aspects of wisdom ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlidr2177ce",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhsvadkcfyl\" data-reactroot=\"\">Darnell, C., Gulliford, L., Kristj\u00e1nsson, K., &amp; Paris, P. (2019). Phronesis and the knowledge-action gap in moral psychology and moral education: A new synthesis?\u00a0<em>Human Development</em>,\u00a0<em>62</em>(3), 101\u2013129. <a href=\"https://doi.org/10.1159/000496136\" target=\"_blank\">https://doi.org/10.1159/000496136</a></p>",
+              "customLabel": "Darnell et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ng1ysvmar3w",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npkhkpe97k3\" data-reactroot=\"\">Gl\u00fcck, J., &amp; Weststrate, N. M. (2022). The wisdom researchers and the elephant: An integrative model of wise behavior.\u00a0<em>Personality and Social Psychology Review</em>,\u00a0<em>26</em>(4), 342\u2013374. <a href=\"https://doi.org/10.1177/10888683221094650\" target=\"_blank\">https://doi.org/10.1177/10888683221094650</a></p>",
+              "customLabel": "Gl\u00fcck & Weststrate, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngx03gy9auc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfkazuxyqgf\" data-reactroot=\"\">Grossmann, I. (2017). Wisdom in context.\u00a0<em>Perspectives on Psychological Science</em>,\u00a0<em>12</em>(2), 233\u2013257. <a href=\"https://doi.org/10.1177/1745691616672066\" target=\"_blank\">https://doi.org/10.1177/1745691616672066</a></p>",
+              "customLabel": "Grossmann, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This perspective views wisdom as a context-dependent regulatory system that involves navigating life\u2019s challenges not just on an individual level but within larger social and cultural contexts. The situated wisdom framework ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ns0dsricmgw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"navf6uqpufg\" data-reactroot=\"\">Brienza, J. P., Kung, F. Y. H., Santos, H. C., Bobocel, D. R., &amp; Grossmann, I. (2018). Wisdom, bias, and balance: Toward a process-sensitive measurement of wisdom-related cognition.\u00a0<em>Journal of Personality and Social Psychology</em>,\u00a0<em>115</em>(6), 1093\u20131126. <a href=\"https://doi.org/10.1037/pspp0000171\" target=\"_blank\">https://doi.org/10.1037/pspp0000171</a></p>",
+              "customLabel": "Brienza et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nttkkky80dy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfkazuxyqgf\" data-reactroot=\"\">Grossmann, I. (2017). Wisdom in context.\u00a0<em>Perspectives on Psychological Science</em>,\u00a0<em>12</em>(2), 233\u2013257. <a href=\"https://doi.org/10.1177/1745691616672066\" target=\"_blank\">https://doi.org/10.1177/1745691616672066</a></p>",
+              "customLabel": "Grossmann, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") emphasized situational factors shaping wise thought and action, with a focus on processes enabling sound judgment. The dynamic interplay between personal abilities and situational affordances has been highlighted in how wisdom manifests itself ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4eot9luvcc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npkhkpe97k3\" data-reactroot=\"\">Gl\u00fcck, J., &amp; Weststrate, N. M. (2022). The wisdom researchers and the elephant: An integrative model of wise behavior.\u00a0<em>Personality and Social Psychology Review</em>,\u00a0<em>26</em>(4), 342\u2013374. <a href=\"https://doi.org/10.1177/10888683221094650\" target=\"_blank\">https://doi.org/10.1177/10888683221094650</a></p>",
+              "customLabel": "Gl\u00fcck & Weststrate, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "wise-reasoning",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Wise reasoning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nnl01rsdbta",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Central to wise reasoning is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "perspectival metacognition"
+          },
+          {
+            "type": "text",
+            "text": ", which encompasses the ability to deploy, monitor, and control one\u2019s thought processes to make sound judgments in the face of complex and ambiguous situations ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndq3wz4v12s",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nni8vwquvq9\" data-reactroot=\"\">Grossmann, I., Weststrate, N. M., Ardelt, M., Brienza, J. P., Dong, M., Ferrari, M., Fournier, M. A., Hu, C. S., Nusbaum, H. C., &amp; Vervaeke, J. (2020). The science of wisdom in a polarized world: Knowns and unknowns. <em>Psychological Inquiry</em>, <em>31</em>(2), 103\u2013133. <a href=\"https://doi.org/10.1080/1047840X.2020.1750917\">https://doi.org/10.1080/1047840X.2020.1750917</a></p>",
+              "customLabel": "Grossmann et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This construct includes recognizing the limits of one\u2019s knowledge and considering multiple perspectives."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "balance-of-interests",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Balance of interests"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7n7245zond",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Wisdom also entails the ability to balance personal, communal, and global interests, including navigating the often-competing demands of short-term needs and long-term goals ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnogbinm17n",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njwlvgn0yps\" data-reactroot=\"\">Schwartz, B., &amp; Sharpe, K. E. (2006). Practical wisdom: Aristotle meets positive psychology.\u00a0<em>Journal of Happiness Studies</em>,\u00a0<em>7</em>(3), 377\u2013395. <a href=\"https://doi.org/10.1007/s10902-005-3651-y\" target=\"_blank\">https://doi.org/10.1007/s10902-005-3651-y</a></p>",
+              "customLabel": "Schwartz & Sharpe, 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nicwjrrl0mk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbjv4sogn1l\" data-reactroot=\"\">Sternberg, R. J. (1998). A balance theory of wisdom.\u00a0<em>Review of General Psychology</em>,\u00a0<em>2</em>(4), 347\u2013365. <a href=\"https://doi.org/10.1037/1089-2680.2.4.347\" target=\"_blank\">https://doi.org/10.1037/1089-2680.2.4.347</a></p>",
+              "customLabel": "Sternberg, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Wise individuals seek solutions that not only benefit themselves but also contribute positively to the welfare of others and the broader society ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuib040xdqy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"navf6uqpufg\" data-reactroot=\"\">Brienza, J. P., Kung, F. Y. H., Santos, H. C., Bobocel, D. R., &amp; Grossmann, I. (2018). Wisdom, bias, and balance: Toward a process-sensitive measurement of wisdom-related cognition.\u00a0<em>Journal of Personality and Social Psychology</em>,\u00a0<em>115</em>(6), 1093\u20131126. <a href=\"https://doi.org/10.1037/pspp0000171\" target=\"_blank\">https://doi.org/10.1037/pspp0000171</a></p>",
+              "customLabel": "Brienza et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1utec1c3nn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqianzxzatv\" data-reactroot=\"\">Brienza, J. P., Kung, F. Y. H., &amp; Chao, M. M. (2021). Wise reasoning, intergroup positivity, and attitude polarization across contexts.\u00a0<em>Nature Communications</em>,\u00a0<em>12</em>(1), 3313. <a href=\"https://doi.org/10.1038/s41467-021-23432-1\" target=\"_blank\">https://doi.org/10.1038/s41467-021-23432-1</a></p>",
+              "customLabel": "2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "contextual-dynamics",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Contextual dynamics"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nw000ifqf58",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The manifestation of wisdom is profoundly influenced by contextual factors\u2014cultural, experiential, and situational ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvqied08vjx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfkazuxyqgf\" data-reactroot=\"\">Grossmann, I. (2017). Wisdom in context.\u00a0<em>Perspectives on Psychological Science</em>,\u00a0<em>12</em>(2), 233\u2013257. <a href=\"https://doi.org/10.1177/1745691616672066\" target=\"_blank\">https://doi.org/10.1177/1745691616672066</a></p>",
+              "customLabel": "Grossmann, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhre3pzyk28",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4bw0r5493g\" data-reactroot=\"\">Lin, H., Zheng, H., &amp; Wang, F. (2023). Do bystanders always see more than the players? Exploring Solomon\u2019s paradox through meta-analysis.\u00a0<em>Frontiers in Psychology</em>,\u00a0<em>14</em>, 1181187. <a href=\"https://doi.org/10.3389/fpsyg.2023.1181187\" target=\"_blank\">https://doi.org/10.3389/fpsyg.2023.1181187</a></p>",
+              "customLabel": "Lin et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhdtdyehscq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7jj9rl4u38\" data-reactroot=\"\">Staudinger, U. M. (1996). Wisdom and the social-interactive foundation of the mind. In P. B. Baltes &amp; U. M. Staudinger (Eds.),\u00a0<em>Interactive minds: Life-span perspectives on the social foundation of cognition</em>\u00a0(pp. 276\u2013315). Cambridge University Press.</p>",
+              "customLabel": "Staudinger, 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Wisdom is not a fixed trait but a dynamic quality that emerges distinctly in different environments ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1eiuusp82l",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"navf6uqpufg\" data-reactroot=\"\">Brienza, J. P., Kung, F. Y. H., Santos, H. C., Bobocel, D. R., &amp; Grossmann, I. (2018). Wisdom, bias, and balance: Toward a process-sensitive measurement of wisdom-related cognition.\u00a0<em>Journal of Personality and Social Psychology</em>,\u00a0<em>115</em>(6), 1093\u20131126. <a href=\"https://doi.org/10.1037/pspp0000171\" target=\"_blank\">https://doi.org/10.1037/pspp0000171</a></p>",
+              "customLabel": "Brienza et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqn716eewlr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfkazuxyqgf\" data-reactroot=\"\">Grossmann, I. (2017). Wisdom in context.\u00a0<em>Perspectives on Psychological Science</em>,\u00a0<em>12</em>(2), 233\u2013257. <a href=\"https://doi.org/10.1177/1745691616672066\" target=\"_blank\">https://doi.org/10.1177/1745691616672066</a></p>",
+              "customLabel": "Grossmann, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Wise reasoning and behavior are tailored to specific challenges and conditions, highlighting the variability and adaptability of wisdom across different life scenarios and cultural backgrounds ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n857mmpgs7g",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvcuhz1t28m\" data-reactroot=\"\">Ferrari, M., &amp; Alhosseini, F. (2019). Cultural differences in wisdom and conceptions of wisdom. In R. J. Sternberg &amp; J. Gl\u00fcck (Eds.),\u00a0<em>The Cambridge handbook of wisdom</em>\u00a0(1st ed., pp. 409\u2013428). Cambridge University Press. <a href=\"https://doi.org/10.1017/9781108568272.019\" target=\"_blank\">https://doi.org/10.1017/9781108568272.019</a></p>",
+              "customLabel": "Ferrari & Alhosseini, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "emotional-intelligence",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Emotional intelligence"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nh4nfejpfaa",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The expression of wisdom benefits from emotional intelligence, where wise individuals demonstrate significant self-reflection and emotional regulation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxzbbl122h8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6j60u1fa9e\" data-reactroot=\"\">Bangen, K. J., Meeks, T. W., &amp; Jeste, D. V. (2013). Defining and assessing wisdom: A review of the literature.\u00a0<em>The American Journal of Geriatric Psychiatry</em>,\u00a0<em>21</em>(12), 1254\u20131266. <a href=\"https://doi.org/10.1016/j.jagp.2012.11.020\" target=\"_blank\">https://doi.org/10.1016/j.jagp.2012.11.020</a></p>",
+              "customLabel": "Bangen et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These emotional competencies facilitate the ability to manage personal and interpersonal challenges effectively, contributing to balanced and humane responses to life\u2019s dilemmas. Emotional competencies complement metacognitive abilities, enhancing the quality of judgments and interactions within various social contexts."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "developmental-and-individual-variability",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Developmental and individual variability"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7w8oy748dl",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "While wisdom is often attributed to older age and the accrual of life experience, empirical studies show that wisdom does not uniformly increase with age ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ne2swgudkhd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk0uiznqtpb\" data-reactroot=\"\">Dong, M., Weststrate, N. M., &amp; Fournier, M. A. (2022). Thirty years of psychological wisdom research: What we know about the correlates of an ancient concept. <em>Perspectives on Psychological Science</em>, <em>18</em>(4), 778\u2013811. <a href=\"https://doi.org/10.1177/17456916221114096\">https://doi.org/10.1177/17456916221114096</a></p>",
+              "customLabel": "Dong et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The development of wisdom involves a complex interplay of cognitive and affective processes that vary widely among individuals ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nal4ushq0ru",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npkhkpe97k3\" data-reactroot=\"\">Gl\u00fcck, J., &amp; Weststrate, N. M. (2022). The wisdom researchers and the elephant: An integrative model of wise behavior.\u00a0<em>Personality and Social Psychology Review</em>,\u00a0<em>26</em>(4), 342\u2013374. <a href=\"https://doi.org/10.1177/10888683221094650\" target=\"_blank\">https://doi.org/10.1177/10888683221094650</a></p>",
+              "customLabel": "Gl\u00fcck & Weststrate, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nl073v9x9kp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Contemporary wisdom research faces several challenges, such as capturing the dynamic nature of wisdom and distinguishing it from similar constructs. Recent developments, like the Common Wisdom Model, attempt to address these issues, but the inconsistency in terminology and conceptual definitions remain problematic (e.g., Is empathy an element of wisdom or a distinct construct?) ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnfqwqxwhgw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8hlarft15d\" data-reactroot=\"\">Staudinger, U. M., &amp; Gl\u00fcck, J. (2011). Psychological wisdom research: Commonalities and differences in a growing field.\u00a0<em>Annual Review of Psychology</em>,\u00a0<em>62</em>(1), 215\u2013241. <a href=\"https://doi.org/10.1146/annurev.psych.121208.131659\" target=\"_blank\">https://doi.org/10.1146/annurev.psych.121208.131659</a></p>",
+              "customLabel": "Staudinger & Gl\u00fcck, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Another challenge lies in appropriately determining the level of analysis, because many studies make unwarranted cross-temporal claims from cross-sectional data (e.g., wisdom "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "leads"
+          },
+          {
+            "type": "text",
+            "text": " to well-being). Methodologically, there is an overreliance on decontextualized questionnaires, which fail to assess how specific strategies (e.g., intellectual humility) fit specific situations. Developing reliable and valid measures that capture wisdom\u2019s multifaceted nature and account for context remains difficult. Recent developments emphasize the need for psychometric models that explicitly account for intra-individual variability as a function of the situational context ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "navr0pwc1qk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"navf6uqpufg\" data-reactroot=\"\">Brienza, J. P., Kung, F. Y. H., Santos, H. C., Bobocel, D. R., &amp; Grossmann, I. (2018). Wisdom, bias, and balance: Toward a process-sensitive measurement of wisdom-related cognition.\u00a0<em>Journal of Personality and Social Psychology</em>,\u00a0<em>115</em>(6), 1093\u20131126. <a href=\"https://doi.org/10.1037/pspp0000171\" target=\"_blank\">https://doi.org/10.1037/pspp0000171</a></p>",
+              "customLabel": "Brienza et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5ftdomdxp3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "New developments aim to explore the extent of person-centric consistency in wisdom, raising the question of whether wisdom should be considered a property of the socio-ecological system rather than a person-centric construct. This perspective challenges the traditional view of wisdom as an individual characteristic and suggests that it emerges from the complex interactions between individuals and their social and environmental contexts ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nn9a69i1rf0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nni8vwquvq9\" data-reactroot=\"\">Grossmann, I., Weststrate, N. M., Ardelt, M., Brienza, J. P., Dong, M., Ferrari, M., Fournier, M. A., Hu, C. S., Nusbaum, H. C., &amp; Vervaeke, J. (2020). The science of wisdom in a polarized world: Knowns and unknowns. <em>Psychological Inquiry</em>, <em>31</em>(2), 103\u2013133. <a href=\"https://doi.org/10.1080/1047840X.2020.1750917\">https://doi.org/10.1080/1047840X.2020.1750917</a></p>",
+              "customLabel": "Grossmann et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Another emerging area of interest is the wisdom of artificial agents ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7xo2y43r8n",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntz59el6z21\" data-reactroot=\"\">Karlan, B., &amp; Allen, C. (2022). Engineered wisdom for learning machines.\u00a0<em>Journal of Experimental &amp; Theoretical Artificial Intelligence</em>, <em>36</em>(2), 257\u2013272. <a href=\"https://doi.org/10.1080/0952813X.2022.2092559\">https://doi.org/10.1080/0952813X.2022.2092559</a></p>",
+              "customLabel": "Karlan & Allen, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), which investigates the potential for wisdom in artificial intelligence systems and the implications for human-machine interactions. Additionally, researchers are beginning to examine the conditions under which features of wisdom may be suboptimal or maladaptive for the individual, society, or both, challenging the assumption that wisdom is always beneficial."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nthiypz9j1k",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "As a foundational topic in philosophy, wisdom sits at the nexus of different fields, including moral psychology, emotion regulation, lifespan development, personality psychology, cultural psychology, decision-making and problem solving, leadership and organizational behavior, and artificial intelligence."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "acknowledgements",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Acknowledgements"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nuid0s5wlgt",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This work was supported by the Social Sciences and Humanities Research Council of Canada Insight program under Grant 435-2014-0685; the Templeton World Charity Foundation under Grant TWCF-2023-32568; and the John Templeton Foundation under Grant 62260."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading "
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "np9t35vfulq",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nkbvmmmja23",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Baltes, P. B., & Smith, J. (2008). The fascination of wisdom: Its nature, ontogeny, and function. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Perspectives on Psychological Science"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "3"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(1), 56\u201364. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1111/j.1745-6916.2008.00062.x",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1111/j.1745-6916.2008.00062.x"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "ntdw63wbd9d",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Dong, M., Weststrate, N. M., & Fournier, M. A. (2022). Thirty years of psychological wisdom research: What we know about the correlates of an ancient concept. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Perspectives on Psychological Science"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "18"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(4), 778\u2013811. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1177/17456916221114096",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1177/17456916221114096"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n009ly1xz53",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Grossmann, I., Weststrate, N. M., Ardelt, M., Brienza, J. P., Dong, M., Ferrari, M., Fournier, M. A., Hu, C. S., Nusbaum, H. C., & Vervaeke, J. (2020). The science of wisdom in a polarized world: Knowns and unknowns. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Psychological Inquiry"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "31"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(2), 103\u2013133. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1080/1047840X.2020.1750917",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1080/1047840X.2020.1750917"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

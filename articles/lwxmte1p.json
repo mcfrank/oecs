@@ -1,0 +1,3024 @@
+{
+  "id": "7b420317-7b9a-45fd-92da-2e6e8ccc7d2e",
+  "slug": "lwxmte1p",
+  "title": "Bayesian Models of Cognition",
+  "url": "https://oecs.mit.edu/pub/lwxmte1p",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "7b420317-7b9a-45fd-92da-2e6e8ccc7d2e",
+    "slug": "lwxmte1p",
+    "title": "Bayesian Models of Cognition",
+    "htmlTitle": "Bayesian Models of Cognition",
+    "description": "",
+    "htmlDescription": "Bayesian models of cognition explain aspects of human behavior as a result of rational probabilistic inference. In particular, these models make use of Bayes\u2019 rule, which indicates how rational agents should update their beliefs . . .",
+    "avatar": null,
+    "customPublishedAt": "2024-07-24T00:00:00.000Z",
+    "doi": "10.21428/e2759450.7b420317",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "iltjvwes",
+    "editHash": "jiobnftd",
+    "reviewHash": "net6ruy0",
+    "commentHash": "pbum8tth",
+    "draftId": "2894b970-e922-4a25-a249-eb11b5868b60",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "56e7536e-b7cb-4d0c-990e-38468acae362",
+    "scopeSummaryId": "f07a04a4-0b88-4777-9918-4c42f9071d82",
+    "createdAt": "2024-07-12T18:31:23.461Z",
+    "updatedAt": "2024-07-24T12:00:07.031Z",
+    "attributions": [
+      {
+        "id": "04df0e9d-47eb-4d19-93a4-3941e28404b5",
+        "name": "Michael C. Frank",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Stanford University",
+        "orcid": "0000-0002-7551-4378",
+        "userId": null,
+        "pubId": "7b420317-7b9a-45fd-92da-2e6e8ccc7d2e",
+        "createdAt": "2024-07-23T20:57:21.275Z",
+        "updatedAt": "2025-03-24T16:14:10.268Z",
+        "user": null
+      },
+      {
+        "id": "8858e4aa-5c63-46ef-b297-e675d665a268",
+        "name": "Thomas L. Griffiths",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Princeton University",
+        "orcid": "0000-0002-5138-7255",
+        "userId": null,
+        "pubId": "7b420317-7b9a-45fd-92da-2e6e8ccc7d2e",
+        "createdAt": "2024-07-12T18:31:54.652Z",
+        "updatedAt": "2024-07-23T18:34:45.551Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "2894b970-e922-4a25-a249-eb11b5868b60",
+      "latestKeyAt": "2024-07-24T19:33:43.568Z",
+      "firebasePath": "drafts/draft-2894b970-e922-4a25-a249-eb11b5868b60",
+      "createdAt": "2024-07-12T18:31:23.457Z",
+      "updatedAt": "2025-04-01T03:35:26.945Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmyaja6w5n8",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Bayesian models of cognition explain aspects of human behavior as a result of rational probabilistic inference. In particular, these models make use of Bayes\u2019 rule, which indicates how rational agents should update their beliefs about hypotheses in light of data. Bayes\u2019 rule provides an optimal solution to inductive problems for which the observed data are insufficient to distinguish between hypotheses. Since many of the things that human minds need to do involve inductive problems\u2013\u2014from identifying the structure of the world based on limited sensory data to inferring what other people think based on their behavior\u2013\u2014Bayesian models have broad applicability within cognitive science. Being able to identify what a rational agent would do in these situations provides a way to explain why people might act similarly, and is a tool for exploring the implicit assumptions underlying human behavior. In particular, Bayesian models make it easy to explore the inductive biases that inform people\u2019s inferences, being those factors other than the data that guide people in selecting one hypothesis over another."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1kfonk4qb8",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Bayesian models of cognition are based on a subjective interpretation of probability originally introduced in the 18th century by Thomas Bayes and Pierre-Simon Laplace [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/98iya9su",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Bayesianism"
+          },
+          {
+            "type": "text",
+            "text": "]. In this approach, probabilities are taken to indicate the degree of belief that an agent assigns to an event. Probability theory then specifies how these degrees of belief should behave. Bayes\u2019 rule is just a basic result in probability theory, but the subjective interpretation of probability turns it into a powerful tool for understanding how rational agents should update their degrees of belief based on evidence."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n29jnbms3bv",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Bayesian models of human cognition were first proposed in the 1950s as mathematical modeling began to come into contact with behavioral experiments during the cognitive revolution. In particular, subjective probability and Bayes\u2019 rule were evaluated as an account of human cognition when ideas from statistical decision theory were first used to study human decision-making (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7nezyjrkq6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n16c61yjdms\" data-reactroot=\"\">Edwards, W. (1961). Behavioral decision theory. <em>Annual Review of Psychology,</em> <em>12</em>(1), 473\u2013498. <a href=\"https://doi.org/10.1146/annurev.ps.12.020161.002353\" title=\"\" target=\"_blank\">https://doi.org/10.1146/annurev.ps.12.020161.002353</a></p>",
+              "customLabel": "Edwards, 1961",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Early research comparing human belief updating to the prescriptions of probability theory concluded that people acted in a way that was consistent with Bayesian inference but were \u201cconservative,\u201d updating their beliefs more slowly than indicated by Bayes\u2019 rule ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnoe8bgpt8w",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhdt77bsqgj\" data-reactroot=\"\">Phillips, L. D., &amp; Edwards, W. (1966). Conservatism in a simple probability inference task. <em>Journal of Experimental Psychology,</em> <em>72</em>(3), 346\u2013354. <a href=\"https://doi.org/10.1037/h0023653\" title=\"\" target=\"_blank\">https://doi.org/10.1037/h0023653</a></p>",
+              "customLabel": "Phillips & Edwards, 1966",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzhovklm0e8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8vai6g68aq\" data-reactroot=\"\">Peterson, C. R., &amp; Beach, L. R. (1967). Man as an intuitive statistician. <em>Psychological Bulletin,</em> <em>68</em>(1), 29\u201346. <a href=\"https://doi.org/10.1037/h0024722\" title=\"\" target=\"_blank\">https://doi.org/10.1037/h0024722</a></p>",
+              "customLabel": "Peterson & Beach, 1967",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmb780jnbij",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The Bayesian approach ran into a significant challenge in the work of "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvti1ldfkcc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndbt1cb7pk3\" data-reactroot=\"\">Kahneman, D., &amp; Tversky, A. (1972). Subjective probability: A judgment of representativeness. <em>Cognitive Psychology,</em> <em>3</em>(3), 430\u2013454. <a href=\"https://doi.org/10.1016/0010-0285(72)90016-3\" title=\"\" target=\"_blank\">https://doi.org/10.1016/0010-0285(72)90016-3</a></p>",
+              "customLabel": "Kahneman and Tversky (1972)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", who showed that people deviated systematically from probability theory when assessing the probability of events. In particular, people could be induced to focus on the evidence provided to them rather than combining this evidence with base rates in the way that Bayes\u2019 rule stipulates. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2ua666fyz0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"neyrcmx75be\" data-reactroot=\"\">Kahneman, D., &amp; Tversky, A. (1972). Subjective probability: A judgment of representativeness. <em>Cognitive Psychology,</em> <em>3</em>(3), 430\u2013454. <a href=\"https://doi.org/10.1016/0010-0285(72)90016-3\" title=\"\" target=\"_blank\">https://doi.org/10.1016/0010-0285(72)90016-3</a></p>",
+              "customLabel": "Kahneman and Tversky (1972)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " concluded that \u201cFor anyone who would wish to view man as a reasonable intuitive statistician, such results are discouraging.\u201d (p. 445)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nj76v49yez1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The discouragement lasted until the late 1980s, when Roger Shepard developed a different way to use probability theory to model human cognition. Rather than focusing on probability judgment, Shepard was interested in explaining how people form generalizations. He realized that this problem could be cast as one of probabilistic inference\u2014assessing the probability that a property of one object is shared by another\u2014and used Bayes\u2019 rule to derive the optimal solution to this problem ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nndqukc4f3f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7qewn1jr4e\" data-reactroot=\"\">Shepard, R. N. (1987). Toward a universal law of generalization for psychological science.\u00a0<em>Science</em>,\u00a0<em>237</em>(4820), 1317\u20131323.</p>",
+              "customLabel": "Shepard, 1987",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In doing so, he was seeking to drive a universal law\u2014a principle that should hold for any intelligent organism anywhere in the universe. By indicating how a rational agent should solve this cognitive problem, Bayes\u2019 rule provided an explanation for the patterns seen in the generalization behavior of humans and other animals."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nw9skvr80hd",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "John Anderson took inspiration from Shepard\u2019s approach of using probability theory to study a wider range of cognitive processes and developed it into the framework of rational analysis ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5oi11zu3ax",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngz7h2uinoz\" data-reactroot=\"\">Anderson, J. R. (1990).\u00a0<em>The adaptive character of thought</em>. Psychology Press.</p>",
+              "customLabel": "Anderson, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In this framework, aspects of human cognition are explained by identifying the problem that the human mind has to solve and then deriving the optimal solution to that problem. If the optimal solution is consistent with human behavior, it provides a way to understand why people behave in the way that they do. For problems that involve inductive inference, in which the observed data do not provide enough information to be certain about the process that produced it, Bayes\u2019 rule provides an optimal solution. As a consequence, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx1nvidcala",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngz7h2uinoz\" data-reactroot=\"\">Anderson, J. R. (1990).\u00a0<em>The adaptive character of thought</em>. Psychology Press.</p>",
+              "customLabel": "Anderson (1990)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " developed Bayesian models of categorization, memory, causal learning, and problem solving. This in turn inspired "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nr0vs6v0cie",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvyy48fukwc\" data-reactroot=\"\">Oaksford, M., &amp; Chater, N. (1994). A rational analysis of the selection task as optimal data selection. <em>Psychological Review,</em> <em>101</em>(4), 608\u2013631. <a href=\"https://doi.org/10.1037/0033-295X.101.4.608\" title=\"\" target=\"_blank\">https://doi.org/10.1037/0033-295X.101.4.608</a></p>",
+              "customLabel": "Oaksford and Chater (1994)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " to show that a classic fallacy of logical reasoning could be explained in terms of Bayesian updating and optimal information seeking, demonstrating that evidence for human irrationality could be reinterpreted using this approach."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nanoir9effp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The 21st century has seen the broad application of Bayesian models to different aspects of human cognition, spurred by the development of new methods for statistical inference and probabilistic reasoning in statistics and machine learning. These aspects of human cognition include concept learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nysrmojqlrk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nd7la4mk4va\" data-reactroot=\"\">Tenenbaum, J. B. (2000). Rules and similarity in concept learning. In S. A. Solla, T. K. Leen, K.-R. M\u00fcller (Eds.), <em>Advances in neural information processing systems 12 </em>(pp. 59\u201365). MIT Press.</p>",
+              "customLabel": "Tenenbaum, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), word learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6ktaynnplj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngvk6fi0qbi\" data-reactroot=\"\">Xu, F., &amp; Tenenbaum, J. B. (2007). Word learning as Bayesian inference. <em>Psychological Review,</em> <em>114</em>(2), 245\u2013272. <a href=\"https://doi.org/10.1037/0033-295X.114.2.245\" title=\"\" target=\"_blank\">https://doi.org/10.1037/0033-295X.114.2.245</a></p>",
+              "customLabel": "Xu & Tenenbaum, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), causal learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nchnmep248r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny7dq88rz1p\" data-reactroot=\"\">Griffiths, T. L., &amp; Tenenbaum, J. B. (2005). Structure and strength in causal induction. <em>Cognitive Psychology,</em> <em>51</em>(4), 334\u2013384. <a href=\"https://doi.org/10.1016/j.cogpsych.2005.05.004\" title=\"\" target=\"_blank\">https://doi.org/10.1016/j.cogpsych.2005.05.004</a></p>",
+              "customLabel": "Griffiths & Tenenbaum, 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfrqw1jhr3u",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngw2k0jd0tk\" data-reactroot=\"\">Lu, H., Yuille, A. L., Liljeholm, M., Cheng, P. W., &amp; Holyoak, K. J. (2008). Bayesian generic priors for causal learning. <em>Psychological Review,</em> <em>115</em>(4), 955\u2013984. <a href=\"https://doi.org/10.1037/a0013256\" title=\"\" target=\"_blank\">https://doi.org/10.1037/a0013256</a></p>",
+              "customLabel": "Lu et al., 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), predicting the future ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3rhbvvr3wu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"niu1j7mp8sv\" data-reactroot=\"\">Griffiths, T. L., &amp; Tenenbaum, J. B. (2006). Optimal predictions in everyday cognition. <em>Psychological Science,</em> <em>17</em>(9), 767\u2013773. <a href=\"https://doi.org/10.1111/j.1467-9280.2006.01780.x\" title=\"\" target=\"_blank\">https://doi.org/10.1111/j.1467-9280.2006.01780.x</a></p>",
+              "customLabel": "Griffiths & Tenenbaum, 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), motor control ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "noari3ciruw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nt7ns4r0wz0\" data-reactroot=\"\">K\u00f6rding, K. P., &amp; Wolpert, D. M. (2006). Bayesian decision theory in sensorimotor control. <em>Trends in Cognitive Sciences,</em> <em>10</em>(7), 319\u2013326. <a href=\"https://doi.org/10.1016/j.tics.2006.05.003\" title=\"\" target=\"_blank\">https://doi.org/10.1016/j.tics.2006.05.003</a></p>",
+              "customLabel": "K\u00f6rding & Wolpert, 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), theory of mind ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwidgmv4y1j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n70dt1q264f\" data-reactroot=\"\">Baker, C. L., Saxe, R., &amp; Tenenbaum, J. B. (2009). Action understanding as inverse planning. <em>Cognition,</em> <em>113</em>(3), 329\u2013349. <a href=\"https://doi.org/10.1016/j.cognition.2009.07.005\" title=\"\" target=\"_blank\">https://doi.org/10.1016/j.cognition.2009.07.005</a></p>",
+              "customLabel": "Baker et al., 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmnet4oznbi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5q4sqln218\" data-reactroot=\"\">Jara-Ettinger, J., Gweon, H., Schulz, L. E., &amp; Tenenbaum, J. B. (2016). The naive utility calculus: Computational principles underlying commonsense psychology. <em>Trends in Cognitive Sciences,</em> <em>20</em>(8), 589\u2013604. <a href=\"https://doi.org/10.1016/j.tics.2016.05.011\" title=\"\" target=\"_blank\">https://doi.org/10.1016/j.tics.2016.05.011</a></p>",
+              "customLabel": "Jara-Ettinger et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), categorization ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmn0fsgzp2y",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz9hkgqvtpi\" data-reactroot=\"\">Goodman, N. D., Tenenbaum, J. B., Feldman, J., &amp; Griffiths, T. L. (2008). A rational analysis of rule-based concept learning. <em>Cognitive Science,</em> <em>32</em>(1), 108\u2013154. <a href=\"https://doi.org/10.1080/03640210701802071\" title=\"\" target=\"_blank\">https://doi.org/10.1080/03640210701802071</a></p>",
+              "customLabel": "Goodman et al., 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7zxxd5b8wm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9nwrm5y72i\" data-reactroot=\"\">Sanborn, A. N., Griffiths, T. L., &amp; Navarro, D. J. (2010). Rational approximations to rational models: Alternative algorithms for category learning. <em>Psychological Review,</em> <em>117</em>(4), 1144\u20131167. <a href=\"https://doi.org/10.1037/a0020511\" title=\"\" target=\"_blank\">https://doi.org/10.1037/a0020511</a></p>",
+              "customLabel": "Sanborn et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), speech perception ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nl2t7z2fnfm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n54re58r53o\" data-reactroot=\"\">Feldman, N. H., Griffiths, T. L., &amp; Morgan, J. L. (2009). The influence of categories on perception: Explaining the perceptual magnet effect as optimal statistical inference. <em>Psychological Review,</em> <em>116</em>(4), 752\u2013782. <a href=\"https://doi.org/10.1037/a0017196\" title=\"\" target=\"_blank\">https://doi.org/10.1037/a0017196</a></p>",
+              "customLabel": "Feldman et al., 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), language learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nn2vnlrzjve",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nm3tqrlgtk3\" data-reactroot=\"\">Perfors, A., Tenenbaum, J. B., &amp; Regier, T. (2011). The learnability of abstract syntactic principles. <em>Cognition,</em> <em>118</em>(3), 306\u2013338. <a href=\"https://doi.org/10.1016/j.cognition.2010.11.001\" title=\"\" target=\"_blank\">https://doi.org/10.1016/j.cognition.2010.11.001</a></p>",
+              "customLabel": "Perfors et al., 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), word recognition ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrtgbidz8o4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"na1kntpjpwa\" data-reactroot=\"\">Norris, D. (2006). The Bayesian reader: Explaining word recognition as an optimal Bayesian decision process. <em>Psychological Review,</em> <em>113</em>(2), 327\u2013357. <a href=\"https://doi.org/10.1037/0033-295X.113.2.327\" title=\"\" target=\"_blank\">https://doi.org/10.1037/0033-295X.113.2.327</a></p>",
+              "customLabel": "Norris, 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and intuitive physics ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "napqt379th3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkl5mm6062u\" data-reactroot=\"\">Sanborn, A. N., Mansinghka, V. K., &amp; Griffiths, T. L. (2013). Reconciling intuitive physics and Newtonian mechanics for colliding objects. <em>Psychological Review,</em> <em>120</em>(2), 411\u2013437. <a href=\"https://doi.org/10.1037/a0031912\" title=\"\" target=\"_blank\">https://doi.org/10.1037/a0031912</a></p>",
+              "customLabel": "Sanborn et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4pznww0z69",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng9l2uaycmp\" data-reactroot=\"\">Battaglia, P. W., Hamrick, J. B., &amp; Tenenbaum, J. B. (2013). Simulation as an engine of physical scene understanding. <em>Proceedings of the National Academy of Sciences of the United States of America,</em> <em>110</em>(45), 18327\u201318332. <a href=\"https://doi.org/10.1073/pnas.1306572110\" title=\"\" target=\"_blank\">https://doi.org/10.1073/pnas.1306572110</a></p>",
+              "customLabel": "Battaglia et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nptifollmv7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The heart of Bayesian models of cognition is Bayes\u2019 rule, which makes it possible to learn structured representations, explore human inductive biases, and perform probabilistic inference using rich generative models."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "bayes-rule",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Bayes\u2019 rule"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9s6sp5zl6o",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Bayes\u2019 rule indicates how agents should update their degrees of belief in hypotheses given observed data. Assume that a hypothesis "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "h"
+          },
+          {
+            "type": "text",
+            "text": " from a set of hypotheses "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "H"
+          },
+          {
+            "type": "text",
+            "text": " is under consideration. The degree of belief assigned to the hypothesis before observing any data is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "P"
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "h"
+          },
+          {
+            "type": "text",
+            "text": "), known as the prior probability. After observing data "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "d"
+          },
+          {
+            "type": "text",
+            "text": ", the degree of belief assigned to the hypothesis "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "P"
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "h"
+          },
+          {
+            "type": "text",
+            "text": "|"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "d"
+          },
+          {
+            "type": "text",
+            "text": ") is called the posterior probability (the | symbol should be read as \u201cgiven,\u201d so this is the probability of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "h"
+          },
+          {
+            "type": "text",
+            "text": " given, or taking into account, the information contained in "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "d"
+          },
+          {
+            "type": "text",
+            "text": "). Bayes\u2019 rule applies the definition of the conditional probability from probability theory to give"
+          }
+        ]
+      },
+      {
+        "type": "math_display",
+        "attrs": {
+          "id": "nn8qfagd5du",
+          "hideLabel": false,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "P(h\\mid d) = \\frac{P(d\\mid h)P(h)}{\\sum_{h' \\in H}^{}P\\left(d\\mid h^{'} \\right)P(h^{'})}"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ntdwl3ntr0u",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "where "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "P"
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "d"
+          },
+          {
+            "type": "text",
+            "text": "|"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "h"
+          },
+          {
+            "type": "text",
+            "text": ") is the probability of observing "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "d"
+          },
+          {
+            "type": "text",
+            "text": " if "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "h"
+          },
+          {
+            "type": "text",
+            "text": " were true, known as the likelihood. The sum in the denominator simply adds up the same quantity (the product of the prior probability and the likelihood) over all of the hypothesis in "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "H"
+          },
+          {
+            "type": "text",
+            "text": ", making sure that the posterior probability "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "P"
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "h"
+          },
+          {
+            "type": "text",
+            "text": "|"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "d"
+          },
+          {
+            "type": "text",
+            "text": ") sums to 1 over all hypotheses. The numerator is thus the key to Bayes\u2019 rule, indicating that how much we believe in a hypothesis after seeing data should reflect the product of the prior probability of that hypothesis and the probability of the data if that hypothesis were true."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5rhnuym0yy",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Intuitively, Bayes\u2019 rule says that our beliefs about hypotheses should be a function of two factors: how plausible those hypotheses are (as reflected in the prior probability) and how well they fit the observed data (as reflected in the likelihood). These two factors contribute equally, and do so multiplicatively\u2014if either one of them is very small, the other has to be very large to compensate. As a simple example, imagine looking out the window during the summer and seeing gray clouds (the data "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "d"
+          },
+          {
+            "type": "text",
+            "text": "). You might consider three hypotheses: that the day will be sunny, that it will rain, and that there is a nearby forest fire. Sunny days might be more frequent than rainy days, which are more frequent than days where there are forest fires, so the prior probability would place these hypotheses in this order. However, gray clouds are less likely on sunny days than rainy days, and about equally likely when it is rainy or there is a forest fire, so the likelihood favors rain or forest fire. The product of the prior and likelihood will favor rain, as it is both plausible and fits the observed data."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "learning-structured-representations",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Learning structured representations"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5mln8f85pq",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Bayes\u2019 rule can be applied to many different kinds of hypotheses, but some of the most impactful Bayesian models of cognition have focused on cases in which the hypotheses correspond to structured representations such as causal graphs or logical formulas. Bayes\u2019 rule is particularly useful in these cases, as it provides a way to explain how structured representations can be learned from data. Historically, learning structured representations have posed a challenge, leading advocates of structured representations to argue for strong innate constraints on learning (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngs1jidrxjg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n48lleaczkj\" data-reactroot=\"\">Chomsky, N. (1965). <em>Aspects of the theory of syntax</em>. MIT Press.</p>",
+              "customLabel": "Chomsky, 1965",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and advocate for learning to argue against structured representations (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4blg2br0cm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n47ywp2anhq\" data-reactroot=\"\">McClelland, J. L., Botvinick, M. M., Noelle, D. C., Plaut, D. C., Rogers, T. T., Seidenberg, M. S., &amp; Smith, L. B. (2010). Letting structure emerge: Connectionist and dynamical systems approaches to cognition. <em>Trends in Cognitive Sciences,</em> <em>14</em>(8), 348\u2013356. <a href=\"https://doi.org/10.1016/j.tics.2010.06.002\" title=\"\" target=\"_blank\">https://doi.org/10.1016/j.tics.2010.06.002</a></p>",
+              "customLabel": "McClelland et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Bayesian models offer a way to ask what structured representations should be (and can be) learned from data."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nazr1w34vwo",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Bayesian inference over structured representations has proven particularly useful for explaining phenomena in categorization, causal learning, and language learning [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/i1om74mo",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Causal Learning"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xohbfbix",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Language Acquisition"
+          },
+          {
+            "type": "text",
+            "text": "]. In each of these cases, different kinds of structured representations have been proposed as hypotheses considered by learners. In categorization, the hypotheses can be logical rules with prior probabilities depending on the complexity of those rules ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2skhea6msk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz9hkgqvtpi\" data-reactroot=\"\">Goodman, N. D., Tenenbaum, J. B., Feldman, J., &amp; Griffiths, T. L. (2008). A rational analysis of rule-based concept learning. <em>Cognitive Science,</em> <em>32</em>(1), 108\u2013154. <a href=\"https://doi.org/10.1080/03640210701802071\" title=\"\" target=\"_blank\">https://doi.org/10.1080/03640210701802071</a></p>",
+              "customLabel": "Goodman et al., 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In causal learning, hypotheses correspond to different causal structures ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlzl9m0j2tk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nr1b078fkcp\" data-reactroot=\"\">Griffiths, T. L., &amp; Tenenbaum, J. B. (2005). Structure and strength in causal induction. <em>Cognitive Psychology,</em> <em>51</em>(4), 334\u2013384. <a href=\"https://doi.org/10.1016/j.cogpsych.2005.05.004\" title=\"\" target=\"_blank\">https://doi.org/10.1016/j.cogpsych.2005.05.004</a></p>",
+              "customLabel": "Griffiths & Tenenbaum, 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In learning language, hypotheses correspond to different grammars ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nurwc1y0a2b",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntp3k7mzfa9\" data-reactroot=\"\">Perfors, A., Tenenbaum, J. B., &amp; Regier, T. (2011). The learnability of abstract syntactic principles. <em>Cognition,</em> <em>118</em>(3), 306\u2013338. <a href=\"https://doi.org/10.1016/j.cognition.2010.11.001\" title=\"\" target=\"_blank\">https://doi.org/10.1016/j.cognition.2010.11.001</a></p>",
+              "customLabel": "Perfors et al., 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Being able to show which rules, structures, and grammars should be inferred from data provides a way to predict human behavior and engage with debates about learnability."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "exploring-inductive-biases",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Exploring inductive biases"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfea8kbfcmr",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The role of the prior probability of hypotheses in Bayes\u2019 rule provides the opportunity to explore what people bring to the inductive problems they face in everyday life. Looking at Bayes\u2019 rule, the data "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "d"
+          },
+          {
+            "type": "text",
+            "text": " only appears in the likelihood "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "P"
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "d"
+          },
+          {
+            "type": "text",
+            "text": "|"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "h"
+          },
+          {
+            "type": "text",
+            "text": "), so the prior probability distribution "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "P"
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "h"
+          },
+          {
+            "type": "text",
+            "text": ") captures all of those factors other than the data that lead people to favor one hypothesis over another. In machine learning, these factors are referred to as the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "inductive biases"
+          },
+          {
+            "type": "text",
+            "text": " of the learner. In cognitive science, those inductive biases might represent knowledge derived from other experiences, generic preferences for simpler hypotheses, or innate constraints that limit the set of hypotheses under consideration or favor specific hypotheses. By providing people with different data and seeing what hypotheses they select, Bayes\u2019 rule can be used to work backwards and make inferences about the prior probabilities of different hypotheses."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxfw0p8ks2c",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A simple example of inferring people\u2019s priors from their behavior is provided by analyzing everyday predictions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqzhy3j17ax",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqztd9zh085\" data-reactroot=\"\">Griffiths, T. L., &amp; Tenenbaum, J. B. (2006). Optimal predictions in everyday cognition. <em>Psychological Science,</em> <em>17</em>(9), 767\u2013773. <a href=\"https://doi.org/10.1111/j.1467-9280.2006.01780.x\" title=\"\" target=\"_blank\">https://doi.org/10.1111/j.1467-9280.2006.01780.x</a></p>",
+              "customLabel": "Griffiths & Tenenbaum, 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). People are quite willing to make predictions about everyday events such as how much money a movie would make at the box office or how long it would take to bake a cake. By formulating this problem as one of Bayesian inference, it can be shown that different prior distributions result in different patterns of predictions. This makes it possible to compare people\u2019s predictions with the actual distributions of these everyday quantities. Similar approaches have been used to make inferences about prior distributions in other settings, including categorization ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "neehrs9s4w7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz9hkgqvtpi\" data-reactroot=\"\">Goodman, N. D., Tenenbaum, J. B., Feldman, J., &amp; Griffiths, T. L. (2008). A rational analysis of rule-based concept learning. <em>Cognitive Science,</em> <em>32</em>(1), 108\u2013154. <a href=\"https://doi.org/10.1080/03640210701802071\" title=\"\" target=\"_blank\">https://doi.org/10.1080/03640210701802071</a></p>",
+              "customLabel": "Goodman et al., 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and causal learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzrzz2zkck0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndet1dukj1a\" data-reactroot=\"\">Lu, H., Yuille, A. L., Liljeholm, M., Cheng, P. W., &amp; Holyoak, K. J. (2008). Bayesian generic priors for causal learning. <em>Psychological Review,</em> <em>115</em>(4), 955\u2013984. <a href=\"https://doi.org/10.1037/a0013256\" title=\"\" target=\"_blank\">https://doi.org/10.1037/a0013256</a></p>",
+              "customLabel": "Lu et al., 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; for another approach to inferring priors, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndzjze6xbkv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nafm0m0a4jo\" data-reactroot=\"\">Yeung, S., &amp; Griffiths, T. L. (2015). Identifying expectations about the strength of causal relationships. <em>Cognitive Psychology,</em> <em>76</em>, 1\u201329. <a href=\"https://doi.org/10.1016/j.cogpsych.2014.11.001\" title=\"\" target=\"_blank\">https://doi.org/10.1016/j.cogpsych.2014.11.001</a></p>",
+              "customLabel": "Yeung & Griffiths, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "rich-generative-models",
+          "id": "rich-generative-models",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Rich generative models"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ninr402sv4x",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In its most general form, Bayes\u2019 rule can be applied to any probability distribution: the data are the aspects of the world that have been observed, and the hypotheses are everything else. Viewed in this way, all we need to apply Bayesian inference is a model that specifies the probabilities of the events that we want to make inferences from and about\u2014a world model. One way to define such a model is to specify a procedure for generating observable events, called a generative model. This generative model can also include steps that are unobserved. These are called latent variables and can be inferred from the observable events."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n329hk01cid",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "For example, when predicting somebody else\u2019s behavior, it is useful to know what their goals are. This can be captured in a generative model in which people select a goal and then take actions to achieve that goal. The goal is a latent variable in this model, which can be inferred from people\u2019s actions (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhbr3e0tzlp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9f4yuo7oeo\" data-reactroot=\"\">Baker, C. L., Saxe, R., &amp; Tenenbaum, J. B. (2009). Action understanding as inverse planning. <em>Cognition,</em> <em>113</em>(3), 329\u2013349. <a href=\"https://doi.org/10.1016/j.cognition.2009.07.005\" title=\"\" target=\"_blank\">https://doi.org/10.1016/j.cognition.2009.07.005</a></p>",
+              "customLabel": "Baker et al., 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Such a generative model can be extended to include many other factors relevant to interpreting people\u2019s behavior, such as people\u2019s preferences influencing the goals they choose [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/8q02cvue",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Theory of Mind"
+          },
+          {
+            "type": "text",
+            "text": "] ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nitg60vyp03",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1qjxxqnka4\" data-reactroot=\"\">Jara-Ettinger, J., Gweon, H., Schulz, L. E., &amp; Tenenbaum, J. B. (2016). The naive utility calculus: Computational principles underlying commonsense psychology. <em>Trends in Cognitive Sciences,</em> <em>20</em>(8), 589\u2013604. <a href=\"https://doi.org/10.1016/j.tics.2016.05.011\" title=\"\" target=\"_blank\">https://doi.org/10.1016/j.tics.2016.05.011</a></p>",
+              "customLabel": "Jara-Ettinger et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrj5sfsym1s",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Bayesian models of cognition have explored increasingly complex methods for defining increasingly rich generative models. Bayesian networks are a powerful tool for defining probability distributions that involve many variables and are very useful for clarifying the structure of generative models ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvcuk0lntl7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5xkm4425sp\" data-reactroot=\"\">Griffiths, T. L., &amp; Tenenbaum, J. B. (2006). Optimal predictions in everyday cognition. <em>Psychological Science,</em> <em>17</em>(9), 767\u2013773. <a href=\"https://doi.org/10.1111/j.1467-9280.2006.01780.x\" title=\"\" target=\"_blank\">https://doi.org/10.1111/j.1467-9280.2006.01780.x</a></p>",
+              "customLabel": "Griffiths & Tenenbaum, 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Nonparametric Bayesian models make it possible to define generative models that do not assume the world is finite: for example, allowing for the possibility that there are an unbounded number of classes of objects ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n983qthzbzf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nw2m95a0t47\" data-reactroot=\"\">Sanborn, A. N., Griffiths, T. L., &amp; Navarro, D. J. (2010). Rational approximations to rational models: Alternative algorithms for category learning. <em>Psychological Review,</em> <em>117</em>(4), 1144\u20131167. <a href=\"https://doi.org/10.1037/a0020511\" title=\"\" target=\"_blank\">https://doi.org/10.1037/a0020511</a></p>",
+              "customLabel": "Sanborn et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Probabilistic programs use ideas from programming languages to specify complex probability distributions that can incorporate recursion and facilitate probabilistic inference ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd4cxu1l0va",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3q4q6k2x7g\" data-reactroot=\"\">Rule, J. S., Tenenbaum, J. B., &amp; Piantadosi, S. T. (2020). The child as hacker. <em>Trends in Cognitive Sciences,</em> <em>24</em>(11), 900\u2013915. <a href=\"https://doi.org/10.1016/j.tics.2020.07.005\" title=\"\" target=\"_blank\">https://doi.org/10.1016/j.tics.2020.07.005</a></p>",
+              "customLabel": "Rule et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Working with these more complex models typically requires using sophisticated methods for Bayesian inference developed in statistics and computer science such as Markov chain Monte Carlo or variational inference [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/n6c8sb19",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Markov Chain Monte Carlo"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nud5kqyq0gk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Bayesian models of cognition have been the target of several critiques focusing on the assumption of rationality, the links between Bayesian models and traditional mechanistic explanations, and the source of prior distributions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n31wp90gfwc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6se4e42ntf\" data-reactroot=\"\">Jones, M., &amp; Love, B. C. (2011). Bayesian fundamentalism or enlightenment? On the explanatory status and theoretical contributions of Bayesian models of cognition. <em>Behavioral and Brain Sciences,</em> <em>34</em>(4), 169\u2013188, 188\u2013231. <a href=\"https://doi.org/10.1017/S0140525X10003134\" title=\"\" target=\"_blank\">https://doi.org/10.1017/S0140525X10003134</a></p>",
+              "customLabel": "Jones & Love, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9yh6lmbef5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nowdhkpachi\" data-reactroot=\"\">Bowers, J. S., &amp; Davis, C. J. (2012). Bayesian just-so stories in psychology and neuroscience. <em>Psychological Bulletin,</em> <em>138</em>(3), 389\u2013414. <a href=\"https://doi.org/10.1037/a0026450\" title=\"\" target=\"_blank\">https://doi.org/10.1037/a0026450</a></p>",
+              "customLabel": "Bowers & Davis, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; for responses, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nach0ofj38y",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1pcu1xjxiy\" data-reactroot=\"\">Chater, N., Goodman, N., Griffiths, T. L., Kemp, C., Oaksford, M., &amp; Tenenbaum, J. B. (2011). The imaginary fundamentalists: The unshocking truth about Bayesian cognitive science. <em>Behavioral and Brain Sciences,</em> <em>34</em>(4), 194\u2013196. <a href=\"https://doi.org/10.1017/S0140525X11000239\" title=\"\" target=\"_blank\">https://doi.org/10.1017/S0140525X11000239</a></p>",
+              "customLabel": "Chater et al., 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndoarjl3o8m",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq1d9y8ey4p\" data-reactroot=\"\">Griffiths, T. L., Chater, N., Norris, D., &amp; Pouget, A. (2012). How the Bayesians got their beliefs (and what those beliefs actually are): Comment on Bowers and Davis (2012). <em>Psychological Bulletin,</em> <em>138</em>(3), 415\u2013422. <a href=\"https://doi.org/10.1037/a0026884\" title=\"\" target=\"_blank\">https://doi.org/10.1037/a0026884</a></p>",
+              "customLabel": "Griffiths, Chater, et al., 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In addition, the relationship between Bayesian models of cognition and artificial neural networks is a point of discussion, as these models have seen increased popularity in artificial intelligence and machine learning."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "assumption-of-rationality",
+          "id": "assumption-of-rationality",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Assumption of rationality"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngocvojh1na",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Bayesian models of cognition are based on the inferences that a rational agent should make from the available data. This assumption of rationality would seem to be at odds with Kahneman and Tversky\u2019s conclusion that people do not make probability judgments in accordance with Bayes\u2019 rule."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngzszx86wjm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Advocates of Bayesian models of cognition have responded to this concern in several ways (in addition to "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nj6rgcd5ure",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngz7h2uinoz\" data-reactroot=\"\">Anderson, J. R. (1990).\u00a0<em>The adaptive character of thought</em>. Psychology Press.</p>",
+              "customLabel": "Anderson, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). First, a strict correspondence to rationality in people\u2019s behavior is not necessary in order for Bayesian models to be useful. It is sufficient that people act in a way that is related to the rational solution to a degree that the solution still provides insight into their behavior. Even if there are systematic deviations from rationality, a Bayesian model can still be a useful first step in understanding some aspect of human cognition because it can help to make it clear what those systematic deviations are, just as knowing the prescriptions of probability theory was useful to Kahneman and Tversky in identifying people\u2019s biases and the corresponding heuristics that explained them."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0bc5x2tmpf",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Second, Kahneman and Tversky focused on probability judgment tasks that required people to make explicit assessments of the probability of various events based on other stated probabilities. Bayesian models of cognition have generally been applied to aspects of cognition other than explicit probability judgment, asking people more basic questions such as whether an object belongs to a category or whether a causal relationship exists. In these settings, Bayesian models have been empirically successful at predicting people\u2019s responses. Even so, there are systematic deviations from rationality that emerge across a wide range of tasks: for example, people tend to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "probability match"
+          },
+          {
+            "type": "text",
+            "text": ", producing responses with a probability that matches their posterior probability (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3hjev4vw9a",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz9hkgqvtpi\" data-reactroot=\"\">Goodman, N. D., Tenenbaum, J. B., Feldman, J., &amp; Griffiths, T. L. (2008). A rational analysis of rule-based concept learning. <em>Cognitive Science,</em> <em>32</em>(1), 108\u2013154. <a href=\"https://doi.org/10.1080/03640210701802071\" title=\"\" target=\"_blank\">https://doi.org/10.1080/03640210701802071</a></p>",
+              "customLabel": "Goodman et al., 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "connections-to-cognitive-mechanisms",
+          "id": "connections-to-cognitive-mechanisms",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Connections to cognitive mechanisms"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nsv7mnvfhe0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A second line of criticism focuses on the fact that Bayesian models of cognition provide a different kind of explanation from that traditionally sought in psychological research. By focusing on the abstract problems that human minds face and their ideal solutions, Bayesian models of cognition operate at what "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw9q6ce8mlg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nam3bi8xyqk\" data-reactroot=\"\">Marr, D. (1982). <em>Vision: A computational investigation into the human representation and processing of visual information</em>. Freeman.</p>",
+              "customLabel": "Marr (1982)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " called the computational level. By contrast, psychologists have typically sought to explain human cognition at what Marr called the algorithmic level, focusing on the cognitive processes that underlie human behavior. This has led to confusion as well as concern: it seems implausible that people are explicitly computing Bayes\u2019 rule every time they face a problem of inductive inference, and if that is the case, what are the implications of Bayesian models of cognition for those who want to understand cognitive mechanisms?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrgd1351ksm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Advocates of Bayesian models of cognition view them as a way of exploring what an agent should be doing when solving a problem and how that solution is affected by different assumptions about inductive biases. If a Bayesian model is found to be consistent with people\u2019s behavior, then it provides a clearer target for algorithmic-level models: whatever cognitive mechanisms are proposed, they need to be able to produce behavior consistent with that model. This kind of constraint has also led to modeling approaches that aim to bridge these two levels of analysis. Rational process models use algorithms from computer science and statistics that are known to approximate Bayesian inference as a source of hypotheses about the cognitive processes that people might engage in ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8f301g4sz3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nc8jh0bu515\" data-reactroot=\"\">Griffiths, T. L., Vul, E., &amp; Sanborn, A. N. (2012). Bridging levels of analysis for probabilistic models of cognition. <em>Current Directions in Psychological Science,</em> <em>21</em>(4), 263\u2013268. <a href=\"https://doi.org/10.1177/0963721412447619\" title=\"\" target=\"_blank\">https://doi.org/10.1177/0963721412447619</a></p>",
+              "customLabel": "Griffiths, Vul, & Sanborn, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Resource rational analysis adds the expectation that these algorithms are deployed intelligently, supporting effective inferences while making efficient use of cognitive resources ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ns2i2721bdp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhw01fzp67b\" data-reactroot=\"\">Lieder, F., &amp; Griffiths, T. L. (2019). Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources. <em>Behavioral and Brain Sciences,</em> <em>43</em>, e1. <a href=\"https://doi.org/10.1017/S0140525X1900061X\" title=\"\" target=\"_blank\">https://doi.org/10.1017/S0140525X1900061X</a></p>",
+              "customLabel": "Lieder & Griffiths, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This approach can be used to explain some of the ways that people deviate from rationality. For example, the kind of probability matching people often demonstrate when making inductive inferences can be explained in terms of resource-rational use of a sampling algorithm ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5drnp1zfo2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrnmkl8ta7w\" data-reactroot=\"\">Vul, E., Goodman, N., Griffiths, T. L., &amp; Tenenbaum, J. B. (2014). One and done? Optimal decisions from very few samples. <em>Cognitive Science,</em> <em>38</em>(4), 599\u2013637. <a href=\"https://doi.org/10.1111/cogs.12101\" title=\"\" target=\"_blank\">https://doi.org/10.1111/cogs.12101</a></p>",
+              "customLabel": "Vul et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "source-of-prior-distributions",
+          "id": "source-of-prior-distributions",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Source of prior distributions"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncg6kk0tuof",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Prior distributions play an important role in Bayesian inference, and thus potentially provide a great deal of flexibility in trying to explain aspects of human cognition. Critics of Bayesian models of cognition have expressed concerns about how these prior distributions are identified."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0dj4eq1zo1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One source of prior distributions is the environment in which human minds operate. In presenting the framework of rational analysis, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n35wdu32l2r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5mwubgi0lw\" data-reactroot=\"\">Anderson, J. R. (1990).\u00a0<em>The adaptive character of thought</em>. Psychology Press.</p>",
+              "customLabel": "Anderson (1990)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " focused on identifying reasonable prior distributions based on the environment. This approach is best exemplified by his subsequent work on memory ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nck4me51rhf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nr3m1hgxdbk\" data-reactroot=\"\">Anderson, J. R., &amp; Schooler, L. J. (1991). Reflections of the environment in memory. <em>Psychological Science,</em> <em>2</em>(6), 396\u2013408. <a href=\"https://doi.org/10.1111/j.1467-9280.1991.tb00174.x\" title=\"\" target=\"_blank\">https://doi.org/10.1111/j.1467-9280.1991.tb00174.x</a></p>",
+              "customLabel": "Anderson & Schooler, 1991",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2i34ngbdka",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq9i0e9wdl4\" data-reactroot=\"\">Griffiths, T. L., &amp; Tenenbaum, J. B. (2006). Optimal predictions in everyday cognition. <em>Psychological Science,</em> <em>17</em>(9), 767\u2013773. <a href=\"https://doi.org/10.1111/j.1467-9280.2006.01780.x\" title=\"\" target=\"_blank\">https://doi.org/10.1111/j.1467-9280.2006.01780.x</a></p>",
+              "customLabel": "Griffiths and Tenenbaum (2006)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " took a similar approach to exploring people\u2019s predictions about everyday events, measuring the empirical distribution of a number of everyday quantities."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nlnzszjxmnr",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In other cases, Bayesian models are used to formulate theories about prior distributions that are tested through subsequent experiments. For example, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no740w6pod6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2sbfv55p2e\" data-reactroot=\"\">Oaksford, M., &amp; Chater, N. (1994). A rational analysis of the selection task as optimal data selection. <em>Psychological Review,</em> <em>101</em>(4), 608\u2013631. <a href=\"https://doi.org/10.1037/0033-295X.101.4.608\" title=\"\" target=\"_blank\">https://doi.org/10.1037/0033-295X.101.4.608</a></p>",
+              "customLabel": "Oaksford and Chater (1994)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " showed that people\u2019s errors in a logical reasoning task could be explained if people assumed it is unlikely that an arbitrary predicate will be true. They then conducted additional experiments to validate this assumption. Likewise, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9y8kf5az92",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz9hkgqvtpi\" data-reactroot=\"\">Goodman, N. D., Tenenbaum, J. B., Feldman, J., &amp; Griffiths, T. L. (2008). A rational analysis of rule-based concept learning. <em>Cognitive Science,</em> <em>32</em>(1), 108\u2013154. <a href=\"https://doi.org/10.1080/03640210701802071\" title=\"\" target=\"_blank\">https://doi.org/10.1080/03640210701802071</a></p>",
+              "customLabel": "Goodman et al. (2008)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " evaluated several different prior distributions in their work explaining categorization as Bayesian inference over logical rules. In part, a Bayesian model of cognition represents a claim about what a relevant prior distribution might be. These claims are evaluated in the same way as other theories: by generating predictions and testing those predictions against data."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n24cq500ari",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Finally, it is also possible to define Bayesian models in which the priors themselves are learned from the data. These hierarchical Bayesian models provide a way to understand \u201clearning to learn,\u201d where more experience allows learners to make strong inferences from less data. This approach has been used to explain aspects of causal learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nm5g9yxktfd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuwicimky3m\" data-reactroot=\"\">Griffiths, T. L., &amp; Tenenbaum, J. B. (2009). Theory-based causal induction. <em>Psychological Review,</em> <em>116</em>(4), 661\u2013716. <a href=\"https://doi.org/10.1037/a0017201\" title=\"\" target=\"_blank\">https://doi.org/10.1037/a0017201</a></p>",
+              "customLabel": "Griffiths & Tenenbaum, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and word learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n549jgktdb8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"no77eyk0czb\" data-reactroot=\"\">Kemp, C., Perfors, A., &amp; Tenenbaum, J. B. (2007). Learning overhypotheses with hierarchical Bayesian models. <em>Developmental Science,</em> <em>10</em>(3), 307\u2013321. <a href=\"https://doi.org/10.1111/j.1467-7687.2007.00585.x\" title=\"\" target=\"_blank\">https://doi.org/10.1111/j.1467-7687.2007.00585.x</a></p>",
+              "customLabel": "Kemp et al., 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "relationship-to-artificial-neural-networks",
+          "id": "relationship-to-artificial-neural-networks",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Relationship to artificial neural networks"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nuj3nbad2u5",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "As noted above, the growth and popularity of Bayesian models of cognition came in part from the development of more sophisticated tools for probabilistic reasoning in machine learning and artificial intelligence. More recently, these fields have come to be dominated by approaches based on artificial neural networks [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "]. Artificial neural networks are also at the heart of another popular framework for modeling human cognition: connectionism. It is thus natural to ask how these two approaches relate."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ne2aiviyos6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The simple answer to this question is that there are a variety of ways in which artificial neural networks can implement Bayesian inference. Since Bayes\u2019 rule specifies the optimal solution to inductive problems, if a neural network is doing a good job of solving an inductive problem, it is likely to be approximating Bayesian inference. Marr\u2019s levels of analysis can also be appealed to in this setting, viewing Bayesian models of cognition as providing an abstract characterization of the ideal solution at the computational level and artificial neural networks as offering mechanisms by which those solutions might be carried out at the algorithmic or implementation levels."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9tmh7bslx6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Several interesting connections between Bayesian inference and artificial neural networks have been identified. Individual neural networks can be shown analytically to approximate simple forms of Bayesian inference ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfztsf7d4w8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1v24q0moak\" data-reactroot=\"\">McClelland, J. L. (1998). Connectionist models and Bayesian inference. In M. Oaksford &amp; N. Chater (Eds.), <em>Rational models of cognition</em> (pp. 21\u201353). Oxford University Press.</p>",
+              "customLabel": "McClelland, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Learning by gradient descent with various tweaks, such as weight decay or early stopping, can be interpreted in terms of a prior distribution on the weights of a network ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "net1gsfrz2o",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3whjwi6qzd\" data-reactroot=\"\">MacKay, D. J. (1995). Bayesian neural networks and density networks. <em>Nuclear Instruments &amp; Methods in Physics Research. Section A, Accelerators, Spectrometers, Detectors and Associated Equipment,</em> <em>354</em>(1), 73\u201380. <a href=\"https://doi.org/10.1016/0168-9002(94)00931-7\" title=\"\" target=\"_blank\">https://doi.org/10.1016/0168-9002(94)00931-7</a></p>",
+              "customLabel": "MacKay, 1995",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and those prior distributions can be tuned via metalearning (in which the initial weights of the network are trained to perform well across a distribution of tasks; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk5gqkxax1p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb5ffoxes8h\" data-reactroot=\"\">Grant, E., Finn, C., Levine, S., Darrell, T., &amp; Griffiths, T. L. (2018, April 30\u2013May 3). <em>Recasting gradient-based meta- learning as hierarchical Bayes </em>[Conference presentation]. ICLR 2018 Conference, Vancouver, Canada.</p>",
+              "customLabel": "Grant et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Finally, neural networks can be explicitly trained to perform Bayesian inference in specific models, providing a way to amortize the costs of inference ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsws0g0ngfs",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nd2ygm4i5bk\" data-reactroot=\"\">Dasgupta, I., &amp; Gershman, S. J. (2021). Memory as a computational resource. <em>Trends in Cognitive Sciences,</em> <em>25</em>(3), 240\u2013251. <a href=\"https://doi.org/10.1016/j.tics.2020.12.008\" title=\"\" target=\"_blank\">https://doi.org/10.1016/j.tics.2020.12.008</a></p>",
+              "customLabel": "Dasgupta & Gershman, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3loz0uv224",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Bayesian models of cognition have close connections to ideal observer models in the study of perception. Many of the methods used in Bayesian models of cognition have also been used in probabilistic approaches to machine learning and artificial intelligence. More generally, the Bayesian approach has its roots in the broader literature on the philosophical foundations of statistics."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nymw3v8pbg0",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n7qewn1jr4e",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Shepard, R. N. (1987). Toward a universal law of generalization for psychological science.\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Science"
+                  },
+                  {
+                    "type": "text",
+                    "text": ",\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "237"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(4820), 1317\u20131323. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1126/science.3629243",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1126/science.3629243"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "ngz7h2uinoz",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Anderson, J. R. (1990).\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The adaptive character of thought"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Psychology Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nc2at9j8ip3",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Oaksford, M., & Chater, N. (Eds.). (1998). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Rational models of cognition"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Oxford University Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nnvdnk7mysu",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Griffiths, T. L., Chater, N., Kemp, C., Perfors, A., & Tenenbaum, J. (2010). Probabilistic models of cognition: Exploring representations and inductive biases. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Trends in Cognitive Sciences"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "14"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(8), 357\u2013364. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/j.tics.2010.05.004",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/j.tics.2010.05.004"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

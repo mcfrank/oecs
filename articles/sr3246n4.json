@@ -1,0 +1,1741 @@
+{
+  "id": "7e3ee15a-fb66-43e0-8f3a-ecbef43af410",
+  "slug": "sr3246n4",
+  "title": "Normativity",
+  "url": "https://oecs.mit.edu/pub/sr3246n4",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "7e3ee15a-fb66-43e0-8f3a-ecbef43af410",
+    "slug": "sr3246n4",
+    "title": "Normativity",
+    "htmlTitle": "Normativity",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.7e3ee15a",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "jukojnck",
+    "editHash": "vpc6mkv1",
+    "reviewHash": "qb0g1wei",
+    "commentHash": "61xw45pf",
+    "draftId": "d9d59845-aaaa-46ce-bc13-e0bcb7698716",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "bc7a0f81-eb15-4edd-b66f-a670fbb1ffb4",
+    "scopeSummaryId": "b73e1b0a-2f3a-49a2-a3c5-a1303d37908e",
+    "createdAt": "2024-07-08T15:07:13.947Z",
+    "updatedAt": "2024-07-24T13:07:24.394Z",
+    "attributions": [
+      {
+        "id": "fdf7774c-5fcf-48b6-bf5d-f72be0857596",
+        "name": "Marco F. H. Schmidt",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of Konstanz",
+        "orcid": "0000-0001-7651-1681",
+        "userId": null,
+        "pubId": "7e3ee15a-fb66-43e0-8f3a-ecbef43af410",
+        "createdAt": "2024-07-08T15:08:13.066Z",
+        "updatedAt": "2024-07-08T15:08:31.872Z",
+        "user": null
+      },
+      {
+        "id": "d3fc7c7e-3dbc-4aec-b548-b221768fecb1",
+        "name": "Hannes Rakoczy",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of G\u00f6ttingen",
+        "orcid": "0000-0003-3296-0551",
+        "userId": null,
+        "pubId": "7e3ee15a-fb66-43e0-8f3a-ecbef43af410",
+        "createdAt": "2024-07-08T15:08:48.382Z",
+        "updatedAt": "2024-07-08T15:09:08.721Z",
+        "user": null
+      },
+      {
+        "id": "35bb9247-47be-4590-bcc9-6f69f49f1ccf",
+        "name": "Daniel Haun",
+        "avatar": null,
+        "title": null,
+        "order": 0.9375,
+        "isAuthor": false,
+        "roles": [
+          "section editor"
+        ],
+        "affiliation": "Max Planck Institute for Evolutionary Anthropology",
+        "orcid": null,
+        "userId": null,
+        "pubId": "7e3ee15a-fb66-43e0-8f3a-ecbef43af410",
+        "createdAt": "2024-07-23T21:48:00.007Z",
+        "updatedAt": "2024-07-23T21:48:33.804Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "d9d59845-aaaa-46ce-bc13-e0bcb7698716",
+      "latestKeyAt": "2024-07-18T23:26:10.884Z",
+      "firebasePath": "drafts/draft-d9d59845-aaaa-46ce-bc13-e0bcb7698716",
+      "createdAt": "2024-07-08T15:07:13.943Z",
+      "updatedAt": "2024-07-24T13:06:46.006Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nu4z2ulrc68",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Our lives are permeated by thinking about right or wrong, good or bad, and the like. Normativity is a pervasive and intricate part of human social being. In a broad sense, we deal with normativity whenever we apply standards of judgment or evaluation to some states of affairs. For instance, biological or cultural objects, such as a heart or a human-made blood pump, may fulfill their \u201cproper\u201d function (to pump blood) better or worse. Psychological states, such as beliefs or desires, may or may not meet their conditions of success (e.g., truth for beliefs, fulfillment for desires). Normativity, broadly speaking, is therefore an inherent aspect of the intentional, evaluative stance we take towards objects and situations. In a narrower sense, normativity implies shared or shareable and enforceable standards that guide and regulate our own and others\u2019 conduct, behavior, reasoning, emotional expressions, etc. The paradigmatic case is moral normativity. Moral norms regulate how to deal with matters of justice, well-being, rights, and the like. But obviously, normativity is much more pervasive and encompassing. Human agents apply norms to all kinds of situations and actions. Practical issues are governed by norms of instrumental rationality; interpersonal coordination and group identification are regulated by arbitrary conventional norms (e.g., traffic, rituals, or games); how we express emotions is governed by affective normativity; and in our theoretical activities such as making inferences or forming beliefs, we are guided by epistemic norms."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncj289id2sz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Thinking about normative issues\u2014most prominently about morality, law, and conventions\u2014has a long tradition in philosophy, dating back at least to ancient Greece. Systematic empirical research on normativity, however, began roughly in the late 19th century with the separation of empirical psychology and philosophy "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no2rs5ow2qe",
+              "href": null,
+              "value": "@book{Wundt1903Ethik,\n\taddress = {Stuttgart, Germany},\n\tauthor = {Wundt, Wilhelm},\n\tyear = {1903},\n\tpublisher = {Enke},\n\ttitle = {Ethik: Eine {Untersuchung} der {Tatsachen} und {Gesetze} des sittlichen {Lebens}},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "(Wundt, 1903)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " as well as the advent of sociology as a scientific enterprise "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6bnj6hxrbi",
+              "href": null,
+              "value": "https://doi.org/10.1007/978-1-349-16939-9",
+              "unstructuredValue": "",
+              "customLabel": "(Durkheim, 1982)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". The newly emerging field of the empirical study of normativity in the 20th century has seen different research programs and paradigms. Landmark studies of the development of normativity and morality are built on a Kantian rationalist\u2013constructivist framework and focused on explicit normative reasoning and justification ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "na1tw7myhpk",
+              "href": null,
+              "value": "@article{Kohlberg1963Development,\n\tauthor = {Kohlberg, L.},\n\tjournal = {Vita Humana},\n\tnumber = {1-2},\n\tyear = {1963},\n\tpages = {11--33},\n\ttitle = {The {development} of {children}\\textquoteright{}s {orientations} {toward} a {moral} {order} I. Sequence in the development of moral thought.},\n\tvolume = {6},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Kohlberg, 1963",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvn69u004or",
+              "href": null,
+              "value": "@book{Piaget1932moral,\n\taddress = {London},\n\tauthor = {Piaget, J.},\n\tyear = {1932},\n\tpublisher = {Routledge Kegan Paul},\n\ttitle = {The moral judgment of the child},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Piaget, 1932",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n69pjoqr7aw",
+              "href": null,
+              "value": "@book{Turiel1983development,\n\taddress = {Cambridge},\n\tauthor = {Turiel, Elliot},\n\tyear = {1983},\n\tpublisher = {Cambridge University Press},\n\ttitle = {The development of social knowledge: Morality and convention},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Turiel, 1983",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For instance, researchers were interested in whether people reason about moral issues based on generalizable, or even universal, principles or based on simple preferences, such as (not) doing something to avoid sanctions. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nurmgh7j9l8",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This initial period was followed by more intuitionist and sentimentalist approaches to human norm psychology that emphasize the role of moral intuitions and feelings that may outrun and contradict explicitly available reasoning and justification ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nv694kqn6f9",
+              "href": null,
+              "value": "@book{Bloom2013Just,\n\taddress = {New York, NY},\n\tauthor = {Bloom, Paul},\n\tyear = {2013},\n\tpublisher = {Crown Publishers},\n\ttitle = {Just babies: The origins of good and evil},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Bloom, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nndefezgovn",
+              "href": null,
+              "value": "@book{Haidt2012righteous,\n\taddress = {New York, NY},\n\tauthor = {Haidt, J.},\n\tyear = {2012},\n\tpublisher = {Pantheon Books},\n\ttitle = {The righteous mind: Why good people are divided by politics and religion},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Haidt, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsnawtd60gl",
+              "href": null,
+              "value": "@book{Nichols2004Sentimental,\n\taddress = {Oxford},\n\tauthor = {Nichols, S.},\n\tyear = {2004},\n\tpublisher = {Oxford University Press},\n\ttitle = {Sentimental rules: On the natural foundations of moral judgment},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Nichols, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). According to these views, people (often) make moral judgments based on gut feelings, and the degree of emotional involvement may explain why some matters are serious (\u201cmoral\u201d), whereas others are non-serious (e.g., \u201cconventional\u201d). Today, the study of normativity is a vibrant interdisciplinary field that brings together many different perspectives, including investigations in psychology, biology, social neuroscience, sociology, experimental philosophy, and economics."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3xp5iamure",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The empirical study of normativity investigates how agents represent, follow, and enforce various types of norms. Normativity understood this way is socially constituted and inherently linked to shared (or shareable) norms that have four main features "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntmzeixsx5q",
+              "href": null,
+              "value": "@article{Schmidt2023Children,\n\tauthor = {Schmidt, Marco F.H. and Rakoczy, Hannes},\n\tjournal = {Annual Review of Developmental Psychology},\n\tnumber = {1},\n\tyear = {2023},\n\tnote = {\\textunderscore{}eprint: https://doi.org/10.1146/annurev-devpsych-120621-034731},\n\tpages = {193--215},\n\ttitle = {Children's {acquisition} and {application} of {norms}},\n\tvolume = {5},\n}\n\n",
+              "unstructuredValue": "<p id=\"ntfbyxivuj2\" data-reactroot=\"\"><a href=\"https://doi.org/10.1146/annurev-devpsych-120621-034731\">https://doi.org/10.1146/annurev-devpsych-120621-034731</a> </p>",
+              "customLabel": "(Schmidt & Rakoczy, 2023)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ": "
+          }
+        ]
+      },
+      {
+        "type": "ordered_list",
+        "attrs": {
+          "id": "n132qbgnhaf",
+          "order": 1,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "ngjxx1wmtc1",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "They set situation-transcendent standards of correctness as opposed to mere episodic or idiosyncratic preferences in the here and now "
+                  },
+                  {
+                    "type": "citation",
+                    "attrs": {
+                      "id": "nr65inr3de6",
+                      "href": null,
+                      "value": "@book{Brandom1994Making,\n\taddress = {Cambridge, Mass.},\n\tauthor = {Brandom, Robert B.},\n\tyear = {1994},\n\tpublisher = {Harvard University Press},\n\ttitle = {Making it explicit},\n}\n\n",
+                      "unstructuredValue": "",
+                      "customLabel": "(Brandom 1994)",
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ". For instance, a given action is assessed as right or wrong according to a standard, not according to personal preference. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nupz7as1lpg",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "They come with normative force, have noncoercive authority or \u201coughtness,\u201d and are intrinsically action-guiding and motivating. In contrast to physical force, normative force presupposes violability, that is, the possibility to act otherwise ("
+                  },
+                  {
+                    "type": "citation",
+                    "attrs": {
+                      "id": "natdpw5vhpf",
+                      "href": null,
+                      "value": "@book{Brandom1994Making,\n\taddress = {Cambridge, Mass.},\n\tauthor = {Brandom, Robert B.},\n\tyear = {1994},\n\tpublisher = {Harvard University Press},\n\ttitle = {Making it explicit},\n}\n\n",
+                      "unstructuredValue": "",
+                      "customLabel": "Brandom, 1994",
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "; "
+                  },
+                  {
+                    "type": "citation",
+                    "attrs": {
+                      "id": "n3qbgkm9uvq",
+                      "href": null,
+                      "value": "@book{Korsgaard1996sources,\n\taddress = {Cambridge, UK},\n\tauthor = {Korsgaard, C. M.},\n\tyear = {1996},\n\tpublisher = {Cambridge University Press},\n\ttitle = {The sources of normativity},\n}\n\n",
+                      "unstructuredValue": "",
+                      "customLabel": "Korsgaard, 1996",
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "). Nonetheless this force exhibits noncoercive bindingness and moves us by giving reasons (not causes) to act and think in certain ways "
+                  },
+                  {
+                    "type": "citation",
+                    "attrs": {
+                      "id": "nbba1678ayd",
+                      "href": null,
+                      "value": "@book{Korsgaard1996sources,\n\taddress = {Cambridge, UK},\n\tauthor = {Korsgaard, C. M.},\n\tyear = {1996},\n\tpublisher = {Cambridge University Press},\n\ttitle = {The sources of normativity},\n}\n\n",
+                      "unstructuredValue": "",
+                      "customLabel": "(Korsgaard, 1996)",
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ". "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n55ntjric5d",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "They are, in principle, shareable, general, and agent independent in the sense that they apply to any relevant agent including oneself in equivalent circumstances ("
+                  },
+                  {
+                    "type": "citation",
+                    "attrs": {
+                      "id": "nlfp3qw3gbf",
+                      "href": null,
+                      "value": "@book{Korsgaard1996sources,\n\taddress = {Cambridge, UK},\n\tauthor = {Korsgaard, C. M.},\n\tyear = {1996},\n\tpublisher = {Cambridge University Press},\n\ttitle = {The sources of normativity},\n}\n\n",
+                      "unstructuredValue": "",
+                      "customLabel": "Korsgaard, 1996",
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "; "
+                  },
+                  {
+                    "type": "citation",
+                    "attrs": {
+                      "id": "n549lntcs90",
+                      "href": null,
+                      "value": "@book{Nagel1986view,\n\taddress = {New York, NY},\n\tauthor = {Nagel, T.},\n\tyear = {1986},\n\tpublisher = {Oxford University Press},\n\ttitle = {The view from nowhere},\n}\n\n",
+                      "unstructuredValue": "",
+                      "customLabel": "Nagel, 1986",
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "; "
+                  },
+                  {
+                    "type": "citation",
+                    "attrs": {
+                      "id": "noahqt4eu9g",
+                      "href": null,
+                      "value": "@book{Wittgenstein2001Philosophical,\n\taddress = {Malden, MA,},\n\tauthor = {Wittgenstein, Ludwig},\n\tedition = {3rd},\n\tyear = {2001},\n\tnote = {2004557517 Philosophische Untersuchungen. English by Ludwig Wittgenstein ; translated by G.E.M. Anscombe. ill. 24 cm.},\n\tpublisher = {Blackwell Publishers Ltd.},\n\ttitle = {Philosophical investigations: The {German} text, with a revised {English} translation},\n}\n\n",
+                      "unstructuredValue": "",
+                      "customLabel": "Wittgenstein, 2001",
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "). "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nzsdzqfvqsd",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "They are usually valid in context-relative ways. For instance, it may be expected and fine to hit someone in one context (e.g., boxing match) but not in another (e.g., daily life; "
+                  },
+                  {
+                    "type": "citation",
+                    "attrs": {
+                      "id": "n59f9148mhx",
+                      "href": null,
+                      "value": "@article{Schmidt2023Children,\n\tauthor = {Schmidt, Marco F.H. and Rakoczy, Hannes},\n\tjournal = {Annual Review of Developmental Psychology},\n\tnumber = {1},\n\tyear = {2023},\n\tnote = {\\textunderscore{}eprint: https://doi.org/10.1146/annurev-devpsych-120621-034731},\n\tpages = {193--215},\n\ttitle = {Children's {acquisition} and {application} of {norms}},\n\tvolume = {5},\n}\n\n",
+                      "unstructuredValue": "<p id=\"njaj4i6wt14\" data-reactroot=\"\"><a href=\"https://doi.org/10.1146/annurev-devpsych-120621-034731\">https://doi.org/10.1146/annurev-devpsych-120621-034731</a> </p>",
+                      "customLabel": "Schmidt & Rakoczy, 2023",
+                      "suggestionId": null,
+                      "suggestionTimestamp": null,
+                      "suggestionUserId": null,
+                      "suggestionDiscussionId": null,
+                      "suggestionKind": null,
+                      "suggestionOriginalAttrs": null
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "). "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "niybatin0mf",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The first two features give rise to reciprocal normative expectations about what we \u201cshould\u201d do, as opposed to mere descriptive or statistical expectations about agents\u2019 behavior ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9ex6e61het",
+              "href": null,
+              "value": "@article{Schmid2011idiocy,\n\tauthor = {Schmid, Hans Bernhard},\n\tjournal = {Analyse & Kritik},\n\tnumber = {1},\n\tyear = {2011},\n\tpages = {35--56},\n\ttitle = {The idiocy of strategic reasoning. {Towards} an account of consensual action},\n\tvolume = {33},\n}\n\n",
+              "unstructuredValue": "<p id=\"nh6af4fwgdf\" data-reactroot=\"\"><a href=\"https://doi.org/10.1515/auk-2011-0104\">https://doi.org/10.1515/auk-2011-0104</a> </p>",
+              "customLabel": "Schmid, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3s3a6o84ia",
+              "href": null,
+              "value": "@book{Searle1983Intentionality,\n\taddress = {Cambridge, England},\n\tauthor = {Searle, J. R.},\n\tyear = {1983},\n\tpublisher = {Cambridge University Press},\n\ttitle = {Intentionality: An essay in the philosophy of mind},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Searle, 1983",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n00w2so2vlk",
+              "href": null,
+              "value": "@book{Smith1994Moral,\n\tauthor = {Smith, Michael},\n\tyear = {1994},\n\tnote = {02020},\n\tpublisher = {Blackwell},\n\ttitle = {The {Moral} {Problem}},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Smith, 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nlcsfdcmc1g",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core theoretical controversies pertain to the following questions: How can norms be double sided in that they purport to describe reality and prescribe human conduct at the same time "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndmtc6ldfm3",
+              "href": null,
+              "value": "@book{Smith1994Moral,\n\tauthor = {Smith, Michael},\n\tyear = {1994},\n\tnote = {02020},\n\tpublisher = {Blackwell},\n\ttitle = {The {moral} {problem}},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "(Smith, 1994)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "? Are there qualitatively different kinds of norms such as conventional versus moral ones "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7erl385n43",
+              "href": null,
+              "value": "@book{Turiel1983development,\n\taddress = {Cambridge},\n\tauthor = {Turiel, Elliot},\n\tyear = {1983},\n\tpublisher = {Cambridge University Press},\n\ttitle = {The development of social knowledge: Morality and convention},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "(Turiel, 1983)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", or alternatively, do norms differ merely in terms of which types of emotion they usually come with "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n92k5d1izqs",
+              "href": null,
+              "value": "@book{Nichols2004Sentimental,\n\taddress = {Oxford},\n\tauthor = {Nichols, S.},\n\tyear = {2004},\n\tpublisher = {Oxford University Press},\n\ttitle = {Sentimental rules: On the natural foundations of moral judgment},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "(Nichols, 2004)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "? Can the \u201cought\u201d of norms be reduced to some form of \u201cis\u201d regarding agents\u2019 and societies\u2019 preferences, dispositions, etc. ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n67c2agwbz5",
+              "href": null,
+              "value": "@book{Brandom1994Making,\n\taddress = {Cambridge, Mass.},\n\tauthor = {Brandom, Robert B.},\n\tyear = {1994},\n\tpublisher = {Harvard University Press},\n\ttitle = {Making it explicit},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Brandom, 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "niiabso3gnj",
+              "href": null,
+              "value": "@book{Hume2000treatise,\n\taddress = {Oxford},\n\tauthor = {Hume, David},\n\teditor = {Norton, D. F. and Norton, M. J.},\n\tyear = {2000},\n\tnote = {(8 p0 s)},\n\tpublisher = {Oxford University Press.},\n\ttitle = {A treatise of human nature},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Hume, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nz04mcq8r49",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core empirical issues include debates about the ontogeny and evolution of human normativity, often discussed within the context of humans\u2019 ultra-cooperativeness ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndcd3wmx0rs",
+              "href": null,
+              "value": "@article{Chudek2011Culturegene,\n\tauthor = {Chudek, Maciej and Henrich, Joseph},\n\tjournal = {Trends in Cognitive Sciences},\n\tnumber = {5},\n\tyear = {2011},\n\tmonth = {5},\n\tpages = {218--226},\n\ttitle = {Culture--gene coevolution, norm-psychology and the emergence of human prosociality},\n\tvolume = {15},\n}\n\n",
+              "unstructuredValue": "<p id=\"n6iumbnk2t1\" data-reactroot=\"\"><a href=\"https://doi.org/10.1016/j.tics.2011.03.003\">https://doi.org/10.1016/j.tics.2011.03.003</a> </p>",
+              "customLabel": "Chudek & Henrich, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nt80qjowuwb",
+              "href": null,
+              "value": "@book{Tomasello2019Becoming,\n\taddress = {Cambridge, MA},\n\tauthor = {Tomasello, Michael},\n\tyear = {2019},\n\tnote = {00301},\n\tpublisher = {Harvard University Press},\n\ttitle = {Becoming human: A theory of ontogeny},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Tomasello, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Regarding ontogeny, moral nativism claims that humans come equipped with an innate, possibly modular norm psychology ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n175oh7o2d0",
+              "href": null,
+              "value": "@book{Bloom2013Just,\n\taddress = {New York, NY},\n\tauthor = {Bloom, Paul},\n\tyear = {2013},\n\tpublisher = {Crown Publishers},\n\ttitle = {Just babies: The origins of good and evil},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Bloom, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncqrbglh0l3",
+              "href": null,
+              "value": "@inbook{Sripada2006Framework,\n\tauthor = {Sripada, Chandra Sekhar and Stich, Stephen},\n\tbooktitle = {The {innate} {mind}, {volume} 2: Culture and {cognition}},\n\teditor = {Carruthers, Peter and Laurence, Stephen and Stich, Stephen P},\n\tyear = {2006},\n\tpublisher = {Oxford University Press},\n\ttitle = {A {framework} for the {psychology} of {norms}},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Sripada & Stich, 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Radical moral empiricism, in contrast, has it that norms are acquired by general associative and reinforcement learning over development "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfwmui88as4",
+              "href": null,
+              "value": "\n",
+              "unstructuredValue": "<p id=\"nr14jdute96\" data-reactroot=\"\">Heyes, C. (2024). Rethinking norm psychology. <em>Perspectives on Psychological Science</em>, 19(1), 12-38. <a href=\"https://doi.org/10.1177/17456916221112075\">https://doi.org/10.1177/17456916221112075</a> </p>",
+              "customLabel": "(Heyes, 2024)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". Various positions in between assume that humans may have more or less natural or innate capacities (for shared intentionality, cooperation, or sympathy, for example) that involve some sensitivity for normative matters and that lay the foundation for normative learning [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/d8e1n1e8",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Social Learning"
+          },
+          {
+            "type": "text",
+            "text": "]. Regarding evolutionary and historical development, the emergence, transmission, application, enforcement, dynamics, change, and cultural diversity of norms have been subject to much recent debate, for example, in the context of gene culture coevolution ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxjt8b1079y",
+              "href": null,
+              "value": "@article{Gelfand2024Norm,\n\tauthor = {Gelfand, Michele J. and Gavrilets, Sergey and Nunn, Nathan},\n\tjournal = {Annual Review of Psychology},\n\tnumber = {1},\n\tyear = {2024},\n\tnote = {\\textunderscore{}eprint: https://doi.org/10.1146/annurev-psych-033020-013319\nPMID: 37906949},\n\tpages = {341-378},\n\ttitle = {Norm {dynamics}: Interdisciplinary {perspectives} on {social} {norm} {emergence}, {persistence}, and {change}},\n\tvolume = {75},\n}\n\n",
+              "unstructuredValue": "<p id=\"n7rprmcbnho\" data-reactroot=\"\"><a href=\"https://doi.org/10.1146/annurev-psych-033020-013319\">https://doi.org/10.1146/annurev-psych-033020-013319</a> </p>",
+              "customLabel": "Gelfand et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n49il2xn48d",
+              "href": null,
+              "value": "@article{Horne2020Norms,\n\tauthor = {Horne, Christine and Mollborn, Stefanie},\n\tjournal = {Annual Review of Sociology},\n\tnumber = {1},\n\tyear = {2020},\n\tnote = {\\textunderscore{}eprint: https://doi.org/10.1146/annurev-soc-121919-054658},\n\tpages = {467--487},\n\ttitle = {Norms: An {integrated} {framework}},\n\tvolume = {46},\n}\n\n",
+              "unstructuredValue": "<p id=\"nh8xcm24ulu\" data-reactroot=\"\"><a href=\"https://doi.org/10.1146/annurev-soc-121919-054658\">https://doi.org/10.1146/annurev-soc-121919-054658</a> </p>",
+              "customLabel": "Horne & Mollborn, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5k49fn6fpo",
+              "href": null,
+              "value": "@article{Schmidt2023Children,\n\tauthor = {Schmidt, Marco F.H. and Rakoczy, Hannes},\n\tjournal = {Annual Review of Developmental Psychology},\n\tnumber = {1},\n\tyear = {2023},\n\tnote = {\\textunderscore{}eprint: https://doi.org/10.1146/annurev-devpsych-120621-034731},\n\tpages = {193--215},\n\ttitle = {Children's {acquisition} and {application} of {norms}},\n\tvolume = {5},\n}\n\n",
+              "unstructuredValue": "<p id=\"n6ocsfdvysz\" data-reactroot=\"\"><a href=\"https://doi.org/10.1146/annurev-devpsych-120621-034731\">https://doi.org/10.1146/annurev-devpsych-120621-034731</a> </p>",
+              "customLabel": "Schmidt & Rakoczy, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Recently, neurocognitive research has begun to investigate the neural underpinnings of normative cognition ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncl8l7or869",
+              "href": null,
+              "value": "@article{Cowell2015Neuroscience,\n\tauthor = {Cowell, Jason M. and Decety, Jean},\n\tjournal = {Current Biology},\n\tnumber = {1},\n\tyear = {2015},\n\tpages = {93--97},\n\ttitle = {The {neuroscience} of {implicit} {moral} {evaluation} and {its} {relation} to {generosity} in {early} {childhood}},\n\tvolume = {25},\n}\n\n",
+              "unstructuredValue": "<p id=\"n9t8sji9id9\" data-reactroot=\"\"><a href=\"https://doi.org/10.1016/j.cub.2014.11.002\">https://doi.org/10.1016/j.cub.2014.11.002</a> </p>",
+              "customLabel": "Cowell & Decety, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni4pac02fpb",
+              "href": null,
+              "value": "@article{Feng2015Neural,\n\tauthor = {Feng, Chunliang and Luo, Yue-Jia and Krueger, Frank},\n\tjournal = {Human Brain Mapping},\n\tnumber = {2},\n\tyear = {2015},\n\tmonth = {feb 1},\n\tpages = {591--602},\n\ttitle = {Neural signatures of fairness-related normative decision making in the ultimatum game: A coordinate-based meta-analysis},\n\tvolume = {36},\n}\n\n",
+              "unstructuredValue": "<p id=\"npwl1swlmfo\" data-reactroot=\"\"><a href=\"https://doi.org/10.1002/hbm.22649\">https://doi.org/10.1002/hbm.22649</a> </p>",
+              "customLabel": "Feng et al., 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwzlbqgkj19",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "From a metaphysical point of view, one of the most pressing open questions is how normativity fits into the natural world; that is, how we can explain how the normative is possible in naturalistic, causal, and nonnormative terms ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ng3fwelyeio",
+              "href": null,
+              "value": "@book{Brandom1994Making,\n\taddress = {Cambridge, Mass.},\n\tauthor = {Brandom, Robert B.},\n\tyear = {1994},\n\tpublisher = {Harvard University Press},\n\ttitle = {Making it explicit},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Brandom, 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncyzpttk6vu",
+              "href": null,
+              "value": "@article{Sellars1953semantical,\n\tauthor = {Sellars, Wilfrid},\n\tjournal = {Methodos},\n\tnumber = {5},\n\tyear = {1953},\n\tpages = {45--84},\n\ttitle = {A semantical solution of the mind-body problem},\n\tvolume = {17},\n}\n\n",
+              "unstructuredValue": "",
+              "customLabel": "Sellars, 1953",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). That is, to what extent do things like norms and oughts really exist as entities out there in nature, and can they be reduced to simpler notions or not? Another issue relates to how normative evaluation and intentional interpretation (ascription of mental states, often called theory of mind) are related [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/8q02cvue",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Theory of Mind"
+          },
+          {
+            "type": "text",
+            "text": "]. That the interpretation of an action (as intended in such and such ways) affects normative (in particular, moral) evaluation is obvious. However, research has highlighted that the reverse may also hold in many cases: which normative status we confer to an observed act may affect how we interpret its intentional structure ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxpiftbl3lw",
+              "href": null,
+              "value": "@article{Knobe2010Person,\n\tauthor = {Knobe, Joshua},\n\tjournal = {Behavioral and Brain Sciences},\n\tnumber = {4},\n\tyear = {2010},\n\tmonth = {8},\n\tpages = {315--329},\n\tpublisher = {Cambridge University Press},\n\ttitle = {Person as scientist, person as moralist},\n\tvolume = {33},\n}\n\n",
+              "unstructuredValue": "<p id=\"nellje8vdhi\" data-reactroot=\"\"><a href=\"https://doi.org/10.1017/S0140525X10000907\">https://doi.org/10.1017/S0140525X10000907</a> </p>",
+              "customLabel": "Knobe, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Finally, normative concepts ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "deontic modality"
+          },
+          {
+            "type": "text",
+            "text": ": e.g., what one \u201ccan\u201d or \u201cmust\u201d do) are related in complicated ways to other modal concepts ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "epistemic modality"
+          },
+          {
+            "type": "text",
+            "text": ": e.g., what \u201ccan\u201d or \u201cmust\u201d be the case). One interesting speculation, backed by empirical data, has been that early in development, these different kinds of modality are not clearly separated yet but only become so over the course of cognitive development [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zw60p83x",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Cognitive Development"
+          },
+          {
+            "type": "text",
+            "text": "] ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny9i4g4vj58",
+              "href": null,
+              "value": "@article{Shtulman2018Differentiating,\n\tauthor = {Shtulman, Andrew and Phillips, Jonathan},\n\tjournal = {Journal of Experimental Child Psychology},\n\tyear = {2018},\n\tmonth = {1},\n\tpages = {161--182},\n\ttitle = {Differentiating \"could\" from \"should\": Developmental changes in modal cognition},\n\tvolume = {165},\n}\n\n",
+              "unstructuredValue": "<p id=\"nhld69zo62m\" data-reactroot=\"\"><a href=\"https://doi.org/10.1016/j.jecp.2017.05.012\">https://doi.org/10.1016/j.jecp.2017.05.012</a> </p>",
+              "customLabel": "Shtulman & Phillips, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "acknowledgements",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Acknowledgements"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ns8davqci0s",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The work by Hannes Rakoczy was supported by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation); SFB 1528: Cognition of Interaction."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nme10dpduj4",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n11cy3y8ddt",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gelfand, M. J., Gavrilets, S., & Nunn, N. (2024). Norm dynamics: Interdisciplinary perspectives on social norm emergence, persistence, and change. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Annual Review of Psychology"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "75"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(1), 341-378. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1146/annurev-psych-033020-013319",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1146/annurev-psych-033020-013319"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "ncgx92j6qpi",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nuo3i860rtg",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Schmidt, M. F. H., & Rakoczy, H. (2023). Children\u2019s acquisition and application of norms. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Annual Review of Developmental Psychology, 5"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(1), 193\u2013215. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1146/annurev-devpsych-120621-034731",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1146/annurev-devpsych-120621-034731"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nl1lh800455",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n5omd5lmyrr",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Searle, J. R. (1995). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The construction of social reality."
+                  },
+                  {
+                    "type": "text",
+                    "text": " Free Press."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nzjgd58ztsj",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nk36y5vm440",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Tomasello, M. (2016). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "A natural history of human morality."
+                  },
+                  {
+                    "type": "text",
+                    "text": " Harvard University Press."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

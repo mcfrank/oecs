@@ -1,0 +1,141 @@
+/* OECS theme – variables for customization */
+:root {
+  --oecs-font-body: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --oecs-font-heading: var(--oecs-font-body);
+  --oecs-color-text: #1a1a1a;
+  --oecs-color-bg: #fff;
+  --oecs-color-link: #0066cc;
+  --oecs-color-border: #e0e0e0;
+  --oecs-max-width: 720px;
+  --oecs-header-bg: #f8f8f8;
+  --oecs-footer-bg: #f0f0f0;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  font-family: var(--oecs-font-body);
+  color: var(--oecs-color-text);
+  background: var(--oecs-color-bg);
+  line-height: 1.6;
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.oecs-header {
+  background: var(--oecs-header-bg);
+  border-bottom: 1px solid var(--oecs-color-border);
+  padding: 0.75rem 1rem;
+}
+
+.oecs-header-inner {
+  max-width: var(--oecs-max-width);
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+}
+
+.oecs-logo {
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: var(--oecs-color-text);
+  text-decoration: none;
+}
+
+.oecs-logo:hover { color: var(--oecs-color-link); }
+
+.oecs-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.oecs-nav a {
+  color: var(--oecs-color-link);
+  text-decoration: none;
+}
+
+.oecs-nav a:hover { text-decoration: underline; }
+
+.oecs-main {
+  flex: 1;
+  max-width: var(--oecs-max-width);
+  margin: 0 auto;
+  padding: 1.5rem 1rem;
+  width: 100%;
+}
+
+.oecs-footer {
+  background: var(--oecs-footer-bg);
+  border-top: 1px solid var(--oecs-color-border);
+  padding: 0.75rem 1rem;
+  font-size: 0.9rem;
+}
+
+.oecs-footer-inner {
+  max-width: var(--oecs-max-width);
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+}
+
+.oecs-footer a {
+  color: var(--oecs-color-link);
+  text-decoration: none;
+}
+
+.oecs-footer a:hover { text-decoration: underline; }
+
+a { color: var(--oecs-color-link); }
+
+.oecs-article h1 { margin-top: 0; }
+.oecs-article h2 { margin-top: 1.5em; }
+.oecs-article h3 { margin-top: 1.2em; }
+
+/* Home: iframe container for semantic network */
+.oecs-iframe-container {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  margin: 1rem 0;
+  min-height: 400px;
+}
+
+.oecs-iframe-container iframe {
+  width: 100%;
+  height: 500px;
+  border: 1px solid var(--oecs-color-border);
+  border-radius: 4px;
+}
+
+/* List pages */
+.oecs-list ul { list-style: none; padding-left: 0; }
+.oecs-list li { margin: 0.5rem 0; }
+.oecs-list a { text-decoration: none; }
+.oecs-list a:hover { text-decoration: underline; }
+
+.thematic-collections-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 0.75rem;
+}
+
+.thematic-collections-grid a {
+  display: block;
+  padding: 0.5rem;
+  text-decoration: none;
+  border: 1px solid var(--oecs-color-border);
+  border-radius: 4px;
+  color: var(--oecs-color-text);
+}
+
+.thematic-collections-grid a:hover {
+  border-color: var(--oecs-color-link);
+  color: var(--oecs-color-link);
+}

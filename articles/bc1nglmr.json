@@ -1,0 +1,1694 @@
+{
+  "id": "0276fa5e-4671-4e70-a248-1ca87802602a",
+  "slug": "bc1nglmr",
+  "title": "Social Cognitive Neuroscience",
+  "url": "https://oecs.mit.edu/pub/bc1nglmr",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "0276fa5e-4671-4e70-a248-1ca87802602a",
+    "slug": "bc1nglmr",
+    "title": "Social Cognitive Neuroscience",
+    "htmlTitle": "Social Cognitive Neuroscience",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.0276fa5e",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "3itv0muj",
+    "editHash": "d0e26s0v",
+    "reviewHash": "57r6qsw8",
+    "commentHash": "b1jrzz05",
+    "draftId": "bfcfddc9-a0c8-4260-bf44-7144fa478685",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "ff1728c4-9325-417a-b2f4-8cfc1a8454cf",
+    "scopeSummaryId": "4ca3362f-08df-48a9-968b-a5f482e4a4f4",
+    "createdAt": "2024-06-14T13:43:06.282Z",
+    "updatedAt": "2024-07-24T13:27:17.979Z",
+    "attributions": [
+      {
+        "id": "4edea2dd-eb39-41a9-b2d5-b12e720c9ad3",
+        "name": "Rebecca Saxe",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "MIT",
+        "orcid": "0000-0003-2377-1791",
+        "userId": null,
+        "pubId": "0276fa5e-4671-4e70-a248-1ca87802602a",
+        "createdAt": "2024-06-14T13:43:49.926Z",
+        "updatedAt": "2024-06-14T13:44:01.670Z",
+        "user": null
+      },
+      {
+        "id": "10a5c605-8d33-47e3-89cc-3f5593478f4d",
+        "name": "Marina Bedny",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "section editor"
+        ],
+        "affiliation": "Johns Hopkins University",
+        "orcid": "0000-0002-2907-8042",
+        "userId": null,
+        "pubId": "0276fa5e-4671-4e70-a248-1ca87802602a",
+        "createdAt": "2024-07-23T22:02:41.272Z",
+        "updatedAt": "2024-07-23T22:02:55.336Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "bfcfddc9-a0c8-4260-bf44-7144fa478685",
+      "latestKeyAt": "2024-07-23T11:11:15.904Z",
+      "firebasePath": "drafts/draft-bfcfddc9-a0c8-4260-bf44-7144fa478685",
+      "createdAt": "2024-06-14T13:43:06.277Z",
+      "updatedAt": "2024-07-24T13:25:49.902Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n40zguo9zdp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "People spend a lot of their brain energy thinking about people. Social cognitive neuroscience is the field of research that investigates how this works. Research in this field asks questions about the brain regions people use when thinking about people, the computations that occur in these brain regions, how these regions and computations develop, and how they vary between people with different cultural backgrounds. Progress on these questions accelerated dramatically when functional magnetic resonance imaging (fMRI) became relatively widely available. People can read or listen to stories, watch TV shows or movies, or play interactive games all while their brains are scanned. Activity in many different brain regions is evoked by these social activities, including brain regions linked to perception, attention, and reward processing. The focus of social cognitive neuroscience studies, however, is typically on brain regions or computations that are distinctively social, occurring selectively when thinking about people.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4x2yfk283g",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Before fMRI existed, three kinds of evidence suggested that social cognition might depend on distinct brain systems.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvw47clsnxd",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "First, patients with brain injury or disease sometimes lose their social graces first and fastest. For example, in one type of dementia, the first symptoms include becoming emotionally insensitive, socially inappropriate, and losing empathy for loved ones ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4ogn1k3jvj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6qlsml9go1\" data-reactroot=\"\">Cerami, C., &amp; Cappa, S. F. (2013). The behavioral variant of frontotemporal dementia: Linking neuropathology to social cognition. <em>Neurological Sciences</em>, <em>34</em>, 1267\u20131274. <a href=\"https://doi.org/10.1007/s10072-013-1317-9\" target=\"_blank\">https://doi.org/10.1007/s10072-013-1317-9</a></p>",
+              "customLabel": "Cerami & Cappa, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd5jt40szhm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9bnunm22my\" data-reactroot=\"\">Adolphs, R. (1999). Social cognition and the human brain. <em>Trends in Cognitive Sciences</em>, <em>3</em>(12), 469\u2013479. <a href=\"https://doi.org/10.1016/S1364-6613(99)01399-6\" target=\"_blank\">https://doi.org/10.1016/S1364-6613(99)01399-6</a></p>",
+              "customLabel": "Adolphs, 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njsmlol4v3h",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Second, in animals, distinct neural systems are necessary for normal social relationships. When scientists created damage in specific brain regions, for example, the amygdala in a macaque monkey, the monkey remained physically and emotionally competent but became socially incompetent ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntx26pk2z8j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbe632ynycx\" data-reactroot=\"\">Aggleton, J. P., &amp; Passingham, R. E. (1981). Syndrome produced by lesions of the amygdala in monkeys (<em>Macaca mulatta</em>). <em>Journal of Comparative and Physiological Psychology</em>, <em>95</em>(6), 961\u2013977. <a href=\"https://doi.org/10.1037/h0077848\" target=\"_blank\">https://doi.org/10.1037/h0077848</a></p>",
+              "customLabel": "Aggleton & Passingham, 1981",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbfc7s1m329",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9zqx5p5awf\" data-reactroot=\"\">Machado, C. J., &amp; Bachevalier, J. (2006). The impact of selective amygdala, orbital frontal cortex, or hippocampal formation lesions on established social relationships in rhesus monkeys (<em>Macaca mulatta</em>). <em>Behavioral Neuroscience</em>, <em>120</em>(4), 761\u2013786. <a href=\"https://doi.org/10.1037/0735-7044.120.4.761\" target=\"_blank\">https://doi.org/10.1037/0735-7044.120.4.761</a></p>",
+              "customLabel": "Machado & Bachevelier, 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ny1qmr8nm0y",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Third, children diagnosed with autism struggled to solve problems about other minds [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/dqw08mkw",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Autism"
+          },
+          {
+            "type": "text",
+            "text": "]. In the early 1980s, the \u2018false belief test\u2019 was invented as a way to measure thinking about thought (first in chimpanzees, later in children) [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/8q02cvue",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Theory of Mind"
+          },
+          {
+            "type": "text",
+            "text": "]. Autistic children failed the false belief test, even when they could solve equally hard reasoning puzzles with no social content ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvpabprmdbp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl25vnt1hqq\" data-reactroot=\"\">Baron-Cohen, S., Leslie, A. M., &amp; Frith, U. (1985). Does the autistic child have a \u201ctheory of mind\u201d? <em>Cognition</em>, <em>21</em>(1), 37\u201346. <a href=\"https://doi.org/10.1016/0010-0277(85)90022-8\" target=\"_blank\">https://doi.org/10.1016/0010-0277(85)90022-8</a></p>",
+              "customLabel": "Baron-Cohen et al., 1985",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This pattern of performance implied that autism could impair social computations in the brain, disproportionately to its effects on other computations, and, therefore, that social computations might be segregated or special.\u00a0\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nu5aioiazty",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In light of these three kinds of evidence, when fMRI became available, the first social cognitive neuroscience experiments looked for brain regions that play a distinctive role in empathy ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nc7unwgxziu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"np9lw8k33wz\" data-reactroot=\"\">Singer, T., Seymour, B., O\u2019Doherty, J., Kaube, H., Dolan, R. J., &amp; Frith, C. D. (2004). Empathy for pain involves the affective but not sensory components of pain. <em>Science</em>, <em>303</em>(5661), 1157\u20131162. <a href=\"https://doi.org/10.1126/science.1093535\" target=\"_blank\">https://doi.org/10.1126/science.1093535</a></p>",
+              "customLabel": "Singer et al., 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and false belief tasks ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nj2a0qkooo6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwmf3ecxib0\" data-reactroot=\"\">Gallagher, H. L., Happ\u00e9, F., Brunswick, N., Fletcher, P. C., Frith, U., &amp; Frith, C. D. (2000). Reading the mind in cartoons and stories: An fMRI study of \u2018theory of mind\u2019 in verbal and nonverbal tasks. <em>Neuropsychologia</em>, <em>38</em>(1), 11\u201321. <a href=\"https://doi.org/10.1016/S0028-3932(99)00053-6\" target=\"_blank\">https://doi.org/10.1016/S0028-3932(99)00053-6</a></p>",
+              "customLabel": "Gallagher et al., 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "empathy",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Empathy"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nnsvzpfoijo",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Empathy is a vicarious, usually negative, emotion: feeling bad because of someone else\u2019s suffering. Psychological research has identified two different flavors of empathy: (i) "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "sharing"
+          },
+          {
+            "type": "text",
+            "text": " the other person\u2019s suffering and experiencing a similar negative emotion versus (ii) "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "caring"
+          },
+          {
+            "type": "text",
+            "text": " about the other person\u2019s suffering and experiencing compassion toward them. This distinction corresponds well to different patterns of brain activity ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "noxpwqlxv9g",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhmempqrkc0\" data-reactroot=\"\">Preckel, K., Kanske, P., &amp; Singer, T. (2018). On the interaction of social affect and cognition: Empathy, compassion and theory of mind. <em>Current Opinion in Behavioral Sciences</em>, <em>19</em>, 1\u20136. <a href=\"https://doi.org/10.1016/j.cobeha.2017.07.010\" target=\"_blank\">https://doi.org/10.1016/j.cobeha.2017.07.010</a></p>",
+              "customLabel": "Preckel et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Sharing someone\u2019s pain evokes brain activity similar to directly experiencing pain. Caring about someone\u2019s pain evokes different brain activity, including in medial prefrontal cortex (MPFC; see below).\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "theory-of-mind-or-mentalizing",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Theory of mind, or mentalizing"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nromaji56ij",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Initially studied using false belief tasks, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "theory of mind"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "mentalizing"
+          },
+          {
+            "type": "text",
+            "text": " refer to the cognitive process of reasoning about another person\u2019s thoughts. This process is invoked for explaining their past actions, predicting their future actions, and making moral evaluations. One brain region that plays a key role in this process is located in the right temporo-parietal junction (RTPJ; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6o4p1ndme3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nas72c4fpom\" data-reactroot=\"\">Saxe, R., &amp; Kanwisher, N. (2003). People thinking about thinking people: The role of the temporo-parietal junction in \u201ctheory of mind.\u201d <em>NeuroImage</em>, <em>4</em>(19), 1835\u20131842. <a href=\"https://doi.org/10.1016/S1053-8119(03)00230-1\" target=\"_blank\">https://doi.org/10.1016/S1053-8119(03)00230-1</a></p>",
+              "customLabel": "Saxe & Kanwisher, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Diagnostic spatial patterns of activity arise in RTPJ when thinking about a hurtful action that was accidental versus intentional ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd0mlcdiqut",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nij7ur5m5fk\" data-reactroot=\"\">Koster-Hale, J., Saxe, R., Dungan, J., &amp; Young, L. L. (2013). Decoding moral judgments from neural representations of intentions. <em>Proceedings of the National Academy of Sciences</em>, <em>110</em>(14), 5648\u20135653. <a href=\"https://doi.org/10.1073/pnas.1207992110\" target=\"_blank\">https://doi.org/10.1073/pnas.1207992110</a></p>",
+              "customLabel": "Koster-Hale et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Transiently disrupting the patterns of activity in RTPJ, using transcranial magnetic stimulation alters these judgments, making accidents seem more wrong ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nho1u1e6xi4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxnw8jcnp2b\" data-reactroot=\"\">Young, L., Camprodon, J. A., Hauser, M., Pascual-Leone, A., &amp; Saxe, R. (2010). Disruption of the right temporoparietal junction with transcranial magnetic stimulation reduces the role of beliefs in moral judgments. <em>Proceedings of the National Academy of Sciences</em>, <em>107</em>(15), 6753\u20136758. <a href=\"https://doi.org/10.1073/pnas.0914826107\" target=\"_blank\">https://doi.org/10.1073/pnas.0914826107</a></p>",
+              "customLabel": "Young et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Some studies find that autistic people have altered RTPJ function (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nl3pfptpkxc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb2ptgle1w6\" data-reactroot=\"\">Bravo Balsa, L., Abu\u2010Akel, A., &amp; Mevorach, C. (2024). Dynamic functional connectivity in the right temporoparietal junction captures variations in male autistic trait expression. <em>Autism Research</em>, <em>17</em>(4), 702\u2013715. <a href=\"https://doi.org/10.1002/aur.3117\" target=\"_blank\">https://doi.org/10.1002/aur.3117</a></p>",
+              "customLabel": "Bravo Balsa et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", but see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbsi9cot1rj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6ulu9kjkl3\" data-reactroot=\"\">Dufour, N., Redcay, E., Young, L., Mavros, P. L., Moran, J. M., Triantafyllou, C., Gabrieli, J. D. E., &amp; Saxe, R. (2013). Similar brain activation during false belief tasks in a large sample of adults with and without autism. <em>PloS ONE</em>, <em>8</em>(9), Article e75468. <a href=\"https://doi.org/10.1371/journal.pone.0075468\" target=\"_blank\">https://doi.org/10.1371/journal.pone.0075468</a></p>",
+              "customLabel": "Dufour et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "medial-prefrontal-cortex",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Medial prefrontal cortex"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nh7nnqu67wo",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "On the middle surface of the brain, where the two cortical hemispheres lie pressed against one another, activity peaks during many different social activities, like watching the climax of a movie ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6omz3wvkzq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqk59k2q67l\" data-reactroot=\"\">Chang, L. J., Jolly, E., Cheong, J. H., Rapuano, K. M., Greenstein, N., Chen, P.-H. A., &amp; Manning, J. R. (2021). Endogenous variation in ventromedial prefrontal cortex state dynamics during naturalistic viewing reflects affective experience. <em>Science Advances</em>, <em>7</em>(17), Article eabf7129. <a href=\"https://doi.org/10.1126/sciadv.abf7129\" target=\"_blank\">https://doi.org/10.1126/sciadv.abf7129</a></p>",
+              "customLabel": "Chang et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), reading an emotionally loaded story ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nj4pfniw45i",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nr6pvnk0vl6\" data-reactroot=\"\">Shamay-Tsoory, S. G., Tibi-Elhanany, Y., &amp; Aharon-Peretz, J. (2006). The ventromedial prefrontal cortex is involved in understanding affective but not cognitive theory of mind stories. <em>Social Neuroscience</em>, <em>1</em>(3-4), 149\u2013166. <a href=\"https://doi.org/10.1080/17470910600985589\" target=\"_blank\">https://doi.org/10.1080/17470910600985589</a></p>",
+              "customLabel": "Shamay-Tsoory et al., 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), or sharing a moment face-to-face with a friend ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhzd1wpzhaj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb5vgq9f2dt\" data-reactroot=\"\">Misaki, M., Kerr, K. L., Ratliff, E. L., Cosgrove, K. T., Simmons, W. K., Morris, A. S., &amp; Bodurka, J. (2021). Beyond synchrony: The capacity of fMRI hyperscanning for the study of human social interaction. <em>Social Cognitive and Affective Neuroscience</em>, <em>16</em>(1-2), 84\u201392. <a href=\"https://doi.org/10.1093/scan/nsaa143\" target=\"_blank\">https://doi.org/10.1093/scan/nsaa143</a></p>",
+              "customLabel": "Misaki et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n40dz6vk42v",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlxmm0p8axj\" data-reactroot=\"\">Redcay, E., &amp; Schilbach, L. (2019). Using second-person neuroscience to elucidate the mechanisms of social interaction. <em>Nature Reviews Neuroscience</em>, <em>20</em>(8), 495\u2013505. <a href=\"https://doi.org/10.1038/s41583-019-0179-4\" target=\"_blank\">https://doi.org/10.1038/s41583-019-0179-4</a></p>",
+              "customLabel": "Redcay & Schilbach, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The amount of activity predicts later social motivations like wanting to help or engage ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkur81oiu33",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvoubf6vv00\" data-reactroot=\"\">Grossmann, T., &amp; Allison, O. (2024). Dorso-medial prefrontal cortex responses to social smiles predict sociability in early human development. <em>Imaging Neuroscience</em>, <em>2</em>, 1\u20138. <a href=\"https://doi.org/10.1162/imag_a_00129\" target=\"_blank\">https://doi.org/10.1162/imag_a_00129</a></p>",
+              "customLabel": "Grossman & Allison, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n01t0ziuaxo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2k5rzvd93o\" data-reactroot=\"\">Waytz, A., Zaki, J., &amp; Mitchell, J. P. (2012). Response of dorsomedial prefrontal cortex predicts altruistic behavior. <em>Journal of Neuroscience</em>, <em>32</em>(22), 7646\u20137650. <a href=\"https://doi.org/10.1523/JNEUROSCI.6193-11.2012\" target=\"_blank\">https://doi.org/10.1523/JNEUROSCI.6193-11.2012</a></p>",
+              "customLabel": "Waytz et al., 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0 Activity also peaks in the MPFC when a person reflects on themself ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncdi356lamh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntraev1j8sn\" data-reactroot=\"\">Jenkins, A. C., &amp; Mitchell, J. P. (2011). Medial prefrontal cortex subserves diverse forms of self-reflection. <em>Social Neuroscience</em>, <em>6</em>(3), 211\u2013218. <a href=\"https://doi.org/10.1080/17470919.2010.507948\" target=\"_blank\">https://doi.org/10.1080/17470919.2010.507948</a></p>",
+              "customLabel": "Jenkins & Mitchell, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), for example, about the kind of person they aspire to be ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nztqmgmafi5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8dv93d7sgv\" data-reactroot=\"\">Cascio, C. N., O\u2019Donnell, M. B., Tinney, F. J., Lieberman, M. D., Taylor, S. E., Strecher, V. J., &amp; Falk, E. B. (2016). Self-affirmation activates brain systems associated with self-related processing and reward and is reinforced by future orientation. <em>Social Cognitive and Affective Neuroscience</em>, <em>11</em>(4), 621\u2013629. <a href=\"https://doi.org/10.1093/scan/nsv136\" target=\"_blank\">https://doi.org/10.1093/scan/nsv136</a></p>",
+              "customLabel": "Cascio et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), a process that is particularly important in adolescent development ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n65xc2etr6w",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"naixlsnuucp\" data-reactroot=\"\">Somerville, L. H., Jones, R. M., Ruberry, E. J., Dyke, J. P., Glover, G., &amp; Casey, B. J. (2013). The medial prefrontal cortex and the emergence of self-conscious emotion in adolescence. <em>Psychological Science</em>, <em>24</em>(8), 1554\u20131562. <a href=\"https://doi.org/10.1177/0956797613475633\" target=\"_blank\">https://doi.org/10.1177/0956797613475633</a></p>",
+              "customLabel": "Somerville et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ";\u00a0 "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ng373lw2fuz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmb9moixlg2\" data-reactroot=\"\">van der Cruijsen, R., Blankenstein, N. E., Spaans, J. P., Peters, S., &amp; Crone, E. A. (2023). Longitudinal self-concept development in adolescence. <em>Social Cognitive and Affective Neuroscience</em>, <em>18</em>(1), Article nsac062. <a href=\"https://doi.org/10.1093/scan/nsac062\" target=\"_blank\">https://doi.org/10.1093/scan/nsac062</a></p>",
+              "customLabel": "van der Cruijsen et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Plus, the MPFC has unusually high activity when people are just lying in the scanner, letting their minds wander ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd4dtbpwegv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwo7x20s2ws\" data-reactroot=\"\">Meyer, M. L. (2019). Social by default: Characterizing the social functions of the resting brain. <em>Current Directions in Psychological Science</em>, <em>28</em>(4), 380\u2013386. <a href=\"https://doi.org/10.1177/0963721419857759\" target=\"_blank\">https://doi.org/10.1177/0963721419857759</a></p>",
+              "customLabel": "Meyer, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). It remains controversial how these different functions of MPFC are related to one another, either conceptually or in their layout on the cortical surface ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "na5zf9r1hls",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7r5m9lsm21\" data-reactroot=\"\">Denny, B. T., Kober, H., Wager, T. D., &amp; Ochsner, K. N. (2012). A meta-analysis of functional neuroimaging studies of self- and other judgments reveals a spatial gradient for mentalizing in medial prefrontal cortex. <em>Journal of Cognitive Neuroscience</em>, <em>24</em>(8), 1742\u20131752. <a href=\"https://doi.org/10.1162/jocn_a_00233\" target=\"_blank\">https://doi.org/10.1162/jocn_a_00233</a></p>",
+              "customLabel": "Denny et al., 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1q0c3zoqdb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq1hreikjdn\" data-reactroot=\"\">Lieberman, M. D., Straccia, M. A., Meyer, M. L., Du, M., &amp; Tan, K. M. (2019). Social, self, (situational), and affective processes in medial prefrontal cortex (MPFC): Causal, multivariate, and reverse inference evidence. <em>Neuroscience &amp; Biobehavioral Reviews</em>, <em>99</em>, 311\u2013328. <a href=\"https://doi.org/10.1016/j.neubiorev.2018.12.021\" target=\"_blank\">https://doi.org/10.1016/j.neubiorev.2018.12.021</a></p>",
+              "customLabel": "Lieberman et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nc39x21vnhw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nd20tg9hwq4\" data-reactroot=\"\">Molenberghs, P., Johnson, H., Henry, J. D., &amp; Mattingley, J. B. (2016). Understanding the minds of others: A neuroimaging meta-analysis. <em>Neuroscience &amp; Biobehavioral Reviews</em>, <em>65</em>, 276\u2013291. <a href=\"https://doi.org/10.1016/j.neubiorev.2016.03.020\" target=\"_blank\">https://doi.org/10.1016/j.neubiorev.2016.03.020</a></p>",
+              "customLabel": "Molenberghs et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n81ru395f1h",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Is there a uniquely human kind of social cognition? Although all social animals use social skills to coordinate, cooperate, and compete with conspecifics, human social cognition seems to be supersized, for example in communication, pedagogy, and moral judgment. Ongoing research on this question addresses whether humans have evolved entirely distinct brain networks for social cognition or whether they have expanded and repurposed the social brain networks of other primates ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n382w2r30vy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2q6g1jg1so\" data-reactroot=\"\">Deen, B., Schwiedrzik, C. M., Sliwa, J., &amp; Freiwald, W. A. (2023). Specialized networks for social cognition in the primate brain. <em>Annual Review of Neuroscience</em>, <em>46</em>, 381\u2013401. <a href=\"https://doi.org/10.1146/annurev-neuro-102522-121410\" target=\"_blank\">https://doi.org/10.1146/annurev-neuro-102522-121410</a></p>",
+              "customLabel": "Deen et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "niypgjjum4p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npmzsfursyk\" data-reactroot=\"\">Isoda, M. (2021). The role of the medial prefrontal cortex in moderating neural representations of self and other in primates. <em>Annual Review of Neuroscience</em>, <em>44</em>, 295\u2013313. <a href=\"https://doi.org/10.1146/annurev-neuro-101420-011820\" target=\"_blank\">https://doi.org/10.1146/annurev-neuro-101420-011820</a></p>",
+              "customLabel": "Isoda, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ny72zwcstsu",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "How do social brain functions change during human development? Just hours after birth, human neonates prefer to look at faces and recognize their own mother, but the sophistication of social cognition changes dramatically over development, in infancy and childhood and through adolescence [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zw60p83x",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Cognitive Development"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/d8e1n1e8",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Social Learning"
+          },
+          {
+            "type": "text",
+            "text": "]. Further debates that shape the field of social cognitive neuroscience include whether infants are born with an innately \u201csocial\u201d brain ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nll0rjd5ajh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njtqi39vads\" data-reactroot=\"\">Grossmann, T. (2013). The role of medial prefrontal cortex in early social cognition. <em>Frontiers in Human Neuroscience</em>, <em>7</em>, Article 340. <a href=\"https://doi.org/10.3389/fnhum.2013.00340\" target=\"_blank\">https://doi.org/10.3389/fnhum.2013.00340</a></p>",
+              "customLabel": "Grossman, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no5echyq786",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj0rcwipjle\" data-reactroot=\"\">Grossmann, T. (2015). The development of social brain functions in infancy. <em>Psychological Bulletin</em>, <em>141</em>(6), 1266\u20131287. <a href=\"https://doi.org/10.1037/bul0000002\" target=\"_blank\">https://doi.org/10.1037/bul0000002</a></p>",
+              "customLabel": "2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and whether and how changes in the brain explain changes in social capacities ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n05k140iqb6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxvyudhru4q\" data-reactroot=\"\">Richardson, H., Lisandrelli, G., Riobueno-Naylor, A., &amp; Saxe, R. (2018). Development of the social brain from age three to twelve years. <em>Nature Communications</em>, <em>9</em>(1), Article 1027. <a href=\"https://doi.org/10.1038/s41467-018-03399-2\" target=\"_blank\">https://doi.org/10.1038/s41467-018-03399-2</a></p>",
+              "customLabel": "Richardson et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nftmol08xkv",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Social cognition is not limited to one person thinking about one other person. People recognize groups and value group identities. The associated brain activity is investigated in a subfield of social cognitive neuroscience called intergroup neuroscience ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxnrn505m24",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"navtu8z80n3\" data-reactroot=\"\">Cikara, M., &amp; Van Bavel, J. J. (2014). The neuroscience of intergroup relations: An integrative review. <em>Perspectives on Psychological Science</em>, <em>9</em>(3), 245\u2013274. <a href=\"https://doi.org/10.1177/1745691614527464\" target=\"_blank\">https://doi.org/10.1177/1745691614527464</a></p>",
+              "customLabel": "Cikara & Van Bavel, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nu0sy35uy1a",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2jxoexyzmo\" data-reactroot=\"\">Jenkins, A. C., Karashchuk, P., Zhu, L., &amp; Hsu, M. (2018). Predicting human behavior toward members of different social groups. <em>Proceedings of the National Academy of Sciences</em>, <em>115</em>(39), 9696\u20139701. <a href=\"https://doi.org/10.1073/pnas.1719452115\" target=\"_blank\">https://doi.org/10.1073/pnas.1719452115</a></p>",
+              "customLabel": "Jenkins et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For example, people care more about strangers who share a group identity and correspondingly show more empathy-related brain activity in response to their suffering. The suffering of people from threatening competitor groups can even generate the opposite pattern, activity in brain regions associated with reward. Intergroup neuroscientists study the brain processes that happen when we humanize some people and dehumanize others ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "newh6f7fybi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyd8omu4d41\" data-reactroot=\"\">Fiske, S. T. (2009). From dehumanization and objectification to rehumanization: Neuroimaging studies on the building blocks of empathy. <em>Annals of the New York Academy of Sciences</em>, <em>1167</em>(1), 31\u201334. <a href=\"https://doi.org/10.1111/j.1749-6632.2009.04544.x\" target=\"_blank\">https://doi.org/10.1111/j.1749-6632.2009.04544.x</a></p>",
+              "customLabel": "Fiske, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3gio8vljs2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf80ie3nsn2\" data-reactroot=\"\">Amodio, D. M., &amp; Cikara, M. (2021). The social neuroscience of prejudice. <em>Annual Review of Psychology</em>, <em>72</em>, 439\u2013469. <a href=\"https://doi.org/10.1146/annurev-psych-010419-050928\" target=\"_blank\">https://doi.org/10.1146/annurev-psych-010419-050928</a></p>",
+              "customLabel": "Amodio & Cikara, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "acknowledgements",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Acknowledgements"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ninnnjib2p9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "I acknowledge my mentors and my trainees who collectively taught me social cognitive neuroscience."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Further reading\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nngxbgimynb",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nzd0khdn8ki",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Grossmann, T., & Allison, O. (2024). Dorso-medial prefrontal cortex responses to social smiles predict sociability in early human development. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Imaging Neuroscience"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "2"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 1\u20138.  "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1162/imag_a_00129",
+                          "title": "",
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1162/imag_a_00129"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n7sb2eughzj",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Lockwood, P. L., Apps, M. A. J., & Chang, S. W. C. (2020). Is there a \u2018social\u2019 brain? Implementations and algorithms. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Trends in Cognitive Sciences"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "24"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(10), 802\u2013813. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/j.tics.2020.06.011",
+                          "title": "",
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/j.tics.2020.06.011"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "npu17yjmwph",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Koster-Hale, J., & Saxe, R. (2013). Theory of mind: A neural prediction problem. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Neuron"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "79"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(5), 836\u2013848. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/j.neuron.2013.08.020",
+                          "title": "",
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/j.neuron.2013.08.020"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

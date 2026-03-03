@@ -1,0 +1,1322 @@
+{
+  "id": "5e3f2bda-11e7-469c-b0ca-c54b44b91bf6",
+  "slug": "dubzy1cd",
+  "title": "Word Learning",
+  "url": "https://oecs.mit.edu/pub/dubzy1cd",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "5e3f2bda-11e7-469c-b0ca-c54b44b91bf6",
+    "slug": "dubzy1cd",
+    "title": "Word Learning",
+    "htmlTitle": "Word Learning",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": "2024-07-24T00:00:00.000Z",
+    "doi": "10.21428/e2759450.5e3f2bda",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "qufqwcvz",
+    "editHash": "h8tb6e9y",
+    "reviewHash": "hlvgozvm",
+    "commentHash": "30qezop2",
+    "draftId": "ecb8d712-f4e9-4143-8813-ed6ed3e393ce",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "1fb62478-f775-463a-a57d-925762480fca",
+    "scopeSummaryId": "956dd1eb-0b15-452a-9fbf-0b77beb08264",
+    "createdAt": "2024-04-09T13:19:21.739Z",
+    "updatedAt": "2024-07-24T13:26:37.164Z",
+    "attributions": [
+      {
+        "id": "139f5cbd-6475-4ad3-ac85-d5a1c8147741",
+        "name": "Michael C. Frank",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Stanford University",
+        "orcid": "0000-0002-7551-4378",
+        "userId": null,
+        "pubId": "5e3f2bda-11e7-469c-b0ca-c54b44b91bf6",
+        "createdAt": "2024-04-09T13:21:28.700Z",
+        "updatedAt": "2024-04-09T13:21:51.331Z",
+        "user": null
+      },
+      {
+        "id": "41dbd7f9-cf99-4f31-99b9-f6ce60b7c4c6",
+        "name": "Asifa Majid",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": false,
+        "roles": [
+          "section editor"
+        ],
+        "affiliation": "University of Oxford",
+        "orcid": "0000-0003-0132-216X",
+        "userId": null,
+        "pubId": "5e3f2bda-11e7-469c-b0ca-c54b44b91bf6",
+        "createdAt": "2024-07-23T22:16:00.255Z",
+        "updatedAt": "2024-07-23T22:16:14.884Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "ecb8d712-f4e9-4143-8813-ed6ed3e393ce",
+      "latestKeyAt": "2024-07-23T22:17:31.853Z",
+      "firebasePath": "drafts/draft-ecb8d712-f4e9-4143-8813-ed6ed3e393ce",
+      "createdAt": "2024-04-09T13:19:21.736Z",
+      "updatedAt": "2025-04-25T16:04:13.782Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7ubqshlv11",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One important part of learning a language involves mastering the forms of words and linking these to their meanings. Because words are not only part of language but also delimiters of specific concepts and means for social action, word learning has been a central topic in cognitive science. Although the first traces of word recognition can be detected in the eye movements of infants as young as 6 months, children typically produce words for the first time around their first birthday, and their learning accelerates thereafter. Word learning also continues throughout the lifespan. Estimating total vocabulary is tricky because words have many forms (e.g., \u201cwalk,\u201d \u201cwalks,\u201d \u201cwalked,\u201d \u201cwalking\u201d), but literate adults are estimated to know between 30,000 and 60,000 words. To accumulate this knowledge, children must be learning at least a handful of words every single day."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqpth6mf71w",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Since at least "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwdmsf3w9j7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkrgz88u29t\" data-reactroot=\"\">Augustine (379).\u00a0<em>The Confessions of St. Augustine</em>. JH Parker.</p>",
+              "customLabel": "Augustine's (379)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " Confessions, researchers have been interested in the developmental origins of language [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xohbfbix",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Language Acquisition"
+          },
+          {
+            "type": "text",
+            "text": "]. The "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Augustinian view"
+          },
+          {
+            "type": "text",
+            "text": " is that words are learned via ostensive labeling, in which children are shown examples of a particular word often accompanied by social gestures like pointing. Hearing a word being used in a particular context does not uniquely identify the word\u2019s meaning, however. Imagine you see someone point to a rabbit and say "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "rabbit"
+          },
+          {
+            "type": "text",
+            "text": "\u2014how do you know that "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "rabbit"
+          },
+          {
+            "type": "text",
+            "text": " does not mean \u201crabbit leg\u201d or \u201cfurry\u201d or even \u201cundetached rabbit parts\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nt47c7g9nst",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nplrz3atoh9\" data-reactroot=\"\">Quine, W. V. O. (2013). <em>Word and object.</em> MIT Press.</p>",
+              "customLabel": "Quine, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nad0xocxim7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Many words\u2019 meanings rely on the way they relate to other words, not from their relation to observable parts of the world. Think about learning the word "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "of"
+          },
+          {
+            "type": "text",
+            "text": "\u2014there is not something you can point to and say \u201cthat\u2019s "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "of."
+          },
+          {
+            "type": "text",
+            "text": "\u201d Instead, the word plays a role in the linguistic system ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkjr3qshqdf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2qmoukppm0\" data-reactroot=\"\">Wittgenstein, L. (1953). <em>Philosophical investigations.</em> Macmillan.</p>",
+              "customLabel": "Wittgenstein, 1953",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Function words of this kind are typically learned somewhat later than words for simple objects like \u201cball\u201d but still quite early\u2014by their third year of life, most children are producing many function words such as \u201cof,\u201d \u201cand,\u201d and \u201cthe.\u201d"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ny02w9zl5f7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Early developmentalists speculated about these issues by observing children\u2019s language use in their natural environment using diary studies. Later progress came from using systematic recordings and transcripts to investigate the generalizations that children made during learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqwjsfz6t3r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ni9vbiszhsn\" data-reactroot=\"\">Brown, R. (1973). <em>A first language.</em> Harvard University Press.</p>",
+              "customLabel": "Brown, 1973",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Modern research often uses a combination of recordings (now with wearable recorders or cameras; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nco3ms2qjq9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhg0i749hug\" data-reactroot=\"\">Smith, L. B., Yu, C., Yoshida, H., &amp; Fausey, C. M. (2015). Contributions of head-mounted cameras to studying the visual environments of infants and young children. <em>Journal of Cognition and Development, 16</em>(3), 407-419. https://doi.org/10.1080/15248372.2014.933430</p>",
+              "customLabel": "Smith et al., 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and experimental methods such as generalization tasks (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nejfu7pnzzc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nw77j2oub3j\" data-reactroot=\"\">Berko, J. (1958). The child&#x27;s learning of English morphology.\u00a0<em>Word</em>,\u00a0<em>14</em>(2-3), 150-177. https://doi.org/10.1080/00437956.1958.11659661</p>",
+              "customLabel": "Berko, 1958",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwfi3bdqnlo",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Children\u2019s vocabulary can be measured via receptive tasks\u2014for example, whether they look at a picture matching a target word (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nayu962vkm1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"naw2h5x3n7f\" data-reactroot=\"\">Bergelson, E., &amp; Swingley, D. (2012). At 6\u20139 months, human infants know the meanings of many common nouns.\u00a0<em>Proceedings of the National Academy of Sciences</em>,\u00a0<em>109</em>(9), 3253-3258. https://doi.org/10.1073/pnas.1113380109</p>",
+              "customLabel": "Bergelson & Swingley, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")\u2014or by production\u2014for example, whether they can name a picture. Young children typically understand many more words than they can produce, in part due to the difficulty of mastering speech production and in part because understanding can sometimes rely on partial meanings. For example, a child may know that "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "gazelle"
+          },
+          {
+            "type": "text",
+            "text": " names an animal without knowing which animal it is."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ntxlnvbsqvt",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Social information is an important part of children\u2019s early word learning [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/d8e1n1e8",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Social Learning"
+          },
+          {
+            "type": "text",
+            "text": "] ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3fhfjs1zpv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0qbot63vtf\" data-reactroot=\"\">Clark, E. V. (2009). <em>First language acquisition</em>. Cambridge University Press. <a href=\"https://doi.org/10.1017/CBO9780511806698\">https://doi.org/10.1017/CBO9780511806698</a>.</p>",
+              "customLabel": "Clark, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Early word meanings are often acquired through joint attention, in which the child and another party (often a caregiver) come to understand that they are sharing attention to a referent ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4y60q2eg4l",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n79conq1mio\" data-reactroot=\"\">Tomasello, M., &amp; Farrar, M. J. (1986). Joint attention and early language.\u00a0<em>Child Development</em>, <em>57</em>(6), 1454-1463. https://doi.org/10.2307/1130423</p>",
+              "customLabel": "Tomasello & Farrar, 1986",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Joint attention often occurs either when children and adults jointly handle an object or via mutual gaze. Children then can generalize productively from individual examples of a word to a broader concept via a combination of inductive reasoning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmv8s3ytkqy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk40juu5dh8\" data-reactroot=\"\">Xu, F., &amp; Tenenbaum, J. B. (2007). Word learning as Bayesian inference.\u00a0<em>Psychological Review</em>,\u00a0<em>114</em>(2), 245-272. https://doi.org/10.1037/0033-295X.114.2.245</p>",
+              "customLabel": "Xu & Tenenbaum, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and some more general learning biases (e.g., a bias to think that words name whole objects; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nal2hve52w9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nis9ghn8esl\" data-reactroot=\"\">Markman, E. M. (1990). Constraints children place on word meanings.\u00a0<em>Cognitive Science</em>,\u00a0<em>14</em>(1), 57-77. https://doi.org/10.1207/s15516709cog1401_4</p>",
+              "customLabel": "Markman, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ni9q28gm5vy",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Children\u2019s vocabulary first contains mostly names for things, people, and social routines, leading to an early bias for nouns ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni6ae4os8xg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n46fyiwh1jq\" data-reactroot=\"\">Bloom, P. (2002). <em>How children learn the meanings of words.</em> MIT Press.</p>",
+              "customLabel": "Bloom, 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Perhaps surprisingly, the concepts that are represented in this early vocabulary are very similar even for children learning very different languages ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njhd0z93229",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj1flyk782f\" data-reactroot=\"\">Frank, M. C., Braginsky, M., Yurovsky, D., &amp; Marchman, V. A. (2021). <em>Variability and consistency in early language learning: The Wordbank Project</em>. MIT Press. Available at: <a href=\"https://wordbank-book.stanford.edu\" title=\"\">https://wordbank-book.stanford.edu</a></p>",
+              "customLabel": "Frank et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). But as they begin combining words, children\u2019s vocabulary increasingly includes words for actions (verbs) and properties (adjectives) as well as function words. The meanings of these words are not observed directly in the world but instead require knowledge of language to acquire ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvtq600t4i4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n575c8pc7ub\" data-reactroot=\"\">Gleitman, L. (1990). The structural sources of verb meanings.\u00a0<em>Language Acquisition</em>,\u00a0<em>1</em>(1), 3-55.</p>",
+              "customLabel": "Gleitman, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nomvzl7jt6e",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Is children\u2019s earliest word knowledge social and communicative in nature, or do words start out as mere associations? Some theorists have posited that children begin by linking words to their referents via direct stimulus-to-stimulus associations ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nyucdht4gu2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nutijnk2s2l\" data-reactroot=\"\">Hollich, G. J., Hirsh-Pasek, K., Golinkoff, R. M., Brand, R. J., Brown, E., Chung, H. L., Hennon, E., Rocroi, C., &amp; Bloom, L. (2000). Breaking the language barrier: An emergentist coalition model for the origins of word learning.\u00a0<em>Monographs of the Society for Research in Child Development</em>, <em>65</em>(3), i-135.</p>",
+              "customLabel": "Hollich et al., 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and only gradually come to appreciate that these sounds are being used by people to communicate\u2014sometimes about absent or even nonexistent referents. In contrast, others have posited that even in infancy, babies understand that words serve the purpose of communication ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nv490g5i67y",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n63gub98kcu\" data-reactroot=\"\">Vouloumanos, A., Onishi, K. H., &amp; Pogue, A. (2012). Twelve-month-old infants recognize that speech can communicate unobservable intentions. <em>Proceedings of the National Academy of Sciences, 109</em>(32), 12933-12937. https://doi.org/10.1073/pnas.1121057109</p>",
+              "customLabel": "Vouloumanos et al. 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ndzo0wutawz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Are word meanings learned all at once, or do they accumulate gradually over repeated exposures? Adults, children, and nonhuman animals all have the ability to extract statistical regularities from passive exposures [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/jr9encpg",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Statistical Learning"
+          },
+          {
+            "type": "text",
+            "text": "] ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nr3z5rfo33e",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nanfdoa0opa\" data-reactroot=\"\">Aslin, R. N., &amp; Newport, E. L. (2012). Statistical learning: From acquiring specific items to forming general rules. <em>Current Directions in Psychological Science, 21</em>(3), 170-176. https://doi.org/10.1177/0963721412436806</p>",
+              "customLabel": "Aslin & Newport, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). One hypothesis is that these abilities support learning-associative mappings between frequently co-occurring words and objects ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuottcjez0q",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npoyl6w8kj9\" data-reactroot=\"\">Yu, C., &amp; Smith, L. B. (2007). Rapid word learning under uncertainty via cross-situational statistics. <em>Psychological Science</em>, <em>18</em>(5), 414-420. <a href=\"https://doi.org/10.1111/j.1467-9280.2007.01915.x\"><strong>https://doi.org/10.1111/j.1467-9280.2007.0191</strong></a></p>",
+              "customLabel": "Yu & Smith, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). On the other hand, at least some word meanings appear to be explicit knowledge learned through \u201caha\u201d moments in which a meaning is discovered rather than accumulated gradually ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd1ur2lp7rg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ncg2o5bhrre\" data-reactroot=\"\">Medina, T. N., Snedeker, J., Trueswell, J. C., &amp; Gleitman, L. R. (2011). How words can and cannot be learned by observation. <em>Proceedings of the National Academy of Sciences, 108</em>(22), 9014-9019. https://doi.org/10.1073/pnas.1105040108</p>",
+              "customLabel": "Medina et al. 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "num9g2umhcq",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Are words learned differently in different cultural contexts? In children growing up in the United States and Europe, the amount of language children hear relates to the size of their vocabulary, with children in lower socioeconomic status families on average hearing less language ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nekzmg6x0gf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvhknoggw0g\" data-reactroot=\"\">Dailey, S., Bergelson, E. (2022). Language input to infants of different socioeconomic statuses: A quantitative meta-analysis. <em>Developmental Science, 25</em>(3), e13192. https://doi.org/10.1111/desc.13192</p>",
+              "customLabel": "Dailey & Bergelson, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The rates at which caregivers around the world talk to their children varies even more substantially, yet on average children seem to learn on approximately the same timetable ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndviemw67d1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl0vpc67b8j\" data-reactroot=\"\">Casillas, M., Brown, P. and Levinson, S.C. (2020). Early language experience in a Tseltal Mayan village. <em>Child Development, 91</em>(5), 1819-1835. https://doi.org/10.1111/cdev.13349</p>",
+              "customLabel": "Casillas et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). One possibility is that children in contexts in which they are spoken to less directly may learn much more from overhearing language directed at others ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfkffvcjgwz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nngros59ra2\" data-reactroot=\"\">Akhtar, N., Jipson, J., &amp; Callanan, M. A. (2001). Learning words through overhearing. <em>Child Development, 72</em>(2), 416-430. https://doi.org/10.1111/1467-8624.00287</p>",
+              "customLabel": "Akhtar et al., 2001",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5fkl0tmnro",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Because learning a word involves mapping form to meaning, generalizing meaning across contexts, and reasoning about social meaning in context, word learning has been a central topic bridging language development to other parts of cognitive science through connections with research on social cognition, conceptual development, cognitive neuroscience, and other areas."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkz8frpdngk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Word learning also has deep connections with artificial intelligence. Classic debates about the nature of meaning representations and their connection to patterns of linguistic co-occurrence ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3fh61qdexu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npzqzsb9rs0\" data-reactroot=\"\">Landauer, T. K., &amp; Dumais, S. T. (1997). A solution to Plato\u2019s problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge. <em>Psychological Review, 104</em>(2), 211-240. https://doi.org/10.1037/0033-295X.104.2.211</p>",
+              "customLabel": "Landauer & Dumais, 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") have recently come to the forefront again as technologists, scholars, and the general public have debated whether large language models [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "] truly understand language ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nv299z88uto",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmd4ajsxoac\" data-reactroot=\"\">Bender, E. M., Gebru, T., McMillan-Major, A., &amp; Shmitchell, S. (2021, March 3-10). <em>On the dangers of stochastic parrots: Can language models be too big?\ud83e\udd9c </em>[Conference Presentation Abstract]. FAccT &#x27;21: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency. https://doi.org/10.1145/3442188.3445922</p>",
+              "customLabel": "Bender et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These debates have been informed by our understanding of children\u2019s language learning (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrpxxyn4337",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlnfg8z59au\" data-reactroot=\"\">Mitchell, M. (2023). How do we know how smart AI systems are?\u00a0<em>Science</em>,\u00a0<em>381</em>(6654), adj5957. https://doi.org/10.1126/science.adj5957</p>",
+              "customLabel": "Mitchell, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nheuhvy7ea5",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Finally, debates about word learning have important policy implications because children\u2019s early vocabulary knowledge plays a critical role in enabling reading success when they reach school. The better children\u2019s language abilities, the more they can make successful predictions about the content that they are decoding from printed text as they learn to read ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuqcv8453lf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4ex57c1u6g\" data-reactroot=\"\">Seidenberg, M. (2017). <em>Language at the speed of sight: How we read, why so many can\u2019t, and what can be done about it.</em> Basic Books.</p>",
+              "customLabel": "Seidenberg, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "key-references",
+          "id": "key-references",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nmqiv2vkmlq",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n46fyiwh1jq",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bloom, P. (2002). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "How children learn the meanings of words."
+                  },
+                  {
+                    "type": "text",
+                    "text": " MIT Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n5pfotcw6az",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Clark, E. V. (2009). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "First language acquisition"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Cambridge University Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n3km7op8os6",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Frank, M. C., Braginsky, M., Yurovsky, D., & Marchman, V. A. (2021). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Variability and consistency in early language learning: The Wordbank Project"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". MIT Press. Available at: "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://wordbank-book.stanford.edu",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://wordbank-book.stanford.edu"
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

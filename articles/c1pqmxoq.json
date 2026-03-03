@@ -1,0 +1,1600 @@
+{
+  "id": "0582140e-5b82-4159-842b-d8bd56c81e9a",
+  "slug": "c1pqmxoq",
+  "title": "Multiple Realizability",
+  "url": "https://oecs.mit.edu/pub/c1pqmxoq",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "0582140e-5b82-4159-842b-d8bd56c81e9a",
+    "slug": "c1pqmxoq",
+    "title": "Multiple Realizability",
+    "htmlTitle": "Multiple Realizability",
+    "description": "",
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.0582140e",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "bpu23qog",
+    "editHash": "1qz1qcsu",
+    "reviewHash": "9d5kaos5",
+    "commentHash": "l5vahnky",
+    "draftId": "5c293b1c-48ed-4553-a64d-b8c1878329af",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "2bfb46ad-ad5a-4d00-af20-22a26ae4dbb1",
+    "scopeSummaryId": "9a2787e7-1833-44e3-bac4-8e77bad741fc",
+    "createdAt": "2024-10-15T16:08:31.908Z",
+    "updatedAt": "2024-12-04T21:07:44.870Z",
+    "attributions": [
+      {
+        "id": "1419a884-6f36-4499-be89-19678db5c1d4",
+        "name": "Thomas W. Polger",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of Cincinnati",
+        "orcid": "0000-0002-0117-1210",
+        "userId": null,
+        "pubId": "0582140e-5b82-4159-842b-d8bd56c81e9a",
+        "createdAt": "2024-10-15T16:12:19.448Z",
+        "updatedAt": "2024-10-15T16:12:36.618Z",
+        "user": null
+      },
+      {
+        "id": "6d6004a8-2cc3-4c8b-8e18-54dffe5adf61",
+        "name": "Colin Klein",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "The Australian National University",
+        "orcid": "0000-0002-7406-4010",
+        "userId": null,
+        "pubId": "0582140e-5b82-4159-842b-d8bd56c81e9a",
+        "createdAt": "2024-10-21T22:56:11.453Z",
+        "updatedAt": "2024-10-21T22:56:31.799Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "5c293b1c-48ed-4553-a64d-b8c1878329af",
+      "latestKeyAt": "2024-12-04T21:07:20.891Z",
+      "firebasePath": "drafts/draft-5c293b1c-48ed-4553-a64d-b8c1878329af",
+      "createdAt": "2024-10-15T16:08:31.905Z",
+      "updatedAt": "2024-12-16T20:41:24.598Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nv2pd7sbdsu",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In the cognitive sciences, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "multiple realizability"
+          },
+          {
+            "type": "text",
+            "text": " is the phenomenon of one cognitive kind or process being actually or possibly realized by more than one relevantly different physical realizer. For example, we might think that the cognitive kind of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "memory"
+          },
+          {
+            "type": "text",
+            "text": " is actually realized by different types of neural cells: humans have memories in virtue of their hippocampus, whereas bees have memories in virtue of their mushroom bodies. These are two very different kinds of structure. In the future, memory might even be realized by implanted silicon chips: that is, by something that is not neural at all. Multiple realizability has played a key philosophical role in many arguments. For example, it is often assumed that identification with a physical kind is a necessary condition on reductive explanation. If so, then reductive explanation of multiply realizable kinds is impossible. Or, if cognitive science is the science of mental \u201csoftware\u201d and computational software is multiply realizable, then there will be no reduction of cognitive science explanations to neural explanations. This antireductionist conclusion has been the main philosophical import of multiple realizability in discussions of cognitive science."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n8t1yzvedb0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The phenomenon of multiple realizability first came to prominence in philosophy of mind as an argument against the 1950s mind\u2013brain identity theory according to which sensations are "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "identical"
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "reducible"
+          },
+          {
+            "type": "text",
+            "text": " to brain processes ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njwrzseb5la",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq9gei7lqcs\" data-reactroot=\"\">Smart, J. J. C. (1959). Sensations and brain processes. <em>The Philosophical Review</em>, <em>68</em>(2), 141-156. <a href=\"https://doi.org/10.2307/2182164\">https://doi.org/10.2307/2182164</a> </p>",
+              "customLabel": "Smart, 1959",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The relationship between mental states and brain states is like the relationship between water and H"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "2"
+          },
+          {
+            "type": "text",
+            "text": "O. There is a one-to-one relationship between water and H"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "2"
+          },
+          {
+            "type": "text",
+            "text": "O: everything that is water is H"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "2"
+          },
+          {
+            "type": "text",
+            "text": "O, everything that is H"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "2"
+          },
+          {
+            "type": "text",
+            "text": "O is water, nothing that is not H"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "2"
+          },
+          {
+            "type": "text",
+            "text": "O is water, and nothing that is not water is H"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "2"
+          },
+          {
+            "type": "text",
+            "text": "O."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwvcm2g4w34",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Hilary "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxi5o3j9bfn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyehzhakalk\" data-reactroot=\"\">Putnam, H. (1967). Psychological predicates. In Putnam, H. (Ed.). <em>Mind, language, and reality: Philosophical papers, volume 2</em>. Cambridge University Press.</p>",
+              "customLabel": "Putnam (1967)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " was the first to argue that mental states such as hunger or pain are multiply realized or multiply realizable. There are psychological states that, he claimed, can occur in mammals, reptiles, and mollusks, but it is unlikely that mammals, reptiles, and mollusks all have the same kind of brain states when they have hungers or pains. Mammalian brains have cortex, and reptilian brains do not, for example. So we cannot expect the sort of simple, one-to-one mapping like we find between water and H"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "2"
+          },
+          {
+            "type": "text",
+            "text": "O."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n06p1jftp0c",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Putnam\u2019s idea was further developed by focusing on various ways to arrive at the multiple realizability of cognitive states ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nme4j30kxpn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwtwt58dz0w\" data-reactroot=\"\">Block, N., &amp; Fodor, J. (1972). What psychological states are not. <em>Philosophical Review</em>, <em>81</em>(2), 159-181. <a href=\"https://doi.org/10.2307/2183991\">https://doi.org/10.2307/2183991</a> </p>",
+              "customLabel": "Block & Fodor, 1972",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These include the phenomena of neural equipotentiality (the theory that there is no intrinsic neural specialization, all neurons have the same potential) and plasticity (the idea that neurons can change what they do over time) and on the likelihood of artificial intelligence."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7z67fssw4h",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A key feature of many arguments for multiple realizability was analogies with computation. This was part of a general turn towards computational explanations as a key foundation for cognitive science ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk2fzo9rxzk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhg865b52gf\" data-reactroot=\"\">Neisser, U. (1967). <em>Cognitive psychology</em>. Psychology Press.</p>",
+              "customLabel": "Neisser, 1967",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Computer software can be implemented or instantiated on different kinds of hardware. This means that there is no single physical process of all possible hardware that is occurring when the software process for \u201ccopy\u201d is implemented."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nuij71qzja2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The above line of reasoning begins with the multiple realizability of the cognitive by the physical, infers that the cognitive cannot be reduced to the neural, and concludes by generalizing this conclusion to the so-called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "special sciences"
+          },
+          {
+            "type": "text",
+            "text": "\u2014that is, to all non-basic sciences, not just psychology or cognitive sciences ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk40jn5qk8r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkiia9r2kkr\" data-reactroot=\"\">Fodor, J. (1974). Special sciences, or the disunity of science as a working hypothesis. <em>Synthese</em>, <em>28</em>, 97-115. <a href=\"https://doi.org/10.1007/BF00485230\">https://doi.org/10.1007/BF00485230</a> </p>",
+              "customLabel": "Fodor, 1974",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). If cognition cannot be reduced to physics, then it is unlikely that sociology or economics will either. If this is right, the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "reason"
+          },
+          {
+            "type": "text",
+            "text": " that the special sciences cannot be reduced to the general or basic sciences is that the special sciences are just the sciences of the multiply realizable."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nl3xdsdrsyz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A core motivation for antireductionist arguments was to preserve cognitive psychology as an independent discipline. Because it deals in multiply realizable kinds, cognitive science ought to be relatively "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "autonomous"
+          },
+          {
+            "type": "text",
+            "text": ": no matter how physics and chemistry advance, they will never replace the cognitive sciences. The strongest versions of autonomy imply that cognitive science neither can nor should look to neuroscience for guidance: the two sciences cross-cut the world in equally valid ways ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3ydvvokyhj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3dmvf35zyn\" data-reactroot=\"\">Dupre, J. (1993). <em>The disorder of things: Metaphysical foundations of the disunity of science.</em> Harvard University Press.</p>",
+              "customLabel": "Dupre, 1993",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This \u201cantireductionist consensus\u201d was further articulated and defended through the 1970s and 1980s ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nam7rd8kzm5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0ebasj9ipj\" data-reactroot=\"\">Putnam, H. (1975). Philosophy and our mental life. In Putnam, H. (Ed.). <em>Mind, language, and reality: Philosophical papers, volume 2</em>. Cambridge University Press.</p>",
+              "customLabel": "Putnam, 1975",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndtd15cqrd9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nufghm3uw0v\" data-reactroot=\"\">Kitcher, P. (1984). 1953 and all that: A tale of two sciences. <em>Philosophical Review</em>, <em>93</em>(3), 335-373. <a href=\"https://doi.org/10.2307/2184541\">https://doi.org/10.2307/2184541</a> </p>",
+              "customLabel": "Kitcher, 1984",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and became the received view in philosophy of science by the 1990s\u2014especially in the philosophy of the cognitive and brain sciences. It remains the mainstream view in the philosophy of science and philosophy of mind."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ntwq5lin5pk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Discussions of multiple realizability are frequently framed in terms of relations among natural kinds or properties, laws or regularities, and explanations. It is claimed that the property "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "water"
+          },
+          {
+            "type": "text",
+            "text": " can be identified with or reduced to the property "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "H"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "2"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "O"
+          },
+          {
+            "type": "text",
+            "text": ", but the property "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "being a memory"
+          },
+          {
+            "type": "text",
+            "text": " cannot be identified with or reduced to any single brain state or process. Again, it seems at least possible that people might augment memory with computer chips, in which case human memory would not even be neural."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwvlhnrcv39",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "It is useful to think of kinds, properties, and laws as being the things that are mentioned in the best explanations of cognitive phenomena. If the kinds that figure in a successful explanation are multiply realizable, then cognitive scientists can think of those regularities themselves as being multiply realizable; in that sense, the explanations may also be thought of as multiply realizable."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nflkw7p721d",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The formulation of multiple realizability in terms of kinds, for example, understood as taxonomic kinds in sciences, helps to make the empirical nature of the claim salient. For most theorists, the claim that some kinds are multiply realized is an empirical claim: scientists could find out that water is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "not"
+          },
+          {
+            "type": "text",
+            "text": " multiply realized, that all water is H"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "2"
+          },
+          {
+            "type": "text",
+            "text": "O, or that all memory is implemented by the same kinds of neural processes in all creatures. But, as a matter of fact, scientists have discovered that this is not the case: there is no one-to-one mapping. Memory is probably multiply realizable, and water is not."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0hjr1yo5ax",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Early objections to multiple realizability arguments against identity or reduction challenged the claim that purportedly multiple realizable kinds really have nothing in common ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nz4qy13ewpp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1olk268ned\" data-reactroot=\"\">Kim, J. (1972). Phenomenal properties, psychophysical laws, and identity theory. <em>Monist</em>, <em>56</em>(2), 177-192. <a href=\"https://doi.org/10.5840/monist19725623\">https://doi.org/10.5840/monist19725623</a> </p>",
+              "customLabel": "Kim, 1972",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nel398rk5vn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npgrcqm1kv6\" data-reactroot=\"\">Lewis, D. (1972). Psychophysical and theoretical identifications. <em>The Australasian Journal of Philosophy</em>, <em>50</em>(3), 249-258. <a href=\"https://doi.org/10.1080/00048407212341301\">https://doi.org/10.1080/00048407212341301</a> </p>",
+              "customLabel": "Lewis, 1972",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ne5lcnkqbwx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuccmgapxo2\" data-reactroot=\"\">En\u00e7, B. (1983). In defense of the identity theory. <em>Journal of Philosophy</em>, <em>80</em>, 279-298. <a href=\"https://doi.org/10.2307/2026499\">https://doi.org/10.2307/2026499</a> </p>",
+              "customLabel": "En\u00e7, 1983",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). If all examples of memory are similar, then maybe there is a physical or neural property that they all share in common after all. Later objections challenged the claim that kind identification is necessary for explanatory or theoretical reduction ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0ni575poap",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6gx903xm83\" data-reactroot=\"\">Richardson, R. (1979). Functionalism and reductionism. <em>Philosophy of Science</em>, <em>46</em>(4),  533-558. <a href=\"https://doi.org/10.1086/288895\">https://doi.org/10.1086/288895</a> </p>",
+              "customLabel": "Richardson, 1979",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nifgy1vq5h3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nalazd4y7yj\" data-reactroot=\"\">Bickle, J. (1998). <em>Psychoneural reduction</em>. MIT Press.</p>",
+              "customLabel": "Bickle, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh4c387raqp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0ouqb4iwdw\" data-reactroot=\"\">Sober, E. (1999). The multiple realizability argument against reductionism. <em>Philosophy of Science</em>, <em>66</em>(4), 542-564. <a href=\"https://doi.org/10.1086/392754\">https://doi.org/10.1086/392754</a> </p>",
+              "customLabel": "Sober 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or that multiply realized kinds can figure in causal explanations ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nn824fpqdlm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmsm9u8k3u4\" data-reactroot=\"\">Kim, J. (1993). <em>Supervenience and mind: Selected philosophical essays</em>. Cambridge University Press.</p>",
+              "customLabel": "Kim, 1993",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). More recent objections have directly questioned whether the phenomenon of multiple realizability is as widespread as has been assumed ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsisnu3fg71",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0ii5fuszs6\" data-reactroot=\"\">Bechtel, W., &amp; Mundale, J. (1999). Multiple realizability revisited: Linking cognitive and neural states. <em>Philosophy of Science</em>, <em>66</em>(2), 175-207. <a href=\"https://doi.org/10.1086/392683\">https://doi.org/10.1086/</a></p>",
+              "customLabel": "Bechtel & Mundale, 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkogfsgdtjq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"noxto1tvurs\" data-reactroot=\"\">Shapiro, L. A. (2000). Multiple realizations. <em>Journal of Philosophy</em>, <em>97</em>(12), 635-654.</p>",
+              "customLabel": "Shapiro, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n385ualown5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkgdclj56ux\" data-reactroot=\"\">Polger, T., &amp; Shapiro, L. (2016). <em>The multiple realization book</em>. Oxford University Press.</p>",
+              "customLabel": "Polger & Shapiro, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nj65n97lrbt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8vwa22fe4g\" data-reactroot=\"\">Chirimuuta, M. (2014). Minimal models and canonical neural computations: The distinctness of computational explanation in neuroscience. <em>Synthese</em>, <em>191</em>(2), 127-153. <a href=\"https://doi.org/10.1007/s11229-013-0369-y\">https://doi.org/10.1007/s11229-013-0369-y</a> </p>",
+              "customLabel": "Chirimuuta, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwdlmmmiog4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n53xmfs02j7\" data-reactroot=\"\">Cao, R. (2022). Multiple realizability and the spirit of functionalism. <em>Synthese</em>, <em>200</em>(6), 506. <a href=\"https://doi.org/10.1007/s11229-022-03524-1\">https://doi.org/10.1007/s11229-022-03524-1</a> </p>",
+              "customLabel": "Cao, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or whether researchers have good reason to expect they will discover more cases in the future ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n767qlsa65a",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkgdclj56ux\" data-reactroot=\"\">Polger, T., &amp; Shapiro, L. (2016). <em>The multiple realization book</em>. Oxford University Press.</p>",
+              "customLabel": "Polger & Shapiro, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3ti7k7de59",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The most recent critiques focus on details of discoveries and methods in the neurosciences to argue that many apparent examples of multiple realization do not hold up to closer scrutiny (beginning with "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxstqbqpluu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0ii5fuszs6\" data-reactroot=\"\">Bechtel, W., &amp; Mundale, J. (1999). Multiple realizability revisited: Linking cognitive and neural states. <em>Philosophy of Science</em>, <em>66</em>(2), 175-207. <a href=\"https://doi.org/10.1086/392683\">https://doi.org/10.1086/</a></p>",
+              "customLabel": "Bechtel & Mundale, 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). One example is the famous case of \u201crewired\u201d ferrets that can \u201csee\u201d even though their optic nerves have been redirected to auditory cortex ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nykcwp9fz18",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"neov6f8vt45\" data-reactroot=\"\">von Melchner, L., Pallas, S., &amp; Sur, M. (2000). Visual behaviour mediated by retinal projections directed to the auditory pathway. <em>Nature</em>, <em>404</em>(6780), 871-876. <a href=\"https://doi.org/10.1038/35009102\">https://doi.org/10.1038/35009102</a> </p>",
+              "customLabel": "von Melchner et al., 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, skeptics argue that the rewired ferret\u2019s visual capacities are greatly deficient compared to control ferrets, and the manipulated auditory cortex has in fact developed some of the distinctive anatomical features of the controls\u2019 visual cortex ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmee9suc44z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"noxto1tvurs\" data-reactroot=\"\">Shapiro, L. A. (2000). Multiple realizations. <em>Journal of Philosophy</em>, <em>97</em>(12), 635-654.</p>",
+              "customLabel": "Shapiro, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This raises questions about whether the rewired ferrets are both the same as and also relevantly different from the control ferrets as well as broader questions about the role of neural plasticity in arguments for multiple realizability ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk9n0kqs528",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxumiptrx10\" data-reactroot=\"\">Maimon, A., &amp; Hemmo, M. (2022). Does neuroplasticity support the hypothesis of multiple realizability? <em>Philosophy of Science</em>, <em>89</em>(1), 107\u2013127. <a href=\"https://doi.org/10.1017/psa.2021.16\">https://doi.org/10.1017/psa.2021.16</a> </p>",
+              "customLabel": "Maimon & Hemmo, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nyh2qsh25ue",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The phenomenon of multiple realizability, and the argument from multiple realizability to irreducibility, has been applied broadly across cognitive science. It spurred the development of alternatives to identity ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5maukbt776",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxtp9nbrs5u\" data-reactroot=\"\">Kim, J. (1993). <em>Supervenience and mind: Selected philosophical essays</em>. Cambridge University Press.</p>",
+              "customLabel": "Kim, 1993",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") in order to capture the relationship between mind and body. The idea of multiple realizability was key to developing and articulating the computational theory of mind and artificial intelligence because computational properties are thought to be paradigmatic examples of multiple realizability."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbrflo9xhv5",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Multiple realizability also plays a key role in the philosophy of science. Current debates about mechanistic explanation and the level of abstraction at which they ought to be pitched are also informed by the multiple realizability debate. Debates about whether some kinds are natural kinds [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/yk2x399b",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Natural Kinds"
+          },
+          {
+            "type": "text",
+            "text": "] depend on the relationship that natural kinds are meant to have to physical kinds: generally speaking, multiple realizability allows for a broader set of natural kinds."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading "
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n4552oen8h3",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n8trkoagvyc",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Block, N., & Fodor, J. (1972). What psychological states are not. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Philosophical Review"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "81"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(2), 159-181. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.2307/2183991",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.2307/2183991"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nc8i8yx4nr7",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Fodor, J. (1974). Special sciences, or the disunity of science as a working hypothesis. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Synthese"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "28"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 97-115. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1007/BF00485230",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1007/BF00485230"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n0vxtfvlvwf",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Kitcher, P. (1984). 1953 and all that: A tale of two sciences. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Philosophical Review"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "93"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(3), 335-373. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.2307/2184541",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.2307/2184541"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "njw09xpzkth",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Putnam, H. (1967). Psychological predicates. In Putnam, H. (Ed.). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Mind, language, and reality: Philosophical papers, volume 2"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Cambridge University Press."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

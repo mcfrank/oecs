@@ -1,0 +1,2566 @@
+{
+  "id": "44f29f6b-eec1-4823-a823-fd0c62de6208",
+  "slug": "rek9756r",
+  "title": "Numerical Cognition",
+  "url": "https://oecs.mit.edu/pub/rek9756r",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "44f29f6b-eec1-4823-a823-fd0c62de6208",
+    "slug": "rek9756r",
+    "title": "Numerical Cognition",
+    "htmlTitle": "Numerical Cognition",
+    "description": "",
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.44f29f6b",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "n9o137ad",
+    "editHash": "0y2o54q1",
+    "reviewHash": "j3xati8q",
+    "commentHash": "ukhw2re8",
+    "draftId": "135ceb74-9750-4f3f-9f97-e1c73d4434b3",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "43ef58c4-eda8-48d9-90d3-8aae304c17b5",
+    "scopeSummaryId": "53d4fa50-9365-4da2-bb89-d7cd369f08e7",
+    "createdAt": "2025-10-15T18:48:21.196Z",
+    "updatedAt": "2025-11-20T20:46:50.802Z",
+    "attributions": [
+      {
+        "id": "978e1a33-0683-44c0-91f7-12be86680844",
+        "name": "David Barner",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Professor, Department of Psychology, UC San Diego",
+        "orcid": "0009-0004-3439-3145",
+        "userId": null,
+        "pubId": "44f29f6b-eec1-4823-a823-fd0c62de6208",
+        "createdAt": "2025-10-15T18:56:16.545Z",
+        "updatedAt": "2025-10-15T18:56:40.044Z",
+        "user": null
+      },
+      {
+        "id": "3f13cebb-9240-4aa9-9f29-896c327dc398",
+        "name": "Michael C. Frank",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Stanford University",
+        "orcid": "0000-0002-7551-4378",
+        "userId": null,
+        "pubId": "44f29f6b-eec1-4823-a823-fd0c62de6208",
+        "createdAt": "2025-10-21T22:02:03.361Z",
+        "updatedAt": "2025-10-21T22:02:26.593Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "135ceb74-9750-4f3f-9f97-e1c73d4434b3",
+      "latestKeyAt": "2025-11-20T20:36:14.671Z",
+      "firebasePath": "drafts/draft-135ceb74-9750-4f3f-9f97-e1c73d4434b3",
+      "createdAt": "2025-10-15T18:48:21.180Z",
+      "updatedAt": "2025-11-20T20:46:36.546Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n811xmwl5hn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Number is everywhere in human cognition, behavior, and culture. In a glance, a human observer can tell whether a stadium contains more fans for the home team or the visitors. When we want to be precise, we can count or use written numerals to express exact number. Number even gets expressed grammatically, when we use plural nouns or words like \u201cmany\u201d or \u201ca few.\u201d These diverse abilities allow humans to describe and reason about abstract phenomena like time and space, to model the structure of invisible particles, or to imagine alternative universes. Some human numerical abilities are shared with other species, like mice and fish, whereas some are unique to humans. Some abilities are unique to only a handful of humans whose interest is drawn to the creation of formal systems for modeling our world. "
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nq1n8g11ymg",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The human capacity to reason numerically is as old as we are. There is evidence of numerical thought in archeological artifacts dating back at least 10,000 years and perhaps as far back as 20,000 years. Also, humans have wondered about what numbers are and how we come to know them for as long as we have been asking questions, and number has played an important role in the philosophy of mind for hundreds of years ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8g9jlzvv1z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvrakp8m2wl\" data-reactroot=\"\">Shapiro, S. (2000). <em>Thinking about mathematics: The philosophy of mathematics</em>. Oxford University Press.</p>",
+              "customLabel": "Shapiro, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Numbers pose a particularly interesting philosophical problem because they seem to have a life of their own outside of the human mind, but they are also not physical or directly observable in any way. Also, some mathematical truths appear to be immutable and necessary\u2014such as 1 + 1 = 2\u2014and yet we still need to learn them."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n52w0oqiok8",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Until the 20th century, questions about numerical cognition were mostly discussed by philosophers, but things changed with the birth of psychology and the introduction of experimental methods to study cognition and behavior. Scientific reports on numerical cognition began with reports by Francis "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlxw8p9kqs6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk4vas35kg2\" data-reactroot=\"\">Galton, F. (1880). Visualised numerals. <em>Nature, 21</em>(533), 252-256. <a href=\"https://doi.org/10.1038/021252a0\">https://doi.org/10.1038/021252a0</a> </p>",
+              "customLabel": "Galton (1880)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " and Wilhelm "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nouho5cvtre",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhueg7nxcvj\" data-reactroot=\"\">Wundt, W. M. (1904). <em>Principles of physiological psychology</em>. Sonnenschein.</p>",
+              "customLabel": "Wundt (1904)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " and in studies of birds and rodents ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n16mnzc10h2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndyi7btzeao\" data-reactroot=\"\">Koehler, O. (1950). The ability of birds to \u201ccount.\u201d <em>Bulletin of Animal Behaviour</em>, <em>9</em>, 41-45.</p>",
+              "customLabel": "Koehler, 1950",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7gdkslfkoi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqytrxv1aqd\" data-reactroot=\"\">Mechner, F. (1958). Probability relations within response sequences under ratio reinforcement. <em>Journal of the Experimental Analysis of Behavior, 1</em>(2), 109. <a href=\"https://doi.org/10.1901/jeab.1958.1-109\">https://doi.org/10.1901/jeab.1958.1-109</a> </p>",
+              "customLabel": "Mechner, 1958",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The study of numerical cognition in humans took off in the 1970s, with the advent of the cognitive revolution, which shone new light on basic cognitive processes including numerical cognition. Early work by developmental psychologists such as "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqn97u1aljg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj2dyrf44b6\" data-reactroot=\"\">Piaget, J. (1953). How children form mathematical concepts. <em>Scientific American, 189</em>(5), 74-79. <a href=\"https://doi.org/:10.1038/scientificamerican1153-74\">https://doi.org/10.1038/scientificamerican1153-74</a>  </p>",
+              "customLabel": "Piaget (1953)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njg2hi1pf8w",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbv5ga3xyu3\" data-reactroot=\"\">Gelman, R., &amp; Gallistel, C. R. (1978). <em>The child\u2019s understanding of number</em>. Harvard University Press.</p>",
+              "customLabel": "Gelman and Gallistel (1978)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " was especially influential [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zw60p83x",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Cognitive Development"
+          },
+          {
+            "type": "text",
+            "text": "]; this work helped to spawn multiple new fields of inquiry that have investigated different age groups, cultures, animal species, and experimental methods."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "number-sense-and-object-tracking",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Number sense and object tracking"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nny468dog6q",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "All humans\u2014regardless of education level or age\u2014possess an ability to judge the relative number of things in two groups without counting. For example, if an image of 50 apples is quickly flashed followed by a second image of 30 apples, most people can judge that the first image contained more apples. A large body of literature suggests that this ability is supported by an evolutionarily ancient "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "approximate magnitude system"
+          },
+          {
+            "type": "text",
+            "text": ", which has been documented in pigeons, mice, fish, nonhuman primates, and humans across cultures ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqifaqbntd3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndt45zf42ix\" data-reactroot=\"\">Brannon, E. M. (2005). What animals know about numbers. In J. I. D. Campbell (Ed.), <em>Handbook of mathematical cognition</em> (pp. 85-107). Psychology Press.</p>",
+              "customLabel": "Brannon, 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ng84cr2kbpg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n68l1em6v4x\" data-reactroot=\"\">Cantlon, J. F. (2012). Math, monkeys, and the developing brain. <em>Proceedings of the National Academy of Sciences, 109</em>(supplement_1), 10725-10732. <br/><a href=\"https://doi.org/10.1073/pnas.1201893109\">https://doi.org/10.1073/pnas.1201893109</a> </p>",
+              "customLabel": "Cantlon, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nztctmj0piq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrqyv6kgpsb\" data-reactroot=\"\">Dehaene, S., Dehaene-Lambertz, G., &amp; Cohen, L. (1998). Abstract representations of numbers in the animal and human brain. <em>Trends in Neurosciences, 21</em>(8), 355-361. <a href=\"https://doi.org/10.1016/s0166-2236(98)01263-6\">https://doi.org/10.1016/s0166-2236(98)01263-6</a> </p>",
+              "customLabel": "Dehaene et al., 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). When we use this system to compare two groups of things, our success in identifying the larger group is determined by the ratio between them. Judging that 50 is more than 30 is relatively easy for most people, whereas 40 versus 30 is harder, and 35 versus 30 is nearly impossible. This is because our representation of each individual group of things is uncertain and approximate; when we see 50 things, sometimes we might think there are as few as 30 and other times 70 or more (see "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "no6pltb324l",
+              "targetId": "np6zux8d1w6",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). That is, numerical judgments using this system are ratio governed: comparing 50 versus 30 is no easier or harder than comparing 100 versus 60."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "np6zux8d1w6",
+          "url": "https://assets.pubpub.org/6kl2093x/71760554550955.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"nudaoepmqxi\" data-reactroot=\"\">Approximate number estimates for groups of 4, 8, 12, and 16. Each line represents the distribution of verbal estimates that are typical when a human participant is presented with a target numerosity (e.g., 4, 8, 12, or 16 dots). Typically, the most common response is centered around the target, and responses are more accurate and less distributed for smaller numbers relative to larger ones.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nb36frdo91x",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "There is now strong evidence that approximate magnitude representations have dedicated real estate in the brain and, in particular, the intraparietal sulcus ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwld30edlbs",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nt8p18vru66\" data-reactroot=\"\">Gallistel, C. (2021). The approximate number system represents magnitude and precision. <em>Behavioral and Brain Sciences, 44</em>, e187. <a href=\"https://doi.org/10.1017/S0140525X21000959\">https://doi.org/10.1017/S0140525X21000959</a>  </p>",
+              "customLabel": "Gallistel, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxssnxmgyli",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nboocsj56iq\" data-reactroot=\"\">Nieder, A. (2021). The evolutionary history of brains for numbers. <em>Trends in Cognitive Sciences, 25(</em>7), 608-621. <a href=\"https://doi.org/10.1016/j.tics.2021.03.012.\">https://doi.org/10.1016/j.tics.2021.03.012.</a> </p>",
+              "customLabel": "Nieder, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Similar findings have been reported in young infants ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nip7k31xb2a",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nh1rxsa3wue\" data-reactroot=\"\">Visibelli, E., Porru, A., Lucangeli, D., Butterworth, B., &amp; Benavides-Varela, S. (2024). Neural indicators of numerical abilities in the infant human brain: A systematic review. <em>Developmental Review, 74,</em> 101150. <a href=\"https://doi.org/10.1016/j.dr.2024.101150\">https://doi.org/10.1016/j.dr.2024.101150</a> </p>",
+              "customLabel": "Visibelli et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and in older children as well ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3iieug6npi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nov3h9nd38s\" data-reactroot=\"\">Piazza, M., Mechelli, A., Price, C. J., &amp; Butterworth, B. (2006). Exact and approximate judgements of visual and auditory numerosity: An fMRI study. <em>Brain Research, 1106</em>, 177\u2013188. <a href=\"https://doi.org/10.1016/j.brainres.2006.05.104\">https://doi.org/10.1016/j.brainres.2006.05.104</a> </p>",
+              "customLabel": "Piazza et al., 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Finally, there is ample evidence that specialized areas are also used to represent number in other animal species ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkobljronvj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrqyv6kgpsb\" data-reactroot=\"\">Dehaene, S., Dehaene-Lambertz, G., &amp; Cohen, L. (1998). Abstract representations of numbers in the animal and human brain. <em>Trends in Neurosciences, 21</em>(8), 355-361. <a href=\"https://doi.org/10.1016/s0166-2236(98)01263-6\">https://doi.org/10.1016/s0166-2236(98)01263-6</a> </p>",
+              "customLabel": "Dehaene et al., 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxzpnd05p8r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nboocsj56iq\" data-reactroot=\"\">Nieder, A. (2021). The evolutionary history of brains for numbers. <em>Trends in Cognitive Sciences, 25(</em>7), 608-621. <a href=\"https://doi.org/10.1016/j.tics.2021.03.012.\">https://doi.org/10.1016/j.tics.2021.03.012.</a> </p>",
+              "customLabel": "Nieder, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). All of this suggests that, whatever this ability is, it is supported by an evolutionarily ancient biological system that is found across the human lifespan and across different species."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "noygwmtoc8n",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Interestingly, people get better at judging relative number as they age and gain experience with formal education ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngtxm13ekoo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnzkpld7uiw\" data-reactroot=\"\">Libertus, M. E., Odic, D., Feigenson, L., &amp; Halberda, J. (2016). The precision of mapping between number words and the approximate number system predicts children\u2019s formal math abilities. <em>Journal of Experimental Child Psychology, 150</em>, 207-226. <a href=\"https://doi.org/10.1016/j.jecp.2016.06.003\">https://doi.org/10.1016/j.jecp.2016.06.003</a> </p>",
+              "customLabel": "Libertus et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Early in life, human infants can differentiate quantities that are in a 2:1 ratio but struggle to differentiate a 2:3 ratio ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "noh2asjoewa",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbqllh1tj68\" data-reactroot=\"\">Xu, F., Spelke, E. S., &amp; Goddard, S. (2005). Number sense in human infants. <em>Developmental Science, 8(</em>1), 88-101. <a href=\"https://doi.org/10.1111/j.1467-7687.2005.00395.x\">https://doi.org/10.1111/j.1467-7687.2005.00395.x</a> </p>",
+              "customLabel": "Xu et al., 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). By preschool, a 2:3 ratio is easy for most children, and by high school, they can differentiate groups in a 7:8 ratio. Meanwhile, members of innumerate groups (who do not have verbal counting systems or written numbers) like the Piraha and Munduruku are able to differentiate quantities that exhibit relatively large ratios but are less likely than numerate adults to differentiate smaller ratios ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwosgv01005",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbqt940k1u7\" data-reactroot=\"\">Gordon, P. (2004). Numerical cognition without words: Evidence from Amazonia. <em>Science</em>, <em>306</em>(5695), 496-499. <a href=\"https://doi.org/10.1126/science.1094492\">https://doi.org/10.1126/science.1094492</a> </p>",
+              "customLabel": "Gordon, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntm15vijjk2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntsf99oduo4\" data-reactroot=\"\">Pica, P., Lemer, C., Izard, V., &amp; Dehaene, S. (2004). Exact and approximate arithmetic in an Amazonian indigene group. <em>Science, 306</em> (5695), 499-503. <a href=\"https://doi.org/10.1126/science.1102085\">https://doi.org/10.1126/science.1102085</a> </p>",
+              "customLabel": "Pica et al., 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Such differences may be due to differences in motivation, practice taking tests, or perhaps training with number words and counting."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "the-emergence-of-numerical-symbols-and-artifacts-in-human-culture",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The emergence of numerical symbols and artifacts in human culture"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2wyjqb44ac",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Humans use a variety of symbolic forms to represent number, including number words (e.g., one, two, three), verbal counting, body count systems, written numerals, and physical artifacts like counters and abacuses ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0opo2emqp4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3lxl1zh4uj\" data-reactroot=\"\">Ifrah, G. (2000). <em>The universal history of computing: From the abacus to quantum computing.</em> Wiley.</p>",
+              "customLabel": "Ifrah, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). There is some debate about when humans first began using external symbols to represent exact numbers [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/bx21plqj",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Cognitive Artifacts"
+          },
+          {
+            "type": "text",
+            "text": "]. On some accounts, the first numerical artifact is the Ishango Bone, a 20,000-year-old object discovered in the Democratic Republic of Congo that features a series of marks that correspond to prime numbers ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrg90klakv5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nme2nyx75s7\" data-reactroot=\"\">de Heinzelin, J. (1962). Ishango. <em>Scientific American, 206</em>(6), 105-118. <a href=\"https://doi.org/10.1038/scientificamerican0662-105\">https://doi.org/10.1038/scientificamerican0662-105</a> </p>",
+              "customLabel": "de Heinzelin, 1962",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, others have speculated that the marks may have no mathematical significance and might even have been made by idle hands killing time or to improve grip of the bone. More certainty surrounds clay tokens dating back 10,000 years in current-day Iraq ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8esuy8ftya",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz11j0vhn4r\" data-reactroot=\"\">Schmandt-Besserat, D. (2010). <em>How writing came about.</em> University of Texas Press.</p>",
+              "customLabel": "Schmandt-Besserat, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Small objects, sometimes formed into the shape of animals or common objects, were baked into clay envelopes, likely as a way to record economic transactions. These objects were sometimes used to make impressions on the clay envelopes before they were baked\u2014like a kind of proto-writing system\u2014and eventually just these impressions in clay were used to record numbers and featured symbols for large numbers in addition to the tokens representing individual things."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ndltpe01tj0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In addition to clay tokens, many cultures also created devices for counting and calculation, such as the abacus, which is still used to this day. A Japanese soroban abacus ("
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "ntd7am4dple",
+              "targetId": "nw0sd4xurd8",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") features a series of vertical rods on which beads can be moved. Beads on each rod are divided into \u201cearthly\u201d beads near the bottom and \u201cheavenly\u201d beads at the top. On the rightmost vertical rod, each earthly bead represents a value of one, whereas each heavenly bead has a value of five. Moving one rod to the left, each bead\u2019s value is multiplied by 10 so that earthly beads are worth 10, and heavenly beads are worth 50. The next rod to the left represents multiples of 100, and the next, multiples of 1000, and so on. To represent a specific number on a soroban, beads in the heavenly and earthly realms are moved toward one another to the horizontal rod that divides them, such as in "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "njqr9k0yrth",
+              "targetId": "nw0sd4xurd8",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", in which gray beads represent 28,918. Notably, numerous other abacus systems have been used over human history ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8swaeahtsc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3lxl1zh4uj\" data-reactroot=\"\">Ifrah, G. (2000). <em>The universal history of computing: From the abacus to quantum computing.</em> Wiley.</p>",
+              "customLabel": "Ifrah, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), many of which use a similar strategy of clustering counters into smaller groups that make them easier for human users to keep track of. These include the Chinese abacus (which features five earthly beads and two heavenly beads per column), the Russian schoty (which organizes beads horizontally rather than vertically), and the Roman hand abacus."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "nw0sd4xurd8",
+          "url": "https://assets.pubpub.org/pdpqbqcm/41760554550955.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"n8ovpq3mah8\" data-reactroot=\"\">A soroban abacus representing the value 28,918. Gray represents beads that are in play and thus \u201ccount,\u201d whereas white represents beads that are out of play.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwxg21z0t8j",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In addition to these three-dimensional representations of number, humans have also created a large variety of different written numeral systems over human history (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh6zcl2aov9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngjbckqof2k\" data-reactroot=\"\">Chrisomalis, S. (2020). <em>Reckonings: Numerals, cognition, and history.</em> MIT Press.</p>",
+              "customLabel": "Chrisomalis, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nl6p84awzyo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3lxl1zh4uj\" data-reactroot=\"\">Ifrah, G. (2000). <em>The universal history of computing: From the abacus to quantum computing.</em> Wiley.</p>",
+              "customLabel": "Ifrah, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Familiar to most people is the Hindu\u2013Arabic positional or \u201cplace value\u201d system, in which a numeral like 5 represents different quantities depending on its position in a numeral, much like the abacus. For example, in a number like 55, the first 5 represents 50, and the second represents 5. However, many other systems were invented over time. Some used tally marks to represent numbers (e.g., using IIII to represent four) and some systems even grouped marks into chunks of four to five to represent larger numbers (e.g., IIII IIII to represent eight). Other systems, like the familiar Roman numerals still in use today, added special symbols to represent multiples of these numbers, using a character like X for 10 or V for 5. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njo1ovp5wf9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Numeral systems have also used a variety of base structures. Whereas the Hindu\u2013Arabic system uses a base of 10 (e.g., including numbers like 20, 30, 40, etc.), other bases are also historically attested, including base 4, 5, and 20 and even base 60. In some cases, such bases likely emerged from concrete artifacts that were used to represent number in different cultures. For example, it is widely believed that base 10 counting systems emerged from the fact that humans have two hands totaling 10 fingers. Similarly, some have speculated that base 60 systems, which were first created by the Sumerians in 3100 BCE, may have evolved from a finger-counting system, in which the thumb of one hand was used to count each of the 12 bones comprising the four fingers of the hand, whereas the five fingers on the second hand were used to keep track of each count to 12\u2014resulting in a maximum of 60 ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb6cx173sq6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3lxl1zh4uj\" data-reactroot=\"\">Ifrah, G. (2000). <em>The universal history of computing: From the abacus to quantum computing.</em> Wiley.</p>",
+              "customLabel": "Ifrah, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "the-emergence-of-number-words-and-verbal-counting",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The emergence of number words and verbal counting"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nl0b8xwlfs1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In parallel with the emergence of written numeral systems, humans have also created a variety of verbal systems to express number ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxsbslthh49",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnlp3xypup3\" data-reactroot=\"\">Corbett, G. G. (2000). <em>Number</em>. Cambridge University Press.</p>",
+              "customLabel": "Corbett, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Early in human history, it is likely that most of these systems were highly limited and expressed only smaller numbers exactly while using approximate quantity words to express larger amounts. For example, although number words and counting are common ways to express number verbally, we also use forms like singular and plural nouns (e.g., a cup versus some cups), number agreement (e.g., these, those), and quantifiers (e.g., several, many) to express numerical information. Some current-day cultures have these kinds of grammatical number marking, plus specialized markers for quantities up to three. For example, some dialects of Slovenian mark singular and plural on nouns, like English does, but also include a dual marker when speaking about sets of two ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqap16sf9mo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5waryqpgv7\" data-reactroot=\"\">Almoammer, A., Sullivan, J., Donlan, C., Maru\u0161i\u010d, F., \u017daucer, R., O\u2019Donnell, T., &amp; Barner, D. (2013). Grammatical morphology as a source of early number word meanings. <em>Proceedings of the National Academy of Sciences, 110</em>(46), 18448-18453. <a href=\"https://doi.org/10.1073/pnas.1313652110\">https://doi.org/10.1073/pnas.1313652110</a> </p>",
+              "customLabel": "Almoammer et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Similar marking is also used in Arabic, and some languages may even have dedicated plural marking for sets of three ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk2ekx58rfg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnlp3xypup3\" data-reactroot=\"\">Corbett, G. G. (2000). <em>Number</em>. Cambridge University Press.</p>",
+              "customLabel": "Corbett, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "npf64422mx2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In fact, some languages only have small numbers. For example, in the Hup dialect of the Nadahup language spoken in the Brazilian Amazon, the word for one is \u201cunity,\u201d the word for two is \u201ceye quantity,\u201d and the word for three is \u201crubber tree seed quantity\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndx71kcqtli",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqxy0svwoht\" data-reactroot=\"\">Epps, P. (2006). \ufeff Growing a numeral system: The historical development of numerals in an Amazonian language family. <em>Diachronica</em>, 23(2), 259-288. <a href=\"https://doi.org/10.1075/dia.23.2.03epp\">https://doi.org/10.1075/dia.23.2.03epp</a> </p>",
+              "customLabel": "Epps, 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, words for larger exact quantities do not exist. Other Nadahup dialects add to this a body counting system and accompany gestures with expressions like \u201cboth hands\u201d to represent 10 and \u201cboth hands and both feet\u201d to represent 20 (see "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "nurxxd5nmg9",
+              "targetId": "nawvwnorqt1",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "nawvwnorqt1",
+          "url": "https://assets.pubpub.org/ma6rz6kg/51760554550954.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"nkld75ty4ba\" data-reactroot=\"\">Nadahup (D\u00e2w dialect) body count representations of five and 10.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nazyb6s7tn0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Much more common in the modern era are verbal counting systems like the one used in English, which includes a series of simple rules that allow us to generate very large, although not infinitely large, numbers. English uses a base 10 verbal system, in which the words for one through nine are glued onto bases like \u201ctwenty,\u201d \u201cthirty,\u201d \u201cforty,\u201d etc. to create ever larger numbers. Additional bases occur at 100, 1,000, etc. Even the bases reflect a rule structure\u2014\u201ctwen-ty\u201d is 2 x 10, and \u201cthir-ty\u201d is 3 x 10. This can be seen much more transparently in languages like Cantonese, in which the word for three is \u201cs\u00e0am,\u201d the word for 10 is \u201csahp,\u201d and the word for 30 is \u201cs\u00e0am-sahp.\u201d Although these base 10 structures are familiar to many in the Western world, like in the case of writing, verbal number systems have also used many different bases historically, most ranging from two to 20. These days, however, most humans use systems that use some version of base 10, sometimes mixing in remnants of older bases, as in the case of the French \u201cquatre vingt\u201d (four 20s) to represent 80."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0ttq6vqpg3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A large literature describes how children learn to count and finds surprising limits to their early abilities across a range of cultures and languages ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5e3qya7llf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuhi0eunv6r\" data-reactroot=\"\">Carey, S., &amp; Barner, D. (2019). Ontogenetic origins of human integer representations. <em>Trends in Cognitive Sciences, 23</em>(10), 823-835. <a href=\"https://doi.org/10.1016/j.tics.2019.07.004\">https://doi.org/10.1016/j.tics.2019.07.004</a> </p>",
+              "customLabel": "Carey & Barner, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/dubzy1cd",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Word Learning"
+          },
+          {
+            "type": "text",
+            "text": "]. By as early as age 2, many children\u2014both in the United States and in other cultures\u2014can recite a small set of number words in a rote routine, counting up to three, or five, or as high as 10. However, they rarely know what these numbers mean at this time or how to use them to represent exact number ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nn5ac3tw9rd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njuzxsjh60q\" data-reactroot=\"\">Wynn, K. (1992). Children\u2019s acquisition of the number words and the counting system. <em>Cognitive Psychology, 24</em>(2), 220-251. <a href=\"https://doi.org/10.1016/0010-0285(92)90008-P\">https://doi.org/10.1016/0010-0285(92)90008-P</a> </p>",
+              "customLabel": "Wynn, 1992",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For example, when shown a group of three objects and asked how many there are, children at this age often guess randomly, despite being able to say the word three when counting. Also, when asked to give three objects, they give a random handful. In fact, children appear to learn the meanings of number words very slowly and initially one at a time over the course of many months. Typically they begin by learning the meaning of the word \u201cone.\u201d Then several months later, they learn the meaning of the word \u201ctwo.\u201d And again, several months after that, they learn \u201cthree\u201d and sometimes \u201cfour\u201d shortly thereafter. Surprisingly, however, none of these children can use counting to label and construct larger sets, despite being able to recite the counting list in speech."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "nodt4ujjxuj",
+          "url": "https://assets.pubpub.org/3zbuf8bi/71760554550955.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"np78t9r8wtv\" data-reactroot=\"\">The use of one-to-one correspondence to accurately count large numbers.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n03gibayzsn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "By around the age of 3\u00bd or 4, many children begin to use counting in a more adult-like way, counting up from \u201cone\u201d to \u201ctwo\u201d to \u201cthree\u201d while pointing at objects they are counting, keeping a tight one-to-one correspondence between number words and objects (see "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "niebl7c9me3",
+              "targetId": "nodt4ujjxuj",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") so that they always arrive at the same number when counting a set ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlmv4rkmsy1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuhi0eunv6r\" data-reactroot=\"\">Carey, S., &amp; Barner, D. (2019). Ontogenetic origins of human integer representations. <em>Trends in Cognitive Sciences, 23</em>(10), 823-835. <a href=\"https://doi.org/10.1016/j.tics.2019.07.004\">https://doi.org/10.1016/j.tics.2019.07.004</a> </p>",
+              "customLabel": "Carey & Barner, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9kl72jcun3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbv5ga3xyu3\" data-reactroot=\"\">Gelman, R., &amp; Gallistel, C. R. (1978). <em>The child\u2019s understanding of number</em>. Harvard University Press.</p>",
+              "customLabel": "Gelman & Gallistel, 1978",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny4167l6sa6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njuzxsjh60q\" data-reactroot=\"\">Wynn, K. (1992). Children\u2019s acquisition of the number words and the counting system. <em>Cognitive Psychology, 24</em>(2), 220-251. <a href=\"https://doi.org/10.1016/0010-0285(92)90008-P\">https://doi.org/10.1016/0010-0285(92)90008-P</a> </p>",
+              "customLabel": "Wynn, 1992",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These children can use this procedure to give sets larger than three to four and seem to have understood certain principles of counting. However, even then their knowledge is limited. For example, initially, when such a child is told that there are five objects in a cup and then sees one more object added, they choose randomly when asked whether there are now six or seven objects ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8lvvmuj3dm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngeuqg4rnlk\" data-reactroot=\"\">Schneider, R. M., Sullivan, J., Maru\u0161i\u010d, F., Biswas, P., Mi\u0161ma\u0161, P., Plesni\u010dar, V., &amp; Barner, D. (2020). Do children use language structure to discover the recursive rules of counting? <em>Cognitive Psychology, 117,</em> 101263. <a href=\"https://doi.org/10.1016/j.cogpsych.2019.101263\">https://doi.org/10.1016/j.cogpsych.2019.101263</a> </p>",
+              "customLabel": "Schneider et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Some of these limitations continue until age 5 or 6 and sometimes beyond. For example, many 5-year-old children do not know that if two sets are placed in one-to-one correspondence and therefore have the same number of items, that the same number word should be used to label both but that this is not true if one-to-one correspondence is disrupted ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5mrgbi3c0k",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n70vwv39gaj\" data-reactroot=\"\">Le, K. N., Schneider, R. M., &amp; Barner, D. (2025). The development of cardinal extension: From counting to exact equality. <em>Developmental Psychology</em>,<em> 61</em>(6), 1180-1195. <a href=\"https://doi.org/10.1037/dev0001922\">https://doi.org/10.1037/dev0001922</a> </p>",
+              "customLabel": "Le et al., 2025",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Also, many young children claim that numbers are finite and end at some specific number, like 100, and only believe that numbers never end by 5\u00bd or 6 years of age ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfyvdzji9nn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsva2dceam3\" data-reactroot=\"\">Cheung, P., Rubenson, M., &amp; Barner, D. (2017). To infinity and beyond: Children generalize the successor function to all possible numbers years after learning to count. <em>Cognitive Psychology, 92</em>, 22-36. <a href=\"https://doi.org/10.1016/j.cogpsych.2016.11.002\">https://doi.org/10.1016/j.cogpsych.2016.11.002</a> </p>",
+              "customLabel": "Cheung et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Finally, children are slow to associate their verbal numbers with perceptual, approximate representations of numbers and only begin to accurately estimate quickly presented groups of things after age 5 or 6 ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1fqtbhfs68",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkk8h5ixq4r\" data-reactroot=\"\">Sullivan, J., &amp; Barner, D. (2014). Inference and association in children\u2019s early numerical estimation. <em>Child Development, 85</em>(4), 1740-1755. <a href=\"https://doi.org/10.1111/cdev.12211\">https://doi.org/10.1111/cdev.12211</a> </p>",
+              "customLabel": "Sullivan & Barner, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "noh07vnbb5k",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Crucially, important individual differences exist between children during early stages of numerical development, which are predictive of later classroom achievement (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuw8txtnq4v",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntm7xtudfqr\" data-reactroot=\"\">Geary, D. C., vanMarle, K., Chu, F. W., Rouder, J., Hoard, M. K., &amp; Nugent, L. (2018). Early conceptual understanding of cardinality predicts superior school-entry number-system knowledge. <em>Psychological Science, 29</em>(2), 191\u2013205. <a href=\"https://doi.org/10.1177/0956797617729817\">https://doi.org/10.1177/0956797617729817</a> </p>",
+              "customLabel": "Geary et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). A wide range of factors appear to influence early learning. For example, delays in early learning outcomes are associated with developmental neurocognitive differences such as loss of hearing ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhb2nwlj470",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbk2kvk1w68\" data-reactroot=\"\">Santos, S., &amp; Cordes, S. (2022). Math abilities in deaf and hard of hearing children: The role of language in developing number concepts. <em>Psychological Review, 129</em>(1), 199-211. <a href=\"https://doi.org/10.1037/rev0000303\">https://doi.org/10.1037/rev0000303</a> </p>",
+              "customLabel": "Santos & Cordes, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). They are also related to parental education, parental anxiety about mathematics, access to quality preschool instruction and education, and socioeconomic status ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzef0n806tw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"np3bjadsfz6\" data-reactroot=\"\">Sarnecka, B. W., Negen, J., Scalise, N. R., Goldman, M. C., &amp; Rouder, J. N. (2023). The real preschoolers of Orange County: Early number learning in a diverse group of children. <em>Journal of Numerical Cognition, 9</em>(1), 65-88. <a href=\"https://doi.org/10.5964/jnc.6577\">https://doi.org/10.5964/jnc.6577</a> </p>",
+              "customLabel": "Sarnecka et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Some studies find that parental talk about counting and labeling sets is associated with children\u2019s ability to accurately count large sets of objects ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbxxf78at77",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n35fadfevdo\" data-reactroot=\"\">Gunderson, E. A., &amp; Levine, S. C. (2011). Some types of parent number talk count more than others: Relations between parents\u2019 input and children\u2019s cardinal\u2010number knowledge. <em>Developmental Science, 14</em>(5), 1021-1032. <a href=\"https://doi.org/10.1111/j.1467-7687.2011.01050.x\">https://doi.org/10.1111/j.1467-7687.2011.01050.x</a> </p>",
+              "customLabel": "Gunderson & Levine, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and may even impact later math achievement ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4d6sf24m5d",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nu8mqvrspgb\" data-reactroot=\"\">Purpura, D. J., Napoli, A. R., &amp; King, Y. (2019). Development of mathematical language in preschool and its role in learning numeracy skills. In D. C. Geary, D. B. Berch, &amp; K. M. Koepke (Eds.), <em>Cognitive foundations for improving mathematical learning</em> (pp. 175-193). Academic Press.</p>",
+              "customLabel": "Purpura et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Also, other math practices, like teaching children to count with the fingers, may also impact learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n74uvian49a",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfuepntdpvf\" data-reactroot=\"\">Goldin-Meadow, S., Levine, S. C., &amp; Jacobs, S. (2014). Gesture\u2019s role in learning arithmetic. In L. D. Edwards, F. Ferrara, &amp; D. Moore-Russo (Eds.), <em>Emerging perspectives on gesture and embodiment in mathematics</em> (pp. 51-72). Information Age Publishing.</p>",
+              "customLabel": "Goldin-Meadow et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Some children experience particular difficulties thinking and talking about number and are diagnosed with dyscalculia ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "noatpvz9n27",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuyt64uyk9j\" data-reactroot=\"\">Butterworth, B. (2010). Foundational numerical capacities and the origins of dyscalculia. <em>Trends in Cognitive Sciences, 14</em>(12), 534\u2013541. <a href=\"https://doi.org/10.1016/j.tics.2010.09.007\">https://doi.org/10.1016/j.tics.2010.09.007</a> </p>",
+              "customLabel": "Butterworth, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Consequently, novel training paradigms and educational interventions continue to be developed and revised to enhance mathematical outcomes for students (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrq0yc6gxm0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nynyxj47b3j\" data-reactroot=\"\">Hawes, Z., Merkley, R., Stager, C. L., &amp; Ansari, D. (2021). Integrating numerical cognition research and mathematics education to strengthen the teaching and learning of early number. <em>British Journal of Educational Psychology, 91</em>(4), 1073-1109. <a href=\"https://doi.org/10.1111/bjep.12421\">https://doi.org/10.1111/bjep.12421</a> </p>",
+              "customLabel": "Hawes et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngamj737l7s",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Previous work has documented the diverse ways in which humans engage with number, from written symbols, to physical calculators, to counting, number words, and grammatical expressions of quantity, although much descriptive work remains to be done. Still, despite this wealth of knowledge, many important puzzles remain. One of these is how and why humans created symbolic number systems in the first place, some 10,000 years ago. Although researchers have a good idea of what these systems were used for, it remains a mystery how the earliest innovations came about and whether they were pioneered by individual strokes of genius or emerged organically from cultural practices, without particular moments of insight. Recent work suggests that some progress on such questions might be made by creating experimental simulations of cultural evolution, although such work is in its infancy (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1u836kcdln",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwq13ft3ieh\" data-reactroot=\"\">Holt, S., Fan, J. E., &amp; Barner, D. (2024). Creating ad hoc graphical representations of number. <em>Cognition, 242</em>, 105665. <a href=\"https://doi.org/10.1016/j.cognition.2023.105665\">https://doi.org/10.1016/j.cognition.2023.105665</a> </p>",
+              "customLabel": "Holt et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/u870vxpu",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Cultural Evolution"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1si5haa6v6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A related question is whether such symbolic abilities are restricted to humans. Although we know that no other animals have created symbols for large exact number, some animals, like Ai the chimpanzee, seem able to interact with human symbols in semihuman ways ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngyk56x2hse",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0whlppz9il\" data-reactroot=\"\">Matsuzawa, T. (1985). Use of numbers by a chimpanzee. <em>Nature, 315</em>(6014), 57-59. <a href=\"https://doi.org/10.1038/315057a0\">https://doi.org/10.1038/315057a0</a> </p>",
+              "customLabel": "Matsuzawa, 1985",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). It remains debated whether the propensity for language explains why only humans are sensitive to exact differences in large numbers ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2ek5ewzf8o",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbqt940k1u7\" data-reactroot=\"\">Gordon, P. (2004). Numerical cognition without words: Evidence from Amazonia. <em>Science</em>, <em>306</em>(5695), 496-499. <a href=\"https://doi.org/10.1126/science.1094492\">https://doi.org/10.1126/science.1094492</a> </p>",
+              "customLabel": "Gordon, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nppk2wfjbjv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntsf99oduo4\" data-reactroot=\"\">Pica, P., Lemer, C., Izard, V., &amp; Dehaene, S. (2004). Exact and approximate arithmetic in an Amazonian indigene group. <em>Science, 306</em> (5695), 499-503. <a href=\"https://doi.org/10.1126/science.1102085\">https://doi.org/10.1126/science.1102085</a> </p>",
+              "customLabel": "Pica et al., 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlrhfarjmlr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n17t0tscziv\" data-reactroot=\"\">Schneider, R. M., Brockbank, E., Feiman, R., &amp; Barner, D. (2022). Counting and the ontogenetic origins of exact equality. <em>Cognition, 218</em>, 104952. <a href=\"https://doi.org/10.1016/j.cognition.2021.104952\">https://doi.org/10.1016/j.cognition.2021.104952</a> </p>",
+              "customLabel": "Schneider et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Alternatively, it may be that our organization into large cultural groups that engage in trade, sharing, lending, and debt is more important ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n79e5nk0lgf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5a108xko2d\" data-reactroot=\"\">Graeber, D. (2014). <em>Debt: The first 5,000 years, updated and expanded.</em> Melville House.</p>",
+              "customLabel": "Graeber, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nuamx98ssuw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Finally, much more remains to be known about how human cognition changes when we learn symbolic number systems and whether this fundamentally changes how we understand number\u2014bringing with it entirely new concepts\u2014or if it instead reorganizes concepts that humans have available to them at birth ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrl74pjdtib",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuhi0eunv6r\" data-reactroot=\"\">Carey, S., &amp; Barner, D. (2019). Ontogenetic origins of human integer representations. <em>Trends in Cognitive Sciences, 23</em>(10), 823-835. <a href=\"https://doi.org/10.1016/j.tics.2019.07.004\">https://doi.org/10.1016/j.tics.2019.07.004</a> </p>",
+              "customLabel": "Carey & Barner, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Some researchers argue that core numerical concepts, including mental representations of the positive integers, are innate and represented by the approximate magnitude system ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhfd45d595j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npvk1p166u9\" data-reactroot=\"\">Clarke, S., &amp; Beck, J. (2021). The number sense represents (rational) numbers. <em>Behavioral and Brain Sciences, 44</em>, e178. <a href=\"https://doi.org/10.1017/S0140525X21000571\">https://doi.org/10.1017/S0140525X21000571</a> </p>",
+              "customLabel": "Clarke & Beck, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nu9exsycvtg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nt8p18vru66\" data-reactroot=\"\">Gallistel, C. (2021). The approximate number system represents magnitude and precision. <em>Behavioral and Brain Sciences, 44</em>, e187. <a href=\"https://doi.org/10.1017/S0140525X21000959\">https://doi.org/10.1017/S0140525X21000959</a>  </p>",
+              "customLabel": "Gallistel, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). On some accounts, these representations are organized spatially or in a format similar to a number line (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfalya1lvuv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxmuunrz228\" data-reactroot=\"\">Siegler, R. S., &amp; Opfer, J. E. (2003). The development of numerical estimation: Evidence for multiple representations of numerical quantity. <em>Psychological Science, 14</em>(3), 237-250. <a href=\"https://doi.org/10.1111/1467-9280.02438\">https://doi.org/10.1111/1467-9280.02438</a> </p>",
+              "customLabel": "Siegler & Opfer, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Some of this evidence comes from studies of the spatial-numerical association of response codes effect, which finds that people are faster at making numerical judgements when smaller numbers appear on the left and larger numbers appear on the right ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk5ypi9uqm3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njn7fph6srk\" data-reactroot=\"\">Dehaene, S., Bossini, S., &amp; Giraux, P. (1993). The mental representation of parity and number magnitude. <em>Journal of Experimental Psychology: General, 122</em>(3), 371-396. <a href=\"https://doi.org/10.1037/0096-3445.122.3.371\">https://doi.org/10.1037/0096-3445.122.3.371</a> </p>",
+              "customLabel": "Dehaene et al., 1993",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Other researchers are more circumspect about whether approximate magnitudes represent number at all and argue that most results in the literature can be explained by nonnumerical features. For example, they suggest that deciding whether 50 or 30 is more might be calculated on the basis of the total area that each group takes up or some other feature that is correlated with number ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nq0wxfys1lf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuq336an4pc\" data-reactroot=\"\">Leibovich, T., Katzin, N., Harel, M., &amp; Henik, A. (2017). From \u201csense of number\u201d to \u201csense of magnitude\u201d: The role of continuous magnitudes in numerical cognition. <em>Behavioral and Brain Sciences, 40,</em> e164. <a href=\"https://doi.org/10.1017/S0140525X16000960\">https://doi.org/10.1017/S0140525X16000960</a> </p>",
+              "customLabel": "Leibovich et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These researchers often argue that there is no dedicated number system but instead a \u201cgeneralized magnitude system\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkenzxwkjjm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhadrj9qbdn\" data-reactroot=\"\">Lourenco, S. F. (2015). On the relation between numerical and non-numerical magnitudes: Evidence for a general magnitude system. In D. C. Geary, D. B. Berch, &amp; K. M. Koepke (Eds.), <em>Mathematical cognition and learning (</em>pp. 145-174). Elsevier.</p>",
+              "customLabel": "Lourenco, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Still others argue that any such ability to perceive quantity approximately is not truly numerical at all and that the word \u201cnumber\u201d should be reserved for culturally mediated practices like counting and arithmetic ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh2c9r7asos",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nx0khlcq7jo\" data-reactroot=\"\">N\u00fa\u00f1ez, R. E. (2017). Is there really an evolved capacity for number? <em>Trends in Cognitive Sciences, 21</em>(6), 409-424. <a href=\"https://doi.org/10.1016/j.tics.2017.03.005\">https://doi.org/10.1016/j.tics.2017.03.005</a> </p>",
+              "customLabel": "N\u00fa\u00f1ez, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbpbxrl0291",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Adding to these controversies is the idea that there may actually be more than one nonverbal number system. Early studies of numerical perception noticed that participants perform much more quickly and accurately when comparing small sets than when comparing larger ones. For example, human adults are more or less perfect in judging that three is more than two and do so almost instantly ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkwcsegymj6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5meprddl4z\" data-reactroot=\"\">Mandler, G., &amp; Shebo, B. J. (1982). Subitizing: An analysis of its component processes. <em>Journal of Experimental Psychology: General,</em> <em>111</em>(1), 1-22. <a href=\"https://doi.org/10.1037/0096-3445.111.1.1\">https://doi.org/10.1037/0096-3445.111.1.1</a> </p>",
+              "customLabel": "Mandler & Shebo, 1982",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Picking up on this idea, subsequent work argued that, beginning in infancy, humans as well as nonhuman animals represent small sets using an object-tracking system ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbgweqn5ryz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n42e09pecjq\" data-reactroot=\"\">Feigenson, L., Dehaene, S., &amp; Spelke, E. (2004). Core systems of number. <em>Trends in Cognitive Sciences</em>,<em> 8</em>(7), 307-314. <a href=\"https://doi.org/10.1016/j.tics.2004.05.002\">https://doi.org/10.1016/j.tics.2004.05.002</a> </p>",
+              "customLabel": "Feigenson et al., 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Crucially, this system does not sum objects into magnitudes but is thought to represent each object individually, with a limit of up to three to four items. As evidence for this, when preverbal infants watch as one, two, or three objects are hidden in a box, they search until they find them all but are confused when four objects are hidden, often only searching until they find one object and then giving up. Similar results have also been reported using other methods. For example, when infants see three crackers hidden in one bucket and one hidden in another, they prefer to crawl to the bucket with three crackers, but they fail when tested with larger numbers, like three versus four ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhf74bmoqun",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n42e09pecjq\" data-reactroot=\"\">Feigenson, L., Dehaene, S., &amp; Spelke, E. (2004). Core systems of number. <em>Trends in Cognitive Sciences</em>,<em> 8</em>(7), 307-314. <a href=\"https://doi.org/10.1016/j.tics.2004.05.002\">https://doi.org/10.1016/j.tics.2004.05.002</a> </p>",
+              "customLabel": "Feigenson et al., 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n22q6e6nd60",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "These studies, when combined with work on the approximate magnitude system, have sparked interesting debates about which systems are used for which tasks and how representations of objects differ from representations of magnitudes and number ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8623rqn7rt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk4euvizzrz\" data-reactroot=\"\">Cantrell, L., &amp; Smith, L. B. (2013). Open questions and a proposal: A critical review of the evidence on infant numerical abilities. <em>Cognition, 128</em>(3), 331-352. <a href=\"https://doi.org/10.1016/j.cognition.2013.04.008\">https://doi.org/10.1016/j.cognition.2013.04.008</a> </p>",
+              "customLabel": "Cantrell & Smith, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Such debates are important because they are critical to understanding where human concepts of number come from and how we eventually learn to think and talk about integers, rational numbers, real numbers, and other abstract numerical properties ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n45byfc5cmv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuhi0eunv6r\" data-reactroot=\"\">Carey, S., &amp; Barner, D. (2019). Ontogenetic origins of human integer representations. <em>Trends in Cognitive Sciences, 23</em>(10), 823-835. <a href=\"https://doi.org/10.1016/j.tics.2019.07.004\">https://doi.org/10.1016/j.tics.2019.07.004</a> </p>",
+              "customLabel": "Carey & Barner, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nue9hpv2gjy",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Number permeates cognition and human culture and is found not just in math classrooms but in basic perceptual processes, in economic exchanges, and in writing and linguistic systems, dating back thousands of years. Number is studied from every approach in the cognitive sciences, including linguistics, philosophy, psychology, neuroscience, anthropology, computer science, education, and mathematics, and therefore is among the most interdisciplinary fields of current inquiry. Among the most interesting opportunities for future work is to further deepen connections between these various approaches so that psychologists and neuroscientists may interact more with philosophers of mathematics, anthropologists who study numerical artifacts, and educators who seek to understand best practices for instilling an understanding of number in young learners."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "acknowledgments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Acknowledgments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ne1kh0yy2sl",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The author thanks Urvi Maheshwari and Khuyen Le for their extensive comments on an earlier version of this manuscript. The author is supported by National Science Foundation Grant 2201960."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nuuj0aphoxf",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nrgsa92btpi",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Chrisomalis, S. (2020). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Reckonings: Numerals, cognition, and history."
+                  },
+                  {
+                    "type": "text",
+                    "text": " MIT Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nvj3umhs2oc",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Kadosh, R. C., & Dowker, A. (Eds.). (2015). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The Oxford handbook of numerical cognition"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Oxford University Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nrlbmqeeeio",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Samuels, R., & Snyder, E. (2024). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Number concepts: An interdisciplinary inquiry."
+                  },
+                  {
+                    "type": "text",
+                    "text": " Cambridge University Press."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

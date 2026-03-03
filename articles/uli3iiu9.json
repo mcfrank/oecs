@@ -1,0 +1,1406 @@
+{
+  "id": "7678921b-8c08-417a-8dc7-19c3dcccf046",
+  "slug": "uli3iiu9",
+  "title": "The Turing Test",
+  "url": "https://oecs.mit.edu/pub/uli3iiu9",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "7678921b-8c08-417a-8dc7-19c3dcccf046",
+    "slug": "uli3iiu9",
+    "title": "The Turing Test",
+    "htmlTitle": "The Turing Test",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.7678921b",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "miqr5uga",
+    "editHash": "82lu1084",
+    "reviewHash": "3a04depp",
+    "commentHash": "l8l5a4zu",
+    "draftId": "41b21e41-0081-4fc0-a360-c2c045e4038b",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "495ebfbc-a54b-47e2-a13c-741b4df131de",
+    "scopeSummaryId": "fe63ccd5-9cd2-423a-b4fc-618d2959ab71",
+    "createdAt": "2024-07-02T12:53:33.305Z",
+    "updatedAt": "2024-07-24T13:28:34.148Z",
+    "attributions": [
+      {
+        "id": "ed2c71bd-6a21-4684-91c2-945399d6b84a",
+        "name": "Diane Proudfoot",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of Canterbury",
+        "orcid": "0000-0002-9736-4489",
+        "userId": null,
+        "pubId": "7678921b-8c08-417a-8dc7-19c3dcccf046",
+        "createdAt": "2024-07-02T12:55:18.991Z",
+        "updatedAt": "2024-08-29T20:27:25.917Z",
+        "user": null
+      },
+      {
+        "id": "0f6d3682-0475-4604-b181-eff4e5a6f0fd",
+        "name": "Adrian Alsmith",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": false,
+        "roles": [
+          "section editor"
+        ],
+        "affiliation": "King's College London",
+        "orcid": null,
+        "userId": null,
+        "pubId": "7678921b-8c08-417a-8dc7-19c3dcccf046",
+        "createdAt": "2024-07-23T22:12:38.911Z",
+        "updatedAt": "2024-08-29T20:27:06.513Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "41b21e41-0081-4fc0-a360-c2c045e4038b",
+      "latestKeyAt": "2024-08-14T16:26:15.472Z",
+      "firebasePath": "drafts/draft-41b21e41-0081-4fc0-a360-c2c045e4038b",
+      "createdAt": "2024-07-02T12:53:33.299Z",
+      "updatedAt": "2024-08-29T19:26:19.467Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9t4gw7qh4n",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "\u201cThe Turing test\u201d is the name given to a test of human-level intelligence in machines, invented by Alan Turing, the renowned mathematician, codebreaker, and computer pioneer. In Turing\u2019s imitation game, a human interrogator has text conversations with both a human being and a computer that is pretending to be human; the interrogator\u2019s goal is to identify the computer. Computers that mislead interrogators often enough, Turing proposes, can "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "think"
+          },
+          {
+            "type": "text",
+            "text": ". Numerous researchers\u2014most recently, the designers of large language models (LLMs)\u2014have claimed that their models pass Turing\u2019s test. These claims reflect the importance of testing to computer science and cognitive science: Without a test, we cannot assess progress toward building human-level AI. As to whether Turing\u2019s imitation game is in fact the test that we need, the jury is still out."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmp4eg7j0dl",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Turing presented three versions of his imitation game. His 1950 game is the one generally known today: It consists of two simultaneous conversations. Player C (a human) converses with two hidden players, A (a digital computer) and B (a human), and must judge which is which. (Turing\u2019s test is not limited to the computer technologies of the 1950s: For example, A could be a large neural network, a DNA computer, or a quantum computer.) The game is unrestricted, in that C can communicate with A and B on \u201calmost any\u201d subject ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7zos2uswxj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n925kvjavwh\" data-reactroot=\"\">Turing, A. M. (1950). Computing machinery and intelligence. <em>Mind</em>,<em> 59</em>(236), 433\u2013460.\u00a0<a href=\"https://doi.org/10.1093/mind/LIX.236.433\">https://doi.org/10.1093/mind/LIX.236.433</a></p>",
+              "customLabel": "Turing, 1950",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 435). Turing said that the game gives us a \u201ccriterion\u201d for thinking: If A does well in this game, it can think ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh84q8s6jxn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n925kvjavwh\" data-reactroot=\"\">Turing, A. M. (1950). Computing machinery and intelligence. <em>Mind</em>,<em> 59</em>(236), 433\u2013460.\u00a0<a href=\"https://doi.org/10.1093/mind/LIX.236.433\">https://doi.org/10.1093/mind/LIX.236.433</a></p>",
+              "customLabel": "Turing, 1950",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 436). In 1952, he described another version of the game: Each member of a (human) jury interrogates a single hidden player, who may be A or B. Turing pointed out a risk for this version: Interrogators, to avoid the embarrassment of being fooled by a machine, might declare the hidden player a machine every time \u201cwithout proper consideration\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndx7bx0rsyv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6s0at88rpy\" data-reactroot=\"\">Turing, A. M., Braithwaite, R., Jefferson, G., &amp; Newman, M. (1952, January 14). <em>Can automatic calculating machines be said to think?</em> [BBC Radio Broadcast]. Turing Digital Archive. <a href=\"https://turingarchive.kings.cam.ac.uk/publications-lectures-and-talks-amtb/amt-b-6\" target=\"xrefwindow\">https://turingarchive.kings.cam.ac.uk/publications-lectures-and-talks-amtb/amt-b-6</a>.</p>",
+              "customLabel": "Turing et al., 1952",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4qovll39zs",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nw6qzfs9vcq\" data-reactroot=\"\">Copeland, B. J. (Ed.) (2004). <em>The essential Turing: Seminal writings in computing, logic, philosophy, artificial intelligence, and artificial life, plus the secrets of Enigma</em>. Clarendon Press. <a href=\"https://doi.org/10.1093/oso/9780198250791.001.0001\" title=\"\">https://doi.org/10.1093/oso/9780198250791.001.0001</a></p>",
+              "customLabel": "Copeland, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 495). In 1948, he also described a \u201clittle experiment\u201d that was, he said, \u201ca rather idealized form of an experiment I have actually done.\u201d In this restricted imitation game, C plays chess with both A, a chess program, and B, a human chess-player. Turing said, \u201cC may find it quite difficult to tell which he is playing\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvtiazco5if",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nollahuyk4i\" data-reactroot=\"\">Turing, A. M. (1948). <em>Intelligent machinery</em>. National Physical Laboratory. <a href=\"https://turingarchive.kings.cam.ac.uk/unpublished-manuscripts-and-drafts-amtc/amt-c-11\" target=\"xrefwindow\">https://turingarchive.kings.cam.ac.uk/unpublished-manuscripts-and-drafts-amtc/amt-c-11</a>. </p>",
+              "customLabel": "Turing, 1948",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngjcb78i1h2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nne99jca5u2\" data-reactroot=\"\">Copeland, B. J. (Ed.) (2004). <em>The essential Turing: Seminal writings in computing, logic, philosophy, artificial intelligence, and artificial life, plus the secrets of Enigma</em>. Clarendon Press. <a href=\"https://doi.org/10.1093/oso/9780198250791.001.0001\" title=\"\">https://doi.org/10.1093/oso/9780198250791.001.0001</a></p>",
+              "customLabel": "Copeland, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 431)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nnm72s5detn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Almost immediately, optimistic researchers declared that their machines passed Turing\u2019s test; more recently, well-known bots and AI systems such as Watson, Eugene Goostman, Google Duplex, AlphaStar, LaMDA, and ChatGPT-4 have been said to pass the test [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "]. Some of these researchers claimed only that their machines passed a very restricted form of Turing\u2019s test, but some declared that their machines could really think; and some researchers said that, just because their (very limited) machines passed Turing\u2019s test, the test was broken. All these claims are moot, however, since to date no reported test has conformed to Turing\u2019s specified parameters. Turing himself was confident that some machine would pass his unrestricted test, although he predicted in 1952 that this would take at least 100 years."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nnz0iqx8o0h",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The unrestricted test that Turing specified in 1950 has five key features. (1) It assesses the machine\u2019s ability at "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "open domain conversation"
+          },
+          {
+            "type": "text",
+            "text": ", in contrast to tests of expert systems, which are confined to a narrow field (e.g., medical diagnosis from laboratory results). (2) If a machine does well in Turing\u2019s imitation game, it is deemed to think in the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "everyday"
+          },
+          {
+            "type": "text",
+            "text": " sense of \u201cthink.\u201d (3) If a machine fails to do well in the game, it does not follow that it does "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "not"
+          },
+          {
+            "type": "text",
+            "text": " think (Turing recognized that an intelligent machine might do badly in the game). For Turing, doing well in the game is a sufficient, but not a necessary, condition for thinking\u2014and therefore not a definition. In fact, he said: \u201cI don\u2019t want to give a definition of thinking\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkvv4i6e7st",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6s0at88rpy\" data-reactroot=\"\">Turing, A. M., Braithwaite, R., Jefferson, G., &amp; Newman, M. (1952, January 14). <em>Can automatic calculating machines be said to think?</em> [BBC Radio Broadcast]. Turing Digital Archive. <a href=\"https://turingarchive.kings.cam.ac.uk/publications-lectures-and-talks-amtb/amt-b-6\" target=\"xrefwindow\">https://turingarchive.kings.cam.ac.uk/publications-lectures-and-talks-amtb/amt-b-6</a>.</p>",
+              "customLabel": "Turing et al., 1952",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0fq1pi6gy6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"niu1clewqnf\" data-reactroot=\"\">Copeland, B. J. (Ed.) (2004). <em>The essential Turing: Seminal writings in computing, logic, philosophy, artificial intelligence, and artificial life, plus the secrets of Enigma</em>. Clarendon Press. <a href=\"https://doi.org/10.1093/oso/9780198250791.001.0001\" title=\"\">https://doi.org/10.1093/oso/9780198250791.001.0001</a></p>",
+              "customLabel": "Copeland, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 494). (4) Turing\u2019s test is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "qualitative"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "discursive"
+          },
+          {
+            "type": "text",
+            "text": ", and it "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "disallows the tricky questions"
+          },
+          {
+            "type": "text",
+            "text": " that computer scientists have typically used to unmask chatbots\u2014for example, \u201cJohn Wilkes Booth shot Abraham Lincoln because he was defenseless. Who was defenseless?\u201d. In contrast, other AI benchmarks (e.g., the General Language Understanding Evaluation test, which calculates an LLM\u2019s capacity at natural-language processing) are quantitative, evaluate each system on a standard set of tasks, and typically compare one machine with another (rather than with a human). (5) Turing\u2019s test is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "architecture independent"
+          },
+          {
+            "type": "text",
+            "text": ". Turing himself proposed different machine models, including the universal Turing machine and unorganized neural networks, and also suggested building robotic \u201cchild machines\u201d as a route to AI ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nm10g9d2s3g",
+              "href": null,
+              "value": "https://doi.org/10.1109/MAHC.2023.3300660",
+              "unstructuredValue": "",
+              "customLabel": "Copeland, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbvpu18s0kl",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Turing did not stipulate a duration for the game; he did not even say that a duration must be set, rather than leaving interrogators to play until confident of their decision. Nor did Turing specify how many times to play the game before judging the machine. There is also considerable debate as to how to score the game. Several accounts take Turing\u2019s 1950 prediction concerning progress in AI\u2014namely, that in about 50 years, an average interrogator would have no more than 70% chance of correctly identifying a computer (with a specified storage capacity) after \u201cfive minutes of questioning\u201d\u2014as stating the parameters for scoring the game. Other accounts claim that the machine passes if it does better than chance at convincing the interrogator that it is the human. Yet other approaches compare an interrogator\u2019s accuracy in the computer-imitates-human game with an interrogator\u2019s accuracy in another imitation game that Turing used to introduce his test: Here, C\u2019s task is to distinguish a man pretending to be a woman from an actual woman. Turing asked if the interrogator in the computer-imitates-human game would decide wrongly \u201cas often\u201d as the interrogator in this other game ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfzoopvnyqa",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nx6j2zljlkq\" data-reactroot=\"\">Turing, A. M. (1950). Computing machinery and intelligence. <em>Mind</em>,<em> 59</em>(236), 433\u2013460.\u00a0<a href=\"https://doi.org/10.1093/mind/LIX.236.433\">https://doi.org/10.1093/mind/LIX.236.433</a></p>",
+              "customLabel": "Turing, 1950",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p.  434)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nti2ju6w8fi",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Two questions about Turing\u2019s test are central. First, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "why"
+          },
+          {
+            "type": "text",
+            "text": " did Turing switch from asking \u201cCan machines think?\u201d to asking \u201cAre there imaginable digital computers which would do well in the imitation game?\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwt75z633mk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nc5rozmehn1\" data-reactroot=\"\">Turing, A. M. (1950). Computing machinery and intelligence. <em>Mind</em>,<em> 59</em>(236), 433\u2013460.\u00a0<a href=\"https://doi.org/10.1093/mind/LIX.236.433\">https://doi.org/10.1093/mind/LIX.236.433</a></p>",
+              "customLabel": "Turing, 1950",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 442). Three different answers are given. On the behaviorist view, there is nothing more to thinking than "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "behaving as if"
+          },
+          {
+            "type": "text",
+            "text": " you think ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncrbifwl553",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmhudrgbsz6\" data-reactroot=\"\">Searle, J. R. (1980). Minds, brains, and programs. <em>Behavioral and Brain Sciences</em>, <em>3</em>(3), 417\u2013457. <a href=\"https://doi.org/10.1017/S0140525X00005756\" target=\"_blank\">https://doi.org/10.1017/S0140525X00005756</a></p>",
+              "customLabel": "Searle, 1980",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). On the inductive view, success in the game is evidence that the machine can imitate"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "\u2014"
+          },
+          {
+            "type": "text",
+            "text": "or on some accounts duplicate\u2014"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "the relevant features of the"
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "brain"
+          },
+          {
+            "type": "text",
+            "text": " of a thinking human ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnxre5i720p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8v5hd1v1g9\" data-reactroot=\"\">Moor, J. H. (1976). An analysis of the Turing test. <em>Philosophical Studies</em>, <em>30</em>(4), 249\u2013257. <a href=\"https://doi.org/10.1007/BF00372497\" target=\"_blank\">https://doi.org/10.1007/BF00372497</a></p>",
+              "customLabel": "Moor, 1976",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). On the response-dependence view, a machine thinks if in the game "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "we react to it"
+          },
+          {
+            "type": "text",
+            "text": " as such ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhf7ed361co",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlwn6bn9jnm\" data-reactroot=\"\">Proudfoot, D. (2013). Rethinking Turing\u02bcs test. <em>The Journal of Philosophy</em>, <em>110</em>(7), 391\u2013411. <a href=\"https://doi.org/10.5840/jphil2013110722\" target=\"_blank\">https://doi.org/10.5840/jphil2013110722</a></p>",
+              "customLabel": "Proudfoot, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Turing said that intelligence is an \u201cemotional concept\u201d and that whether a machine thinks depends as much on us as on the machine ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nddw9mix48m",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng1xm5c0ouf\" data-reactroot=\"\">Turing, A. M. (1948). <em>Intelligent machinery</em>. National Physical Laboratory. <a href=\"https://turingarchive.kings.cam.ac.uk/unpublished-manuscripts-and-drafts-amtc/amt-c-11\" target=\"xrefwindow\">https://turingarchive.kings.cam.ac.uk/unpublished-manuscripts-and-drafts-amtc/amt-c-11</a>. </p>",
+              "customLabel": "Turing, 1948",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkq9e5ta1j2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"niu1clewqnf\" data-reactroot=\"\">Copeland, B. J. (Ed.) (2004). <em>The essential Turing: Seminal writings in computing, logic, philosophy, artificial intelligence, and artificial life, plus the secrets of Enigma</em>. Clarendon Press. <a href=\"https://doi.org/10.1093/oso/9780198250791.001.0001\" title=\"\">https://doi.org/10.1093/oso/9780198250791.001.0001</a></p>",
+              "customLabel": "Copeland, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", p. 431)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nq6wfghmrb3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Second, is Turing\u2019s test a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "satisfactory"
+          },
+          {
+            "type": "text",
+            "text": " test for thinking in machines? Objections to the test (ignoring those that target mistaken or confused accounts of the test) are broadly of four kinds. Turing\u2019s test is, it is claimed: (1) "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "too narrow"
+          },
+          {
+            "type": "text",
+            "text": "\u2014a test for AI should not focus on species-specific intelligence ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9rp308ifej",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ni7zeqg22jx\" data-reactroot=\"\">Ford, K. M., &amp; Hayes, P. J. (1998). On conceptual wings: Rethinking the goals of artificial intelligence. <em>Scientific American Presents</em>, <em>9</em>(4), 78\u201383.</p>",
+              "customLabel": "Ford & Hayes, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "); (2) "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "all-or-nothing"
+          },
+          {
+            "type": "text",
+            "text": "\u2014a test for AI should facilitate science\u2019s incremental progress toward the goal of a thinking machine; (3) a test only of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "outward"
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "manifestations"
+          },
+          {
+            "type": "text",
+            "text": " of thinking, not thinking itself, with the result that an imaginary vast lookup-table mechanism could pass ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nonn3uipgw1",
+              "href": null,
+              "value": "https://doi.org/10.2307/2184371",
+              "unstructuredValue": "",
+              "customLabel": "Block, 1981",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "); and (4) "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "outdated"
+          },
+          {
+            "type": "text",
+            "text": "\u2014very soon, generative AI models will pass Turing\u2019s test, despite not thinking. Some researchers even claim that Turing introduced his imitation game, not as a serious test, but solely as a rhetorical device to counter skepticism about AI. Yet, at least some of these objections can be countered. Objection 4 is only the latest in a long line of claims, all so far premature, that a new system renders Turing\u2019s test obsolete. Regarding 3, some theorists have argued that it is mathematically impossible for a vast lookup-table mechanism to pass Turing\u2019s test in the actual world\u2014and Turing focused on real-world machines. Regarding 2, strictly the test is not all-or-nothing, as the machine\u2019s task can be made more or less difficult by varying the characteristics of the human player (e.g., age or linguistic ability). It is unknown, though, if continually adapting the imitation game in this way would help scientists progress from simple chatbots to human-level AI."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ni5oa0m10vg",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Whether objections 1 through 4 in fact undermine Turing\u2019s test depends on larger issues. For example, objection 1 raises the following question: By the term \u201cthinking,\u201d do we mean a characteristic of both insects and human beings\u2014or are humans the paradigm case of \u201cthinking,\u201d just as the original meter stick in Paris was the standard for the meaning of \u201cmeter\u201d? And objection 3 raises the following question: By \u201ccognition,\u201d do we mean only what occurs inside the \u201cblack box\u201d of the brain\u2014or do we also include speaking, writing, or even using a smartphone? How someone answers these more fundamental questions will influence their view of Turing\u2019s test."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nyy3y5n4e7q",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Various Turing-style tests (replicating only part of Turing\u2019s format) have been proposed. Some require a \u201cthinking\u201d machine to imitate, not only human conversation but also human perceptual and motor skills (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4539wfwf89",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ns6yrhkxilm\" data-reactroot=\"\">Harnad, S. (1991). Other bodies, other minds: A machine incarnation of an old philosophical problem. <em>Minds and Machines</em>, <em>1</em>, 43\u201354. <a href=\"https://doi.org/10.1007/BF00360578\" target=\"_blank\">https://doi.org/10.1007/BF00360578</a></p>",
+              "customLabel": "Harnad, 1991",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), physical appearance (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzb6az0cwd3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1yk7fzwz55\" data-reactroot=\"\">Strathearn, C., &amp; Ma, E. (2020). The multimodal Turing test for realistic humanoid robots with embodied artificial intelligence. In A. Stein, S. Tomforde, J. Botev &amp; P. Lewis (Eds.), <em>Joint Proceedings of LIFELIKE 2020 and LIFELIKE 2021</em>. <a href=\"https://ceur-ws.org/Vol-3007/2020-paper-2.pdf\" target=\"xrefwindow\">https://ceur-ws.org/Vol-3007/2020-paper-2.pdf</a></p>",
+              "customLabel": "Strathearn & Ma, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), or performance on psychometric tests (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8ij5qnxrgv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrwg4f1ehz7\" data-reactroot=\"\">Bringsjord, S. (2011). Psychometric artificial intelligence. <em>Journal of Experimental &amp; Theoretical Artificial Intelligence</em>, <em>23</em>(3), 271\u2013277. <a href=\"https://doi.org/10.1080/0952813X.2010.502314\">https://doi.org/10.1080/0952813X.2010.502314</a></p>",
+              "customLabel": "Bringsjord, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Some are put forward as tests for more specialized abilities (e.g., social cognition, creativity, empathy, or musical intelligence) or for even grander attributes (e.g., consciousness, personhood, or moral agency). Turing-style tests, including crowd-sourced tests, can also be used to determine if, for example, virtual characters and computer graphics are believable, a social media account is fake, computer diagnosis of radiographic images is reliable, or if an online user is human (in a CAPTCHA, where the judge is a machine)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nw8r2nqw8ae",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Some envisaged Turing-style tests involve computer-imitates-animal games to test, for example, if LLM-generated bird calls could fool actual birds. Some have only human players: For example, if a human can put on a convincing display of accepting an ideology (that they do not actually endorse), they are said to understand the ideology, and if a judge cannot distinguish between fMR images of activation (to specific stimuli) in the brains of a healthy subject and of a person in a persistent vegetative state, the person in a vegetative state is held to be conscious."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nu3scgov1zz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Turing\u2019s test is also linked to ethical questions about AI. For example, it is suggested that the test can be used to decide if a machine is \u201ctransparent\u201d\u2014if a machine\u2019s explanation (e.g., of some choice it makes) is indistinguishable from a human\u2019s explanation, the machine is said to be understandable. Transparent machines, it is hoped, will allay the widespread fear that we cannot trust AI. In addition, Turing\u2019s test raises the question: If a machine passes, does it have rights, and do humans have moral obligations to the machine?"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nghw237let5",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n925kvjavwh",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Turing, A. M. (1950). Computing machinery and intelligence. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Mind"
+                  },
+                  {
+                    "type": "text",
+                    "text": ","
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": " 59"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(236), 433\u2013460.\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1093/mind/LIX.236.433",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1093/mind/LIX.236.433"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n2bvqk0vqci",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Copeland, B. J. (Ed.) (2004). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The essential Turing: Seminal writings in computing, logic, philosophy, artificial intelligence, and artificial life, plus the secrets of Enigma"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Clarendon Press. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1093/oso/9780198250791.001.0001",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1093/oso/9780198250791.001.0001"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n1zp8jf5lg9",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Copeland, B. J., Bowen, J. P., Sprevak, M., Wilson, R. J., et al. (2017). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The Turing guide"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Oxford University Press. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1093/oso/9780198747826.001.0001",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1093/oso/9780198747826.001.0001"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n0tclnpspdk",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hodges, A. (2019). Alan Turing. In E. N. Zalta (Ed.), "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The Stanford encyclopedia of philosophy"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (Winter 2019 Edition). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://plato.stanford.edu/archives/win2019/entries/turing/",
+                          "title": null,
+                          "target": "xrefwindow",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://plato.stanford.edu/archives/win2019/entries/turing/"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

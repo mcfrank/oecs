@@ -1,0 +1,1428 @@
+{
+  "id": "84963756-458a-4c3c-946f-6e7add7869a0",
+  "slug": "h6pgywr9",
+  "title": "Interoception",
+  "url": "https://oecs.mit.edu/pub/h6pgywr9",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "84963756-458a-4c3c-946f-6e7add7869a0",
+    "slug": "h6pgywr9",
+    "title": "Interoception",
+    "htmlTitle": "Interoception",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.84963756",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "ks80vdh4",
+    "editHash": "artuw0b7",
+    "reviewHash": "8dpk7ie4",
+    "commentHash": "3mxf0q4k",
+    "draftId": "98fc641f-915d-4eaa-9d66-2392e533d3f8",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "b0436248-a498-4a46-bf08-a166f575c78b",
+    "scopeSummaryId": "be743cb4-2d6c-4e8e-981e-d104be0b1932",
+    "createdAt": "2025-08-12T16:57:41.419Z",
+    "updatedAt": "2025-09-10T17:40:21.482Z",
+    "attributions": [
+      {
+        "id": "017209cd-d4f1-407b-ae3a-673b9be604cb",
+        "name": "Catherine Tallon-Baudry",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Laboratoire de Neurosciences Cognitives et Computationnelles, \u00c9cole Normale Sup\u00e9rieure \u2013 PSL, Inserm",
+        "orcid": "0000-0001-8480-5831",
+        "userId": null,
+        "pubId": "84963756-458a-4c3c-946f-6e7add7869a0",
+        "createdAt": "2025-08-12T16:59:10.014Z",
+        "updatedAt": "2025-08-12T16:59:23.736Z",
+        "user": null
+      },
+      {
+        "id": "41510c94-e89f-4621-a6a7-7e3cc168e4a5",
+        "name": "Fr\u00e9d\u00e9rique de Vignemont",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Institut Jean Nicod, ENS-PSL University, EHESS, CNRS",
+        "orcid": "0009-0006-1354-1553",
+        "userId": null,
+        "pubId": "84963756-458a-4c3c-946f-6e7add7869a0",
+        "createdAt": "2025-08-19T23:16:17.443Z",
+        "updatedAt": "2025-08-19T23:16:39.879Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "98fc641f-915d-4eaa-9d66-2392e533d3f8",
+      "latestKeyAt": "2025-09-10T17:26:09.817Z",
+      "firebasePath": "drafts/draft-98fc641f-915d-4eaa-9d66-2392e533d3f8",
+      "createdAt": "2025-08-12T16:57:41.416Z",
+      "updatedAt": "2025-09-18T18:22:50.017Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nufamw4ga3g",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Interoception refers to how the brain senses, consciously or unconsciously, physiological signals coming from inside the body. It includes a broad range of signals, mechanisms, and functions. It informs the brain of the current physiological state of the body\u2014information that might call for descending physiological regulation (e.g., slowing down the heart)\u2014and motivates a specific behavior and its associated reward (e.g., searching for food). Although most interoceptive processing is unconscious, interoceptive signals might sometime generate conscious interoceptive perceptions contributing to emotional feelings. Finally, by anchoring neural processing in the body, interoception seems to contribute more broadly in building the conscious subject experiencing both the external and internal world.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9nk4de9ice",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "At the beginning of the 20th century, Charles Scott Sherrington, a renowned British physiologist, introduced the term "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "interoceptive"
+          },
+          {
+            "type": "text",
+            "text": " to refer to how the central nervous system registers signals coming from organs of the abdominal cavity, such as the heart or the gastrointestinal tract. Around the same time, Ivan Pavlov, together with other scientists of the Russian physiology school, revealed through inventive and careful experimentation that bodily physiological regulations are learnt by conditioning (aka associative learning) and that interoceptive signals mostly remain unconscious (for a historical review, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nc7ajazkcbi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng9u3upthmm\" data-reactroot=\"\">Van Diest, I. (2019). Interoception, conditioning, and fear: The panic threesome. <em>Psychophysiology, 56</em>(8), e13421. <a href=\"https://doi.org/10.1111/psyp.13421\">https://doi.org/10.1111/psyp.13421</a> </p>",
+              "customLabel": "Van Diest, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). By contrast, Western approaches to interoception at the end of the 20th century and at the beginning of the 21st century were dominated by proposals about the role of conscious interoceptive feelings in emotions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nc2slwppya7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4e9190aup2\" data-reactroot=\"\">Craig, A. D. (2002). How do you feel? Interoception: The sense of the physiological condition of the body. <em>Nature Reviews Neuroscience, 3</em>, 655-666. <a href=\"https://doi.org/10.1038/nrn894\">https://doi.org/10.1038/nrn894</a> </p>",
+              "customLabel": "Craig, 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwghz1yvp3n",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv6ksl4m1ol\" data-reactroot=\"\">Damasio, A. (1999). <em>The feeling of what happens: Body, emotion and the making of consciousness</em>. Harcourt</p>",
+              "customLabel": "Damasio, 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Similarly, the growing popularity of meditation techniques emphasizing attention to internal bodily signals contributed to the renewed interest in conscious interoceptive feelings. More recently, different hypotheses were developed that anchor the self\u2014as a subject of experience, as a bodily self situated in the world\u2014in interoceptive signaling (for review, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3m4iqbdpz5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntroop5x373\" data-reactroot=\"\">Engelen, T., Solca, M., &amp; Tallon-Baudry, C. (2023). Interoceptive rhythms in the brain. <em>Nature Neuroscience, 26</em>, 1670-1684. <a href=\"https://doi.org/10.1038/s41593-023-01425-1\">https://doi.org/10.1038/s41593-023-01425-1</a> </p>",
+              "customLabel": "Engelen et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nul33vp13ul",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The very definition of interoception also evolved over time, the current consensus being that interoception extends beyond mere registration to include the integration and interpretation of interoceptive signals and, also importantly, to include all signals originating from inside the body ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8nibwtattd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxgwewa5e4b\" data-reactroot=\"\">Khalsa, S. S., Adolphs, R., Cameron, O. G., Critchley, H. D., Davenport, P. W., Feinstein, J. S., Feusner, J. D., Garfinkel, S. N., Lane, R. D., Mehling, W. E., Meuret, A. E., Nemeroff, C. B., Oppenheimer, S., Petzschner, F. H., Pollatos, O., Rhudy, J. L., Schramm, L. P., Simmons, W. K., Stein, M. B., \u2026 Paulus, M. P. (2018). Interoception and mental health: A roadmap. <em>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 3</em>(6), 501-513. <a href=\"https://doi.org/10.1016/j.bpsc.2017.12.004\">https://doi.org/10.1016/j.bpsc.2017.12.004</a> </p>",
+              "customLabel": "Khalsa et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/ydxr9tvu",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Bodily Sensations"
+          },
+          {
+            "type": "text",
+            "text": "]. Although the heart or the gastrointestinal tract are considered to be core organs for interoception, the question of whether to include information from joints and muscle (proprioception) or the influence of the immune system on the brain, for instance, remains open ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8br31376e4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmvh2qqvucv\" data-reactroot=\"\">Nord, C. L., &amp; Garfinkel, S. N. (2022). Interoceptive pathways to understand and treat mental health conditions. <em>Trends in Cognitive Science, 26</em>(6), 499-513. <a href=\"https://doi.org/10.1016/j.tics.2022.03.004\">https://doi.org/10.1016/j.tics.2022.03.004</a> </p>",
+              "customLabel": "Nord & Garfinkel, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Finally, the term interoception usually refers only to signals flowing from body to brain. Although some authors include descending regulations, from brain to body, this use of the term does not reflect the consensus of the community ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2ra0e0ksgj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxgwewa5e4b\" data-reactroot=\"\">Khalsa, S. S., Adolphs, R., Cameron, O. G., Critchley, H. D., Davenport, P. W., Feinstein, J. S., Feusner, J. D., Garfinkel, S. N., Lane, R. D., Mehling, W. E., Meuret, A. E., Nemeroff, C. B., Oppenheimer, S., Petzschner, F. H., Pollatos, O., Rhudy, J. L., Schramm, L. P., Simmons, W. K., Stein, M. B., \u2026 Paulus, M. P. (2018). Interoception and mental health: A roadmap. <em>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 3</em>(6), 501-513. <a href=\"https://doi.org/10.1016/j.bpsc.2017.12.004\">https://doi.org/10.1016/j.bpsc.2017.12.004</a> </p>",
+              "customLabel": "Khalsa et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "diversity-of-interoceptive-signals-and-pathways",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Diversity of interoceptive signals and pathways\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nm90dajukp9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Interoceptive signals are very diverse in nature\u2014from a mechanical cardiac contraction occurring within a hundred milliseconds to a change in blood molecular composition that might evolve over weeks, which might include hormones but also proinflammatory proteins or waste from the gut microbiota. As opposed to the external senses in which information is often transduced into neural activity by a single organ (i.e., retina for vision and cochlea for audition), the same interoceptive signal can be transduced at multiple sites and reach the central nervous system through different pathways (for review, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nyol8j2hktt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntroop5x373\" data-reactroot=\"\">Engelen, T., Solca, M., &amp; Tallon-Baudry, C. (2023). Interoceptive rhythms in the brain. <em>Nature Neuroscience, 26</em>, 1670-1684. <a href=\"https://doi.org/10.1038/s41593-023-01425-1\">https://doi.org/10.1038/s41593-023-01425-1</a> </p>",
+              "customLabel": "Engelen et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For instance, a heartbeat is detected by mechanoreceptors in the heart itself or in the big blood vessels but also in peripheral cells of the somatomotor system or directly within the brain by mechanoreceptors present in neurons, as discovered recently ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhly8wt7wmd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfp1wlkmll7\" data-reactroot=\"\">Jammal Salameh, L., Bitzenhofer, S. H., Hanganu-Opatz, I. L., Dutschmann, M., &amp; Egger, V. (2024). Blood pressure pulsations modulate central neuronal activity via mechanosensitive ion channels. <em>Science, 383</em>(6682), eadk8511. <a href=\"https://doi.org/10.1126/science.adk8511\">https://doi.org/10.1126/science.adk8511</a> </p>",
+              "customLabel": "Jammal Salameh et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Finally, to add to the plethora of potential transduction sites and pathways to the central nervous system, one can also sometimes hear one\u2019s own heartbeats."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "from-homeostasis-and-allostasis-to-motivated-behavior",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "From homeostasis and allostasis to motivated behavior"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n52ha7ky2jg",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In reaction to physiological variables getting out of range, the central nervous system might take corrective action, also known as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "homeostatic regulation"
+          },
+          {
+            "type": "text",
+            "text": ". Some of these actions are reflexes, others are probably learnt during development. Notably, the central nervous system might learn to proactively prepare the body in anticipation of a physiological challenge\u2014such as increasing heart rate before a race\u2014a phenomenon also known as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "allostasis"
+          },
+          {
+            "type": "text",
+            "text": ".\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n20qlu9cglv",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Because interoception contributes to maintaining the organism\u2019s integrity, it is likely to constitute a strong motivational drive for any behavior. An interoceptive state is also likely to constrain the amount of energy expenditure, or effort, one allocates to a given action. More specifically, interoception is involved in feeding behavior combined with a number of other parameters. For instance, the feeling of hunger is only very loosely related to blood sugar level; usual meal times are a major drive, even when there is no immediate drop in available nutrients. Still, a distortion of interoceptive feelings might contribute to eating disorders such as anorexia nervosa."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "measuring-interoception-is-experimentally-challenging",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Measuring interoception is experimentally challenging"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbuc0585ps2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Measuring both brain activity and objective interoceptive variables can be experimentally challenging. First, interoceptive signals do generate artifacts in neural activity\u2014for instance, the head moves with blood pulse and with breathing, which affects the recording of neural data. Second, it is very difficult to experimentally manipulate interoceptive variables. The psychophysics of interoception is still in its infancy and faces numerous challenges, including low\u2014or even chance\u2014performance in most participants ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrel96gmi8f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nm6gbajut4r\" data-reactroot=\"\">Desmedt, O., Luminet, O., Walentynowicz, M., &amp; Corneille, O. (2023). The new measures of interoceptive accuracy: A systematic review and assessment. <em>Neuroscience &amp; Biobehavorial Reviews</em>, 153, 105388. <a href=\"https://doi.org/10.1016/j.neubiorev.2023.105388\" title=\"Persistent link using digital object identifier\" target=\"_blank\">https://doi.org/10.1016/j.neubiorev.2023.105388</a></p>",
+              "customLabel": "Desmedt et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), even participants who report high level of confidence. Another fundamental issue is that modifying an interoceptive variable alters not only the interoceptive input to the brain but also the brain state as well.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "interoception-is-a-broad-concept-with-no-established-taxonomy-yet",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Interoception is a broad concept with no established taxonomy yet"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nzbract6her",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Interoception covers many domains, and it is not clear yet how to segment those domains: by physiological function, anatomical pathways, or time constants, for example. As with many complex systems, the appropriate level of description is not readily apparent. It is not clear whether one should focus on the organ level or whole organism. Another issue relates to the lack of clear correlations between subjective reports and objective measures in humans, which seems particularly prominent in interoception (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0iv6wis6xc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngsmnek1qk1\" data-reactroot=\"\">Hoehn-Saric, R., &amp; McLeod, D. R. (2000). Anxiety and arousal: Physiological changes and their perception. <em>Journal of Affective Disorders, 61</em>(3), 217-224. <a href=\"https://doi.org/10.1016/S0165-0327(00)00339-6\">https://doi.org/10.1016/S0165-0327(00)00339-6</a> </p>",
+              "customLabel": "Hoehn-Saric & McLeod, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The discrepancy between subjective interoceptive feelings and objective interoceptive variables is currently being investigated in association with mental health ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw8vzzbnvxr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmvh2qqvucv\" data-reactroot=\"\">Nord, C. L., &amp; Garfinkel, S. N. (2022). Interoceptive pathways to understand and treat mental health conditions. <em>Trends in Cognitive Science, 26</em>(6), 499-513. <a href=\"https://doi.org/10.1016/j.tics.2022.03.004\">https://doi.org/10.1016/j.tics.2022.03.004</a> </p>",
+              "customLabel": "Nord & Garfinkel, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "from-interoceptive-feelings-to-emotional-feelings",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "From interoceptive feelings to emotional feelings\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2wa0bjsrp5",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Intuitively, one tends to associate feelings of a heart pounding in the chest or of butterflies in your stomach with emotional feelings in humans ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "na9dnr1kgpn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmam67exwxn\" data-reactroot=\"\">Damasio, A. R. (1998). The somatic marker hypothesis and the possible functions of the prefrontal cortex. In A. C. Roberts, T. W. Robbins, &amp; L. Weiskrantz (Eds.), <em>The prefrontal cortex: Executive and cognitive functions</em> (pp. 36\u201350). Oxford University Press. <a href=\"https://psycnet.apa.org/doi/10.1093/acprof:oso/9780198524410.003.0004\" target=\"_blank\">https://doi.org/10.1093/acprof:oso/9780198524410.003.0004</a></p>",
+              "customLabel": "Damasio, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, the exact nature of the association between bodily state and emotional feelings is more complex and has long been, and still is, debated [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/qwrz95aw",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Affective Neuroscience"
+          },
+          {
+            "type": "text",
+            "text": "]. Points of debate include whether one drives the other, and what are the necessary and sufficient bodily conditions for a given emotional feeling. It is also unclear to what extent one can extrapolate an emotion from a bodily parameter, notably in animal studies. Many questionnaires conflate emotions and interoception, which adds confusion to the field ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n344ijlnaml",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuqfp977y0d\" data-reactroot=\"\">Vlemincx, E., Walentynowicz, M., Zamariola, G., Van Oudenhove, L., &amp; Luminet, O. (2023). A novel self-report scale of interoception: the three-domain interoceptive sensations questionnaire (THISQ). <em>Psycholology &amp; Health, 38</em>(9), 1234-1253. <a href=\"https://doi.org/10.1080/08870446.2021.2009479\">https://doi.org/10.1080/08870446.2021.2009479</a> </p>",
+              "customLabel": "Vlemincx et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "interoception-and-self",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Interoception and self\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nybxgvn6xcq",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Interoception, because it is involved in maintaining the integrity of the organism, is proposed to build a bodily and emotional self ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7tpik23du7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4e9190aup2\" data-reactroot=\"\">Craig, A. D. (2002). How do you feel? Interoception: The sense of the physiological condition of the body. <em>Nature Reviews Neuroscience, 3</em>, 655-666. <a href=\"https://doi.org/10.1038/nrn894\">https://doi.org/10.1038/nrn894</a> </p>",
+              "customLabel": "Craig, 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nyw259fcypt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv6ksl4m1ol\" data-reactroot=\"\">Damasio, A. (1999). <em>The feeling of what happens: Body, emotion and the making of consciousness</em>. Harcourt</p>",
+              "customLabel": "Damasio, 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ne3htgwekya",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nurahsohetj\" data-reactroot=\"\">Seth, A. K., &amp; Tsakiris, M. (2018). Being a beast machine: The somatic basis of selfhood. <em>Trends in Cognitive Science, 22</em>(11), 969-981. <a href=\"https://doi.org/10.1016/j.tics.2018.08.008\">https://doi.org/10.1016/j.tics.2018.08.008</a> </p>",
+              "customLabel": "Seth & Tsakiris, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/y25banqk",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Self"
+          },
+          {
+            "type": "text",
+            "text": "]. Interoception could also play a more general role in building the prereflective self or the subject of conscious experiences\u2014including experiences of the external world ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n34tdqvlmct",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhg2rt28q0b\" data-reactroot=\"\">Azzalini, D., Rebollo, I., &amp; Tallon-Baudry, C. (2019). Visceral signals shape brain dynamics and cognition. <em>Trends in Cognitive Science, 23</em>(6), 488-509. https:<a href=\"doi.org/10.1016/j.tics.2019.03.007\">doi.org/10.1016/j.tics.2019.03.007</a> </p>",
+              "customLabel": "Azzalini et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzmi96yt1et",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n535nl8wucb\" data-reactroot=\"\">Park, H. D., &amp; Tallon-Baudry, C. (2014). The neural subjective frame: From bodily signals to perceptual consciousness. <em>Philosophical Transactions of the Royal Society B: Biological Sciences, 369</em>(1641), 20130208. <a href=\"https://doi.org/10.1098/rstb.2013.0208\">https://doi.org/10.1098/rstb.2013.0208</a> </p>",
+              "customLabel": "Park & Tallon-Baudry, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), a hypothesis backed up by experimental data in humans (for review, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuxwpumso0f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhg2rt28q0b\" data-reactroot=\"\">Azzalini, D., Rebollo, I., &amp; Tallon-Baudry, C. (2019). Visceral signals shape brain dynamics and cognition. <em>Trends in Cognitive Science, 23</em>(6), 488-509. https:<a href=\"doi.org/10.1016/j.tics.2019.03.007\">doi.org/10.1016/j.tics.2019.03.007</a> </p>",
+              "customLabel": "Azzalini et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5zp0hfkhkt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntroop5x373\" data-reactroot=\"\">Engelen, T., Solca, M., &amp; Tallon-Baudry, C. (2023). Interoceptive rhythms in the brain. <em>Nature Neuroscience, 26</em>, 1670-1684. <a href=\"https://doi.org/10.1038/s41593-023-01425-1\">https://doi.org/10.1038/s41593-023-01425-1</a> </p>",
+              "customLabel": "Engelen et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n8dgk7s7keh",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Interoception interfaces with many areas of cognitive science. Because interoception is about maintaining the integrity of the organism, it is at the root of motivated behavior and decision-making: the interoceptive state is a drive for the organism to either go drinking, find food, or take a nap. Whether and how this relates to so-called \u201cgut feelings\u201d is not known. If low interoceptive accuracy appears common, interoceptive beliefs and intuitions are usually strong and lead to overconfidence ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncsple7k6m1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbeb2qjkfwl\" data-reactroot=\"\">Khalsa, S. S., Rudrauf, D., Damasio, A. R., Davidson, R. J., Lutz, A., Tranel, D. (2008). Interoceptive awareness in experienced meditators. <em>Psychophysiology</em>, 45(4), 671-677. <a href=\"https://doi.org/10.1111/j.1469-8986.2008.00666.x\">https://doi.org/10.1111/j.1469-8986.2008.00666.x</a> </p>",
+              "customLabel": "Khalsa et al., 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and are further shaped by cultural contexts ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxi7whsv480",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndgnfml9f45\" data-reactroot=\"\">Ma-Kellams, C. (2014). Cross-cultural differences in somatic awareness and interoceptive accuracy: A review of the literature and directions for future research. <em>Frontiers in Psychology</em>, 5, 1379. <a href=\"https://doi.org/10.3389/fpsyg.2014.01379\">https://doi.org/10.3389/fpsyg.2014.01379</a> </p>",
+              "customLabel": "Ma-Kellams, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and meditation practice ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nc17nilrcia",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbeb2qjkfwl\" data-reactroot=\"\">Khalsa, S. S., Rudrauf, D., Damasio, A. R., Davidson, R. J., Lutz, A., Tranel, D. (2008). Interoceptive awareness in experienced meditators. <em>Psychophysiology</em>, 45(4), 671-677. <a href=\"https://doi.org/10.1111/j.1469-8986.2008.00666.x\">https://doi.org/10.1111/j.1469-8986.2008.00666.x</a> </p>",
+              "customLabel": "Khalsa et al., 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Interoception is also related to emotions; emotional feelings are often associated with internal bodily sensations\u2014in particular, in emotions such as disgust\u2014whereas the link is less clear for more complex emotions such as guilt. Reports of distorted interoceptive feelings are common across many psychiatric disorders ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlhwfe8k14h",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmvh2qqvucv\" data-reactroot=\"\">Nord, C. L., &amp; Garfinkel, S. N. (2022). Interoceptive pathways to understand and treat mental health conditions. <em>Trends in Cognitive Science, 26</em>(6), 499-513. <a href=\"https://doi.org/10.1016/j.tics.2022.03.004\">https://doi.org/10.1016/j.tics.2022.03.004</a> </p>",
+              "customLabel": "Nord & Garfinkel, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Finally, as interoceptive signaling appears more and more prominent in many brain regions, including brain areas unrelated to physiological regulations, its computational role is also revisited (for review, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nelorc3oygi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntroop5x373\" data-reactroot=\"\">Engelen, T., Solca, M., &amp; Tallon-Baudry, C. (2023). Interoceptive rhythms in the brain. <em>Nature Neuroscience, 26</em>, 1670-1684. <a href=\"https://doi.org/10.1038/s41593-023-01425-1\">https://doi.org/10.1038/s41593-023-01425-1</a> </p>",
+              "customLabel": "Engelen et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nra3zdpmmnj",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n4e9190aup2",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Craig, A. D. (2002). How do you feel? Interoception: The sense of the physiological condition of the body. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Nature Reviews Neuroscience, 3"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 655-666. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1038/nrn894",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1038/nrn894"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nv6ksl4m1ol",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Damasio, A. (1999). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The feeling of what happens: Body, emotion and the making of consciousness"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Harcourt."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "ntroop5x373",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "\u00a0Engelen, T., Solca, M., & Tallon-Baudry, C. (2023). Interoceptive rhythms in the brain. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Nature Neuroscience, 26"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 1670-1684. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1038/s41593-023-01425-1",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1038/s41593-023-01425-1"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

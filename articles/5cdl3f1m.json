@@ -1,0 +1,1817 @@
+{
+  "id": "19a2c99d-1bad-429a-8cbb-812483a0c311",
+  "slug": "5cdl3f1m",
+  "title": "Citizen Science",
+  "url": "https://oecs.mit.edu/pub/5cdl3f1m",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "19a2c99d-1bad-429a-8cbb-812483a0c311",
+    "slug": "5cdl3f1m",
+    "title": "Citizen Science",
+    "htmlTitle": "Citizen Science",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.19a2c99d",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "mwmuwo1a",
+    "editHash": "l9k9sscb",
+    "reviewHash": "7x0fc6xs",
+    "commentHash": "cprx6v04",
+    "draftId": "dd97af30-c449-4a65-ba24-c5ca26c5925a",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "38bd71c6-4815-498e-8884-8033c5628f0d",
+    "scopeSummaryId": "42452181-da21-4f9c-8102-9fb02c4de28d",
+    "createdAt": "2025-05-06T20:07:15.063Z",
+    "updatedAt": "2025-05-27T15:06:04.079Z",
+    "attributions": [
+      {
+        "id": "31351517-6768-4e54-89bd-ee6dc8da6f7c",
+        "name": "Antoine Coutrot",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "CNRS, INSA Lyon, Universite Claude Bernard Lyon 1, LIRIS, UMR5205, Villeurbanne, France",
+        "orcid": "0000-0001-9569-3548",
+        "userId": null,
+        "pubId": "19a2c99d-1bad-429a-8cbb-812483a0c311",
+        "createdAt": "2025-05-06T20:08:01.277Z",
+        "updatedAt": "2025-05-06T20:08:57.987Z",
+        "user": null
+      },
+      {
+        "id": "9890746a-7fdc-464b-9b42-7cf9d708454f",
+        "name": "Hugo J. Spiers",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Institute of Behavioural Neuroscience, Department of Experimental Psychology, University College London, UK",
+        "orcid": "0000-0002-6792-6356",
+        "userId": null,
+        "pubId": "19a2c99d-1bad-429a-8cbb-812483a0c311",
+        "createdAt": "2025-05-06T20:08:59.082Z",
+        "updatedAt": "2025-05-06T20:09:55.731Z",
+        "user": null
+      },
+      {
+        "id": "12e14721-7725-45ab-98c7-476317dfd5e7",
+        "name": null,
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Stanford University",
+        "orcid": null,
+        "userId": "109667a4-3426-4b8d-ab8e-6ed65afced12",
+        "pubId": "19a2c99d-1bad-429a-8cbb-812483a0c311",
+        "createdAt": "2025-05-06T20:09:20.651Z",
+        "updatedAt": "2025-05-15T15:50:33.314Z",
+        "user": {
+          "id": "109667a4-3426-4b8d-ab8e-6ed65afced12",
+          "firstName": "Michael C.",
+          "lastName": "Frank",
+          "fullName": "Michael C. Frank",
+          "avatar": null,
+          "slug": "michael-frank-3",
+          "initials": "MF",
+          "title": "Benjamin Scott Crocker Professor of Human Biology",
+          "orcid": "0000-0002-7551-4378"
+        }
+      }
+    ],
+    "draft": {
+      "id": "dd97af30-c449-4a65-ba24-c5ca26c5925a",
+      "latestKeyAt": "2025-05-22T23:32:18.533Z",
+      "firebasePath": "drafts/draft-dd97af30-c449-4a65-ba24-c5ca26c5925a",
+      "createdAt": "2025-05-06T20:07:15.048Z",
+      "updatedAt": "2025-12-01T15:05:09.606Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2zkruico7n",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Citizen science involves nonprofessional volunteers\u2014\u2018citizens\u2019\u2014in the process of science. Citizens can be involved in many ways, from a contributory role on existing data (e.g., data annotation) to providing their own data or even co-creation of research (e.g., co-design of study protocol). In cognitive science, citizen science is opening up new ways of studying how the human brain works and how people think and behave. By involving volunteers from a wide range of backgrounds, citizen science enables the collection of data from larger and more diverse groups than would be possible in a typical laboratory. This helps make findings more generalizable to the real world and different cultures. Citizen science also encourages a more open and collaborative form of research, where members of the public are actively involved in the scientific method, helping to make cognitive science more inclusive and widely understood."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nzgwp3mmfgq",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Citizen science has a long history, with its roots dating back to early naturalists who collaborated with the public to document and study natural phenomena. Early organized projects, such as the Audubon Society\u2019s Christmas Bird Count established in 1900 ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhq3vnr1t0b",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1aiy86euwt\" data-reactroot=\"\">Dickinson, J. L., Zuckerberg, B., &amp; Bonter, D. N. (2012). Citizen science as an ecological research tool: Challenges and benefits. <em>Annual Review of Ecology, Evolution, and Systematics, 41</em>(1), 149-172. <a href=\"https://doi.org/10.1146/annurev-ecolsys-102209-144636\" target=\"_blank\">https://doi.org/10.1146/annurev-ecolsys-102209-144636</a></p>",
+              "customLabel": "Dickinson et al., 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), formalized public participation in data collection. As technology advanced, the scope and scale of citizen science expanded. The internet enabled projects like Galaxy Zoo, which began in 2007, where volunteers contributed to classifying galaxies ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngaiy9tc6io",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfmfsv2c2qk\" data-reactroot=\"\">Lintott, C. J., Schawinski, K., Slosar, A., Land, K., Bamford, S., Thomas, D., ... Vandenberg, J. (2008). Galaxy Zoo: Morphologies derived from visual inspection of galaxies from the Sloan Digital Sky Survey. <em>Monthly Notices of the Royal Astronomical Society</em>, <em>389</em>(3), 1179-1189. <a href=\"https://doi.org/10.1111/j.1365-2966.2008.13689.x\" target=\"_blank\">https://doi.org/10.1111/j.1365-2966.2008.13689.x</a></p>",
+              "customLabel": "Lintott et al., 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nal7j35ojyf",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In recent years, cognitive science has adopted this approach. For example, the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://dash.seahero.quest/wiki/",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Sea Hero Quest project"
+          },
+          {
+            "type": "text",
+            "text": " used a video game for mobile devices to assess the spatial navigation ability of 4 million participants from every country on Earth, see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/5cdl3f1m#n4833fd40pg",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Figure 1"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nktyca94p4d",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwt7f751mqd\" data-reactroot=\"\">Coutrot, A., Silva, R., Manley, E., de Cothi, W., Sami, S., Bohbot, V. D., Wiener, J. M., H\u00f6lscher, C., Dalton, R. C., Hornberger, M., &amp; Spiers H. J. (2018). Global determinants of navigation ability. <em>Current Biology,</em> <em>28</em>, 2861\u20132866. <a href=\"https://doi.org/10.1016/j.cub.2018.06.009\" target=\"_blank\">https://doi.org/10.1016/j.cub.2018.06.009</a></p>",
+              "customLabel": "Coutrot et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuvsh6kctah",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nx5h487f2lu\" data-reactroot=\"\">Spiers, H. J., Coutrot, A., &amp; Hornberger, M. (2023). Explaining world-wide variation in navigation ability from millions of people: Citizen science project Sea Hero Quest. <em>Topics in Cognitive Science</em> <em>15</em>, 120\u2013138. <a href=\"https://doi.org/10.1111/tops.12590\" target=\"_blank\">https://doi.org/10.1111/tops.12590</a></p>",
+              "customLabel": "Spiers et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/or750iar",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Spatial Cognition"
+          },
+          {
+            "type": "text",
+            "text": "]. Today, projects in cognitive science use smartphones, social media, and mobile applications to collect data from diverse populations across the globe ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "noplh51865g",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnzh1betnuw\" data-reactroot=\"\">Long, B., Simson, J., Bux\u00f3-Lugo, A., Watson, D. G., &amp; Mehr, S. A. (2023). How games can make behavioural science better. <em>Nature, 613</em>(7944), 433-436. <a href=\"https://doi.org/10.1038/d41586-023-00065-6\" target=\"_blank\">https://doi.org/10.1038/d41586-023-00065-6</a></p>",
+              "customLabel": "Long et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfiwii5b6r7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfbjmwvw8uf\" data-reactroot=\"\">Allen, K., Br\u00e4ndle, F., Botvinick, M., Fan, J. E., Gershman, S. J., Gopnik, A., ... Schulz, E. (2024). Using games to understand the mind. <em>Nature Human Behaviour</em>, <em>8</em>, 1035\u20131043. <a href=\"https://doi.org/10.1038/s41562-024-01878-9\" target=\"_blank\">https://doi.org/10.1038/s41562-024-01878-9</a></p>",
+              "customLabel": "Allen et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), enabling researchers to capture more representative samples and unprecedented volumes of data."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "scale-and-diversity",
+          "id": "scale-and-diversity",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Scale and diversity"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nw5lknoytkf",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Traditional laboratory-based studies in cognitive science often rely on small sample sizes, generally involving undergraduate participants. This limits the diversity and generalizability of findings ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nut8up2b23u",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrqp34j2bxx\" data-reactroot=\"\">Henrich, J., Heine, S. J., &amp; Norenzayan, A. (2010). The weirdest people in the world? <em>Behavioral and Brain Sciences, 33</em>(2\u20133), 61\u201383. <a href=\"https://doi.org/10.1017/S0140525X0999152X\" target=\"_blank\">https://doi.org/10.1017/S0140525X0999152X</a></p>",
+              "customLabel": "Henrich et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/spow8trw/",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "WEIRD"
+          },
+          {
+            "type": "text",
+            "text": "]. Citizen science allows for larger, more heterogeneous samples, including those from groups that are underrepresented in scientific research. As an example, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.themusiclab.org/",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "The Music Lab"
+          },
+          {
+            "type": "text",
+            "text": " is an online platform studying how people around the world\u2014including in small-scale societies\u2014engage with music and whether there are universal patterns to music cognition across cultures ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0pvpt0j66h",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbfp78iyuov\" data-reactroot=\"\">Mehr, S. A., Singh, M., Knox, D., Ketter, D. M., Pickens-Jones, D., Atwood, S., ... Glowacki, L. (2019). Universality and diversity in human song. <em>Science, 366</em>(6468), eaax0868. <a href=\"https://doi.org/10.1126/science.aax0868\" target=\"_blank\">https://doi.org/10.1126/science.aax0868</a></p>",
+              "customLabel": "Mehr et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "ecological-validity",
+          "id": "ecological-validity",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Ecological validity"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n48v57rcqs5",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Laboratory settings often fail to capture real-world behavior accurately due to their controlled nature ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9fo2tos7zq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"np1zybf77x9\" data-reactroot=\"\">Vigliocco, G., Convertino, L., De Felice, S., Gregorians, L., Kewenig, V., Mueller, M. A., ... Spiers, H. J. (2024). Ecological brain: Reframing the study of human behaviour and cognition. <em>Royal Society Open Science, 11</em>(11), 240762. <a href=\"https://doi.org/10.1098/rsos.240762\" target=\"_blank\">https://doi.org/10.1098/rsos.240762</a></p>",
+              "customLabel": "Vigliocco et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Citizen science projects provide participants with tasks that are more aligned with real-world experiences. By collecting data from participants in their natural environments, such as on their phones at home or while commuting, researchers can gain insights into how people\u2019s cognitive functions operate under everyday conditions, enhancing the ecological validity of findings ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no5dg3wdt15",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ncr1s81mhrq\" data-reactroot=\"\">Pedersen, M. K., D\u00edaz, C. M. C., Wang, Q. J., Alba\u2010Marrugo, M. A., Amidi, A., Basaiawmoit, R. V., ... Sherson, J. F. (2023). Measuring cognitive abilities in the wild: Validating a population\u2010scale game\u2010based cognitive assessment. <em>Cognitive Science, 47</em>(6), e13308. <a href=\"https://doi.org/10.1111/cogs.13308\" target=\"_blank\">https://doi.org/10.1111/cogs.13308</a></p>",
+              "customLabel": "Pedersen et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "gamification-for-engagement",
+          "id": "gamification-for-engagement",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Gamification for engagement"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nk8rdndmkpp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Citizen science projects often incorporate gamification\u2014using game-like elements to enhance engagement [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/984ungzu",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Affordances"
+          },
+          {
+            "type": "text",
+            "text": "]. Gamification can include transforming experiments into bespoke games, embedding experiments in existing games, and extracting data from ongoing ones. Gamified studies can lead to better participant retention and engagement, reduce dropout rates, and increase the quality of the data collected ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwnultgm61w",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzofq6jfdt9\" data-reactroot=\"\">Germine, L., Nakayama, K., Duchaine, B. C., Chabris, C. F., Chatterjee, G., &amp; Wilmer, J. B. (2012). Is the Web as good as the lab? Comparable performance from Web and lab in cognitive/perceptual experiments. <em>Psychonomic bulletin &amp; review</em>, <em>19</em>, 847-857.</p>",
+              "customLabel": "Germine, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvy5857gyb8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6ygtkdjc09\" data-reactroot=\"\">Tinati, R., Luczak-Roesch, M., Simperl, E., &amp; Hall, W. (2017). An investigation of player motivations in Eyewire, a gamified citizen science project. <em>Computers in Human Behavior</em>, <em>73</em>, 527-540. <a href=\"https://doi.org/10.1016/j.chb.2016.12.074\" target=\"_blank\">https://doi.org/10.1016/j.chb.2016.12.074</a></p>",
+              "customLabel": "Tinati et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n806m0uh1kb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfbjmwvw8uf\" data-reactroot=\"\">Allen, K., Br\u00e4ndle, F., Botvinick, M., Fan, J. E., Gershman, S. J., Gopnik, A., ... Schulz, E. (2024). Using games to understand the mind. <em>Nature Human Behaviour</em>, <em>8</em>, 1035\u20131043. <a href=\"https://doi.org/10.1038/s41562-024-01878-9\" target=\"_blank\">https://doi.org/10.1038/s41562-024-01878-9</a></p>",
+              "customLabel": "Allen et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "n4833fd40pg",
+          "url": "https://assets.pubpub.org/giqry8u0/61746562051952.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"nvga45x1mjd\" data-reactroot=\"\">Example citizen science project: Sea Hero Quest. The task, which collected navigation data, was embedded in a mobile video game application. (a) Game design: players sail a boat to find checkpoints in a set order. (b) In wayfinding levels, a map of the level featuring the ordered set of checkpoints to reach is presented and disappears when the navigation starts. (c) Superposition of 1,000 individual trajectories randomly sampled from Level 32. (d) Path-integration task: After navigating the level, participants must shoot a flare back to the starting point. Reproduced from Coutrot et al. (2018).</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njym6w6hykz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The rapid growth of citizen science in cognitive research brings new challenges and raises key questions."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "data-privacy-and-ethics",
+          "id": "data-privacy-and-ethics",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Data privacy and ethics"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nt2doo5ivja",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Large-scale data collection often requires sensitive information, such as clinical, demographic, or geographic details. Researchers often obtain consent and anonymize data to protect participant privacy. However, ethical concerns about data security and transparency remain, especially when corporate entities are involved ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb8gwf4k7wy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxnq3dhhswx\" data-reactroot=\"\">Resnik, D. B. (2019). Citizen scientists as human subjects: ethical issues. <em>Citizen Science: Theory and Practice, 4</em>(1), 11.<em> </em><a href=\"https://doi.org/10.5334/cstp.150\" target=\"_blank\">https://doi.org/10.5334/cstp.150</a></p>",
+              "customLabel": "Resnik, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "bias-and-accessibility",
+          "id": "bias-and-accessibility",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Bias and accessibility"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n386p9bqwy1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Despite the potential for broader representation, citizen science is not as representative of cultural diversity as often claimed ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3idhflbk2x",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6c8h73su3d\" data-reactroot=\"\">Majid, A. (2023). Establishing psychological universals. <em>Nature Reviews Psychology</em>, <em>2</em>(4), 199-200. <a href=\"https://doi.org/10.1038/s44159-023-00169-w\" target=\"_blank\">https://doi.org/10.1038/s44159-023-00169-w</a></p>",
+              "customLabel": "Majid, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For instance, tasks can only be accessible with a smartphone, which may exclude certain demographics such as older people. Additionally, because participation is voluntary, self-selection bias may arise, with those interested in gaming or science being overrepresented ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6ntzp5detc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nto4lnbmiso\" data-reactroot=\"\">Stone A, Schneider S, Smyth J, Junghaenel D, Couper M, Wen CK, et al. A population-based investigation of participation rate and self-selection bias in momentary data capture and survey studies. <em>Current Psychology</em>. 2023 03;43:1\u201317. https://doi.org/10.1007/s12144-023-04426-2</p>",
+              "customLabel": "Stone et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "data-quality-and-validation",
+          "id": "data-quality-and-validation",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Data quality and validation"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nilxr2y36le",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A common critique of citizen science is the potential for inconsistent or unreliable data due to the variability in participant engagement and experience levels ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw8ackb4of7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfycv5h1vb8\" data-reactroot=\"\">Cai, E., Sarrazin-Gendron, R., Mutalova, R., Ghasemloo Gheidari, P., Butyaev, A., Richard, G., ... &amp; Waldisp\u00fchl, J. (2024, May). Learning the Game: Decoding the Differences between Novice and Expert Players in a Citizen Science Game with Millions of Players. In <em>Proceedings of the 19th International Conference on the Foundations of Digital Games</em> (pp. 1-10).</p>",
+              "customLabel": "Cai, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Validation strategies, including comparing citizen science data with established experimental benchmarks, are crucial to ensuring that findings are scientifically robust and replicable ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzd7ycqe3df",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfv7m90px7a\" data-reactroot=\"\">Bal\u00e1zs, B., Mooney, P., Nov\u00e1kov\u00e1, E., Bastin, L., &amp; Arsanjani, J. J. (2021). Data quality in citizen science. In K. Vohland (Ed.), <em>The science of citizen science</em> (pp. 139-157). Springer Nature. <a href=\"https://doi.org/10.1007/978-3-030-58278-4_8\">https://doi.org/10.1007/978-3-030-58278-4_8</a></p>",
+              "customLabel": "Bal\u00e1zs et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "participatory-research",
+          "id": "participatory-research",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Participatory research"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njfvc3nr859",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The involvement of nonprofessional scientists in the scientific process is a cornerstone of citizen science. Citizen participation in cognitive science has mainly been passive. Scientists simply collect people\u2019s behavior and cognition, which doesn\u2019t really empower citizens in the scientific process ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n790qsbnpqx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4p0rp220qs\" data-reactroot=\"\">Van den Bussche, E., Verhaegen, K. A., Hughes, G., &amp; Reynvoet, B. (2024). Towards a cognitive citizen science. <em>Nature Reviews Psychology</em>, <em>3</em>, 781\u2013782. <a href=\"https://doi.org/10.1038/s44159-024-00368-z\" target=\"_blank\">https://doi.org/10.1038/s44159-024-00368-z</a></p>",
+              "customLabel": "Van den Bussche, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Future studies should aim to include citizens\u2019 voices at all stages of the research. This is particularly true when the research involved indigenous communities."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "mental-health",
+          "id": "mental-health",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Mental health"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7og8jjsmib",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Research in mental health has historically not been conducted in collaboration with the people whose specific challenges are being studied. The use of citizen science in mental health research is emergent and still needs to address specific issues, such as careful consideration of the consent process. This approach allows mental health researchers and citizen scientists to co-create mental health\u2013tailored projects ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ne77f7ogy1o",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nt5ry2i683e\" data-reactroot=\"\">Gillan, C. M., &amp; Rutledge, R. B. (2021). Smartphones and the neuroscience of mental health. <em>Annual Review of Neuroscience, 44</em>(1), 129-151. <a href=\"https://doi.org/10.1146/annurev-neuro-101220-014053\" target=\"_blank\">https://doi.org/10.1146/annurev-neuro-101220-014053</a></p>",
+              "customLabel": "Gillan & Rutledge, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfp1l16zur7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nimlxg8sxhg\" data-reactroot=\"\">Todowede, O., Lewandowski, F., Kotera, Y., Ashmore, A., Rennick-Egglestone, S., Boyd, D., ... Slade, M. (2023). Best practice guidelines for citizen science in mental health research: Systematic review and evidence synthesis. <em>Frontiers in Psychiatry, 14</em>, 1175311. <a href=\"https://doi.org/10.3389/fpsyt.2023.1175311\" target=\"_blank\">https://doi.org/10.3389/fpsyt.2023.1175311</a></p>",
+              "customLabel": "Todowede, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "public-health-and-disease-prevention",
+          "id": "public-health-and-disease-prevention",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Public health and disease prevention"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "na581c2dsil",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Citizen scientists can improve regional data collection and avoid the one-size-fits-all approach ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk1q7ptq152",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"na5sthd32kh\" data-reactroot=\"\">Rowbotham, S., McKinnon, M., Leach, J., Lamberts, R., &amp; Hawe, P. (2017). Does citizen science have the capacity to transform population health science? <em>Critical Public Health, 29</em>(1), 118-128. <a href=\"https://doi.org/10.1080/09581596.2017.1395393\" target=\"_blank\">https://doi.org/10.1080/09581596.2017.1395393</a></p>",
+              "customLabel": "Rowbotham, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For instance, Sea Hero Quest has laid the groundwork for personalized cognitive assessments that could potentially screen for early signs of dementia ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nantiqj13bg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nx5h487f2lu\" data-reactroot=\"\">Spiers, H. J., Coutrot, A., &amp; Hornberger, M. (2023). Explaining world-wide variation in navigation ability from millions of people: Citizen science project Sea Hero Quest. <em>Topics in Cognitive Science</em> <em>15</em>, 120\u2013138. <a href=\"https://doi.org/10.1111/tops.12590\" target=\"_blank\">https://doi.org/10.1111/tops.12590</a></p>",
+              "customLabel": "Spiers et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Citizen scientists can also be great vectors to communicate health information to a broad audience ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2oaon0meqd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny6ve0jr67w\" data-reactroot=\"\">de Cocker, K., Chastin, S. F., de Bourdeaudhuij, I., Imbo, I., Stragier, J., &amp; Cardon, G. (2019). Citizen science to communicate about public health messages: The reach of a playful online survey on sitting time and physical activity. <em>Health Communication, 34</em>(7), 720-725. <a href=\"https://doi.org/10.1080/10410236.2018.1433955\" target=\"_blank\">https://doi.org/10.1080/10410236.2018.1433955</a></p>",
+              "customLabel": "de Cocker, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and enhance trust in science and scientific experts ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsu8c2gre6l",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntz5y227xft\" data-reactroot=\"\">den Houting, J., Higgins, J., Isaacs, K., Mahony, J., &amp; Pellicano, E. (2021). \u201cI\u2019m not just a guinea pig\u201d: Academic and community perceptions of participatory autism research. <em>Autism, 25</em>(2), 148\u2013163. <a href=\"https://doi.org/10.1177/1362361320951696\" target=\"_blank\">https://doi.org/10.1177/1362361320951696</a></p>",
+              "customLabel": "den Houting, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "artificial-intelligence-and-machine-learning",
+          "id": "artificial-intelligence-and-machine-learning",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Artificial intelligence and machine learning"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n08fukfbv3u",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The wide cultural diversity around the globe is not fully captured by the data that current AI models are being trained on ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3y5plp1u0p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nltxg29l5em\" data-reactroot=\"\">Atari, M., Xue, M. J., Park, P. S., Blasi, D. E., &amp; Henrich, J. (2023). Which humans?. <a href=\"https://doi.org/10.31234/osf.io/5b26t\">https://doi.org/10.31234/osf.io/5b26t</a></p>",
+              "customLabel": "Atari et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The magnitude and diversity of training datasets enabled by citizen science may help to mitigate these biases."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "acknowledgments",
+          "id": "acknowledgments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Acknowledgments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ndsi36q0n24",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This work was supported by a grant to A.C. from the French National Research Agency as part of the \u201cInvestissements d\u2019Avenir ExcellencES\u201d program from France 2030 (SHAPE-Med@Lyon; ANR-22-EXES-0012), the ANR project ACTSOMA (ANR-23-CE45-0023-01), and a BIRAX grant to HJS."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n0drew3pmep",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "neznu8f17al",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Allen, K., Br\u00e4ndle, F., Botvinick, M., Fan, J. E., Gershman, S. J., Gopnik, A., ... Schulz, E. (2024). Using games to understand the mind. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Nature Human Behaviour"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "8"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 1035\u20131043. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1038/s41562-024-01878-9",
+                          "title": null,
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1038/s41562-024-01878-9"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nl9zol6ihn8",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Spiers, H. J., Coutrot, A., Hornberger, M. (2023). Explaining world-wide variation in navigation ability from millions of people: Citizen science project Sea Hero Quest. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Topics in Cognitive Science"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "15"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 120\u2013138. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1111/tops.12590",
+                          "title": null,
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1111/tops.12590"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nildcbx8cx8",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Van den Bussche, E., Verhaegen, K. A., Hughes, G., & Reynvoet, B. (2024). Towards a cognitive citizen science. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Nature Reviews Psychology"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "1-2"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1038/s44159-024-00368-z",
+                          "title": null,
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1038/s44159-024-00368-z"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n7hgy2l938h",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Vohland, K., Land-Zandstra, A., Ceccaroni, L., Lemmens, R., Perell\u00f3, J., Ponti, M., Samson, R., & Wagenknecht, K., eds. 2021. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The science of citizen science"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Springer Nature. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1007/978-3-030-58278-4",
+                          "title": null,
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1007/978-3-030-58278-4"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

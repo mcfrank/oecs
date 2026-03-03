@@ -1,0 +1,3726 @@
+{
+  "id": "e29a27cc-375f-49ef-9936-8de3c0773982",
+  "slug": "j074k4aj",
+  "title": "Social Epistemology",
+  "url": "https://oecs.mit.edu/pub/j074k4aj",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "e29a27cc-375f-49ef-9936-8de3c0773982",
+    "slug": "j074k4aj",
+    "title": "Social Epistemology",
+    "htmlTitle": "Social Epistemology",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": "2024-07-24T00:00:00.000Z",
+    "doi": "10.21428/e2759450.e29a27cc",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "mf4z1cmb",
+    "editHash": "kn8rbqjs",
+    "reviewHash": "ycjs9pgu",
+    "commentHash": "jfn7ngu6",
+    "draftId": "cc35a27d-f305-403e-8405-4bae86a2c563",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "bf77892a-0c5a-4071-ba3b-0852ba18959f",
+    "scopeSummaryId": "62e79e94-6515-45e8-89df-8db85466c2b6",
+    "createdAt": "2024-04-25T14:42:25.848Z",
+    "updatedAt": "2024-07-24T13:28:21.995Z",
+    "attributions": [
+      {
+        "id": "39e5cf44-8d6e-48ec-8e22-ed91ea6f8545",
+        "name": "Mandi Astola",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Delft University of Technology",
+        "orcid": "0000-0002-0684-7662",
+        "userId": null,
+        "pubId": "e29a27cc-375f-49ef-9936-8de3c0773982",
+        "createdAt": "2024-04-30T22:01:07.381Z",
+        "updatedAt": "2024-05-02T22:27:33.051Z",
+        "user": null
+      },
+      {
+        "id": "9cfe7239-130e-4d6e-840f-64b9221d55fa",
+        "name": "Mark Alfano",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Macquarie University",
+        "orcid": "0000-0001-5879-8033",
+        "userId": null,
+        "pubId": "e29a27cc-375f-49ef-9936-8de3c0773982",
+        "createdAt": "2024-04-30T22:01:37.652Z",
+        "updatedAt": "2024-05-02T22:27:13.587Z",
+        "user": null
+      },
+      {
+        "id": "7da2f99d-a920-481e-a5b9-5978d99e8a39",
+        "name": "Colin Klein",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "section editor"
+        ],
+        "affiliation": "The Australian National University",
+        "orcid": "0000-0002-7406-4010",
+        "userId": null,
+        "pubId": "e29a27cc-375f-49ef-9936-8de3c0773982",
+        "createdAt": "2024-07-23T22:05:26.363Z",
+        "updatedAt": "2024-07-23T22:05:40.588Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "cc35a27d-f305-403e-8405-4bae86a2c563",
+      "latestKeyAt": "2024-07-23T11:13:19.651Z",
+      "firebasePath": "drafts/draft-cc35a27d-f305-403e-8405-4bae86a2c563",
+      "createdAt": "2024-04-25T14:42:25.842Z",
+      "updatedAt": "2024-07-24T13:27:43.035Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9b1ulo0mqs",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Epistemology is the study of knowledge and related phenomena, such as attitudes (e.g., belief, understanding, trust), attributes of these attitudes (e.g., justification, warrant, reliability), and traits (e.g., intellectual humility, open-mindedness, intellectual courage, and their opposed vices such as intellectual arrogance and intellectual servility). "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Social"
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "epistemology"
+          },
+          {
+            "type": "text",
+            "text": " is thus the study of knowledge and related phenomena as they play out in social interactions. These interactions occur at timescales that range from direct, face-to-face chatting, to asynchronous joint inquiry over the course of months, years of formal schooling, and the transmission of cumulative cultural knowledge across generations. They also occur on social scales ranging from dyads to triads to groups whose members we can track (approximately 150) to large, anonymous institutions and societies. As groups increase in size, their members may specialize into roles, and the geometry of the network by which these members are interconnected becomes highly consequential."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "niwi9ixy0vv",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The history of philosophy is rife with topics in social epistemology. In the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Meno"
+          },
+          {
+            "type": "text",
+            "text": ", Plato offers a thought experiment about a man who acts as a travel guide ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n17wo5poskg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1a78tqb43t\" data-reactroot=\"\">Cooper, J. M. (Ed.). (1997). <em>Plato: Complete works</em>. Hackett Publishing.</p>",
+              "customLabel": "Cooper, 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The travelers must rely on him, so the question arises whether it makes sense to follow the guide only if he knows the way or whether it is sufficient that he merely has a true belief (which does not qualify as knowledge) in order to be a reliable guide ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Meno"
+          },
+          {
+            "type": "text",
+            "text": " sections 97a\u201398c)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nloa7uwdg0q",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In the Islamic tradition, reports of the sayings and doings of the prophet\u2014known as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "hadith"
+          },
+          {
+            "type": "text",
+            "text": "\u2014were transmitted through a multigenerational network of professional memorizers over nearly a millennium. For a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "hadith "
+          },
+          {
+            "type": "text",
+            "text": "to be accepted as authentic, each link in a chain of testimony tracing all the way back to Mohammed had to be verified as an honest and reliable memorizer ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n238j2p7ci1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nccazpf7cey\" data-reactroot=\"\">\u015eent\u00fcrk, R. (2005). <em>Narrative social structure: Anatomy of the hadith transmission network, 610\u20131505</em>. Stanford University Press.</p>",
+              "customLabel": "\u015eent\u00fcrk, 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nehzojh4jw9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The boogeyman of social epistemology has been Descartes, especially the hyper-individualistic methodology he adopts in the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Meditations"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nyo86alhdcv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4c0iuejo1h\" data-reactroot=\"\">Descartes, R. (1637). <em>Discours de la M\u00e9thode Pour bien conduire sa raison, et chercher la v\u00e9rit\u00e9 dans les sciences</em> [Discourse on the method of rightly conducting the reason and seeking for truth in the sciences]. Jan Maire.</p>",
+              "customLabel": "Descartes, 1637",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In this work, Descartes presents himself as retreating to his private residence in order to rebuild the foundations of all knowledge from scratch. In reality, though, Descartes was a social butterfly and consulted many others for feedback on "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Meditations"
+          },
+          {
+            "type": "text",
+            "text": ".\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nsp5n0po4i1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Enlightenment epistemology is known to be very individualistic. In 1660, the British Royal Society adopted the motto "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "nullius in verba"
+          },
+          {
+            "type": "text",
+            "text": ", a line from Horace that translates as \u201ctake no one\u2019s word for it.\u201d But there were some notable philosophers who endorsed more social views of knowledge, such as David Hume ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndvub4l3uja",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0zaca6qc3n\" data-reactroot=\"\">Buckle, S. (Ed.). (2007). <em>Hume: An enquiry concerning human understanding and other writings</em>. Cambridge University Press.</p>",
+              "customLabel": "Buckle, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and Thomas Reid ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk3ruy9xy2m",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4d3s4x9rjj\" data-reactroot=\"\">Reid, T. \u00a0(2011). <em>Essays on the intellectual powers of man</em>. Cambridge University Press. (Original work published 1785) <a href=\"https://doi.org/10.1017/CBO9780511997150\">https://doi.org/10.1017/CBO9780511997150</a></p>",
+              "customLabel": "2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Hume argued for the trustworthiness of scholarship through expert scrutiny and Reid for the principle of credulity, or the right to trust the word of others."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nnhv2xrd4kb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Whether, how much, under what conditions, and in what manner we ought to take people\u2019s word for it is arguably the fundamental question of social epistemology. In the 20th century, one important development in this respect was the introduction of political considerations by feminist, Marxist, and anti-racist epistemologists. Feminist perspectives rose in prominence after the publication of "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkkbybd9c35",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nm4ka3tojva\" data-reactroot=\"\">Harding, S., &amp; Hintikka, M. (Eds.). (1983). <em>Discovering reality: Feminist perspectives on epistemology, metaphysics, methodology, and the philosophy of science</em>. Springer. <a href=\"https://doi.org/10.1007/0-306-48017-4\">https://doi.org/10.1007/0-306-48017-4</a></p>",
+              "customLabel": "Harding and Hintikka (1983)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". The chapter by Nancy Hartsock ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "niv3z21rt6y",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nria2fhq36x\" data-reactroot=\"\">Hartsock, N. C. M. (1983). The feminist standpoint: Developing the ground for a specifically feminist historical materialism. In S. Harding &amp; M. B. Hintikka (Eds.), <em>Discovering reality: Feminist perspectives on epistemology, metaphysics, methodology, and the philosophy of science</em> (pp. 283\u2013310). Springer. <a href=\"https://doi.org/10.1007/0-306-48017-4_15\">https://doi.org/10.1007/0-306-48017-4_15</a></p>",
+              "customLabel": "1983",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") in that volume introduced the notion of standpoint epistemology, according to which socially marginalized people who engage in political activism are especially likely to acquire knowledge of the conditions of their marginalization, making their testimony valuable in that context. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9xts41jrb6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqz801j5ttx\" data-reactroot=\"\">Medina, J. (2012). <em>The epistemology of resistance: Gender and racial oppression, epistemic injustice, and resistant imaginations</em>. Oxford University Press.</p>",
+              "customLabel": "Medina (2012)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " advances a similar argument about the epistemic advantages enjoyed by people marginalized on racial grounds.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njar12ff54d",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Around the same time, but largely in parallel rather than in dialogue, a less-political perspective on social epistemology was being developed by Anthony Coady ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nism0ac8afx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4kpou6bj0o\" data-reactroot=\"\">Coady, C. A. (1973). Testimony and observation. <em>American Philosophical Quarterly</em>, <em>10</em>(2), 149\u2013155.</p>",
+              "customLabel": "1973",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlyqsgjefkx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf63zriiuwd\" data-reactroot=\"\">Coady, C. A. J. (1992). <em>Testimony: A philosophical study</em>. Clarendon Press.</p>",
+              "customLabel": "1992",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), Alvin Goldman ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n659zkwuwgk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuvigoljvxq\" data-reactroot=\"\">Goldman, A. I. (1999). <em>Knowledge in a social world</em>. Oxford University Press.</p>",
+              "customLabel": "1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), Steve Fuller ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ng977c32c66",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njmbavh4vyu\" data-reactroot=\"\">Fuller, S. (1988). <em>Social epistemology</em>. Indiana University Press.</p>",
+              "customLabel": "1988",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), Philip Kitcher ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbgr9yalnuz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz9nzkoc1qu\" data-reactroot=\"\">Kitcher, P. (1990). The division of cognitive labor. <em>The Journal of Philosophy</em>, <em>87</em>(1), 5\u201322. https://doi.org/10.2307/2026796</p>",
+              "customLabel": "1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and Edward Craig ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njygr1o968e",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nadjve5iiyf\" data-reactroot=\"\">Craig, E. (1991). <em>Knowledge and the state of nature: An essay in conceptual synthesis</em>. Clarendon Press.</p>",
+              "customLabel": "1991",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), among others. In these works, testimony and whether to trust it are considered sometimes in the context of conversations among laypeople but often also in more specialized contexts, such as news reporting, courtrooms, and academic publications. Most social epistemologists agree that context matters in important ways because it shapes the concerns, patterns of attention, and incentives of the interlocutors. Someone who might be trustworthy on the witness stand under the threat of being charged with perjury may not be trustworthy in a personal interaction, even if they are answering the same question. A claim that has been vetted by multiple peer reviewers is likely to be more trustworthy than the same claim published anonymously on an online forum."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "concepts-from-individual-epistemology",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Concepts from individual epistemology"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1q77wmjeez",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Many of the core concepts of social epistemology are borrowed from traditional individualist epistemology [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/pit4hw2l",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Conceptual Analysis"
+          },
+          {
+            "type": "text",
+            "text": "]. These include normative concepts related to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "epistemic status"
+          },
+          {
+            "type": "text",
+            "text": ", that is, the epistemic normative properties of people and their cognitive states. One essential epistemic status is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "knowledge"
+          },
+          {
+            "type": "text",
+            "text": ". Most researchers focus on "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "propositional knowledge"
+          },
+          {
+            "type": "text",
+            "text": ", e.g., knowing that the proposition \u201ctigers have stripes\u201d is true. There are also literatures on "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "know-how"
+          },
+          {
+            "type": "text",
+            "text": ", which is often construed in terms of skill or ability or knowledge of the way to accomplish a goal, and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "objectual knowledge"
+          },
+          {
+            "type": "text",
+            "text": " or acquaintanceship, such as knowing a person or city. As Plato already recognized in the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Meno"
+          },
+          {
+            "type": "text",
+            "text": ", knowledge is deeply connected to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "belief"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnz4u17lj1c",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1a78tqb43t\" data-reactroot=\"\">Cooper, J. M. (Ed.). (1997). <em>Plato: Complete works</em>. Hackett Publishing.</p>",
+              "customLabel": "Cooper, 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). One good-making feature of beliefs is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "accuracy"
+          },
+          {
+            "type": "text",
+            "text": ", or having true content. Epistemologists almost all agree that mere true belief does not qualify as knowledge, however. If I base my belief on whether it is raining here now on a coin toss that happens to turn out correct, that belief does not seem to qualify as knowledge. There is much debate about what third (or fourth) feature needs to be added to get from mere true belief to knowledge. Candidates include "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "justification "
+          },
+          {
+            "type": "text",
+            "text": "(i.e., being able to give a reason for why I believe)"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": ", warrant "
+          },
+          {
+            "type": "text",
+            "text": "(i.e., being well-positioned to know, even if I cannot explicitly give my reasons, perhaps because I have extensive training and can recognize patterns that I cannot quite explain)"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "accuracy that manifests epistemic virtue "
+          },
+          {
+            "type": "text",
+            "text": "(i.e., expressing reliable dispositions such as good memory), among others"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncykg72nxgg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfdvmu7shuj\" data-reactroot=\"\">Sosa, E. (2007). <em>Apt belief and reflective knowledge: A virtue epistemology</em> (Volume 1).\u00a0 Oxford University Press.</p>",
+              "customLabel": "Sosa, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrxk7u82akh",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Other core epistemic attitudes include "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "understanding"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "wisdom"
+          },
+          {
+            "type": "text",
+            "text": ", and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "ignorance "
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n46oqu4wvoz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhixcfnifqt\" data-reactroot=\"\">Peels, R. (2023). <em>Ignorance: A philosophical study</em>. Oxford University Press.</p>",
+              "customLabel": "Peels, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Whereas knowledge is associated with the speech act of testifying or asserting (e.g., telling someone \u201cthe meeting is scheduled for 3 p.m.\u201d), understanding is associated with the speech act of explaining (e.g., \u201cwe scheduled the meeting for 3 p.m. to accommodate everyone\u2019s availability\u201d). You can know that your dishwasher is broken without understanding it well enough to fix it. You can know that a friend has cut you off without understanding why they have done so. Thus, understanding is typically conceptualized as a kind of \u201cknowledge+,\u201d with theorists debating what needs to be added to knowledge in order to transform it into understanding. Two prominent and related accounts hold that understanding is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "knowledge of causes"
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "knowledge of difference makers "
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3fjhhzzeem",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwvhkp5wam6\" data-reactroot=\"\">Sartorio, C. (2005). Causes as difference-makers. <em>Philosophical Studies, 123</em>(1-2), 71\u201396. <a href=\"https://doi.org/10.1007/s11098-004-5217-y\">https://doi.org/10.1007/s11098-004-5217-y</a></p>",
+              "customLabel": "Sartorio, 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). When you understand something, you are in a position to say what else would need to change in order for it to be different.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkmg17ccgt4",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Finally, traits form an important class of epistemic statuses. These are traditionally conceived of as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "virtues, vices, expertise"
+          },
+          {
+            "type": "text",
+            "text": ", and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "skills"
+          },
+          {
+            "type": "text",
+            "text": ". Some theorists collapse virtues, expertise, and skills into a single category, arguing for the virtue-as-skill hypothesis. Others hold that virtues have skills as components but also require a motivational component. In any event, virtues (and expertise and skills) are conceptualized as acquired traits of character that facilitate the acquisition, maintenance, and transmission of knowledge and other epistemic goods ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncuoiatedu2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nty8urte64w\" data-reactroot=\"\">Zagzebski, L. T. (1996). <em>Virtues of the mind: An inquiry into the nature of virtue and the ethical foundations of knowledge</em>. Cambridge University Press. <a href=\"https://doi.org/10.1017/CBO9781139174763\">https://doi.org/10.1017/CBO9781139174763</a></p>",
+              "customLabel": "Zagzebski, 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), whereas vices are conceptualized as dispositions that obstruct the acquisition, maintenance, and transmission of knowledge and other epistemic goods, or even promote ignorance and error ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nm6kn4eyhsq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf73x6208b5\" data-reactroot=\"\">Cassam, Q. (2016). Vice epistemology. <em>The Monist</em>, <em>99</em>(2), 159\u2013180.</p>",
+              "customLabel": "Cassam, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "concepts-distinctive-of-social-epistemology",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Concepts distinctive of social epistemology"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nf138dswxjd",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Social epistemology is concerned with the epistemic functioning of groups and individuals in a social context. The core concepts in epistemology gain a new meaning in the social context. Consider how social epistemologists understand epistemic states such as propositional knowledge or know-how and traits such as epistemic virtues and vices.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrdpycbq4f2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Just like individuals, groups are often said to possess knowledge, know-how, or understanding. And saying this can mean different things. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Mutual knowledge "
+          },
+          {
+            "type": "text",
+            "text": "is when all members of a group possess the same knowledge individually. For example, I and everyone else in my household might know that the trashcan is full if each member of the household has looked at the trashcan in the last hour. When the matter is discussed during dinner, it becomes "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "common knowledge "
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nusix5tbmv2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndthmgypued\" data-reactroot=\"\">Lewis, D. (1969). <em>Convention: A philosophical study</em>. Harvard University Press.</p>",
+              "customLabel": "Lewis, 1969",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), meaning that all members of the group know that"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxg2tcuiu9l",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "1. \u00a0 \u00a0 \u00a0 the trashcan is full,"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5xhwpmn86i",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "2. \u00a0 \u00a0 \u00a0 all other members also know item 1, and"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "noms4rlggeo",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3. \u00a0 \u00a0 \u00a0 all other members know item 2."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ndpttsqieh6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Mutual and common knowledge are basic concepts in game theory and epistemic logic ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzg9gh2s96f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxv2lw0neyz\" data-reactroot=\"\">Fagin, R., Halpern, J. Y., Moses, Y., &amp; Vardi, M. Y. (1996, October). Common knowledge: now you have it, now you don\u2019t. In <em>1n: Proceedings of the 1996 Int&#x27;l Multidisciplinary Conference</em> (Vol. 1, pp. 177-183).</p>",
+              "customLabel": "Fagin et al., 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and describe the kind of collective knowledge that is fundamentally individualistic, possessed by each group member. Sometimes, though, we speak of groups possessing knowledge in a different way. For example, we might say that geologists know how the Himalayas were formed, but they do not know how the moon was formed. Here, we seem to attribute knowledge to the group \u201cgeologists\u201d as a whole. In such cases, we might speak of the group knowing something or possessing collective knowledge. There are two influential models of collective knowledge.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ng9wl0t312m",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The first is the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "joint commitment model"
+          },
+          {
+            "type": "text",
+            "text": ", where collective knowledge consists of a commitment made by members of a group in their role as group members ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntipdqkmagt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkw81teygrm\" data-reactroot=\"\">Gilbert, M. (1989). <em>On social facts</em>. Routledge.</p>",
+              "customLabel": "Gilbert, 1989",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx1e3z22638",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nko5fy5y6fl\" data-reactroot=\"\">Tuomela, R. (2004). Group knowledge analyzed. <em>Episteme, 1(2)</em>, 109\u2013127. <a href=\"https://doi.org/10.3366/epi.2004.1.2.109\">https://doi.org/10.3366/epi.2004.1.2.109</a></p>",
+              "customLabel": "Tuomela, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngk1qhzxhq0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0nwzdwrr6i\" data-reactroot=\"\">Pettit, P. (2003). Groups with minds of their own. In F. F. Schmitt (Ed.), <em>Socializing metaphysics: The nature of social reality</em> (pp. 167\u2013193). Rowman &amp; Littlefield.</p>",
+              "customLabel": "Pettit, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). We might say that scientists, in virtue of professional identity, commit to endorsing facts which are agreed upon by scientific consensus. For this model, there are different views about whether collective knowledge is always "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "summative"
+          },
+          {
+            "type": "text",
+            "text": " (a sum of individual members\u2019 epistemic states) or whether it can be "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "anti-summative"
+          },
+          {
+            "type": "text",
+            "text": " (something more than or outside of, the epistemic states of individual members) ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnuuqjv9pdy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkw81teygrm\" data-reactroot=\"\">Gilbert, M. (1989). <em>On social facts</em>. Routledge.</p>",
+              "customLabel": "Gilbert, 1989",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlk3gmisxqb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nko5fy5y6fl\" data-reactroot=\"\">Tuomela, R. (2004). Group knowledge analyzed. <em>Episteme, 1(2)</em>, 109\u2013127. <a href=\"https://doi.org/10.3366/epi.2004.1.2.109\">https://doi.org/10.3366/epi.2004.1.2.109</a></p>",
+              "customLabel": "Tuomela, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrr1g1z5eh7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0s8bsmxxjz\" data-reactroot=\"\">Lackey, J. (2020). <em>The epistemology of groups</em>. Oxford University Press. <a href=\"https://doi.org/10.1093/oso/9780199656608.001.0001\">https://doi.org/10.1093/oso/9780199656608.001.0001</a></p>",
+              "customLabel": "Lackey, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncdzqug86i0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The second is the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "distributed cognition model"
+          },
+          {
+            "type": "text",
+            "text": " where the cognition and its end products are seen as located in a system consisting of multiple agents ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxkbhzz7nsg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ncr1u7au9i3\" data-reactroot=\"\">Clark, A. (1997). <em>Being there: Putting brain, body, and world together again</em>. MIT Press.\u00a0<a href=\"https://doi.org/10.7551/mitpress/1552.001.0001\" target=\"_blank\">https://doi.org/10.7551/mitpress/1552.001.0001</a></p>",
+              "customLabel": "Clark, 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). A paradigm case where this model seems applicable would be a tech company producing machines that are so complicated that no single individual understands exactly how every part works, yet the company knows how they work and is able to produce them. A debate within this approach is whether distributed cognition requires or implies that the distributed cognizer possesses knowledge ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6y99xqjvcz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny6dxggdvkr\" data-reactroot=\"\">Giere, R. N. (2007). Distributed cognition without distributed knowing. <em>Social Epistemology, 21</em>(3), 313\u2013320. <a href=\"https://doi.org/10.1080/02691720701674197\">https://doi.org/10.1080/02691720701674197</a></p>",
+              "customLabel": "Giere, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7nnjmtpa64",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Social epistemologists are also interested in what kinds of traits are conducive to knowledge or understanding in a social context. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Other-regarding epistemic virtues"
+          },
+          {
+            "type": "text",
+            "text": " are traits that are conducive to knowledge for others in the community or surroundings of the agent who possesses the virtue. One example of such a trait is honesty, because an honest person is likely to produce more knowledge in those around them ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvv75tazkhr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njwh0f4lf4t\" data-reactroot=\"\"> Kawall, J. (2002). Other\u2013regarding epistemic virtues. <em>Ratio</em>, <em>15</em>(3), 257-275</p>",
+              "customLabel": "Kawall, 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Such virtues can be categorized into four types ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndyp8cl7nq7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"naol6kt0m2t\" data-reactroot=\"\">Alfano, M. (2021). Virtues for agents in directed social networks. <em>Synthese</em>, <em>199</em>(3), 8423-8442</p>",
+              "customLabel": "Alfano, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The first is source virtues: traits that make someone a good source of information for others. Honesty, epistemic generosity, and integrity fall into this category. The second is receiver virtues: virtues that make one a good receiver of information. This category includes the virtue of inquisitiveness, which involves the ability to ask good questions of the right people ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqu9dotzeeg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"neptmpt9747\" data-reactroot=\"\">Watson, L. (2015). What is inquisitiveness. <em>American Philosophical Quarterly</em>, <em>52</em>(3), 273\u2013287.</p>",
+              "customLabel": "Watson, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The third is conduit virtues: virtues that make someone good at relaying information. The fourth is echoic virtues: the tendencies that allow a person to reiterate information they receive back to the source of information, as good teachers, therapists, and coaches often do ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nieg36gzuu8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"naol6kt0m2t\" data-reactroot=\"\">Alfano, M. (2021). Virtues for agents in directed social networks. <em>Synthese</em>, <em>199</em>(3), 8423-8442</p>",
+              "customLabel": "Alfano, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nlmnq9rbdsl",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Other-regarding epistemic virtues tend to align with moral virtues. Virtues such as honesty and integrity are morally good in part because they enhance the epistemic status of others. However, misalignments between moral virtues and epistemic virtues have also been noted. For instance, curiosity is considered an epistemic virtue, but curiosity can drive one to sit outside the window of one\u2019s ex-partner all night to see what they are up to ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nizdp5hpe0x",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3ygsnjlqyz\" data-reactroot=\"\">Mi\u0161\u010devi\u0107, N. (2020). <em>Curiosity as an epistemic virtue</em>. Palgrave Macmillan. <a href=\"https://doi.org/10.1007/978-3-030-57103-0\">https://doi.org/10.1007/978-3-030-57103-0</a></p>",
+              "customLabel": "Mi\u0161\u010devi\u0107, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n949mjhhvao",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxakgdfsmga\" data-reactroot=\"\">Ross, L. (2020). The virtue of curiosity. <em>Episteme</em>, <em>17</em>(1), 105-120.</p>",
+              "customLabel": "Ross, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), which would be inappropriate or immoral. Some epistemologists have responded to the misalignment of epistemic and moral goals by adopting the position that epistemic goods are only valuable insofar as they contribute to moral goodness ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nby6v1xzs3j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2eghtvjquw\" data-reactroot=\"\">Zagzebski, L. (2017). <em>Exemplarist moral theory</em>. Oxford University Press.</p>",
+              "customLabel": "Zagzebski, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "npn88llw6fh",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Social epistemologists also study the opposite of epistemic virtues, namely other-regarding epistemic vices. Epistemic arrogance is the tendency to assign too much credence to one\u2019s own viewpoints and opinions due to ego-defensive mechanisms ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6iw2si27pn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1zv77mkx91\" data-reactroot=\"\">Tanesini, A. (2021). <em>The mismeasure of the self: A study of vice epistemology</em>. Oxford University Press. <a href=\"https://doi.org/10.1093/oso/9780198858836.001.0001\">https://doi.org/10.1093/oso/9780198858836.001.0001</a></p>",
+              "customLabel": "Tanesini, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Epistemic insouciance is a lack of care toward inquiry, which causes one not to inquire and to discourage inquiry by others ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2jn7a4esam",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf73x6208b5\" data-reactroot=\"\">Cassam, Q. (2016). Vice epistemology. <em>The Monist</em>, <em>99</em>(2), 159\u2013180.</p>",
+              "customLabel": "Cassam, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Such traits, when they are motivated by a desire to obstruct the knowledge of others, come close to epistemic malevolence. An example of this comes from the abolitionist Frederick Douglass\u2019s autobiography, where his enslaver tries to prevent him from being taught to read ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nr4uv6io8q4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvn5qnwgjqp\" data-reactroot=\"\">Baehr, J. (2010). Epistemic malevolence. <em>Metaphilosophy</em>, <em>41</em>(1\u20102), 189-213.</p>",
+              "customLabel": "Baehr, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhspixjc7ri",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Recent work has also identified collective epistemic virtues and vices. These are character traits possessed by collectives such as groups, communities, and institutions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd11b74owdw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq4yceidy3h\" data-reactroot=\"\">Astola, M. (2021). Mandevillian virtues. <em>Ethical Theory and Moral Practice</em>, <em>24</em>(1), 19\u201332. <a href=\"https://doi.org/10.1007/s10677-020-10141-9\">https://doi.org/10.1007/s10677-020-10141-9</a></p>",
+              "customLabel": "Astola, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nulnozs0xdc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7bdek4puza\" data-reactroot=\"\">Fricker, Miranda (2010). Can There Be Institutional Virtues? In T. Gendler &amp; J. Hawthorne (eds.), <em>Oxford Studies in Epistemology</em> 3: 235-252.</p>",
+              "customLabel": "Fricker, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). People regularly attribute traits to collectives, e.g., \u201cthis company is incompetent.\u201d Such collective vices have been studied conceptually and empirically ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncx10ebu5bu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrglxknxal9\" data-reactroot=\"\">Meyer, M., Alfano, M., &amp; de Bruin, B. (2021). The development and validation of the epistemic vice scale.\u00a0<em>Review of Philosophy and Psychology</em>. <a href=\"https://doi.org/10.1007/s13164-021-00562-5\">https://doi.org/10.1007/s13164-021-00562-5</a></p>",
+              "customLabel": "Meyer et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For example, an engineering company, which, due to a hyperfocus on revenue, fails to consider viewpoints that conflict with revenue-generating decisions, could be said to suffer from collective epistemic arrogance.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "from-individuals-to-dyads",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "From individuals to dyads"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfmhq2ga87y",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Some cases of inquiry, such as checking the weather by looking out the window, are individual. However, many of our daily inquiries are in some way interpersonal and require various dyadic (two-person) interactions. One particular type of epistemic interaction has attracted a lot of attention: testimony."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ng8enajdq8k",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "When people give testimony (and not just in legal depositions), they communicate information to others and ask others to take their word for it ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3csnm5pgff",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0vnq7i32uc\" data-reactroot=\"\">Fricker, E., &amp; Cooper, D. E. (1987). The epistemology of testimony. <em>Proceedings of the Aristotelian Society, supplementary volumes</em>, <em>61</em>, 57-106.</p>",
+              "customLabel": "Fricker, 1987",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). It involves an epistemic interaction that requires trust. Views differ on whether testimony is a basic source of knowledge, like perception or logical reasoning, or whether it is a composite type of knowledge, combining perception and inference. In cases of cumulative culture passed down through generations, testimony is conceived as a basic source of knowledge  "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nq17dlwk3yf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nu531lf7uij\" data-reactroot=\"\">Levy, N., &amp; Alfano, M. (2020). Knowledge from vice: Deeply social epistemology. <em>Mind</em>, <em>129</em>(515), 887\u2013915. <a href=\"https://doi.org/10.1093/mind/fzz017\">https://doi.org/10.1093/mind/fzz017</a></p>",
+              "customLabel": "(Levy and Alfano, 2020)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " . "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ntl6ozss2ap",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Another context in which dyadic social interactions set the stage for theorizing is disagreement, especially peer disagreement. Suppose that you and someone else are trying to figure out how to split a bill at a restaurant. Both of you are educated and numerate, have access to the itemized receipt, and care about getting it right. Yet you come to a different split. Are you under any rational obligation to revise your belief in light of this disagreement? According to conciliationists, the fact that the person who disagrees with you is your epistemic peer means that you ought to change your view, suspend judgment, or reopen the inquiry. According to anti-coniliationists, you are not always under such an epistemic obligation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njxqeq37zcr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf3n3mflnxm\" data-reactroot=\"\">Kelly, T. (2010). Peer disagreement and higher-order evidence. In R. Feldman &amp; T. Warfield (Eds.), <em>Disagreement</em> (pp. 111\u2013174). Oxford University Press. <a href=\"https://doi.org/10.1093/acprof:oso/9780199226078.003.0007\">https://doi.org/10.1093/acprof:oso/9780199226078.003.0007</a></p>",
+              "customLabel": "Kelly, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Anti-conciliationists point out that in contexts where the disagreement is about something with much higher stakes (e.g., did the Holocaust happen?) or relates to identity-constituting commitments (e.g., does God exist?), the conciliationist approach may be too flexible, even amounting to a lack of integrity. Conciliationists, by contrast, point to norms of rationality that indict those who fail to update their credence in light of disconfirmatory evidence. Others criticize the whole debate by pointing out that the conditions for epistemic peerhood are so stringent that they are rarely met and that the mere fact that someone disagrees with you might itself be evidence that they are not your epistemic peer ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nob4cddyl28",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n572qvlkhiu\" data-reactroot=\"\">Mulligan, T. (2015). Disagreement, peerhood, and three paradoxes of Conciliationism. <em>Synthese</em>, <em>192</em>, 67-78.</p>",
+              "customLabel": "Mulligan, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5zgdhfppwv",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "There is also a small literature on \u201cbad company\u201d arguments, which rely on non-peerhood. The idea is that if you find yourself drawing the same conclusions as someone whom you regard as (severely) epistemically or morally incompetent, you may have reason to doubt yourself ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1zegzv67zy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlsnl1is1fs\" data-reactroot=\"\">Blanchard, J. (2023). The problem of unwelcome epistemic company. <em>Episteme</em>, 20(3), 529\u2013541.</p>",
+              "customLabel": "Blanchard, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbxcizug85u",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nne1nhu6hs4\" data-reactroot=\"\">Levy, N. (2023). When is company unwelcome? <em>Episteme, 20</em>(1), 101\u2013106. <a href=\"https://doi.org/10.1017/epi.2020.52\">https://doi.org/10.1017/epi.2020.52</a></p>",
+              "customLabel": "Levy, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8ay698qzs9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2js7j1abxr\" data-reactroot=\"\">Piovarchy, A. (2023). How I learned to stop worrying and ignore unwelcome epistemic company. <em>Canadian Journal of Philosophy, 53(2)</em>, 121\u2013137. <a href=\"https://doi.org/10.1017/can.2023.31\">https://doi.org/10.1017/can.2023.31</a></p>",
+              "customLabel": "Piovarchy, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Of course, it is possible to come to the same conclusion with both good and bad arguments, so the bad company concern is not decisive, but this literature raises new questions about agreement rather than disagreement."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfisu9muuca",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Sometimes people fail to take others seriously as epistemic peers even though they should. This can happen through the exercise of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "testimonial injustice "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhyy2kf1xw2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"na8b90vx18d\" data-reactroot=\"\">Fricker, M. (2007). <em>Epistemic injustice: Power and the ethics of knowing</em>. Oxford University Press. <a href=\"https://doi.org/10.1093/acprof:oso/9780198237907.001.0001\">https://doi.org/10.1093/acprof:oso/9780198237907.001.0001</a></p>",
+              "customLabel": "(Fricker, 2007)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", which occurs when someone gives less credence to the testimony of another because of identity-based prejudice such as misogyny, racism, or classism. Fricker calls this unjust discounting a credibility deficit and argues that someone who systematically applies credibility deficits embodies the other-regarding epistemic vice of testimonial injustice. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3yhkmkw5nf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndg3x2hnasp\" data-reactroot=\"\">Dotson, K. (2011). Tracking epistemic violence, tracking practices of silencing. <em>Hypatia</em>, <em>26</em>(2), 236\u2013257.</p>",
+              "customLabel": "Dotson (2011)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " extends the analysis by considering instances of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "silencing"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "smothering"
+          },
+          {
+            "type": "text",
+            "text": ". In silencing, it is not that a speaker makes an assertion that is recognized as an assertion but is discounted. Instead, the speaker is not taken seriously as a potential knower in the first place and, thus, is not in a position to offer testimony. In smothering, would-be speakers self-silence for fear that their words will be misconstrued in such a way that they or members of their marginalized community will suffer further harms, e.g., when Black women in the United States (where fear of state agents is common and reasonable) decide not to report domestic violence by their male partners."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "from-dyads-to-triads",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "From dyads to triads"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n95ts5e8z02",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In the dyadic case, the question is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "whether"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "how much"
+          },
+          {
+            "type": "text",
+            "text": " to trust another individual\u2019s testimony. However, in a triadic context, there may be testimony from two people who disagree with each other. This is described in the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "two-expert problem"
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx4znsdsn9e",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj8nqysqts0\" data-reactroot=\"\">Goldman, A. I. (2001). Experts: Which ones should you trust? <em>Philosophy and Phenomenological Research</em>, <em>63</em>(1), 85\u2013110. https://doi.org/10.2307/3071090</p>",
+              "customLabel": "(Goldman, 2001)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". They may also be peers or near-peers. And they may purport to be experts in the domain, whereas we know that we are nonexperts. The question then is not whether to trust but "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "which"
+          },
+          {
+            "type": "text",
+            "text": " to trust, since trusting one of them necessarily means mistrusting the other. The problem is exacerbated by the fact that determining which purported expert is more trustworthy is best done by someone who is also an expert, but this is explicitly ruled out in the scenario in question. The thought experiment is not merely hypothetical. Problems like this crop up when, for instance, a debate is staged between two nutritionists. Goldman (see also "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "niqpul789rf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"na5j39netkw\" data-reactroot=\"\">Mercier, H. (2020). <em>Not born yesterday: The science of who we trust and what we believe</em>. Princeton University Press.</p>",
+              "customLabel": "Mercier, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") points out that while there is no surefire way to handle the two-expert problem, there are heuristics we can use, such as testing for plausibility, observing the purported experts\u2019 track records, checking for conflicts of interest, looking to broader consensus among other experts, and checking whether the purported experts have received credentials from respected institutions (though the latter two take us beyond the triadic context)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nybkkorpupc",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Returning to the topic of testimonial injustice, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n57xvxkx0n5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqz801j5ttx\" data-reactroot=\"\">Medina, J. (2012). <em>The epistemology of resistance: Gender and racial oppression, epistemic injustice, and resistant imaginations</em>. Oxford University Press.</p>",
+              "customLabel": "Medina (2012)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " points out that credibility deficits also are better understood in triadic rather than dyadic contexts. When one person testifies to their marginalization, it often happens that someone in a more dominant social position denies or discredits their testimony. As in the two-expert problem, we receive testimony from not just one but multiple sources that sometimes disagree with each other. So once again, the choice is not "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "whether"
+          },
+          {
+            "type": "text",
+            "text": " to trust but "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "which"
+          },
+          {
+            "type": "text",
+            "text": " to trust. Medina goes on to point out that "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3l6sp3p7al",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"na8b90vx18d\" data-reactroot=\"\">Fricker, M. (2007). <em>Epistemic injustice: Power and the ethics of knowing</em>. Oxford University Press. <a href=\"https://doi.org/10.1093/acprof:oso/9780198237907.001.0001\">https://doi.org/10.1093/acprof:oso/9780198237907.001.0001</a></p>",
+              "customLabel": "Fricker (2007)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " suggests that only credibility deficits (mistrusting when one should trust) are a serious problem. He argues\u00a0 that, in these more complex cases, credibility excesses (trusting more than one should trust) afforded to members of dominant groups are indistinguishable from credibility deficits applied to members of marginalized groups with whom they disagree."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nsbaigt7l8q",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A final way in which someone\u2019s epistemic agency can be undermined is through "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "gaslighting"
+          },
+          {
+            "type": "text",
+            "text": ", which can lead a would-be testifier to doubt their own perceptual, memorial, agential, or cognitive capacities so much that they lose the confidence required to offer testimony. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nr6p406cuho",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njcmxdscd6i\" data-reactroot=\"\">Abramson, K. (2014). Turning up the lights on gaslighting. <em>Philosophical Perspectives</em>, <em>28</em>(1), 1\u201330. <a href=\"https://doi.org/10.1111/phpe.12046\">https://doi.org/10.1111/phpe.12046</a></p>",
+              "customLabel": "Abramson (2014)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " argues that gaslighting, in common parlance, has come to refer to, intentional or unintentional, prolonged engagement with another person\u2014typically a member of a marginalized group\u2014that functions to undermine their self-confidence and that it often relies on social proof from others who concur with the gaslighter. Thus, whereas testimonial justice refers to cases where the hearer does not trust enough, gaslighting goes deeper by inducing "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "self-doubt"
+          },
+          {
+            "type": "text",
+            "text": " in the would-be speaker. Moreover, the effectiveness of gaslighting often depends on the internalization of identity-prejudicial norms by the target."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "from-triads-to-networks",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "From triads to networks"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9v6ykzvt5d",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Our epistemic life, and the dyadic and triadic interactions we have with other knowers, takes place in the context of a network of knowers. When we are faced with a two-expert problem, we may seek out more experts, being mindful of how independent these experts are and rely on multiple sources of information. Our epistemic position (how well positioned we are to gain knowledge) depends on multiple factors, including number, independence, diversity, and reliability of sources, and effort required to change the structure of one\u2019s epistemic network ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "neqpt12gtnv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nin0it8mazw\" data-reactroot=\"\">Sullivan, E., Sondag, M., Rutter, I., Meulemans, W., Cunningham, S., Speckmann, B., &amp; Alfano, M. (2020). Can real social epistemic networks deliver the wisdom of crowds? In T. Lombrozo, J. Knobe, &amp; S. Nichols (Eds.), <em>Oxford studies in experimental philosophy</em> (Volume 3) (pp. 29\u201363). Oxford University Press. <a href=\"https://doi.org/10.1093/oso/9780198852407.003.0003\">https://doi.org/10.1093/oso/9780198852407.003.0003</a></p>",
+              "customLabel": "Sullivan et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4q10frt7dm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One subfield of social epistemology studies how epistemic networks behave as a whole. The "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "wisdom of the crowd "
+          },
+          {
+            "type": "text",
+            "text": "effect, where large groups of nonexperts epistemically outperform experts, has been documented in many areas ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhup62581uu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n46mr59fiv4\" data-reactroot=\"\">Nofer, M., &amp; Hinz, O. (2014). Are crowds on the internet wiser than experts? The case of a stock prediction community. <em>Journal of Business Economics, 84</em>, 303\u2013338.</p>",
+              "customLabel": "Nofer & Hinz, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Such cases can be understood as cases of epistemic "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "group capability"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "group skill,"
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "group virtue"
+          },
+          {
+            "type": "text",
+            "text": ".\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfpke570h12",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Social epistemologists are also interested in questions about what conditions are required for crowds to attain wisdom. Crowds are not always wise and suffer from epistemic dysfunction. Such cases include crowds that are too polarized ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "na7mdwksaeh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nda9vkxt3k0\" data-reactroot=\"\">O\u2019Connor, C., &amp; Weatherall, J. O. (2018). Scientific polarization. <em>European Journal for Philosophy of Science</em>, <em>8</em>, 855\u2013875.</p>",
+              "customLabel": "O\u2019Connor & Weatherall, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nq0tyizcms7",
+              "href": null,
+              "value": "https://doi.org/10.1007/s11229-019-02520-2",
+              "unstructuredValue": "",
+              "customLabel": "Weatherall & O\u2019Connor, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and groups with too much conformity or the presence of collective epistemic vices, such as collective arrogance ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "np6bcpagt1m",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nc9rph7fgyr\" data-reactroot=\"\">O\u2019Connor, C., &amp; Weatherall, J. O. (2019). <em>The misinformation age: How false beliefs spread</em>. Yale University Press.</p>",
+              "customLabel": "O\u2019Connor & Weatherall, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxja4ml6gwk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In dyadic interactions, it seems that more information transfer is always better epistemically speaking. However, in the case of networks, limiting information can increase the probability that a network or group converges on the truth ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nueh74j1yub",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0xvdfi4424\" data-reactroot=\"\">Zollman, K. J. (2010). The epistemic benefit of transient diversity. <em>Erkenntnis</em>, <em>72</em>(1), 17\u201335. <a href=\"https://doi.org/10.1007/s10670-009-9194-6\">https://doi.org/10.1007/s10670-009-9194-6</a></p>",
+              "customLabel": "Zollman, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). When a group of inquirers consist of individuals who have only a limited set of information, or have differing prior beliefs, they perform better than groups where individuals can access all available information. This is because being able to access all information tends to equalize agents\u2019 credence in hypotheses, and therefore, potentially fruitful hypotheses remain unexplored. In networks where information is compartmentalized, agents ignorant of the evidence against a hypothesis are likely to keep pursuing it. The more alternative hypotheses are pursued, the less chance there is of hypotheses being rejected too early ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ne5ww4c4hy4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0xvdfi4424\" data-reactroot=\"\">Zollman, K. J. (2010). The epistemic benefit of transient diversity. <em>Erkenntnis</em>, <em>72</em>(1), 17\u201335. <a href=\"https://doi.org/10.1007/s10670-009-9194-6\">https://doi.org/10.1007/s10670-009-9194-6</a></p>",
+              "customLabel": "Zollman, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndgzshtjev5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk9d298kyc0\" data-reactroot=\"\">Gabriel, N., &amp; O\u2019Connor, C. (2022). Can confirmation bias improve group learning? <em>Philosophy of Science</em>. <a href=\"https://philsci-archive.pitt.edu/20528/\">https://philsci-archive.pitt.edu/20528/</a></p>",
+              "customLabel": "Gabriel & O\u2019Connor, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njt04qz6baq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nklk8l29j3b\" data-reactroot=\"\">Smaldino, P. E., Moser, C., P\u00e9rez Velilla, A., &amp; Werling, M. (2024). Maintaining transient diversity is a general principle for improving collective problem solving. <em>Perspectives on Psychological Science, 19</em>(2), 454\u2013464. <a href=\"https://doi.org/10.1177/17456916231180100\">https://doi.org/10.1177/17456916231180100</a></p>",
+              "customLabel": "Smaldino et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Cases where the epistemic vice of individuals contributes to the epistemic success of the group is called mandevillian intelligence, or mandevillian virtue ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvxvjvl0qgv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9mqgrptobz\" data-reactroot=\"\">Smart, P. R. (2018). Mandevillian intelligence. <em>Synthese</em>, <em>195</em>, 4169\u20134200. <a href=\"https://doi.org/10.1007/s11229-017-1414-z\">https://doi.org/10.1007/s11229-017-1414-z</a></p>",
+              "customLabel": "Smart, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7858nxaszg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq4yceidy3h\" data-reactroot=\"\">Astola, M. (2021). Mandevillian virtues. <em>Ethical Theory and Moral Practice</em>, <em>24</em>(1), 19\u201332. <a href=\"https://doi.org/10.1007/s10677-020-10141-9\">https://doi.org/10.1007/s10677-020-10141-9</a></p>",
+              "customLabel": "Astola, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "no97khkjzc6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Social epistemology has been addressed at greater length for a philosophical audience (see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/j074k4aj#further-reading",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Further reading"
+          },
+          {
+            "type": "text",
+            "text": "). Social epistemology also draws from other fields and can also contribute in turn to those fields because the main topics of social epistemology include networks ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh6vdbwjxgs",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3fvt44xvbo\" data-reactroot=\"\">Baronchelli, A., Ferrer-i-Cancho, R., Pastor-Satorras, R., Chater, N., &amp; Christiansen, M. H. (2013). Networks in cognitive science.\u00a0<em>Trends in Cognitive Sciences</em>,\u00a0<em>17</em>(7), 348\u2013360. <a href=\"https://doi.org/10.1016/j.tics.2013.04.010\" title=\"Persistent link using digital object identifier\" target=\"_blank\">https://doi.org/10.1016/j.tics.2013.04.010</a></p>",
+              "customLabel": "Baronchelli et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), social learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7a7k9ezikp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsfj3sv3jqk\" data-reactroot=\"\">Gweon, H. (2021). Inferential social learning: Cognitive foundations of human social learning and teaching.\u00a0<em>Trends in Cognitive Sciences</em>,\u00a0<em>25</em>(10), 896\u2013910.\u00a0<a href=\"https://doi.org/10.1016/j.tics.2021.07.008\">https://doi.org/10.1016/j.tics.2021.07.008</a></p>",
+              "customLabel": "Gweon, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/d8e1n1e8",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Social Learning"
+          },
+          {
+            "type": "text",
+            "text": "], epistemic character ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnukoqkcxa4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlu2bzkohty\" data-reactroot=\"\">Sutton, R. M., &amp; Douglas, K. M. (2020). Conspiracy theories and the conspiracy mindset: Implications for political ideology.\u00a0<em>Current Opinion in Behavioral Sciences</em>,\u00a0<em>34</em>, 118\u2013122.\u00a0<a href=\"https://doi.org/10.1016/j.cobeha.2020.02.015\" title=\"Persistent link using digital object identifier\" target=\"_blank\">https://doi.org/10.1016/j.cobeha.2020.02.015</a></p>",
+              "customLabel": "Sutton & Douglas, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and communicative behavior ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nklp1gwlthv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5mctnmws3w\" data-reactroot=\"\">de Ruiter, J. P., Noordzij, M. L., Newman-Norlund, S., Newman-Norlund, R., Hagoort, P., Levinson, S. C., &amp; Toni, I. (2010). Exploring the cognitive infrastructure of communication.\u00a0<em>Interaction Studies: Social Behaviour and Communication in Biological and Artificial Systems</em>,\u00a0<em>11</em>(1), 51\u201377. <a href=\"https://psycnet.apa.org/doi/10.1075/is.11.1.05rui\" target=\"_blank\">https://doi.org/10.1075/is.11.1.05rui</a></p>",
+              "customLabel": "de Ruiter et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Every field that considers any of these topics intersects with social epistemology to some extent. Social epistemology describes how groups gain and preserve information. Processes like this are essential in almost all domains of human activity and have been essential in human evolution.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqutk4hj4rw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Cumulative culture"
+          },
+          {
+            "type": "text",
+            "text": " describes knowledge that is only possible in the context of intergenerational transmission [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/u870vxpu",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Cultural Evolution"
+          },
+          {
+            "type": "text",
+            "text": "]. Humans have the ability to preserve knowledge, transmit it to the next generation, and add to or refine that knowledge; think of the transmission of language, religion, technological know-how, and science ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvh8xthc3a5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuffph4vpkl\" data-reactroot=\"\">Boyd, R., &amp; Richerson, P. J. (2005). <em>The origin and evolution of cultures</em>. Oxford University Press.</p>",
+              "customLabel": "Boyd & Richerson, 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The study of evolutionary epistemology (in the tradition of authors such as "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqw6p2ihn8d",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxm1ir6uv6h\" data-reactroot=\"\">Lorenz, Konrad: 1941. &#x27;Kants Lehre vom Apriorischen im Lichte gegenwiirtiger Biologie,&#x27; Blatter for Deutsche Philosophie 15, 94-125. (English translation in Evans, 1975).</p>",
+              "customLabel": "Lorenz, 1941",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), sees the evolution of cognitive capabilities as a source of explanations for how human and animal cognitive processes function ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "np8vzr6ik2z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlla4wk4yhy\" data-reactroot=\"\">Riegler, A. (2006). Like cats and dogs: Radical constructivism and evolutionary epistemology. In N. Gontier, J. P. Bendegem, &amp; D. Aerts (Eds.), <em>Evolutionary epistemology, language and culture:</em> <em>A non-adaptationist, systems theoretical approach</em> (pp. 47\u201365). Publisher. <a href=\"https://doi.org/10.1007/1-4020-3395-8_3\">https://doi.org/10.1007/1-4020-3395-8_3</a></p>",
+              "customLabel": "Riegler, 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nim4llunzvj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Finally, the rise of large team research has led to discussions of the social epistemology of research. This trend is especially pronounced in physics, where a recent paper had over 5,000 coauthors ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no6qqc20g4z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntwqyva3gzb\" data-reactroot=\"\">Aad, G., Abbott, B., Abdallah, J., Abdinov, O., Aben, R., Abolins, M., AbouZeid, O. S., Abramowicz, H., Abreu, H., Abreu, R., Abulaiti, Y., Acharya, B. S., Adamczyk, L., Adams, D. L., Adelman, J., Adomeit, S., Adye, T., Affolder, A. A., Agatonovic-Jovin, T., Aguilar-Saavedra, J. A., et al. (2015). Combined measurement of the Higgs boson mass in <em>pp</em> collisions at \u221a<em>s</em> = 7 and 8 TeV with the ATLAS and CMS experiments. <em>Physical Review Letters, 114</em>, 191803. <a href=\"https://doi.org/10.1103/PhysRevLett.114.191803\">https://doi.org/10.1103/PhysRevLett.114.191803</a></p>",
+              "customLabel": "Aad et al., 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). It is inconceivable that every coauthor of this paper understands all of the details of the experimental design, equipment, materials, models, analytical strategy, and so on of the research. Indeed, it is inconceivable that any single one of them possesses this understanding. In general, though, we often expect that when someone offers testimony, they are able to survey their own reasoning, transfer it to others via explanation, and detect and trace flaws in it when these are pointed out. In cases of large team science, these conditions are not met by any individual but only by the group. Similar arguments have been made about the rise of team mathematics that draws on disparate areas of mathematical expertise and knowledge ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4nl0lln6t2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nt267wrgkx9\" data-reactroot=\"\">Habgood-Coote, J., &amp; Tanswell, F. S. (2023). Group knowledge and mathematical collaboration: A philosophical examination of the <em>classification of finite simple groups</em>. <em>Episteme, 20</em>(2), 281\u2013307. <a href=\"https://doi.org/10.1017/epi.2021.26\">https://doi.org/10.1017/epi.2021.26</a></p>",
+              "customLabel": "Habgood-Coote & Tanswell, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These cases from science and mathematics may help to inform our verdict on the dispute between summativists and anti-summativists canvassed above."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "acknowledgements",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Acknowledgements"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ntqeei33w7j",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This work was supported by the Templeton Foundation (62631) and the Australian Research Council (DP230101081)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n10vc8tm821",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n8rznt8iwq4",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Coady, C. A. J. (1992). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Testimony: A philosophical study"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Clarendon Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n1fot5stfea",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Goldman, A. I. (1999). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Knowledge in a social world"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Oxford University Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n6il1ev1clm",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Grasswick, H. (2018). Feminist social epistemology. In E. N. Zalta (Ed.),\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The Stanford encyclopedia of philosophy"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (Fall 2018 Edition). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://plato.stanford.edu/archives/fall2018/entries/feminist-social-epistemology/",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://plato.stanford.edu/archives/fall2018/entries/feminist-social-epistemology/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "ngyta21spwb",
+                  "class": "MsoNormal",
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Zollman, K. J. (2010). The epistemic benefit of transient diversity. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Erkenntnis"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "72"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(1), 17\u201335. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1007/s10670-009-9194-6",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1007/s10670-009-9194-6"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

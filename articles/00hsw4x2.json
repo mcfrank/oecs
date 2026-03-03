@@ -1,0 +1,3859 @@
+{
+  "id": "fe6e37e6-042b-4e7b-8327-2f149147031f",
+  "slug": "00hsw4x2",
+  "title": "Complex Dynamical Systems",
+  "url": "https://oecs.mit.edu/pub/00hsw4x2",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "fe6e37e6-042b-4e7b-8327-2f149147031f",
+    "slug": "00hsw4x2",
+    "title": "Complex Dynamical Systems",
+    "htmlTitle": "Complex Dynamical Systems",
+    "description": "",
+    "htmlDescription": "Rick Dale (https://orcid.org/0000-0001-7865-474X)",
+    "avatar": null,
+    "customPublishedAt": "2024-07-24T00:00:00.000Z",
+    "doi": "10.21428/e2759450.fe6e37e6",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "wcfc5af5",
+    "editHash": "l1826vk7",
+    "reviewHash": "voaxq1q5",
+    "commentHash": "axnsz0z0",
+    "draftId": "db1083e6-85df-4475-804e-aeffe935e2ea",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "ab0a8522-b942-45c4-98b2-f5e535ae623c",
+    "scopeSummaryId": "bec0be58-8da8-4cd2-a5d1-17be900f04f1",
+    "createdAt": "2024-05-28T17:54:52.456Z",
+    "updatedAt": "2024-07-24T12:23:20.202Z",
+    "attributions": [
+      {
+        "id": "256c3ebc-e8cb-4ffa-8e77-574950effc02",
+        "name": "Rick Dale",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Department of Communication, University of California, Los Angeles",
+        "orcid": "0000-0001-7865-474X",
+        "userId": null,
+        "pubId": "fe6e37e6-042b-4e7b-8327-2f149147031f",
+        "createdAt": "2024-05-28T18:03:17.168Z",
+        "updatedAt": "2024-05-28T18:03:37.480Z",
+        "user": null
+      },
+      {
+        "id": "ed22f8b6-012b-4a19-8263-01fcc5945280",
+        "name": "Asifa Majid",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "University of Oxford",
+        "orcid": "0000-0003-0132-216X",
+        "userId": null,
+        "pubId": "fe6e37e6-042b-4e7b-8327-2f149147031f",
+        "createdAt": "2024-07-23T21:08:10.535Z",
+        "updatedAt": "2024-07-23T21:08:27.996Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "db1083e6-85df-4475-804e-aeffe935e2ea",
+      "latestKeyAt": "2024-07-24T12:22:36.927Z",
+      "firebasePath": "drafts/draft-db1083e6-85df-4475-804e-aeffe935e2ea",
+      "createdAt": "2024-05-28T17:54:52.453Z",
+      "updatedAt": "2024-12-03T00:26:45.413Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvhmjas18da",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A complex dynamical system is one with interdependent parts that evolve nonlinearly over time. As the system evolves, surprising patterns may emerge in the system\u2019s behaviors or structure. These emergent patterns arise from interactions among the system\u2019s parts. Complex dynamical systems are studied in many diverse fields from physics to economics. They can help us understand many systems from chemical reactions and ant colonies to human societal organization. Some cognitive scientists argue that complex dynamical systems are critical for understanding how cognition and related phenomena arise in natural or simulated conditions."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvg4u25zobl",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "It may seem puzzling that so many very complicated systems nevertheless behave in coherent and coordinated ways. This puzzle finds specific expression in many research domains. In biology, researchers may ask how single cells cooperate to bring about multicellular life. In the social sciences, we see societies and economies that are composed of millions of individuals yet have stable collective characteristics. And in cognitive science, we may ask how human minds act amidst a complicated and constantly changing environment. Those who study complex dynamical systems see a potential explanation in the way that a system\u2019s parts interact. This is because complex dynamical systems have elegant explanatory features. For example, no central \u201ccontroller\u201d needs to be hypothesized as driving the system\u2019s emerging properties."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncdapyg8iil",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In the history of these ideas, the phrases "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "complex system"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "dynamical system"
+          },
+          {
+            "type": "text",
+            "text": " often appear on their own (and sometimes as nouns "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "complexity"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "dynamics"
+          },
+          {
+            "type": "text",
+            "text": "). Despite their independent usage, these terms have a long and closely associated history ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nr7tw3ce8un",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"narc1p145mf\" data-reactroot=\"\">Mitchell, M. (2009). <em>Complexity: A guided tour</em>. Oxford University Press. <a href=\"https://doi.org/10.1093/oso/9780195124415.001.0001\">https://doi.org/10.1093/oso/9780195124415.001.0001</a></p>",
+              "customLabel": "Mitchell, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Technical conceptions about complex dynamics often arose alongside other concepts deeply rooted in the history of cognitive science, such as information and computation. Indeed, several recognizable contributors to one of these domains were also contributors to another. For example, the archetype of classic computing theory was developed in "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncmogydpdbq",
+              "href": null,
+              "value": "https://doi.org/10.1112/plms/s2-42.1.230",
+              "unstructuredValue": "",
+              "customLabel": "Turing (1937)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". We now refer to this archetype as a Turing machine. However, Turing also developed a mathematical model of how local interactions yield emergent biological patterns, like the spots of a jaguar in a 1953 paper \u201cThe Chemical Basis of Morphogenesis\u201d. See "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh3ini93p8u",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfk9ckpskpn\" data-reactroot=\"\">Turing, A. M. (1952). The Chemical Basis of Morphogenesis. <em>Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences</em>, <em>237</em>(641), 37\u201372. <a href=\"https://doi.org/10.1098/rstb.1952.0012\">https://doi.org/10.1098/rstb.1952.0012</a></p>",
+              "customLabel": "Turing (1952)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " (for discussion, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n68dgorwklm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4pbehkapz7\" data-reactroot=\"\">Kelso, J. A. S. (1995). <em>Dynamic patterns: The self-organization of brain and behavior</em>. MIT Press.</p>",
+              "customLabel": "Kelso, 1995",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nt7594hpyds",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n64p8zt0nav\" data-reactroot=\"\">Kelty-Stephen, D. G., &amp; Mangalam, M. (2022). Turing\u2019s cascade instability supports the coordination of the mind, brain, and behavior. <em>Neuroscience &amp; Biobehavioral Reviews</em>, <em>141</em>, Article 104810. <a href=\"https://doi.org/10.1016/j.neubiorev.2022.104810\">https://doi.org/10.1016/j.neubiorev.2022.104810</a></p>",
+              "customLabel": "Kelty-Stephen & Mangalam, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n40e6t5cp9b",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This duality of thinking was commonplace. Researchers saw rich connections among things, between neural circuits and logical operations, system self-regulation and information theory, hierarchical complexity and intelligent systems, and more. This connectedness is noticeable in a historical map of complexity science by "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9hce8b2qny",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9jh4i8zcjx\" data-reactroot=\"\">Castellani, B., &amp; Gerrits, L. (2021). <em>2021 Map of the Complexity Sciences.</em> Retrieved from <a href=\"https://www.art-sciencefactory.com/MapLegend.html\">https://www.art-sciencefactory.com/MapLegend.html</a></p>",
+              "customLabel": "Castellani and Gerrits (2021)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". Complexity science is the term for the field investigating complex dynamical systems. On their map are many familiar names from the origins of cognitive science itself, including anthropology, linguistics, computer science, psychology, and more. The map is striking in the range of disciplines represented. Complexity science is widely regarded from its origins to be just as interdisciplinary as cognitive science. An adapted version of the historical map by "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk45r30r2dy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9jh4i8zcjx\" data-reactroot=\"\">Castellani, B., &amp; Gerrits, L. (2021). <em>2021 Map of the Complexity Sciences.</em> Retrieved from <a href=\"https://www.art-sciencefactory.com/MapLegend.html\">https://www.art-sciencefactory.com/MapLegend.html</a></p>",
+              "customLabel": "Castellani and Gerrits (2021)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " with portions most relevant to cognitive science is shown in Figure 1."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "n6ftw0cn161",
+          "url": "https://assets.pubpub.org/44lpzdvq/51716919373173.jpg",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"n9bkf9upbv3\" data-reactroot=\"\">Historical map of <span id=\"nk45r30r2dy\" data-node-type=\"citation\" data-value=\"\" data-unstructured-value=\"&lt;p id=&quot;n9jh4i8zcjx&quot; data-reactroot=&quot;&quot;&gt;Castellani, B., &amp;amp; Gerrits, L. (2021). &lt;em&gt;2021 Map of the Complexity Sciences.&lt;/em&gt; Retrieved from &lt;a href=&quot;https://www.art-sciencefactory.com/MapLegend.html&quot;&gt;https://www.art-sciencefactory.com/MapLegend.html&lt;/a&gt;&lt;/p&gt;\" data-custom-label=\"Castellani and Gerrits (2021)\" class=\"citation\">Castellani and Gerrits (2021)</span>, showing the rich and complicated history of complexity science. Note the prominent presence of cognitive science and associated disciplines. The map is meant to be approximately historical, because there are obvious points of contention regarding historical placement of both topics and individuals. (Map shared by authors under CC BY-SA 4.0\u037e web version includes links for all individuals and topics.)</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nv89ikvjp4m",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Complexity science is rooted in several important historical trends. For example, emerging in the 1940s, cybernetics focused on the self-regulatory processes of systems. It was often expressed in a mathematical framework for systems that integrate nonlinear feedback to learn about their environment and control their own behavior. It also influenced the early history of cognitive science "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2a1vtb431v",
+              "href": null,
+              "value": "@book{10.5555/1481429,\nauthor = {Boden, Margaret},\ntitle = {Mind as Machine: A History of Cognitive Science},\nyear = {2008},\nisbn = {019954316X},\npublisher = {Oxford University Press, Inc.},\naddress = {USA},\nabstract = {The development of cognitive science is one of the most remarkable and fascinating intellectual achievements of the modern era. The quest to understand the mind is as old as recorded human thought; but the progress of modern science has offered new methods and techniques which have revolutionized this enquiry. Oxford University Press now presents a masterful history of cognitive science, told by one of its most eminent practitioners. Cognitive science is the project of understanding the mind by modeling its workings. Psychology is its heart, but it draws together various adjoining fields of research, including artificial intelligence; neuroscientific study of the brain; philosophical investigation of mind, language, logic, and understanding; computational work on logic and reasoning; linguistic research on grammar, semantics, and communication; and anthropological explorations of human similarities and differences. Each discipline, in its own way, asks what the mind is, what it does, how it works, how it developed - how it is even possible. The key distinguishing characteristic of cognitive science, Boden suggests, compared with older ways of thinking about the mind, is the notion of understanding the mind as a kind of machine. She traces the origins of cognitive science back to Descartes's revolutionary ideas, and follows the story through the eighteenth and nineteenth centuries, when the pioneers of psychology and computing appear. Then she guides the reader through the complex interlinked paths along which the study of the mind developed in the twentieth century. Cognitive science, in Boden's broad conception, covers a wide range of aspects of mind: not just 'cognition' in the sense of knowledge or reasoning, but emotion, personality, social communication, and even action. In each area of investigation, Boden introduces the key ideas and the people who developed them. No one else could tell this story as Boden can: she has been an active participant in cognitive science since the 1960s, and has known many of the key figures personally. Her narrative is written in a lively, swift-moving style, enriched by the personal touch of someone who knows the story at first hand. Her history looks forward as well as back: it is her conviction that cognitive science today--and tomorrow--cannot be properly understood without a historical perspective. Mind as Machine will be a rich resource for anyone working on the mind, in any academic discipline, who wants to know how our understanding of our mental activities and capacities has developed.}\n}",
+              "unstructuredValue": "",
+              "customLabel": "",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". Cybernetics did not continue as a single coherent field of study (at least not with the impact anticipated in its time). However, various ideas emanated from cybernetics that populate cognitive science, machine learning, control theory, computing theory, and complex dynamical systems ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nr30pd1j0kp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"no3f8lri3sk\" data-reactroot=\"\">Pl\u00e9h, C., &amp; Gurova, L. (2013). Existing and would-be accounts of the history of cognitive science: An introduction. In C.-G. Pl\u00e9h and L. Lilia\u2013Ropolyi (Eds.),<em> New Perspectives on the History of Cognitive Science</em>. Akad\u00e9miai Kiad\u00f3, Budapest.</p>",
+              "customLabel": "Pl\u00e9h and Gurova, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncyye41neyk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Research in the 1960s in motor neuroscience and psychology was inspired by observations that even the simplest human actions coordinate many interacting muscles, joints, and limbs. Key ideas about complex dynamics thus arose in theories of motor control. These have fused into a vibrant theoretical tradition sometimes called the \u201cdynamical approach\u201d in cognitive science and includes the study of perception, action, cognition, development, and more ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nps8u8yvbup",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3u1uykc9st\" data-reactroot=\"\">Beer, R. D. (2023). On the proper treatment of dynamics in cognitive science. <em>Topics in Cognitive Science</em>, Article 12686. <a href=\"https://doi.org/10.1111/tops.12686\">https://doi.org/10.1111/tops.12686</a></p>",
+              "customLabel": "Beer, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwpl9sue2s5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"niur7s2ch4f\" data-reactroot=\"\">Spivey, M. (2007). <em>The continuity of mind</em>. Oxford University Press. <a href=\"https://doi.org/10.1093/acprof:oso/9780195170788.001.0001\">https://doi.org/10.1093/acprof:oso/9780195170788.001.0001</a></p>",
+              "customLabel": "Spivey, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngy5tat2pot",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq15v09sr3w\" data-reactroot=\"\">Thelen, E., &amp; Smith, L. B. (2002). <em>A dynamic systems approach to the development of cognition and action</em> (5th ed.). MIT Press.</p>",
+              "customLabel": "Thelen & Smith, 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqsa5q4mxlm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb3ddqo4uhb\" data-reactroot=\"\">Turvey, M. T. (2018). <em>Lectures on perception: An ecological perspective</em>. Routledge.</p>",
+              "customLabel": "Turvey, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). There are corresponding movements in linguistics ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "np8lg2o3f1z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrt5zhaccfg\" data-reactroot=\"\">Beckner, C., Blythe, R., Bybee, J., Christiansen, M. H., Croft, W., Ellis, N. C., Holland, J., Ke, J., Larsen-Freeman, D., &amp; Schoenemann, T. (2009). Language is a complex adaptive system: Position paper. <em>Language Learning</em>, <em>59</em>(s1), 1\u201326. <a href=\"https://doi.org/10.1111/j.1467-9922.2009.00533.x\">https://doi.org/10.1111/j.1467-9922.2009.00533.x</a></p>",
+              "customLabel": "Beckner et al., 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njk1z80s9ul",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj5jqp0tiki\" data-reactroot=\"\">Larsen-Freeman, D. (1997). Chaos/complexity science and second language acquisition. <em>Applied Linguistics</em>, <em>18</em>(2), 141\u2013165. <a href=\"https://doi.org/10.1093/applin/18.2.141\">https://doi.org/10.1093/applin/18.2.141</a></p>",
+              "customLabel": "Larsen-Freeman, 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and in computational systems ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "niu2i1z2h9i",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbe2pat07yz\" data-reactroot=\"\">Langton, C. G. (1990). Computation at the edge of chaos: Phase transitions and emergent computation. <em>Physica D: Nonlinear Phenomena</em>, <em>42</em>(1\u20133), 12\u201337. <a href=\"https://doi.org/10.1016/0167-2789(90)90064-V\">https://doi.org/10.1016/0167-2789(90)90064-V</a></p>",
+              "customLabel": "Langton, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6v6mm8w2zu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvl143lfh9m\" data-reactroot=\"\">Smaldino, P. E. (2023). <em>Modeling social behavior: Mathematical and agent-based models of social dynamics and cultural evolution</em>. Princeton University Press.</p>",
+              "customLabel": "Smaldino, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). All these developments imply that studying systems like biological organisms and their behavior may require an understanding of interactivity, dynamics, and emergent order."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4rkp3y3iq1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A history would be incomplete without mention of the Santa Fe Institute (SFI). In the 1980s, the SFI was designed to facilitate multidisciplinary interactions among many intellectual traditions, from the humanities to physical sciences. It is now an institutional centerpiece of complexity science. The SFI organizes multidisciplinary events and disseminates many open-source materials that can be used in education and research (e.g., the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Complexity Explorer"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0s5ld6jl2c",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n03kqphkvgj\" data-reactroot=\"\">Santa Fe Institute. (2024). <em>Complexity explorer</em>. <a href=\"https://www.complexityexplorer.org\">https://www.complexityexplorer.org</a></p>",
+              "customLabel": "Santa Fe Institute, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Intellectual societies for the study of complex dynamical systems and related concepts have now been established in many communities globally, and like the SFI, many of these societies see complex dynamical systems as an opportunity to foster interdisciplinary research through academic workshops and other collaborative activities."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nogmkixup9o",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "For more overview and history, interested readers can consult several comprehensive treatments ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzjf9jvcseg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"narc1p145mf\" data-reactroot=\"\">Mitchell, M. (2009). <em>Complexity: A guided tour</em>. Oxford University Press. <a href=\"https://doi.org/10.1093/oso/9780195124415.001.0001\">https://doi.org/10.1093/oso/9780195124415.001.0001</a></p>",
+              "customLabel": "Mitchell, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqfj4qq78rh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nh2p1negwfj\" data-reactroot=\"\">Mu\u00f1oz, M. A. (2018). <em>Colloquium</em>: Criticality and dynamical scaling in living systems. <em>Reviews of Modern Physics</em>, <em>90</em>(3), Article 031001. <a href=\"https://doi.org/10.1103/RevModPhys.90.031001\">https://doi.org/10.1103/RevModPhys.90.031001</a></p>",
+              "customLabel": "Mu\u00f1oz, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhd0yg1wolq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njxzv8falg1\" data-reactroot=\"\">Thomas, J., &amp; Zaytseva, A. (2016). Mapping complexity/human knowledge as a complex adaptive system. <em>Complexity</em>, <em>21</em>(S2), 207\u2013234. <a href=\"https://doi.org/10.1002/cplx.21799\">https://doi.org/10.1002/cplx.21799</a></p>",
+              "customLabel": "Thomas & Zaytseva, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") including those with historical and programmatic notes for cognitive scientists ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nia25lgse9j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2rhx9rr6b9\" data-reactroot=\"\">Favela, L. H. (2020). Cognitive science as complexity science. <em>WIREs Cognitive Science</em>, <em>11</em>(4), Article e1525. <a href=\"https://doi.org/10.1002/wcs.1525\">https://doi.org/10.1002/wcs.1525</a></p>",
+              "customLabel": "Favela, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nk14z1fgvaf",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The key concepts encapsulated in the phrase "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "complex dynamical systems"
+          },
+          {
+            "type": "text",
+            "text": " are \u201ccomplexity\u201d and \u201cdynamics.\u201d These terms are used in specialized ways by researchers in this area. \u201cComplex\u201d does not mean complicated. It means yielding of emergent order ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nz3awd1mlhv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nx5czo640mk\" data-reactroot=\"\">Favela, L. H., &amp; Amon, M. J. (2023). Reframing cognitive science as a complexity science. <em>Cognitive Science</em>, <em>47</em>(4), Article e13280. <a href=\"https://doi.org/10.1111/cogs.13280\">https://doi.org/10.1111/cogs.13280</a></p>",
+              "customLabel": "Favela & Amon, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). And \u201cdynamical\u201d does not simply mean change in time. Researchers often intend more, such as dynamic interactions among parts of a system and its environment ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbatkd053my",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3u1uykc9st\" data-reactroot=\"\">Beer, R. D. (2023). On the proper treatment of dynamics in cognitive science. <em>Topics in Cognitive Science</em>, Article 12686. <a href=\"https://doi.org/10.1111/tops.12686\">https://doi.org/10.1111/tops.12686</a></p>",
+              "customLabel": "Beer, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Two other common concepts are self-organization and emergence. The parts of a complex system only interact locally, and so, the system is said to self-organize\u037e emergence is the general concept that self-organization generates those novel patterns not encoded in the parts themselves. For example, the patterned routes of an ant\u2019s colony emerge from many interactions and are not contained in the mind of any individual ant."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7l8x0ca0s7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Beyond these initial core concepts, the study of complex dynamical systems has devised an incredibly elaborated toolkit. To the uninitiated, this array of relevant concepts and terminology can seem dizzying. This is because, upon superficial examination, characteristics of complex dynamical systems can seem very different from those of traditional computational systems. In the rest of this section, concepts are organized into three sets. These sets successively build intuition about this elaborated toolkit beginning with simple mathematical models."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "nonlinearity-attractors-and-chaos",
+          "id": "nonlinearity-attractors-and-chaos",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Nonlinearity, attractors, and chaos"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ne33padyb22",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Studying model systems can be helpful to learn about complexity and dynamics. Some surprisingly simple model systems can illustrate key concepts. Perhaps the most used for this purpose is the logistic map. It is a very simple equation defining how a single variable "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "x"
+          },
+          {
+            "type": "text",
+            "text": " updates across discrete time steps:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nz1n70yit6d",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "x"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "t "
+          },
+          {
+            "type": "text",
+            "text": "= "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "rx"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "t"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "-1"
+          },
+          {
+            "type": "text",
+            "text": " (1\u2212 "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "x"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "t"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "-1"
+          },
+          {
+            "type": "text",
+            "text": ")"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nk0a0wu4odq",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "For this model, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "x"
+          },
+          {
+            "type": "text",
+            "text": " is taken to be between 0 and 1, and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "r"
+          },
+          {
+            "type": "text",
+            "text": " between 0 and 4. This is a very simple model. But the logistic map includes a feature that is characteristic of complex dynamical systems: It has nonlinear interaction, expressed as the product of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "x"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "t"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "-1"
+          },
+          {
+            "type": "text",
+            "text": " and 1\u2212 "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "x"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "t"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "-1"
+          },
+          {
+            "type": "text",
+            "text": ". Notice that these two terms of the product are in opposing directions. When the prior state "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "x"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "t"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "-1"
+          },
+          {
+            "type": "text",
+            "text": " is higher, the term 1\u2212 "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "x"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "t"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "-1"
+          },
+          {
+            "type": "text",
+            "text": " will be lower. The logistic map therefore has a kind of self-corrective nonlinear feedback."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "na68ol2s0x3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "We can run this model as a computer simulation and observe how "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "x"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "t"
+          },
+          {
+            "type": "text",
+            "text": " changes over time steps. This simulation is illustrated in Figure 2. To run this simulation, we set "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "r"
+          },
+          {
+            "type": "text",
+            "text": " to a fixed value, set "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "x"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "0"
+          },
+          {
+            "type": "text",
+            "text": " to a value within 0 and 1, and then apply the equation above over and over. When "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "r"
+          },
+          {
+            "type": "text",
+            "text": " is set to 2.9, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "x"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "t"
+          },
+          {
+            "type": "text",
+            "text": " stabilizes on a single value. This is called a point attractor. But if "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "r"
+          },
+          {
+            "type": "text",
+            "text": " is set higher, say 3.1, the logistic map takes on two stable values, cycling between them continually. This is called a limit cycle attractor. If we track "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "x"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "t"
+          },
+          {
+            "type": "text",
+            "text": " while progressively increasing "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "r"
+          },
+          {
+            "type": "text",
+            "text": " from about 3.5, we find that it branches at a four-value limit cycle, eight-value limit cycle, and so on. This progressive branching is called bifurcation (or a period-doubling regime)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqpfbx1llwe",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "At "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "r"
+          },
+          {
+            "type": "text",
+            "text": " = 3"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "."
+          },
+          {
+            "type": "text",
+            "text": "7, the logistic map is in a chaotic regime. Systems with chaos show what is called sensitive dependence on initial conditions. In chaos, even very slight differences in starting "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "x"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "0"
+          },
+          {
+            "type": "text",
+            "text": " will ultimately lead to diverging dynamics. This is also illustrated in Figure 2. When the logistic map starts at "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "x"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "t "
+          },
+          {
+            "type": "text",
+            "text": "= "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "."
+          },
+          {
+            "type": "text",
+            "text": "5 or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "x"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "t "
+          },
+          {
+            "type": "text",
+            "text": "= "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "."
+          },
+          {
+            "type": "text",
+            "text": "5001 with "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "r"
+          },
+          {
+            "type": "text",
+            "text": " = 3"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "."
+          },
+          {
+            "type": "text",
+            "text": "7, these two simulations stay close at first but then radically diverge. Despite this model\u2019s single and very simple deterministic equation, it produces unpredictable behavior the farther ahead we look in time."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ndg4yw35ajp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This simple model with nonlinear feedback can produce point attractors, limit cycles, and chaotic regimes (for further illustration, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nka4nt1uv78",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"narc1p145mf\" data-reactroot=\"\">Mitchell, M. (2009). <em>Complexity: A guided tour</em>. Oxford University Press. <a href=\"https://doi.org/10.1093/oso/9780195124415.001.0001\">https://doi.org/10.1093/oso/9780195124415.001.0001</a></p>",
+              "customLabel": "Mitchell, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5ohug9ja4s",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"niur7s2ch4f\" data-reactroot=\"\">Spivey, M. (2007). <em>The continuity of mind</em>. Oxford University Press. <a href=\"https://doi.org/10.1093/acprof:oso/9780195170788.001.0001\">https://doi.org/10.1093/acprof:oso/9780195170788.001.0001</a></p>",
+              "customLabel": "Spivey, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Moreover, the logistic map can also illustrate bridges between complex dynamics and computation. Using models from statistics and information theory, the values of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "x"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              },
+              {
+                "type": "sub"
+              }
+            ],
+            "text": "t"
+          },
+          {
+            "type": "text",
+            "text": " over time can be given a computational description (e.g., by using the Chomsky hierarchy of languages: "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhrbivd2n97",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7pui59mpha\" data-reactroot=\"\">Crutchfield, J. P. (1994). The calculi of emergence: Computation, dynamics and induction. <em>Physica D: Nonlinear Phenomena</em>, <em>75</em>(1\u20133), 11\u201354. <a href=\"https://doi.org/10.1016/0167-2789(94)90273-9\">https://doi.org/10.1016/0167-2789(94)90273-9</a></p>",
+              "customLabel": "Crutchfield, 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The computational complexity of the logistic map is highest just as the map is entering a chaotic regime. This curious property is consistent with many complex systems, sometimes called criticality or computation at the edge of chaos ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsz2l0iqsge",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbe2pat07yz\" data-reactroot=\"\">Langton, C. G. (1990). Computation at the edge of chaos: Phase transitions and emergent computation. <em>Physica D: Nonlinear Phenomena</em>, <em>42</em>(1\u20133), 12\u201337. <a href=\"https://doi.org/10.1016/0167-2789(90)90064-V\">https://doi.org/10.1016/0167-2789(90)90064-V</a></p>",
+              "customLabel": "Langton, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). At the edge of chaos, systems are poised between order and disorder. Intriguingly, there is wide evidence that brains and bodies maintain their dynamics near the edge of chaos ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5kayl3h2g5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3q15exqhjb\" data-reactroot=\"\">Kello, C. T., Brown, G. D. A., Ferrer-i-Cancho, R., Holden, J. G., Linkenkaer-Hansen, K., Rhodes, T., &amp; Van Orden, G. C. (2010). Scaling laws in cognitive sciences. <em>Trends in Cognitive Sciences</em>, <em>14</em>(5), 223\u2013232. <a href=\"https://doi.org/10.1016/j.tics.2010.02.005\">https://doi.org/10.1016/j.tics.2010.02.005</a></p>",
+              "customLabel": "Kello et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "n75ti7wixye",
+          "url": "https://assets.pubpub.org/ouk3u7de/11716919373173.jpg",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"nbtcihldsyx\" data-reactroot=\"\">An illustration of running the logistic map as a numerical simulation with intermittent transitions from periodicity to chaos and back. At <em>r</em> = 2<em>.</em>9, we see a point attractor, as <em>x</em><sub><em>t</em></sub> stabilizes on a single value. When <em>r</em> = 3<em>.</em>1, the map splits into two stable values, a limit cycle attractor. At <em>r</em> = 3<em>.</em>7, we see seemingly random behavior, illustrating the map\u2019s chaotic regimes. At <em>r</em> = 3<em>.</em>7, even small differences compound unpredictably over time (shown with different <em>x</em><sub>0</sub> initial values). At the bottom, there is a plot of observed <em>x</em><sub><em>t</em></sub> values across <em>r</em>. We see period doublings into chaos and other behavior. Readers can try the simulation code on the open resource shared for this article: <a href=\"https://github.com/racdale/oecs/\" title=\"\">https://github.com/racdale/oecs/</a>.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "coordination-dynamics-stability-and-synergies",
+          "id": "coordination-dynamics-stability-and-synergies",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Coordination dynamics, stability, and synergies"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6r5i06pk3p",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In contrast to the logistic map\u2019s single variable, natural systems obviously have more than just one part. Researchers investigating complex dynamics sometimes look for simplified experiments or situations to develop new models and keep the number of relevant variables tractable. These models permit specification of what cognitive or behavioral parts are in a system. Coordination dynamics is the study of how those parts interact."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfiv69vewow",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A very influential example of this is known as the Haken-Kelso-Bunz (HKB) model of coordination dynamics ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwghoxcr8pu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nixd4v24zz1\" data-reactroot=\"\">Kelso, J. A. S. (2021). The Haken\u2013Kelso\u2013Bunz (HKB) model: From matter to movement to mind. <em>Biological Cybernetics</em>, <em>115</em>(4), 305\u2013322. <a href=\"https://doi.org/10.1007/s00422-021-00890-w\">https://doi.org/10.1007/s00422-021-00890-w</a></p>",
+              "customLabel": "Kelso, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The model was initially proposed in the domain of motor control. The earliest version of this model described how two limbs coordinate, such as how the index fingers might waggle back and forth in synchrony. This is a simple model of many oscillatory behaviors, such as two arms swinging together in dance. It was discovered that there is a most stable attractor in this task. The strongest attractor is when fingers are moving inward and outward together because the cognitive system activates the same muscles across left and right hands (illustrated at the center of the panels in Figure 3). This task revealed how finger movements can be coupled into a coordination dynamics, and the HKB model provides an elegant description of this. An example simulation of this model is shown in Figure 3."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "niwrvs861o3",
+          "url": "https://assets.pubpub.org/3169oxg2/41716919373174.jpg",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"nvktobb2kzm\" data-reactroot=\"\">An illustration of a simple HKB model simulated 10,000 times (each simulation is a line over time, with time along the <em>y</em>-axis). Imagine two hands held out and index fingers waggled together in time. The angle between your fingers, called relative phase (<em>\u03d5</em>), converges onto particular \u201csynergies.\u201d The HKB model can describe the coordination of coupled oscillators with stable regions of relative phase. In both model and human behavior, these stable regions are in-phase or anti-phase synchrony. For example, when <em>\u03d5</em> = 0, the muscles of two hands activate in synchrony, leading to fingers moving in and out. As fingers alter their speed, the HKB model describes how their coordination yields different stable regions over time. Code shared for readers at <a href=\"https://github.com/racdale/oecs/\" title=\"\">https://github.com/racdale/oecs/</a>.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nd29r1hycp3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Models like HKB help explain how stable patterns of behavior can emerge among coupled oscillating parts. Importantly, this stability is not their only property. These models can also transition between distinct patterns of behavior, showing flexibility and adaptivity. An important concept related to coordination dynamics is that of synergy. A synergy is a combination of parts and their dynamics that represent a temporarily stable organization. You can think of the modes of oscillation in the HKB finger task as distinct synergies (the top rows of Figure 3)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhwlwc9mfro",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The HKB model and related approaches to coordination dynamics have been widely applied. This wide application is partly because these models allow researchers to study systems defined with a smaller number of key variables. They help to model and describe the potential synergies of a system\u2014under different tasks, individual differences, clinical disruption or exogenous driving, and more. There is now a very large literature related to these concepts, and researchers may use subtly different terminology. But this general dynamic approach is shared among many, with applications to action and perception, phonetics and phonology, categorization and memory, social coordination, development, and neural dynamics (for reviews: "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlsnm81ye5g",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9akfcag2iw\" data-reactroot=\"\">Chemero, A. (2009). <em>Radical embodied cognitive science</em>. MIT Press.</p>",
+              "customLabel": "Chemero, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw75d4anod6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nixd4v24zz1\" data-reactroot=\"\">Kelso, J. A. S. (2021). The Haken\u2013Kelso\u2013Bunz (HKB) model: From matter to movement to mind. <em>Biological Cybernetics</em>, <em>115</em>(4), 305\u2013322. <a href=\"https://doi.org/10.1007/s00422-021-00890-w\">https://doi.org/10.1007/s00422-021-00890-w</a></p>",
+              "customLabel": "Kelso, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6x74yxzf5w",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6hu91sxay7\" data-reactroot=\"\">Sch\u00f6ner, G., &amp; Spencer, J. P. (2016). <em>Dynamic thinking: A primer on dynamic field theory</em>. Oxford University Press. <a href=\"https://doi.org/10.1093/acprof:oso/9780199300563.001.0001\">https://doi.org/10.1093/acprof:oso/9780199300563.001.0001</a></p>",
+              "customLabel": "Sch\u00f6ner & Spencer, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh75byypxgn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq15v09sr3w\" data-reactroot=\"\">Thelen, E., &amp; Smith, L. B. (2002). <em>A dynamic systems approach to the development of cognition and action</em> (5th ed.). MIT Press.</p>",
+              "customLabel": "Thelen & Smith, 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndwjd3vgbl5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb3ddqo4uhb\" data-reactroot=\"\">Turvey, M. T. (2018). <em>Lectures on perception: An ecological perspective</em>. Routledge.</p>",
+              "customLabel": "Turvey, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "scale-free-dynamics-and-nonlinear-measurements",
+          "id": "scale-free-dynamics-and-nonlinear-measurements",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Scale-free dynamics and nonlinear measurements"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6o72wi5n1b",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Both prior sections show that complex dynamics hold even in simple systems, provided certain conditions hold (such as nonlinear feedback). An important aspect of complex dynamical systems is that their properties extend across a wide variety of natural and simulated phenomena. Researchers use these tools to study large-scale systems. Many natural systems are complex in the intuitive and more informal sense of that word, namely that they contain \u201ctons of stuff.\u201d"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3tgrv4f0tw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Examples of these systems are plentiful and include growth processes, collective animal behavior, social and brain networks, and so on (see Figure 4). In all these examples, the core concepts introduced above are relevant: Larger systems with many nonlinearly interacting entities also coordinate and bring about stable modes of structure or behavior. A challenge for studying these systems is that closed-form mathematical modeling becomes more difficult. And so experimentation, measurement, and computational simulation are critical tools."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "scale-free-properties",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Scale-free properties"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7to85iajiq",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Consider a familiar complex dynamical system: human societies. Self-organization in this complex system is generated by local coordination dynamics: People closer together will influence one another over time. This will bring about local order in the region of those entities, such as groups. But these emergent groups are causally connected to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "other"
+          },
+          {
+            "type": "text",
+            "text": " groups in their region, all across this imagined societal landscape. From persons to groups to communities and beyond, we have a cascade of interactivity that yields structure across spatial scales (cf. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvuehfej75c",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8racsnbo8l\" data-reactroot=\"\">Falandays, J. B., &amp; Smaldino, P. E. (2022). The emergence of cultural attractors: How dynamic populations of learners achieve collective cognitive alignment.\u00a0<em>Cognitive Science</em>,\u00a0<em>46</em>(8), Article e13183. <a href=\"https://doi.org/10.1111/cogs.13183\">https://doi.org/10.1111/cogs.13183</a></p>",
+              "customLabel": "Falandays & Smaldino, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n823yostfn3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "If we looked at individuals, groups, or communities at separate scales of analysis, we would find related behavioral and structural trends. Because of this interdependence across the scales of complex systems, they are said to have scale-free qualities. Mathematical fractals are the pure expression of this principle. In a pure fractal, you can zoom in or out and see the same patterns. Some complex dynamical systems are therefore said to be like fractals in this way, though as natural fractals their scale-free structure or behavior is within a restricted range."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfo9afzl6ob",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "An important application of complex dynamical systems, especially the scale-free concept, is in the study of neural systems. It is generally accepted that the brain has some properties of a scale-free network, with clustering from neuronal interactions to local circuits and systems-level groupings. This scale-free feature is just one aspect of an elaborate toolkit for structural and functional neuroscience. The application of complex systems in this domain is many decades old, and there is a large inventory of concepts and methods that are rooted in complexity (for reviews, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvwutc9r6dl",
+              "href": null,
+              "value": "https://doi.org/10.1016/j.tics.2011.03.006",
+              "unstructuredValue": "",
+              "customLabel": "Bassett & Gazzaniga, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7oln35uttx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2pbfr051jc\" data-reactroot=\"\">Favela, L. H. (2023). <em>The ecological brain: Unifying the sciences of brain, body, and environment</em>. Routledge.</p>",
+              "customLabel": "Favela, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nz9xn4vq8gu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6rtct5hza1\" data-reactroot=\"\">Seguin, C., Sporns, O., &amp; Zalesky, A. (2023). Brain network communication: Concepts, models and applications. <em>Nature Reviews Neuroscience</em>, <em>24</em>(9), 557\u2013574. <a href=\"https://doi.org/10.1038/s41583-023-00718-5\">https://doi.org/10.1038/s41583-023-00718-5</a></p>",
+              "customLabel": "Seguin et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "n8qdi3ha5z3",
+          "url": "https://assets.pubpub.org/p516inko/01716919373174.jpg",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"nauehimakgk\" data-reactroot=\"\">Examples from living systems that exhibit self-organization and scale-free systems that have natural fractal-like properties. Top left: Romanesco cauliflower with budding processes that yield fractal patterns. Top right: Murmuration of starlings self-organizing into collective flight. Bottom left: Network of connections in the human brain. Zooming in on the connectivity shows hints of scale-free structure, because the zoom recapitulates trends of the distributions of connectivity such as hubs. Bottom right: A social network, again illustrating scale-free structure. An example of measuring this is shown: Degree of social connectivity shows an orderly distribution across members ordered by their degree. In a log-log plot inset, this often appears as an orderly line and is referred to as a power law. (All images public domain or CC BY-SA 4.0.)</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "nonlinear-measurement-toolkits",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Nonlinear measurement toolkits"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2llxyur35c",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Fractal patterns can also be measured in time. Researchers in several domains of cognitive science have observed that measurements of neural and behavioral signals in time have scale-free structure. An example of this observation comes from reaction time, illustrated in Figure 5. Imagine ordering thousands of trials in a reaction-time task (in this case, simple reaction to a visually presented stimulus: "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1m7gmggkhd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nel4oidfbew\" data-reactroot=\"\">Van Orden, G. C., Holden, J. G., &amp; Turvey, M. T. (2005). Human cognition and 1/<em>f</em> scaling.\u00a0<em>Journal of Experimental Psychology: General</em>,\u00a0<em>134</em>(1), 117\u2013123. <a href=\"https://psycnet.apa.org/doi/10.1037/0096-3445.134.1.117\" target=\"_blank\">https://doi.org/10.1037/0096-3445.134.1.117</a></p>",
+              "customLabel": "Van Orden et al., 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). You can zoom in and out of the time series and see similar trends in fluctuation. Many cognitive scientists have argued this observation has significant theoretical implications. If it is true that spatial and temporal patterning in cognitive systems is similar to other complex dynamical systems, then the complexity framework is a useful way to think of the organization and function of cognitive systems ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqchadcsnuu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n65p3leaiy6\" data-reactroot=\"\">Diniz, A., Wijnants, M. L., Torre, K., Barreiros, J., Crato, N., Bosman, A. M. T., Hasselman, F., Cox, R. F. A., Orden, G. C. V., &amp; Deligni\u00e8res, D. (2011). Contemporary theories of 1/<em>f</em> noise in motor control.\u00a0<em>Human Movement Science</em>,\u00a0<em>30</em>(5), 889\u2013905. <a href=\"https://doi.org/10.1016/j.humov.2010.07.006\" title=\"Persistent link using digital object identifier\" target=\"_blank\">https://doi.org/10.1016/j.humov.2010.07.006</a></p>",
+              "customLabel": "Diniz et al., 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwz7rvtprhc",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "An important contribution from researchers in complex dynamical systems is to adapt measurements of fractals and other complex structures into signatures of complexity for cognitive systems (an example is shown in Figure 4, bottom right). Without the need for mathematical or computational models, researchers can still statistically measure the presence of scale-free dynamics and assess their significance for cognitive systems. As indices of dynamics and complexity, they can be used to assess cognitive tasks, individual differences, clinical populations, injury, and much more. There is now an impressive suite of such measurements available (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nc7o72cxtp8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2rhx9rr6b9\" data-reactroot=\"\">Favela, L. H. (2020). Cognitive science as complexity science. <em>WIREs Cognitive Science</em>, <em>11</em>(4), Article e1525. <a href=\"https://doi.org/10.1002/wcs.1525\">https://doi.org/10.1002/wcs.1525</a></p>",
+              "customLabel": "Favela, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njgh4hbp1lc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"narc1p145mf\" data-reactroot=\"\">Mitchell, M. (2009). <em>Complexity: A guided tour</em>. Oxford University Press. <a href=\"https://doi.org/10.1093/oso/9780195124415.001.0001\">https://doi.org/10.1093/oso/9780195124415.001.0001</a></p>",
+              "customLabel": "Mitchell, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw0w5fgifok",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5f1cagzcci\" data-reactroot=\"\">Richardson, M. J., Dale, R., &amp; Marsh, K. L. (2014). Complex dynamical systems in social and personality psychology: Theory, modeling, and analysis. In H. T. Reis &amp; C. M. Judd (Eds.), <em>Handbook of Research Methods in Social and Personality Psychology</em> (pp. 253\u2013282). Cambridge University Press.</p>",
+              "customLabel": "Richardson et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Because these measures are meant to describe properties of systems with nonlinear interactions and complexity, they are sometimes called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "nonlinear methods"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "nbepraocmi9",
+          "url": "https://assets.pubpub.org/n8wekbo5/image-41718375455763.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"nby3w833n9a\" data-reactroot=\"\">Reaction times from a single participant (data from <span id=\"n1m7gmggkhd\" data-node-type=\"citation\" data-value=\"\" data-unstructured-value=\"&lt;p id=&quot;nel4oidfbew&quot; data-reactroot=&quot;&quot;&gt;Van Orden, G. C., Holden, J. G., &amp;amp; Turvey, M. T. (2005). Human cognition and 1/&lt;em&gt;f&lt;/em&gt; scaling.\u00a0&lt;em&gt;Journal of Experimental Psychology: General&lt;/em&gt;,\u00a0&lt;em&gt;134&lt;/em&gt;(1), 117\u2013123. &lt;a href=&quot;https://psycnet.apa.org/doi/10.1037/0096-3445.134.1.117&quot; target=&quot;_blank&quot;&gt;https://doi.org/10.1037/0096-3445.134.1.117&lt;/a&gt;&lt;/p&gt;\" data-custom-label=\"Van Orden et al., 2005\" class=\"citation\">Van Orden et al., 2005</span>). In the full time series (left), you see high-frequency low-amplitude fluctuation in the time series. We can also discern undulating lower frequencies at successively higher amplitudes. This nested fluctuation is further illustrated in segments of the full series. In the middle and right, there are sections of the full performance of this participant. This correspondence across frequencies is recapitulated, having very similar internal structure to the original. Human reaction times are often \u201cscale-free\u201d in this way, exhibiting a structure in time similar to fractal organization. Readers can try the code here: <a href=\"https://github.com/racdale/oecs/\" title=\"\">https://github.com/racdale/oecs/</a>.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3r8953soup",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Complexity and dynamics figure into a long-standing debate in cognitive science: What is the most effective metaphor for understanding human cognitive capacities? The past decades of cognitive science have seen debate among many general frameworks: symbolic systems, connectionism and neural networks, Bayesian models of the mind, and so on. Some argue that the findings of complex dynamical systems challenge long-standing metaphors for the mind, especially those based on computation. This is an evolving debate, and some researchers have even used complex dynamics as a framework for integrating perspectives (among many: "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7u9rmguxc0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng01urzo8f7\" data-reactroot=\"\">Beer, R. D., &amp; Williams, P. L. (2015). Information processing and dynamics in minimally cognitive agents. <em>Cognitive Science</em>, <em>39</em>(1), 1\u201338. <a href=\"https://doi.org/10.1111/cogs.12142\">https://doi.org/10.1111/cogs.12142</a></p>",
+              "customLabel": "Beer & Williams, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhowtsnr08s",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2pbfr051jc\" data-reactroot=\"\">Favela, L. H. (2023). <em>The ecological brain: Unifying the sciences of brain, body, and environment</em>. Routledge.</p>",
+              "customLabel": "Favela, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncbfmhgif1f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nd7yraagd5k\" data-reactroot=\"\">Kelty-Stephen, D. G., Cisek, P. E., De Bari, B., Dixon, J., Favela, L. H., Hasselman, F., Keijzer, F., Raja, V., Wagman, J. B., Thomas, B. J., &amp; Mangalam, M. (2022). <em>In search for an alternative to the computer metaphor of the mind and brain.</em> arXiv. <a href=\"https://doi.org/10.48550/arXiv.2206.04603\">https://doi.org/10.48550/arXiv.2206.04603</a></p>",
+              "customLabel": "Kelty-Stephen et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9y5xx5k2s2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0kgd3hs07s\" data-reactroot=\"\">R\u0105czaszek-Leonardi, J. (2023). What dynamic approaches have taught us about cognition and what they have not: On values in motion and the importance of replicable forms. <em>Topics in Cognitive Science</em>. Advance online publication. <a href=\"https://doi.org/10.1111/tops.12709\">https://doi.org/10.1111/tops.12709</a></p>",
+              "customLabel": "R\u0105czaszek-Leonardi, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ny64zftnfpk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Another controversy surrounding complex dynamical systems in cognitive science is also fundamental: What is the explanatory value of this framework? It bears reminding that there are many disciplines outside of cognitive science with well-established research programs that do not struggle with this question. Moreover, as noted above, many studies of neuroscience are couched in concepts of complexity. Nevertheless, debate about explanatory value does arise. An example is a 2012 special issue of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Topics in Cognitive Science"
+          },
+          {
+            "type": "text",
+            "text": ". The editors of the special issue argued for framing cognition as a complex system ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nde5g2u8rcj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngbnuxdhcuu\" data-reactroot=\"\">Van Orden, G., &amp; Stephen, D. G. (2012). Is cognitive science usefully cast as complexity science? <em>Topics in Cognitive Science</em>, <em>4</em>(1), 3\u20136. <a href=\"https://doi.org/10.1111/j.1756-8765.2011.01165.x\">https://doi.org/10.1111/j.1756-8765.2011.01165.x</a></p>",
+              "customLabel": "Van Orden & Stephen, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Some commentaries challenged the value of the position in various ways. One commentary\u2019s title enumerated the specialized terminology mentioned above in an amusing rhetorical illustration of the dizzying abstractions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n62fvndsbnf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk2seudtgbq\" data-reactroot=\"\">Wagenmakers, E.-J., van der Maas, H. L. J., &amp; Farrell, S. (2012). Abstract concepts require concrete models: Why cognitive scientists have not yet embraced nonlinearly coupled, dynamical, self-organized critical, synergistic, scale-free, exquisitely context-sensitive, interaction-dominant, multifractal, interdependent brain-body-niche systems. <em>Topics in Cognitive Science</em>, <em>4</em>(1), 87\u201393. <a href=\"https://doi.org/10.1111/j.1756-8765.2011.01164.x\">https://doi.org/10.1111/j.1756-8765.2011.01164.x</a></p>",
+              "customLabel": "Wagenmakers et al., 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Despite the important disagreements in these broader debates, there is flourishing research in the cognitive sciences on complex dynamical systems."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "core-theory",
+          "id": "core-theory",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Core theory"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncz0rqaghgk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A major area of development is to derive more detailed theoretical implications of complex dynamics for cognitive systems ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnbvdx8zpve",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3u1uykc9st\" data-reactroot=\"\">Beer, R. D. (2023). On the proper treatment of dynamics in cognitive science. <em>Topics in Cognitive Science</em>, Article 12686. <a href=\"https://doi.org/10.1111/tops.12686\">https://doi.org/10.1111/tops.12686</a></p>",
+              "customLabel": "Beer, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nehibjq1ehz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nx5czo640mk\" data-reactroot=\"\">Favela, L. H., &amp; Amon, M. J. (2023). Reframing cognitive science as a complexity science. <em>Cognitive Science</em>, <em>47</em>(4), Article e13280. <a href=\"https://doi.org/10.1111/cogs.13280\">https://doi.org/10.1111/cogs.13280</a></p>",
+              "customLabel": "Favela & Amon, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nf237xmg3nw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0kgd3hs07s\" data-reactroot=\"\">R\u0105czaszek-Leonardi, J. (2023). What dynamic approaches have taught us about cognition and what they have not: On values in motion and the importance of replicable forms. <em>Topics in Cognitive Science</em>. Advance online publication. <a href=\"https://doi.org/10.1111/tops.12709\">https://doi.org/10.1111/tops.12709</a></p>",
+              "customLabel": "R\u0105czaszek-Leonardi, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Saying the cognitive system is complex and dynamic is not specific or innovative enough to gain appreciable insight from this framework. Instead, application of these ideas to human cognition implies that human cognitive systems have particular and important underlying properties. A strong rendering of complex systems might define the human brain, body and environment as one integrated and interacting system ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxfys0zddfz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9akfcag2iw\" data-reactroot=\"\">Chemero, A. (2009). <em>Radical embodied cognitive science</em>. MIT Press.</p>",
+              "customLabel": "Chemero, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3axosl5pvf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrl0wr14hgg\" data-reactroot=\"\">Juarrero, A. (2023) <em>Context Changes Everything: How Constraints Create Coherence.</em> MIT Press. https://doi.org/10.7551/mitpress/14630.001.0001</p>",
+              "customLabel": "Juarrero, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nsqqswz7u1v",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Developing and extending theories rooted in complexity science may therefore help to quantify and formalize both new and well-known theories in novel ways. In doing so, it may help to bridge theories in cognitive science that seemingly conflict. This is in part because complex dynamical systems are also analyzed with a broad array of very distinctive techniques spanning dynamics and computational analysis ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n285934dvg7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng01urzo8f7\" data-reactroot=\"\">Beer, R. D., &amp; Williams, P. L. (2015). Information processing and dynamics in minimally cognitive agents. <em>Cognitive Science</em>, <em>39</em>(1), 1\u201338. <a href=\"https://doi.org/10.1111/cogs.12142\">https://doi.org/10.1111/cogs.12142</a></p>",
+              "customLabel": "Beer & Williams, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npww4nr2rcb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0kgd3hs07s\" data-reactroot=\"\">R\u0105czaszek-Leonardi, J. (2023). What dynamic approaches have taught us about cognition and what they have not: On values in motion and the importance of replicable forms. <em>Topics in Cognitive Science</em>. Advance online publication. <a href=\"https://doi.org/10.1111/tops.12709\">https://doi.org/10.1111/tops.12709</a></p>",
+              "customLabel": "R\u0105czaszek-Leonardi, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This motivation to formalize and investigate principles for complex dynamical systems is not unique to cognitive science. Despite the deep theoretical origins of complexity science, ongoing research continues to elaborate on underlying principles and to explore their implications."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "consciousness-and-the-collective",
+          "id": "consciousness-and-the-collective",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Consciousness and the collective"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n8hwfk5dk5r",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Concepts from complex dynamical systems inform important theoretical puzzles in cognitive science: consciousness and group cognition. A recent position paper argues that computational properties of cortical complexity may be a bridge to a new understanding of conscious experience ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0zer7ovj0t",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n83n75uzrvq\" data-reactroot=\"\">Stoll, E. A. (2023). Consciousness, exascale computational power, probabilistic outcomes, and energetic efficiency. <em>Cognitive Science</em>, <em>47</em>(4), Article e13272. <a href=\"https://doi.org/10.1111/cogs.13272\">https://doi.org/10.1111/cogs.13272</a></p>",
+              "customLabel": "Stoll, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). There is also consideration of how cognition could be better understood as a property of interacting agents. This work relates to self-organization and emergence generally, and may help formulate new theories of intelligent behavior that extend beyond an individual cognitive agent (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1s2fgzxxl9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1mwkspkbe2\" data-reactroot=\"\">Dubova, M., Galesic, M., &amp; Goldstone, R. L. (2022). Cognitive science of augmented intelligence. <em>Cognitive Science</em>, <em>46</em>(12), Article e13229. <a href=\"https://doi.org/10.1111/cogs.13229\">https://doi.org/10.1111/cogs.13229</a></p>",
+              "customLabel": "Dubova et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzpggdklc5p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"no3em3nfzzf\" data-reactroot=\"\">Falandays, J. B., Kaaronen, R. O., Moser, C., Rorot, W., Tan, J., Varma, V., Williams, T., &amp; Youngblood, M. (2023). All intelligence is collective intelligence. <em>Journal of Multiscale Neuroscience</em>, <em>2</em>(1), 169\u2013191. <a href=\"https://doi.org/10.56280/1564736810\">https://doi.org/10.56280/1564736810</a></p>",
+              "customLabel": "Falandays et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nq99ow8nwp0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njwkbaoz8m1\" data-reactroot=\"\">V\u00e9lez, N., Christian, B., Hardy, M., Thompson, B. D., &amp; Griffiths, T. L. (2023). How do humans overcome individual computational limitations by working together? <em>Cognitive Science</em>, <em>47</em>(1), Article e13232. <a href=\"https://doi.org/10.1111/cogs.13232\">https://doi.org/10.1111/cogs.13232</a></p>",
+              "customLabel": "V\u00e9lez et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "alternative-accounts-of-phenomena",
+          "id": "alternative-accounts-of-phenomena",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Alternative accounts of phenomena"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nv1k1ghn78w",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Although research on complex dynamical systems can be guided by its own core questions, it informs broader theoretical discussions too. An example is in the resurgence of interest in predictive processes ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3jpcsyn16f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqqpstq38r2\" data-reactroot=\"\">Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. <em>Behavioral and Brain Sciences</em>, <em>36</em>(3), 181\u2013204. <a href=\"https://doi.org/10.1017/S0140525X12000477\">https://doi.org/10.1017/S0140525X12000477</a></p>",
+              "customLabel": "Clark, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nicdks58zm3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbsld4ilkum\" data-reactroot=\"\">Stepp, N., &amp; Turvey, M. T. (2010). On strong anticipation. <em>Cognitive Systems Research</em>, <em>11</em>(2), 148\u2013164. <a href=\"https://doi.org/10.1016/j.cogsys.2009.03.003\">https://doi.org/10.1016/j.cogsys.2009.03.003</a></p>",
+              "customLabel": "Stepp and Turvey (2010)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " showed a surprising illustration of this: Time lags encoded in dynamical models can result in their capacity to anticipate their future states. They describe this feature as strong anticipation because it does not rely on an internal centralized computation but rather emerges from the system\u2019s underlying interactions. More recently, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd8w4113j6o",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsvmcelqic8\" data-reactroot=\"\">Washburn, A., Kallen, R. W., Lamb, M., Stepp, N., Shockley, K., &amp; Richardson, M. J. (2019). Feedback delays can enhance anticipatory synchronization in human-machine interaction. <em>PLOS ONE</em>, <em>14</em>(8), Article e0221275. <a href=\"https://doi.org/10.1371/journal.pone.0221275\">https://doi.org/10.1371/journal.pone.0221275</a></p>",
+              "customLabel": "Washburn et al. (2019)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " showed that an artificial agent configured with some processing delays has a spontaneous capacity to predict the chaotic movements of a human participant. In this study, the researchers had human participants move their arms chaotically in a virtual reality environment alongside an artificial task partner presented as an avatar in the environment. That artificial agent was programmed to move alongside the human. The artificial agent\u2019s capacity to anticipate and synchronize with the human participant was enhanced when these time delays were introduced. This surprising feature of some complex systems may contribute to our understanding of what underlying mechanisms are needed for predictive processing."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkhqtciuq1v",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Complex dynamical systems also inform how we think about variability in brain and behavior. Consider again human motor control. There is evidence that even something as simple as maintaining posture may fundamentally rely on variability. During postural control, humans show subtle movements in their body such that it would seem they cannot \u201csit still.\u201d This variability is not just noise. It has rich structure that corresponds to individual differences and task context. One way of interpreting this "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "approximate"
+          },
+          {
+            "type": "text",
+            "text": " stability is that the human brain and body may remain near chaotic regimes ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlz8xgqv3o1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nytt1ptkedd\" data-reactroot=\"\">Riley, M. A., &amp; Turvey, M. T. (2002). Variability and determinism in motor behavior. <em>Journal of Motor Behavior</em>, <em>34</em>(2), 99\u2013125. <a href=\"https://doi.org/10.1080/00222890209601934\">https://doi.org/10.1080/00222890209601934</a></p>",
+              "customLabel": "Riley & Turvey, 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Apparent stability is achieved by "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "not"
+          },
+          {
+            "type": "text",
+            "text": " being completely stable. An ongoing research area aims to uncover how variability is a critical component of cognitive and other systems, especially in motor neuroscience (see collection in "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7e31wnlnbq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nun1ej1zhhp\" data-reactroot=\"\">Moreno, F. J., Caballero, C., &amp; Barbado, D. (2023). Editorial: The role of movement variability in motor control and learning, analysis methods and practical applications. <em>Frontiers in Psychology</em>, <em>14</em>, Article 1260878. <a href=\"https://doi.org/10.3389/fpsyg.2023.1260878\">https://doi.org/10.3389/fpsyg.2023.1260878</a></p>",
+              "customLabel": "Moreno et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "communication-across-complexity",
+          "id": "communication-across-complexity",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Communication across complexity"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxlc54myqxs",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "There is emerging research on how to understand the interaction between complex systems. Consider, for example, human communication. In a face-to-face interaction, the neural processes of each person could be considered to have a kind of underlying complex dynamics. But of course, two humans become coupled during their interaction, and much work has shown that two brains show synchronous activity ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd23gpcyfg9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlb5f0st3s2\" data-reactroot=\"\">Dumas, G., Nadel, J., Soussignan, R., Martinerie, J., &amp; Garnero, L. (2010). Inter-brain synchronization during social interaction. <em>PLOS ONE</em>, <em>5</em>(8), Article e12166. <a href=\"https://doi.org/10.1371/journal.pone.0012166\">https://doi.org/10.1371/journal.pone.0012166</a></p>",
+              "customLabel": "Dumas et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Recent work adapted nonlinear methods to show dynamics beyond just synchrony. One example measure is complexity matching, which describes how two complex systems maximally transmit information between them. This can be measured by comparing the scale-free properties of two systems, such as two humans, while they interact, and can be assessed with any single behavioral signal (e.g., body motion or speech, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n14fage899s",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nh2ak05kdei\" data-reactroot=\"\">Abney, D. H., Paxton, A., Dale, R., &amp; Kello, C. T. (2014). Complexity matching in dyadic conversation. <em>Journal of Experimental Psychology: General</em>, <em>143</em>(6), 2304\u20132315. <a href=\"https://psycnet.apa.org/doi/10.1037/xge0000021\" target=\"_blank\">https://doi.org/10.1037/xge0000021</a></p>",
+              "customLabel": "Abney et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n69ts0iyivt",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This general theoretical issue holds for neural systems too. There is a growing set of methods to identify patterns of communication across brain regions that draws significantly from complex dynamical systems ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqailsal4oy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6rtct5hza1\" data-reactroot=\"\">Seguin, C., Sporns, O., &amp; Zalesky, A. (2023). Brain network communication: Concepts, models and applications. <em>Nature Reviews Neuroscience</em>, <em>24</em>(9), 557\u2013574. <a href=\"https://doi.org/10.1038/s41583-023-00718-5\">https://doi.org/10.1038/s41583-023-00718-5</a></p>",
+              "customLabel": "Seguin et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This research relates to concepts of self-organization and adaptation because neuroscientists are using cognitive tasks to identify how neural communication processes adapt under particular situations, called the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "evoked network"
+          },
+          {
+            "type": "text",
+            "text": " organization of a task ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n70im24aso9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfmoz8f0hh5\" data-reactroot=\"\">Cole, M. W., Bassett, D. S., Power, J. D., Braver, T. S., &amp; Petersen, S. E. (2014). Intrinsic and task-evoked network architectures of the human brain. <em>Neuron</em>, <em>83</em>(1), 238\u2013251. <a href=\"https://doi.org/10.1016/j.neuron.2014.05.014\">https://doi.org/10.1016/j.neuron.2014.05.014</a></p>",
+              "customLabel": "Cole et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ndjr0yep7bf",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "There is broad multidisciplinary application of complex dynamical systems, from fundamental physics to economics and more ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nykq9i3twdq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nojymq1wouv\" data-reactroot=\"\">Castellani, B., &amp; Gerrits, L. (2021). <em>2021 Map of the Complexity Sciences.</em> Retrieved from <a href=\"https://www.art-sciencefactory.com/MapLegend.html\">https://www.art-sciencefactory.com/MapLegend.html</a></p>",
+              "customLabel": "Castellani & Gerrits, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Some of these broader connections are important to highlight for cognitive scientists. Researchers working from physical and computational sciences often seek core theoretical principles that intrigue modelers in cognitive science. These developments offer new computational and statistical techniques for analysis (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nu0bbsck7sy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2rhx9rr6b9\" data-reactroot=\"\">Favela, L. H. (2020). Cognitive science as complexity science. <em>WIREs Cognitive Science</em>, <em>11</em>(4), Article e1525. <a href=\"https://doi.org/10.1002/wcs.1525\">https://doi.org/10.1002/wcs.1525</a></p>",
+              "customLabel": "Favela, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no7qc793ibi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5f1cagzcci\" data-reactroot=\"\">Richardson, M. J., Dale, R., &amp; Marsh, K. L. (2014). Complex dynamical systems in social and personality psychology: Theory, modeling, and analysis. In H. T. Reis &amp; C. M. Judd (Eds.), <em>Handbook of Research Methods in Social and Personality Psychology</em> (pp. 253\u2013282). Cambridge University Press.</p>",
+              "customLabel": "Richardson et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Quantitative physiology has served as a source of innovative analysis and theory for complex dynamical systems. These methods often analyze fractal structure in physiological time series, like heart rate. They have already influenced many cognitive scientists (for some review, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nktig5rwzgi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5f1cagzcci\" data-reactroot=\"\">Richardson, M. J., Dale, R., &amp; Marsh, K. L. (2014). Complex dynamical systems in social and personality psychology: Theory, modeling, and analysis. In H. T. Reis &amp; C. M. Judd (Eds.), <em>Handbook of Research Methods in Social and Personality Psychology</em> (pp. 253\u2013282). Cambridge University Press.</p>",
+              "customLabel": "Richardson et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Biology, especially evolutionary biology, has been part of the earliest developments of complexity science ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4qfm4jxak2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndq0r0wswvg\" data-reactroot=\"\">Kauffman, S., &amp; Roli, A. (2021). The world is not a theorem. <em>Entropy</em>, <em>23</em>(11), Article 1467. <a href=\"https://doi.org/10.3390/e23111467\">https://doi.org/10.3390/e23111467</a></p>",
+              "customLabel": "Kauffman & Roli, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Researchers in wider social sciences also build computational models and theories for large-scale collective and cultural systems. These may inspire bridges between principles of cognitive phenomena and those of larger-scale collective phenomena ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "narifszlkb9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nise36jr5t9\" data-reactroot=\"\">Galesic, M., Barkoczi, D., Berdahl, A. M., Biro, D., Carbone, G., Giannoccaro, I., Goldstone, R. L., Gonzalez, C., Kandler, A., Kao, A. B., Kendal, R., Kline, M., Lee, E., Massari, G. M., Mesoudi, A., Olsson, H., Pescetelli, N., Sloman, S. J., Smaldino, P. E., &amp; Stein, D. L. (2023). Beyond collective intelligence: Collective adaptation. <em>Journal of The Royal Society Interface</em>, <em>20</em>(200), Article 20220736. <a href=\"https://doi.org/10.1098/rsif.2022.0736\">https://doi.org/10.1098/rsif.2022.0736</a></p>",
+              "customLabel": "Galesic et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "\u037e "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5lk1cpujxp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvl143lfh9m\" data-reactroot=\"\">Smaldino, P. E. (2023). <em>Modeling social behavior: Mathematical and agent-based models of social dynamics and cultural evolution</em>. Princeton University Press.</p>",
+              "customLabel": "Smaldino, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n17jrr2dupi",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Perhaps the most important connection inside cognitive science is with the theoretical perspective long known as connectionism. This influential tradition based in neural network models is directly inspired by concepts of emergence from interaction within and between complex systems ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsh6hw4k2ks",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nm7m9hfx1g2\" data-reactroot=\"\">McClelland, J. L., Botvinick, M. M., Noelle, D. C., Plaut, D. C., Rogers, T. T., Seidenberg, M. S., &amp; Smith, L. B. (2010). Letting structure emerge: Connectionist and dynamical systems approaches to cognition. <em>Trends in Cognitive Sciences</em>, <em>14</em>(8), 348\u2013356. <a href=\"https://doi.org/10.1016/j.tics.2010.06.002\">https://doi.org/10.1016/j.tics.2010.06.002</a></p>",
+              "customLabel": "McClelland et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In closely related developments, deep neural networks in machine learning and statistics introduce new opportunities for understanding how structure emerges from learners and their environment. Ideas from complexity science may help here. The cognitive significance of these large models is a subject of discussion and debate."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "key-references",
+          "id": "key-references",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nhkgavmajap",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n671zwo6j5l",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Mitchell, M. (2009). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Complexity: A guided tour"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Oxford University Press. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1093/oso/9780195124415.001.0001",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1093/oso/9780195124415.001.0001"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nl1j4portp0",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Favela, L. H. (2020). Cognitive science as complexity science. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "WIREs Cognitive Science"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "11"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(4), Article e1525. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": " https://doi.org/10.1002/wcs.1525",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1002/wcs.1525"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "np3rwa373k9",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Santa Fe Institute. (2024). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Complexity explorer"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.complexityexplorer.org",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://www.complexityexplorer.org"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

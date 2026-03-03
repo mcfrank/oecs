@@ -1,0 +1,4065 @@
+{
+  "id": "79b53c0b-fc8d-4246-b4f5-0063518042a4",
+  "slug": "64sucmct",
+  "title": "The Language of Thought Hypothesis",
+  "url": "https://oecs.mit.edu/pub/64sucmct",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "79b53c0b-fc8d-4246-b4f5-0063518042a4",
+    "slug": "64sucmct",
+    "title": "The Language of Thought Hypothesis",
+    "htmlTitle": "The Language of Thought Hypothesis",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.79b53c0b",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "2webmuzq",
+    "editHash": "hms68z1f",
+    "reviewHash": "9x0r5r2z",
+    "commentHash": "701m8kq9",
+    "draftId": "817b2ae2-bbd2-46af-90fc-0dddabd2d2ae",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "47d56afd-c5b8-44c3-ae7c-ec4f9a190770",
+    "scopeSummaryId": "90c09c2b-e653-45a8-8cab-403ab01d2159",
+    "createdAt": "2025-07-02T20:36:31.707Z",
+    "updatedAt": "2025-09-10T17:35:41.163Z",
+    "attributions": [
+      {
+        "id": "3d711f92-5114-47d9-8eb9-740af98df12d",
+        "name": "Nicolas Porot",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Africa Institute for Research in Economics and Social Sciences, Mohammed VI Polytechnic University",
+        "orcid": "0000-0002-3060-7423",
+        "userId": null,
+        "pubId": "79b53c0b-fc8d-4246-b4f5-0063518042a4",
+        "createdAt": "2025-07-02T20:38:03.099Z",
+        "updatedAt": "2025-07-02T20:38:15.827Z",
+        "user": null
+      },
+      {
+        "id": "9c853b54-2dbf-49ec-becb-94f717d5242a",
+        "name": "Eric Mandelbaum",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Baruch College & The Graduate Center, City University of New York",
+        "orcid": "0000-0002-0624-7763",
+        "userId": null,
+        "pubId": "79b53c0b-fc8d-4246-b4f5-0063518042a4",
+        "createdAt": "2025-07-02T20:38:33.797Z",
+        "updatedAt": "2025-07-02T20:38:49.242Z",
+        "user": null
+      },
+      {
+        "id": "816bcefa-7cdc-4871-acb8-f717c5cf10a4",
+        "name": "Colin Klein",
+        "avatar": null,
+        "title": null,
+        "order": 0.9375,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "The Australian National University",
+        "orcid": "0000-0002-7406-4010",
+        "userId": null,
+        "pubId": "79b53c0b-fc8d-4246-b4f5-0063518042a4",
+        "createdAt": "2025-07-09T21:19:13.423Z",
+        "updatedAt": "2025-07-09T21:19:25.134Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "817b2ae2-bbd2-46af-90fc-0dddabd2d2ae",
+      "latestKeyAt": "2025-09-10T17:13:22.339Z",
+      "firebasePath": "drafts/draft-817b2ae2-bbd2-46af-90fc-0dddabd2d2ae",
+      "createdAt": "2025-07-02T20:36:31.703Z",
+      "updatedAt": "2025-09-18T18:22:53.714Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9v91rbz4z3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The language of thought hypothesis is a thesis about the structure of mental representations. It is an example of the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "computational"
+          },
+          {
+            "type": "text",
+            "text": "\u2013"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "representational theory of mind"
+          },
+          {
+            "type": "text",
+            "text": ", according to which much of cognition consists in formal computations over mental representations. What distinguishes the language of thought hypothesis from other such theories is the idea that mental representations share core features with formal languages. The language of thought hypothesis states that thinking is the transformation of mental representations in a language of thought, in which most of what we call \u201cthinking\u201d is in fact inferences performed over sentences in the language. The language of thought is not a natural language, such as Spanish or Haitian Creole. It is a formal language, comparable to the machine language of a computer or formal languages of logic. The language of thought is often claimed to be innate, universal, and pivotal in learning, and it is implicated in processes such as natural language acquisition. However, it is also compatible with learning and reasoning in nonlinguistic creatures as well as in mental processes seemingly unconnected to language such as perception and motor control."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nl2j0k3ws4q",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Predecessors of the language of thought hypothesis (LoTH) can be found as early as in Plato ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ng4iwzqwnvp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzyumgx4aci\" data-reactroot=\"\">Moss, J. (2014). X\u2014Plato\u2019s Appearance-Assent Account of Belief. <em>Proceedings of the Aristotelian Society</em>, <em>114</em>(2), 213\u2013238. <a href=\"https://doi.org/10.1111/j.1467-9264.2014.00371.x\">https://doi.org/10.1111/j.1467-9264.2014.00371.x</a></p>",
+              "customLabel": "Moss, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and Aristotle ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncopymej4t7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrkyqvmpjqi\" data-reactroot=\"\">Panaccio, C. (1999). <em>Mental language: From Plato to William of Okham. </em>Fordham University Press.</p>",
+              "customLabel": "Panaccio, 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), continuing through the medieval period, most elaborately in the work of William of Ockam ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6gph0brs6o",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrkyqvmpjqi\" data-reactroot=\"\">Panaccio, C. (1999). <em>Mental language: From Plato to William of Okham. </em>Fordham University Press.</p>",
+              "customLabel": "Panaccio, 1999",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The idea rearose in the later 20th century via philosophers such as Gilbert "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nifdvoz9q8r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlak6qgzhew\" data-reactroot=\"\">Harman, G. (1973). <em>Thought</em>. Princeton University Press.</p>",
+              "customLabel": "Harman (1973)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " and Wilfred "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ne4njm9p0si",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nd69bqy8idv\" data-reactroot=\"\">Sellars, W. (1975). The structure of knowledge. In H.-N. Casta\u00f1eda (Ed.), <em>Action, knowledge, and reality</em>. Bobbs-Merrill.</p>",
+              "customLabel": "Sellars (1975)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". The LoTH as a hypothesis in cognitive science truly took shape with Jerry Fodor, who gave the first book length treatment of the topic, as its most prominent proponent ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nl7fcgazruz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2uz6jw5ulu\" data-reactroot=\"\">Fodor, J. A. (1975). <em>The language of thought</em>. Harvard University Press.</p>",
+              "customLabel": "Fodor, 1975",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Since then, it has been expanded and evolved with numerous proponents of the view, in philosophy ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4ajzgvu446",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8h05e2sg6e\" data-reactroot=\"\">Fodor, J. A., &amp; Pylyshyn, Z. W. (1988). Connectionism and cognitive architecture: A critical analysis. <em>Cognition, 28</em>(1-2), 3\u201371. <a href=\"https://psycnet.apa.org/doi/10.1016/0010-0277(88)90031-5\" target=\"_blank\">https://doi.org/10.1016/0010-0277(88)90031-5</a></p>",
+              "customLabel": "Fodor & Pylyshyn, 1988",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4fkqd5215f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nod2xyai0ed\" data-reactroot=\"\">Quilty-Dunn, J.,\u00a0 Porot, N., &amp; Mandelbaum, E. (2023). The best game in town: The re-emergence of the language of thought hypothesis across the cognitive sciences. <em>Behavioral and Brain Sciences</em>,<em> 46</em>, e261.<em> </em><a href=\"https://doi.org/10.1017/S0140525X22002849\">https://doi.org/10.1017/S0140525X22002849</a></p>",
+              "customLabel": "Quilty-Dunn et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), computational cognitive science ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nq0msf1l1um",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2cc02ko85x\" data-reactroot=\"\">Piantadosi, S. T., Tenenbaum, J. B., &amp; Goodman, N. D. (2012). Bootstrapping in a language of thought: A formal model of numerical concept learning. <em>Cognition</em>, <em>123</em>(2), 199\u2013217. <a href=\"https://doi.org/10.1016/j.cognition.2011.11.005\">https://doi.org/10.1016/j.cognition.2011.11.005</a> </p>",
+              "customLabel": "Piantadosi et al., 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5pba4huk88",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nn5qk519xqy\" data-reactroot=\"\">Sabl\u00e9-Meyer, M., Ellis, K., Tenenbaum, J., &amp; Dehaene, S. (2022). A language of thought for the mental representation of geometric shapes. <em>Cognitive Psychology</em>, <em>139</em>, 101527. <a href=\"https://doi.org/10.1016/j.cogpsych.2022.101527\">https://doi.org/10.1016/j.cogpsych.2022.101527</a> </p>",
+              "customLabel": "Sabl\u00e9-Meyer et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), neuroscience ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njx7b71s8rg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nug8z5q1qap\" data-reactroot=\"\">Al Roumi, F., Marti, S., Wang, L., Amalric, M., &amp; Dehaene, S. (2021). Mental compression of spatial sequences in human working memory using numerical and geometrical primitives. <em>Neuron</em>, <em>109</em>(16), 2627-2639.e4. <a href=\"https://doi.org/10.1016/j.neuron.2021.06.009\">https://doi.org/10.1016/j.neuron.2021.06.009</a> </p>",
+              "customLabel": "Al Roumi et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8ih6o8ebv4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv3h2cwc1d2\" data-reactroot=\"\">Frankland, S. M., &amp; Greene, J. D. (2020). Concepts and compositionality: in search of the brain&#x27;s language of thought. Annual review of psychology, 71(1), 273-303.</p>",
+              "customLabel": "Frankland & Greene, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and experimental psychology ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "navqxxvtsco",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5o4w7xteo1\" data-reactroot=\"\">Cavanagh, P. (2021). The language of vision. <em>Perception</em>, <em>50</em>(3), 195-215. <a href=\"https://doi.org/10.1177/0301006621991491\">https://doi.org/10.1177/0301006621991491</a>\u00a0</p>",
+              "customLabel": "Cavanagh, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npg9mxu1tfr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1lz91w0cp3\" data-reactroot=\"\">Dehaene, S., Al Roumi, F., Lakretz, Y., Planton, S., &amp; Sabl\u00e9-Meyer, M. (2022). Symbols and mental programs: A hypothesis about human singularity. <em>Trends in Cognitive Sciences</em>, <em>26</em>(9), 751-766. <a href=\"https://doi.org/110.1016/j.tics.2022.06.010\">https://doi.org/110.1016/j.tics.2022.06.010</a> </p>",
+              "customLabel": "Dehaene et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngx5t47xjlz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The 20th century resurgence of the idea that thought occurs in a mental language can be seen as part of a broader shift away from behaviorism. In the 1950s and 1960s, subdisciplines of psychology began positing mental representations in all manner of psychological explanation. There was thus a need for a better understanding of the core features of mental representations. The LoTH can be seen as a response to this need.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbt7oj81qgj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Early proponents of LoT, specifically Gilbert Harman and Jerry Fodor, were inspired by some of Noam Chomsky\u2019s arguments for universal grammar. The arguments Chomsky was making for language, Fodor applied to thought: just as people would infer that language was compositional (i.e., the meaning of a linguistic expression is derived from the meaning of its parts and the way they are combined, cf. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2mvj4mlk2y",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxecmfmilnd\" data-reactroot=\"\">Szab\u00f3, Z. G. (2012). The case for compositionality. In W. Hinzen, E. Machery, &amp; M. Werning (Eds.), <em>The Oxford handbook of compositionality</em>. Oxford University Press. <a href=\"https://doi.org/10.1093/oxfordhb/9780199541072.013.0003\">https://doi.org/10.1093/oxfordhb/9780199541072.013.0003</a></p>",
+              "customLabel": "Szab\u00f3, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") from the fact that it was productive and systematic, so too one might infer that thought was compositional because it was productive and systematic (see the section "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Chomskian-inspired LoTH arguments"
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n87zk6fobsy",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Fodor saw the LoTH as rendering explicit what was tacit in the work of cognitive scientists at the time. To understand research that was being done in vision (e.g., feature extraction), concept learning (via hypothesis testing and confirmation), or language (acquisition, production, and understanding) [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/8w58nrk1",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Visual Cognitive Neuroscience"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/j39m4jos",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Concepts"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xohbfbix",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Language Acquisition"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/e9aapok3",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Language Production"
+          },
+          {
+            "type": "text",
+            "text": "], one needed to appeal to LoT representations. Therefore, to even make sense of recent scientific progress, the thought went, researchers needed to posit a LoT.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ndhx9nefa78",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Many alternatives to LoTH have targeted this conception of cognitive science. This includes other (non-LoT) variants of the computational\u2013representational theory of mind. For example, some have argued that perceptual representations are iconic ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbehj5zwhr6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkrfq2of8gv\" data-reactroot=\"\">Block, N. (2023). <em>The border between seeing and thinking</em>. Oxford University Press.</p>",
+              "customLabel": "Block, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), that concept learning does not require hypothesis testing and confirmation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n53izujbpwh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl4tylx8i0b\" data-reactroot=\"\">Carey, S. (2009). <em>The origin of concepts</em>. Oxford University Press.</p>",
+              "customLabel": "Carey, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), or that computation generally is dissociable from linguistic computation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nt6qx1gsal9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqwa1hf734u\" data-reactroot=\"\">Camp, E. (2007). Thinking with maps. <em>Philosophical Perspectives</em>,<em> 21</em>(1), 145\u2013182. <a href=\"https://doi.org/10.1111/j.1520-8583.2007.00124.x\">https://doi.org/10.1111/j.1520-8583.2007.00124.x</a> </p>",
+              "customLabel": "Camp, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Each undermines the idea that the LoTH is the only viable account of the structure of mental representations. Contemporary defenses of the LoTH have thus tended to treat it as a \u201cworking hypothesis,\u201d one of many possible competing views of cognitive architecture rather than as the only possible explanation.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "basic-ingredients",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Basic ingredients"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrn1z0qv8d3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "All languages, including LoT, have "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "simple"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "complex"
+          },
+          {
+            "type": "text",
+            "text": " expressions. An atomic concept is a simple expression in a LoT. For instance, the expressions \u201cwave\u201d and \u201cbeach\u201d are plausibly simple in English, as is \u201ccrash.\u201d The expression, \u201cThe wave crashed on the beach,\u201d is complex."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmh7w0cr7cf",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "constituent"
+          },
+          {
+            "type": "text",
+            "text": " is a part of a complex expression. The thought, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "the candidate from Trenton has a toupee"
+          },
+          {
+            "type": "text",
+            "text": ", is composed of constituents  "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "the candidate from Trenton "
+          },
+          {
+            "type": "text",
+            "text": "and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "has a toupee"
+          },
+          {
+            "type": "text",
+            "text": "."
+          },
+          {
+            "type": "footnote",
+            "attrs": {
+              "id": "nin7h3emlup",
+              "href": null,
+              "value": "<p id=\"ntk4y20g6ah\" data-reactroot=\"\">We use this font change, with gray background, to indicate expressions in a LoT. Double quotes signify an expression in natural language.</p>",
+              "structuredValue": "",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " The expression "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "has a toupee"
+          },
+          {
+            "type": "text",
+            "text": " is in turn composed of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "has"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "a toupee"
+          },
+          {
+            "type": "text",
+            "text": ". Not any arbitrary part is a constituent; "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "Trenton has"
+          },
+          {
+            "type": "text",
+            "text": ", for example, is not a constituent of that thought. That is because there is a canonical way that sentences are broken down: "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "Trenton"
+          },
+          {
+            "type": "text",
+            "text": " is a constituent of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "the candidate from Trenton"
+          },
+          {
+            "type": "text",
+            "text": ", and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "has"
+          },
+          {
+            "type": "text",
+            "text": " is a constituent of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "has a toupee"
+          },
+          {
+            "type": "text",
+            "text": ", and it is only these larger strings that are the constituents of the full expression.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nxbfd7xsnwn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Discrete"
+          },
+          {
+            "type": "text",
+            "text": " constituents are typical of language-like representations, but some kinds of representation, such as icons, lack them. The complex phrase \u201ca red dog\u201d represents a red dog, as does a picture of a red dog. However, although the word \u201cred\u201d can be easily removed from the linguistic expression, the red cannot so easily be removed from the picture of the dog ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncquk64930g",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5991y5j4zi\" data-reactroot=\"\">Green, E. J., &amp; Quilty-Dunn, J. (2021). What is an object file? <em>British Journal for the Philosophy of Science</em>,<em> </em>72(3), 665-699.</p>",
+              "customLabel": "Green & Quilty-Dunn, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The part of the picture that instantiates redness is the same one that instantiates the dog shape.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ntp339b3fsj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Syntax"
+          },
+          {
+            "type": "text",
+            "text": " is the set of rules governing combinations of constituents. It determines which combinations are well formed and which are not. According to the LoTH, thought is governed by syntactic rules, like language. The syntactic rules of thought explain why people can think "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "the wave crashed on the beach"
+          },
+          {
+            "type": "text",
+            "text": " but not "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "beach on crashed the wave the"
+          },
+          {
+            "type": "text",
+            "text": ". They also explain why "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "Louise called Abdel"
+          },
+          {
+            "type": "text",
+            "text": " means something different from "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "Abdel called Louise"
+          },
+          {
+            "type": "text",
+            "text": ", although they share the same constituents.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "naiatvcjkw5",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Natural languages are "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "compositional"
+          },
+          {
+            "type": "text",
+            "text": ". The meaning of a string in natural language is (in many cases) determined by the meanings of its parts and the way those parts are combined. According to the LoTH, thought shares this important feature with language. To illustrate, consider the thought "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "the wave crashed on the beach"
+          },
+          {
+            "type": "text",
+            "text": ". It is similar to, but not that same as, the thought "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "the wave receded on the beach"
+          },
+          {
+            "type": "text",
+            "text": ". They are similar in that they share the same syntactic structure. However, they differ in their constituents and have different meanings. Similarly, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "Abdel and Louise went rock climbing"
+          },
+          {
+            "type": "text",
+            "text": " differs from both of the sentences above. It has a different syntactic structure and also has distinct constituents ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "went"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "rock climbing"
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "chomskian-inspired-loth-arguments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Chomskian-inspired LoTH arguments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7lhuedcg2l",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Historically, arguments for the LoTH focused on properties of a LoT that were similar to those postulated by Chomsky for natural language.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5z06doboa3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The argument from productivity"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n325dzoy9xu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2uz6jw5ulu\" data-reactroot=\"\">Fodor, J. A. (1975). <em>The language of thought</em>. Harvard University Press.</p>",
+              "customLabel": "Fodor, 1975",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", pp. 31-32) starts from the observation that people can, in principle, think an infinite number of novel thoughts of arbitrary length despite having a finite number of concepts. This supports the existence of a mental language because the only way to build an infinite set of representations out of a finite base of representations is via recursively defined rules"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "for combining discrete constituents.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "newe2h53ucp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Given that computing time and resources are bounded, the argument from productivity relies on a claim about what the mind is capable of in principle, not what any particular human actually computes. That is, the argument from productivity invokes a performance/competence distinction. The "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "performance"
+          },
+          {
+            "type": "text",
+            "text": " of thinking is limited by computing constraints such as the length of a person\u2019s life. But the underlying machinery, or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "competence"
+          },
+          {
+            "type": "text",
+            "text": ","
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "of thinking is not limited in these ways. One reason for supposing that people\u2019s ability to think is unbounded in principle is that rules for building thoughts look to be repeatable. If a person can think that Jo went to the store, and that Jo went to the park, they can think that Jo went to the store, then to the park, then to the store again, then to the park again, and so on, it would seem, ad infinitum. Another piece of evidence is that people can think completely novel thoughts. Consider: How many kilograms of fresh citrus are shipped to Antarctic research stations annually?\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2xoj7e0hqs",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A key piece of evidence for these claims about thought stems from natural language: people can produce and understand arbitrarily long sentences and sentences they have never heard before, and both processes appear to implicate thought. Independent arguments in favor of productivity in the absence of natural language have focused on specific animal behaviors such as the caching behavior of Western scrub jays ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nu3z5f1160k",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nimywgy96my\" data-reactroot=\"\">Gallistel, C. R., &amp; King, A. P. (2009). <em>Memory and the computational brain: Why cognitive science will transform neuroscience. </em>Wiley-Blackwell. <a href=\"https://psycnet.apa.org/doi/10.1002/9781444310498\">https://doi.org/10.1002/9781444310498</a></p>",
+              "customLabel": "Gallistel & King, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or baboons\u2019 tracking of social dominance relations (cf. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nswui5gox1v",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n19j4xaznkx\" data-reactroot=\"\">Camp, E. (2009). A language of baboon thought. In R. W. Lurz (Ed.), <em>The philosophy of animal minds</em> (pp. 108-127). Cambridge University Press.</p>",
+              "customLabel": "Camp, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhnbh4r9yn0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ns0omm082wc\" data-reactroot=\"\">Cheney, D.L. &amp; Seyfarth, R.M. (2008). <em>Baboon Metaphysics: The Evolution of a Social Mind</em>. Chicago University Press.</p>",
+              "customLabel": "Cheney & Seyfarth, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Although controversial, this evidence suggests some animals can iterate their representations of relations productively. As a baboon sets up its hierarchical tree of which members and families constitute which place in the social hierarchy, members and layers of the social hierarchy can be added ad infinitum so that each new member has a space in the animal\u2019s representation of its troop\u2019s social hierarchy."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfopmhylo65",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One problem for productivity arguments is that cognition is in fact bounded by time and resources, such as working memory and organism lifespan, so there is no direct evidence for productivity. Those who deny that thought has a language-like structure can reject that it is in-principle productive, citing the lack of direct evidence for infinitely complex thoughts. Some have denied that natural language is productive ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6rh9ahn04v",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1wd7xxyq4g\" data-reactroot=\"\">Ziff, P. (1974). The number of English sentences. <em>Foundations of Language</em> <em>11</em>(4), 519\u2013532.</p>",
+              "customLabel": "Ziff, 1974",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and have also raised doubts about productivity in nonhuman thought ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njgf8bx9s8o",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnvxwd9ug16\" data-reactroot=\"\">Dennett, D.C. (1989). Mother nature versus the walking encyclopedia: A Western drama. In W. Ramsey, S. P. Stich, &amp; D. E. Rumelhart (Eds.), <em>Philosophy and connectionist theory </em>(pp. 21-30). Erlbaum.</p>",
+              "customLabel": "Dennett, 1989",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nytk5c4w5co",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "argument from systematicity"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nt6bdmyc2yv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8h05e2sg6e\" data-reactroot=\"\">Fodor, J. A., &amp; Pylyshyn, Z. W. (1988). Connectionism and cognitive architecture: A critical analysis. <em>Cognition, 28</em>(1-2), 3\u201371. <a href=\"https://psycnet.apa.org/doi/10.1016/0010-0277(88)90031-5\" target=\"_blank\">https://doi.org/10.1016/0010-0277(88)90031-5</a></p>",
+              "customLabel": "Fodor & Pylyshyn, 1988",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") is similar to the argument from productivity, but it does not rely on speculations about in-principle boundlessness and so is less susceptible to the objections concerning the use of the performance/competence distinction. It takes as its starting point the semantic relatedness of thoughts with similar syntactic structure. Consider the following pair of thoughts: "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "Louise called Abdel"
+          },
+          {
+            "type": "text",
+            "text": ", and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "Abdel called Louise"
+          },
+          {
+            "type": "text",
+            "text": ". They appear to have the same structure and the same parts, but the parts are arranged differently. Similarly, they have almost the same meaning. The argument from systematicity claims that this parallelism, which arises for virtually any relation one can think of, is not a coincidence: thoughts have real syntactic structure, and changes in that structure cause changes in meaning."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "no6af1thqa7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The argument in schematic form is as follows: for any thought of the form aRb that one can think, there is another thought of the form bRa that one can also think that is semantically related to the first. On the argument from systematicity, what explains this generalization is the fact that thought, like language, has canonical parts ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngxwgnvdu6e",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nd4ktj1msxf\" data-reactroot=\"\">Fodor, J. A. (2007). The revenge of the given. In B. P. McLaughlin &amp; J. Cohen (Eds.), <em>Contemporary debates in philosophy of mind</em> (pp. 105-116). Wiley-Blackwell.</p>",
+              "customLabel": "Fodor, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7uu8ibgelx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5991y5j4zi\" data-reactroot=\"\">Green, E. J., &amp; Quilty-Dunn, J. (2021). What is an object file? <em>British Journal for the Philosophy of Science</em>,<em> </em>72(3), 665-699.</p>",
+              "customLabel": "Green & Quilty-Dunn, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") that can be combined and rearranged."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkiy8d9vgic",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Evidence for systematicity comes from patterns in natural language production and understanding, which are plausibly systematic (cf. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndmt1wc8hzn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsfmnmvk5sh\" data-reactroot=\"\">Johnson, K. (2004). On the systematicity of language and thought. <em>Journal of Philosophy</em>, <em>101</em>(3), 111\u2013139.\u00a0<a href=\"https://doi.org/10.5840/jphil2004101321\">https://doi.org/10.5840/jphil2004101321</a> </p>",
+              "customLabel": "Johnson, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), as well as from introspection. People have an ability to produce and understand "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "sentences "
+          },
+          {
+            "type": "text",
+            "text": "that show this pattern, such as \u201cLouise called Abdel,\u201d and"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "\u201cAbdel called Louise.\u201d To explain this, researchers infer back to the kinds of thoughts people can think, which would also have to be systematic. One limitation for this argument is that it does not show systematicity of thought for prelinguistic humans or animals, since researchers lack introspective access to their thoughts, and they lack natural language. A parallel argument for systematicity to cover these cases uses learning rather than language use ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd7grkgcqjl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8h05e2sg6e\" data-reactroot=\"\">Fodor, J. A., &amp; Pylyshyn, Z. W. (1988). Connectionism and cognitive architecture: A critical analysis. <em>Cognition, 28</em>(1-2), 3\u201371. <a href=\"https://psycnet.apa.org/doi/10.1016/0010-0277(88)90031-5\" target=\"_blank\">https://doi.org/10.1016/0010-0277(88)90031-5</a></p>",
+              "customLabel": "Fodor & Pylyshyn, 1988",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "): for any relation R, a creature that can learn"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "aRb relations can also learn bRa relations. Therefore, representation of relations is systematic.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "argument-from-cognitive-science",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Argument from cognitive science"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqopyns1zbh",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The LoTH is not the only computationalist account of cognition, and its ability to explain the results and data of cognitive science offers another argument for adopting it over those rival views. Since early in the history of cognitive science, researchers have proposed alternative, nonlinguistic representational formats in thought, including icons ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9y2lpf9zel",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nh77n16wj5g\" data-reactroot=\"\">Greenberg, G. (2023). The iconic-symbolic spectrum. <em>Philosophical Review</em>,<em> 132</em>(4), 579-627. <a href=\"https://doi.org/10.1215/00318108-10697558\">https://doi.org/10.1215/00318108-10697558</a> </p>",
+              "customLabel": "Greenberg, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no3csk7w0rm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9vnas795le\" data-reactroot=\"\">Shepard, R. N., &amp; Metzler, J. (1971). Mental rotation of three-dimensional objects. <em>Science</em>,<em> 171</em>(3972), 701\u2013703. <a href=\"https://psycnet.apa.org/doi/10.1126/science.171.3972.701\">https://doi.org/10.1126/science.171.3972.701</a></p>",
+              "customLabel": "Shepard & Metzler, 1971",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), maps ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nu1gv98hyyj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq5r1tb5b2k\" data-reactroot=\"\">Camp, E. (2007). Thinking with maps. <em>Philosophical Perspectives</em>,<em> 21</em>(1), 145\u2013182. <a href=\"https://doi.org/10.1111/j.1520-8583.2007.00124.x\">https://doi.org/10.1111/j.1520-8583.2007.00124.x</a> </p>",
+              "customLabel": "Camp, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n90u6eg4o8i",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntnonpmg9zr\" data-reactroot=\"\">Tolman, E. C. (1948). Cognitive maps in rats and men.\u00a0<em>Psychological Review, 55</em>(4), 189\u2013208.\u00a0<a href=\"https://psycnet.apa.org/doi/10.1037/h0061626\">https://doi.org/10.1037/h0061626</a></p>",
+              "customLabel": "Tolman, 1948",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), vector representations ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nun8azizu2a",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nghda9unh48\" data-reactroot=\"\">G\u00fcnther, F., Rinaldi, L., &amp; Marelli, M. (2019). Vector-space models of semantic representation from a cognitive perspective: A discussion of common misconceptions. <em>Perspectives on Psychological Science</em>, <em>14</em>(6), 1006-1033.</p>",
+              "customLabel": "G\u00fcnther et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), associations ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nt3qkdu5g2c",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndbw43kzbsc\" data-reactroot=\"\">Mandelbaum, E. (2016). Attitude, inference, association: On the propositional structure of implicit bias. <em>No\u00fbs</em>, 50(3), 629-658. <a href=\"https://doi.org/10.1111/nous.12089\">https://doi.org/10.1111/nous.12089</a> </p>",
+              "customLabel": "Mandelbaum, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngc6ri5v9az",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nm0thda0u5p\" data-reactroot=\"\">Mandelbaum, E. (2020). Associationist theories of thought. In E. N. Zalta &amp; U. Nodelman (Eds.), <em>Stanford encyclopedia of philosophy</em>. <a href=\"https://plato.stanford.edu/archives/fall2025/entries/associationist-thought/\">https://plato.stanford.edu/archives/fall2025/entries/associationist-thought/</a> </p>",
+              "customLabel": "2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and analog magnitudes ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5okx18i8f7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnj0rfrwnxx\" data-reactroot=\"\">Meck, W. H., &amp; Church, R. M. (1983). A mode control model of counting and timing processes. <em>Journal of Experimental Psychology: Animal Behavior Processes</em>, <em>9</em>(3), 320-324.</p>",
+              "customLabel": "Meck & Church, 1983",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), among others. Partly for this reason, many proponents of the LoTH (including Fodor) are pluralists about kinds of mental representation, allowing that LoTs and nonlinguistic representations may coexist. This style of argument is similar in spirit to other arguments for the LoTH but differs in important ways. Unlike other arguments, it does not require that LoT is the only possible explanation for human cognitive capacities. Rather, for each piece of evidence advanced for LoT, it relies on comparing LoT-style explanations directly to others available in the literature. Contemporary proponents have developed the argument from cognitive science by relying on discussions of large bodies of data, rather than in-principle arguments, to argue for the centrality of the LoT to cognitive science ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nthxx71rgj6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nod2xyai0ed\" data-reactroot=\"\">Quilty-Dunn, J.,\u00a0 Porot, N., &amp; Mandelbaum, E. (2023). The best game in town: The re-emergence of the language of thought hypothesis across the cognitive sciences. <em>Behavioral and Brain Sciences</em>,<em> 46</em>, e261.<em> </em><a href=\"https://doi.org/10.1017/S0140525X22002849\">https://doi.org/10.1017/S0140525X22002849</a></p>",
+              "customLabel": "Quilty-Dunn et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; see the section Q"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "uestions, controversies, and new developments"
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "a-new-argument-from-cognitive-science",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "A new argument from cognitive science"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "np1fmv3s39m",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Early iterations of the LoTH said little about the fundamental properties of LoT. The more recent approach identifies a cluster of language-like features that form a natural kind, one whose properties can be identified through experimental methods. Similarly, most early accounts did not specify which LoT symbols were most likely to be atomic, and which derived, or specify the most basic principles of composition. LoT was typically discussed in the singular, suggesting that it might be a unique language shared across biological cognition. Recent research has instead broadened the focus, wondering how many LoTs there might be ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni6716aiq6q",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwa5upk67j3\" data-reactroot=\"\">Mandelbaum, E., Dunham, Y., Feiman, R., Firestone, C., Green, E. J., Harris, D., Kibbe, M. M., Kurdi, B., Mylopoulos, M., Shepherd, J., Wellwood, A., Porot, N., &amp; Quilty-Dunn, J. (2022). Problems and mysteries of the many languages of thought. <em>Cognitive Science</em>, <em>46</em>(12), e13225. <a href=\"https://doi.org/10.1111/cogs.13225\">https://doi.org/10.1111/cogs.13225</a> </p>",
+              "customLabel": "Mandelbaum et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For example, if the LoTH is true of adult humans, it is almost certainly true of infants and other species, and it likely applies to more than one cognitive system within the adult mind. Each of these languages could potentially have a different evolutionary history and function(s), with different resulting computational needs and constraints. African gray parrots might use a different LoT in reasoning than a human 12 month old, and the adult human visual system might operate on yet another LoT, each with different atomic concepts, syntactic rules, or working memory constraints."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nv7hn8gh82u",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One example of this new argument from cognitive science in action comes from the domain of computational cognitive science, particularly Bayesian models of cognition. These accounts marry LoT-style sentences with a probabilistic inductive engine to explain human abilities in a wide variety of cases, including the acquisition of numerical concepts, Boolean concepts, intuitive theories, normative rules, taxonomies, and programs. Probabilistic languages of thought (PLoTs) have also been fruitful in modeling causality judgments, analogical reasoning, and mapping sentences to logical form (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nl6li93qx9p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nod2xyai0ed\" data-reactroot=\"\">Quilty-Dunn, J.,\u00a0 Porot, N., &amp; Mandelbaum, E. (2023). The best game in town: The re-emergence of the language of thought hypothesis across the cognitive sciences. <em>Behavioral and Brain Sciences</em>,<em> 46</em>, e261.<em> </em><a href=\"https://doi.org/10.1017/S0140525X22002849\">https://doi.org/10.1017/S0140525X22002849</a></p>",
+              "customLabel": "Quilty-Dunn et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Specific PLoT models of learning can also be tested against developmental data ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "np0brm53wuy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndpbm0ubf2i\" data-reactroot=\"\">Carcassi, F., &amp; Szymanik, J. (2023). The Boolean language of thought is recoverable from learning data. <em>Cognition</em>, <em>239</em>, 105541. <a href=\"https://doi.org/10.1016/j.cognition.2023.105541\">https://doi.org/10.1016/j.cognition.2023.105541</a> </p>",
+              "customLabel": "Carcassi & Szymanik, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "properties-of-a-lot",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Properties of a LoT\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nt8l7o09l0n",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Recent accounts of the LoTH have proposed six canonical properties that are characteristic of LoTs ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nodbhmmqfqn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nod2xyai0ed\" data-reactroot=\"\">Quilty-Dunn, J.,\u00a0 Porot, N., &amp; Mandelbaum, E. (2023). The best game in town: The re-emergence of the language of thought hypothesis across the cognitive sciences. <em>Behavioral and Brain Sciences</em>,<em> 46</em>, e261.<em> </em><a href=\"https://doi.org/10.1017/S0140525X22002849\">https://doi.org/10.1017/S0140525X22002849</a></p>",
+              "customLabel": "Quilty-Dunn et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Some LoTs may lack one or more of these properties, and some representational schemes may have just a few of these properties, making it unclear whether they are LoTs or not. However, the properties are thought to typically cluster together in a homeostatic property cluster ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nn8oc7i73wt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny1594fke9d\" data-reactroot=\"\">Boyd, R. (1990). Realism, approximate truth, and philosophical method. In C. W. Savage (Ed.), <em>Scientific theories</em> (pp. 355\u2013391). University of Minnesota Press.\u00a0</p>",
+              "customLabel": "Boyd, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "): they do not always appear together, but the appearance of one increases the probability of finding the others, too. These properties allow for LoTs to be identified in experimental contexts because the features individually yield specific behavioral and neural predictions."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4mncbqx01g",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "First, LoTs have discrete constituents (see the section "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Basic ingredients"
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nb1yeau73go",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Second, they exhibit "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "role-filler independence"
+          },
+          {
+            "type": "text",
+            "text": ". A distinctive feature of LoTs is that they maintain a separation between constituents and their syntactic roles. In "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "Abdel drove Louise"
+          },
+          {
+            "type": "text",
+            "text": ", for example, there are roles for an agent (Abdel), an action (driving), and a patient (Louise). "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "Abdel"
+          },
+          {
+            "type": "text",
+            "text": " maintains its identity across changes in role, for example, if it fills the patient role in "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "Louise drove Abdel"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nnlf82cke1i",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Third, a LoT has a structure in which a predicate is applied to an argument yielding a truth-evaluable expression. For example, in the sentence \u201cpigs fly,\u201d the predicate \u201cfly\u201d is applied to the argument \u201cpigs.\u201d The resulting string can be evaluated as false. Predicate-argument structure is typical of languages generally. Not all well-formed formulae in a LoT are truth evaluable (e.g., imperatives like "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "shut the door"
+          },
+          {
+            "type": "text",
+            "text": " may be well formed but not truth apt)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwk6tnahybn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Fourth, LoTs have logical operators like "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "not"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "if\u2026then"
+          },
+          {
+            "type": "text",
+            "text": ", which structure deductive inferences. Logical operators have purely functional meanings: unlike \u201crock,\u201d there is no set of tangible things in the world that instantiates "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "if\u2026then"
+          },
+          {
+            "type": "text",
+            "text": ". Evidence for the presence of such operators is evidence for linguistic elements in thought. Other types of mental representation, such as maps ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npnl07g958r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq5r1tb5b2k\" data-reactroot=\"\">Camp, E. (2007). Thinking with maps. <em>Philosophical Perspectives</em>,<em> 21</em>(1), 145\u2013182. <a href=\"https://doi.org/10.1111/j.1520-8583.2007.00124.x\">https://doi.org/10.1111/j.1520-8583.2007.00124.x</a> </p>",
+              "customLabel": "Camp, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or imagistic simulation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4q4s60asv9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7v7owzy8f2\" data-reactroot=\"\">Leahy, B., Huemer, M., Steele, M., Alderete, S., &amp; Carey, S. (2022). Minimal representations of possibility at age 3. <em>Proceedings of the National Academy of Sciences</em>, <em>119</em>(52), e2207499119. <a href=\"https://doi.org/10.1073/pnas.2207499119\">https://doi.org/10.1073/pnas.2207499119</a></p>",
+              "customLabel": "Leahy et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), can approximate logical reasoning, such as when a mental model may simulate negation not with a logical operator like \u201cnot\u201d but instead by just representing absence (compare \u201cthere is no rabbit in the park\u201d to showing a picture of a rabbit-less park). Thus, special care must be taken to demonstrate that logical connectives, rather than these nonlinguistic representations, structure reasoning. Importantly, logical operators are separable from predicate-argument structure (such as in "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "Louise drove Abdel"
+          },
+          {
+            "type": "text",
+            "text": "); a language might allow for logical operations over representations that lack predicate-argument structure, such as maps (so that it is possible to think thoughts of the form\u00a0"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "[map 1]"
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "[map 2]"
+          },
+          {
+            "type": "text",
+            "text": ", in which "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "map 1"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "map 2"
+          },
+          {
+            "type": "text",
+            "text": " are cognitive maps). It might also allow for predicate-argument structure without the ability to conjoin sentences with logical operators (so that it is possible to think "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "it\u2019s cold"
+          },
+          {
+            "type": "text",
+            "text": " and also think "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "there are rabbits in the park"
+          },
+          {
+            "type": "text",
+            "text": ", but it is not possible to think "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "it\u2019s cold"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "there are rabbits in the park"
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nnqz79r1kzr",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Fifth, if LoTs structure thought, they should structure transitions between thoughts, too. In effect, one should expect that there are automatic, structure-sensitive transitions between states in many parts of the mind ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nend2rjm25l",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"neo3d2o7xgb\" data-reactroot=\"\">Quilty-Dunn, J., &amp; Mandelbaum, E. (2018). Inferential transitions.<em> Australasian Journal of Philosophy</em>,<em> 96</em>(3), 532-547. <a href=\"https://doi.org/10.1080/00048402.2017.1358754\">https://doi.org/10.1080/00048402.2017.1358754</a> </p>",
+              "customLabel": "Quilty-Dunn & Mandelbaum, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). To take a mundane example, one might effortlessly transition from the thought that there is no more coffee at home, and the thought that when there is no more coffee at home, one should stop at the store on the way back from work, to the thought that one should stop at the store on the way back from work. These transitions are determined by the formal properties of mental representations along with the basic inferential rules of reasoning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxr5kpej674",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"neo3d2o7xgb\" data-reactroot=\"\">Quilty-Dunn, J., &amp; Mandelbaum, E. (2018). Inferential transitions.<em> Australasian Journal of Philosophy</em>,<em> 96</em>(3), 532-547. <a href=\"https://doi.org/10.1080/00048402.2017.1358754\">https://doi.org/10.1080/00048402.2017.1358754</a> </p>",
+              "customLabel": "Quilty-Dunn & Mandelbaum, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") in the same way that the transitions between states in a classical computer language are. This is sometimes referred to as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "inferential promiscuity.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbk8l0n19w4",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Sixth and finally, a LoT supports "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "abstract content"
+          },
+          {
+            "type": "text",
+            "text": ". People can think about many topics, from the swift (mis)carriage of justice to the wingspan of the chimney swift. Some things that people can think about, such as the concept of justice, are difficult to represent without the arbitrary relation of linguistic symbols (such as the word \u201cjustice\u201d) to their referents. Evidence for representation of such categories is evidence for linguistic symbols in thought and thus for LoT(s). Imagistic and iconic modes of thought, traditionally the trade of empiricist theories of learning, have trouble representing abstraction. These theories often posit a learning trajectory that predicts sensorily grounded concepts to be semantically more primitive than abstract concepts and acquired before them. By contrast, since languages represent abstract concepts with symbols, they do not need to represent them using complexes of sensory representations. Abstract concepts can even be atomic. Thus, the more evidence there is for semantically primitive abstract concepts, the more one should expect LoT formats of representation."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "evidence-for-the-loth",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Evidence for the LoTH"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nq3yno9huu2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Current empirical debates around the LoTH focus on the six features identified above (see the section "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Properties of a LoT"
+          },
+          {
+            "type": "text",
+            "text": "), particularly the role of logical operators and inferential promiscuity. Uncovering when logical operators are present in thought is one of the most pressing questions in LoTH and nativism debates more generally. A commonly studied operator is sentential negation ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "not"
+          },
+          {
+            "type": "text",
+            "text": "). In sentential negation, an operator combines with a sentence to produce a new sentence with the opposite truth value of the first. \u201cThe Nile is the longest river on earth\u201d (a true sentence) can be negated, becoming \u201cThe Nile is not the longest river on earth\u201d (a false sentence). Some hold that sentential negation may be present in thought at 12 months or younger ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkl6bmkge8o",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9uq4l1rdje\" data-reactroot=\"\">Cesana-Arlotti, N., Mart\u00edn, A., T\u00e9gl\u00e1s, E., Vorobyova, L., Cetnarski, R., &amp; Bonatti, L. L. (2018). Precursors of logical reasoning in preverbal human infants. <em>Science</em>, <em>359</em>(6381), 1263\u20131266. <a href=\"https://doi.org/10.1126/science.aao3539\">https://doi.org/10.1126/science.aao3539</a></p>",
+              "customLabel": "Cesana-Arlotti et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or may not arise until 17 to 19 months ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n81402fk7oh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0nwxtonugb\" data-reactroot=\"\">Feiman, R., Mody, S., &amp; Carey, S. (2022). The development of reasoning by exclusion in infancy. <em>Cognitive psychology</em>, <em>135</em>, 101473. <a href=\"https://doi.org/10.1016/j.cogpsych.2022.101473\">https://doi.org/10.1016/j.cogpsych.2022.101473</a></p>",
+              "customLabel": "Feiman et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The lower bound on negation understanding in language appears to be as early as 18 months ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3z8w6b9og3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4gez51f347\" data-reactroot=\"\">de Carvalho, A., Crimon, C., Barrault, A., Trueswell, J., &amp; Cristophe, A. (2021). \u201cLook. It is not a bamoule!\u201d: 18- and 24-month-olds can use negative sentences to constrain their interpretation of novel word meanings. <em>Developmental Science</em>, <em>24</em>(4), e13085. <a href=\"https://doi.org/10.1111/desc.13085\">https://doi.org/10.1111/desc.13085</a> </p>",
+              "customLabel": "de Carvalho et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), which serves as the upper bound for when negation is present in prelinguistic thought. Negation is a very stringent test for the development of operators, being a harder operator to process than others, such as conjunction ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "and"
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "nu1l4y72b0v",
+          "url": "https://assets.pubpub.org/0nuhctcu/Fig 1 HR-71751488927711.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"nyy35tbzx1q\" data-reactroot=\"\">Schematic representation of test and training trials for a four-cup task with children, using sticker rewards. Adapted from <span id=\"n1birt6ts0y\" data-node-type=\"citation\" data-value=\"\" data-unstructured-value=\"&lt;p id=&quot;nkejj1n4585&quot; data-reactroot=&quot;&quot;&gt;Mody, S., &amp;amp; Carey, S. (2016). The emergence of reasoning by the disjunctive syllogism in early childhood. &lt;em&gt;Cognition&lt;/em&gt;, &lt;em&gt;154&lt;/em&gt;, 40-48. &lt;a href=&quot;https://doi.org/10.1016/j.cognition.2016.05.012&quot;&gt;https://doi.org/10.1016/j.cognition.2016.05.012&lt;/a&gt; &lt;/p&gt;\" data-custom-label=\"Mody and Carey (2016)\" class=\"citation\">Mody and Carey (2016)</span>.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9ner9nahws",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Linguistic tests are not suitable for deciding when operators are present in prelinguistic human infants and animals. One area of current debate surrounds the presence of such operators in children younger than 17 months and in nonhuman animals ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntsyy9cwvdw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0kuai01dqo\" data-reactroot=\"\">Engelmann, J. M.,\u00a0 Haux, L. M.,\u00a0 V\u00f6lter, C.,\u00a0 Schleihauf, H.,\u00a0 Call, J.,\u00a0 Rakoczy, H., &amp;\u00a0 Herrmann, E. (2023). Do chimpanzees reason logically? <em>Child Development</em>,\u00a094,\u00a0 1102\u20131116. <a href=\"https://doi.org/10.1111/cdev.13861\">https://doi.org/10.1111/cdev.13861</a></p>",
+              "customLabel": "Engelmann et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9cqyvmkbei",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7v7owzy8f2\" data-reactroot=\"\">Leahy, B., Huemer, M., Steele, M., Alderete, S., &amp; Carey, S. (2022). Minimal representations of possibility at age 3. <em>Proceedings of the National Academy of Sciences</em>, <em>119</em>(52), e2207499119. <a href=\"https://doi.org/10.1073/pnas.2207499119\">https://doi.org/10.1073/pnas.2207499119</a></p>",
+              "customLabel": "Leahy et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Much work focuses on "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "disjunctive syllogistic reasoning"
+          },
+          {
+            "type": "text",
+            "text": ", logical inferences of the form "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "A or B; not A; therefore B"
+          },
+          {
+            "type": "text",
+            "text": ". This is used as a test for the presence of negation ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "not"
+          },
+          {
+            "type": "text",
+            "text": ") and disjunction ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "or"
+          },
+          {
+            "type": "text",
+            "text": "). Although there are many ways to operationalize disjunctive syllogistic reasoning (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nyss5g9b9b6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"noja7oybou4\" data-reactroot=\"\">Cesana-Arlotti, N., &amp; Halberda, J. (2024). A continuity in logical development: Domain-general disjunctive inference by toddlers.\u00a0<em>Open Mind</em>,\u00a0<em>8</em>, 809\u2013825. <a href=\"https://doi.org/10.1162/opmi_a_00148\">https://doi.org/10.1162/opmi_a_00148</a> </p>",
+              "customLabel": "Cesana-Arlotti & Halberda, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), perhaps the most broadly discussed paradigm is based on Josep "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxxbv5lo7ix",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsqfqstlzbo\" data-reactroot=\"\">Call, J. (2004). Inferences about the location of food in the great apes (<em>Pan paniscus</em>, <em>Pan troglodytes</em>, <em>Gorilla gorilla</em>, and <em>Pongo pygmaeus</em>). <em>Journal of Comparative Psychology</em>, <em>118</em>(2), 232\u2013241. <a href=\"https://doi.org/10.1037/0735-7036.118.2.232\">https://doi.org/10.1037/0735-7036.118.2.232</a> </p>",
+              "customLabel": "Call's (2004)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " cups task ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1birt6ts0y",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkejj1n4585\" data-reactroot=\"\">Mody, S., &amp; Carey, S. (2016). The emergence of reasoning by the disjunctive syllogism in early childhood. <em>Cognition</em>, <em>154</em>, 40-48. <a href=\"https://doi.org/10.1016/j.cognition.2016.05.012\">https://doi.org/10.1016/j.cognition.2016.05.012</a> </p>",
+              "customLabel": "Mody & Carey, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; see "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "n2v5fynmmxu",
+              "targetId": "nu1l4y72b0v",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In a standard version of this paradigm, participants are familiarized with a setup in which a reward may be present in one of two cups. They are then shown that one of the cups is empty. Experimenters observe whether the infants and animals successfully leverage the certainty offered by reasoning by exclusion to go for the other cup, rather than the one shown empty.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nz4crs4dqng",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Success on the two cups tasks has been challenged as evidence of true disjunctive syllogism, as subjects may succeed via a nonlogical operator\u2013involving strategy such as mapping unknown to unknown or avoiding empty objects ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb2mmnh0osy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0nwxtonugb\" data-reactroot=\"\">Feiman, R., Mody, S., &amp; Carey, S. (2022). The development of reasoning by exclusion in infancy. <em>Cognitive psychology</em>, <em>135</em>, 101473. <a href=\"https://doi.org/10.1016/j.cogpsych.2022.101473\">https://doi.org/10.1016/j.cogpsych.2022.101473</a></p>",
+              "customLabel": "Feiman et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In the four cups task, subjects see four cups, separated in two sets of two, with two rewards given, one in each subgroup. In this setup, subjects are shown that one cup of one pair is empty. Disjunctive syllogism would then imply to subjects exactly where one reward is, leaving the location of the reward in the other pair of cups uncertain. Whether the cups experiments show inference by disjunctive syllogism or just mental simulation (or similar nonlogical operator\u2013involving strategies) is a topic of current research (see, e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngn1bzvcvi8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0nwxtonugb\" data-reactroot=\"\">Feiman, R., Mody, S., &amp; Carey, S. (2022). The development of reasoning by exclusion in infancy. <em>Cognitive psychology</em>, <em>135</em>, 101473. <a href=\"https://doi.org/10.1016/j.cogpsych.2022.101473\">https://doi.org/10.1016/j.cogpsych.2022.101473</a></p>",
+              "customLabel": "Feiman et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4i4ce9ppe0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Evidence for automatic inferential transitions is particularly indicative of LoT for aspects of cognition that are most remote from natural language processing and conscious control such as unconscious instantaneous reasoning. Thus, LoTs appear to be in tension with traditional dual process models of cognition that identify System 1 processing with automatic, unconscious, associative transitions in thought ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nls9d74rfh4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq2bfzx3mmi\" data-reactroot=\"\">Kahneman, D. (2011). <em>Thinking, fast and slow</em>. Farrar, Straus and Giroux.</p>",
+              "customLabel": "Kahneman, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). By contrast, they are well suited to interact with inferential mechanisms, which are thought to be typical of slower, deliberative System 2 processes. Since LoT is a language, it can be used to define the formal rules of those inferences (for example, the rule modus ponens: if A, then B; A; therefore B)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkls38cohwa",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Recent work in the dual processes literature suggests LoT processing even in System 1 processes. To take just one example, it has long been observed that beliefs can skew the ability to evaluate the quality of logical arguments ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnv973dsg48",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"na3yusbaznq\" data-reactroot=\"\">Markovits, H., &amp; Nantel, G. (1989). The belief-bias effect in the production and evaluation of logical conclusions. <em>Memory &amp; Cognition, 17</em>(1), 11\u201317. <a href=\"https://doi.org/10.3758/bf03199552\">https://doi.org/10.3758/bf03199552</a> </p>",
+              "customLabel": "Markovits & Nantel, 1989",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Humans are biased to accept invalid arguments that have conclusions they agree with and to reject good ones that have conclusions they disagree with\u2014a typical System 1\u2013type effect often called the"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " belief bias"
+          },
+          {
+            "type": "text",
+            "text": ". It appears that there is also an inverse effect of logical evaluation on belief: when asked to evaluate the truth of conclusions, participants\u2019 responses show implicit sensitivity to whether the argument was logically valid, with them having slower reaction times (and higher error rates) on problems in which logic and belief conflict. For instance, they will be, on average, slower to identify a false conclusion when it follows from a valid argument than an invalid one. This effect is robust. It persists when researchers place participants under cognitive load (to ensure System 1 processing) and even when researchers tell participants to focus on the believability of the conclusion rather than to evaluate whether the argument is logically valid ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nc8ss2u4jg7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nc3vxt0rvrw\" data-reactroot=\"\">Howarth, S., Handley, S., &amp; Polito, V. (2021). Uncontrolled logic: Intuitive sensitivity to logical structure in random responding. <em>Thinking &amp; Reasoning, 28</em>(1), 1\u201336. <a href=\"https://doi.org/10.1080/13546783.2021.1934119\">https://doi.org/10.1080/13546783.2021.1934119</a> </p>",
+              "customLabel": "Howarth et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "This suggests that System 1 processes are at least partly logically structured, operating in a LoT."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "possible-alternatives-to-a-lot",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Possible alternatives to a LoT"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nzwll2kpbex",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Connectionist networks have long been cited as an alternative to LoT architectures. Such models, also known as (artificial) neural networks, are made up of large networks of interconnected nodes and do not explicitly characterize the mind in terms of sentences in a LoT. Recent years have witnessed increasing optimism about such models with remarkable successes of deep learning, for example, in large language models, computer vision, and image- and video-generating models [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "]. In one sense, framing things in an adversarial way is simply inaccurate, since connectionist architectures could implement a LoT ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n21fq3gqe52",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8h05e2sg6e\" data-reactroot=\"\">Fodor, J. A., &amp; Pylyshyn, Z. W. (1988). Connectionism and cognitive architecture: A critical analysis. <em>Cognition, 28</em>(1-2), 3\u201371. <a href=\"https://psycnet.apa.org/doi/10.1016/0010-0277(88)90031-5\" target=\"_blank\">https://doi.org/10.1016/0010-0277(88)90031-5</a></p>",
+              "customLabel": "Fodor & Pylyshyn, 1988",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), making room for both in a single cognitive process. In another sense, however, there is a fairly deep challenge raised by such proposals. If connectionist networks can be built to mimic the performance that is used as evidence of computationalist architectures, but without implementing such architectures, why should cognitive scientists need computational\u2013representational theory of mind at all? Why not think the mind is simply a biologically implemented connectionist network with no intervening layers of computation? Yet, if the LoTH is correct, this objection misses the point because connectionist networks lack the kind of symbolic, formal processes that are fundamental to cognition.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n8d2y9zoipp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This debate has a rich history and is now primed for an exciting new chapter, as the power of computational cognitive science, including large language models and PLoTs, has increased dramatically. Current points of contention include (1) whether learning models could underlie the widespread prepared learning seen in humans and other animals and (2) whether some features of cognition that appear to be fundamental (such as feature processing in vision and compositionality in thought) can be approximated to a satisfying degree by learning models. These questions interact with questions of domain-general learning mechanisms (i.e., those that can be used to process any domain, such as attention, rather than being dedicated to just one domain, such as natural language). Current connectionist-inspired architectures are domain general, and often when one finds a connectionist architecture that can mimic human performance in a given domain, it is too brittle to port to other cognitive processes."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nymv0e5fvl1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Putting these implementation questions to one side, the LoTH promises to be a productive area of research in coming years. In particular, the idea that there might be many languages of thought raises questions for theorists and experimentalists. One of these is how LoTs might interface with one another and with other formats. By way of example, it is possible that there are representations that figure in higher cognition but could never be computed over by the motor system, even in principle, because of their format. However, it is also possible that there are no such representations. Similarly, there is much to explore about the phylogenetic and ontogenetic origins of LoTs. One pressing question here is how much overlap there is between human and nonhuman LoTs. Another concerns which syntactic features of thought are most plausible for a given species or stage of human development.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0cp6lu6pdv",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Because the LoTH is a thesis about the underlying structure of cognitive representations, it touches virtually every subdiscipline of cognitive science. One of the promising aspects of the current state of this field is its empirical tractability. There are fruitful questions concerning the implementation of LoTs in human nervous systems ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni0gp4l88vu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbpu0zy90ni\" data-reactroot=\"\">Kazanina, N., &amp; Poeppel, D. (2023). The neural ingredients for a language of thought are available. <em>Trends in Cognitive Sciences, 27</em>(11), 996-1007. <a href=\"https://doi.org/10.1016/j.tics.2023.07.012\">https://doi.org/10.1016/j.tics.2023.07.012</a></p>",
+              "customLabel": "Kazanina & Poeppel, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Neuroscientists can investigate what kinds of implementation models are most plausible and well supported for the LoTH ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbewbknyy55",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv3h2cwc1d2\" data-reactroot=\"\">Frankland, S. M., &amp; Greene, J. D. (2020). Concepts and compositionality: in search of the brain&#x27;s language of thought. Annual review of psychology, 71(1), 273-303.</p>",
+              "customLabel": "Frankland & Greene, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Similarly, given advances in computational approaches to cognition, researchers can ask what kinds of artificial systems might be capable of implementing LoTs or what kinds of artificial systems might reliably mimic compositionality ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk7zhjaqk03",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n13p3tb2sm8\" data-reactroot=\"\">McGrath, S. W., Russin, J., Pavlick, E., &amp; Feiman, R. (2023). Properties of LoTs: The footprints or the bear itself?\u00a0<em>Behavioral and Brain Sciences</em>, <em>46</em>, e284. <a href=\"https://doi.org/10.1017/S0140525X23001863\">https://doi.org/10.1017/S0140525X23001863</a> </p>",
+              "customLabel": "McGrath et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nzr0df7zptl",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The fact that LoTs can differ from one another raises the possibility that different systems in the mind might operate over different LoTs. Visual perception might operate in one or more LoTs, for example, while logical operations in reasoning operate over another [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/8w58nrk1",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Visual Cognitive Neuroscience"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/ee7y4opg",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Causal Reasoning"
+          },
+          {
+            "type": "text",
+            "text": "]. There is even more room for exploration using the LoTH framework in development and comparative cognition [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zw60p83x",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Cognitive Development"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/rbmlimm5",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Animal Cognition"
+          },
+          {
+            "type": "text",
+            "text": "]. The syntactic rules and atomic concepts in the minds of infants and nonhuman animals are largely unknown, and testing between hypotheses in such cases will require an extensive amount of careful experimentation. The LoTH allows for careful comparison of different logical operators and quantifiers. For instance, one can ask about the role of generics (statements such as \u201cBirds are cute\u201d as opposed to the specific \u201cThat bird is cute\u201d) in LoTs, such as why they are processed more easily than existential and universally quantified statements. Perhaps it is because they are a default mode of thought ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh2gtcgd7h8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nogthf3wm9a\" data-reactroot=\"\">Rhodes, M., Gelman, S., &amp; Leslie, S. (2025). How generic language shapes the development of social thought. <em>Trends in Cognitive Science</em>, <em>29</em>(2), 122-132. <a href=\"https://doi.org/10.1016/j.tics.2024.09.012\">https://doi.org/10.1016/j.tics.2024.09.012</a> </p>",
+              "customLabel": "Rhodes et al., 2025",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nprrkremhrm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "There are questions regarding the phylogeny and ontogeny of LoTs. When, how, and how many separate times they emerged will be an area in which comparative research will be indispensable; developmental researchers can address whether and how LoTs change in grammar and expressive power through infancy and childhood and how such changes might shape development ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1yhw2sh6kn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvoyj8nqo4o\" data-reactroot=\"\">Kibbe, M. M. (2023). The language-of-thought as a working hypothesis for developmental cognitive science. <em>Behavioral and Brain Sciences</em>, <em>46</em>, e280. <a href=\"https://doi.org/10.1017/S0140525X23002030\">https://doi.org/10.1017/S0140525X23002030</a> </p>",
+              "customLabel": "Kibbe, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). A firmer grasp of the predicates of the infant mind can also elucidate which concepts are likely to be atomic and thus potentially unlearned, offering new purchase on classic debates about nativism, empiricism, and the origins of abstract content in thought."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "acknowledgments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Acknowledgments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfcywwwetml",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Helpful comments were received from Xander Macswan, Jessica Moss, Griffin Pion, Jake Quilty-Dunn, Marjorie Rhodes, and Elliot Schwartz, who are all hereby thanked for their contributions."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Further reading\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nzbrohrmyv4",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n1lz91w0cp3",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Dehaene, S., Al Roumi, F., Lakretz, Y., Planton, S., & Sabl\u00e9-Meyer, M. (2022). Symbols and mental programs: A hypothesis about human singularity. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Trends in Cognitive Sciences"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "26"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(9), 751-766. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/110.1016/j.tics.2022.06.010",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/110.1016/j.tics.2022.06.010"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nvpzj127c2v",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Fodor, J. A. (1975). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The language of thought. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "MIT."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n5ddc47mt70",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Kazanina, N., & Poeppel, D. (2023). The neural ingredients for a language of thought are available. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Trends in Cognitive Sciences, 27"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(11), 996-1007. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/j.tics.2023.07.012",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/j.tics.2023.07.012"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "neboal6f31p",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Quilty-Dunn, J.,\u00a0 Porot, N., & Mandelbaum, E. (2022). The best game in town: The re-emergence of the language of thought hypothesis across the cognitive sciences. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Behavioral and Brain Sciences"
+                  },
+                  {
+                    "type": "text",
+                    "text": ","
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": " 46"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", e261."
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1017/S0140525X22002849",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1017/S0140525X22002849"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

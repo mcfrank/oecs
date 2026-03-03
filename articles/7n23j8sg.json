@@ -1,0 +1,2189 @@
+{
+  "id": "d858c2df-64ae-48e4-912d-9d6b7d5e67ac",
+  "slug": "7n23j8sg",
+  "title": "Neuroscience of Syntax",
+  "url": "https://oecs.mit.edu/pub/7n23j8sg",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "d858c2df-64ae-48e4-912d-9d6b7d5e67ac",
+    "slug": "7n23j8sg",
+    "title": "Neuroscience of Syntax",
+    "htmlTitle": "Neuroscience of Syntax",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.d858c2df",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "q5ix680j",
+    "editHash": "1uuw18f7",
+    "reviewHash": "xf6p7ocm",
+    "commentHash": "892lbrt2",
+    "draftId": "acece4c3-e2a3-4a3c-812f-920e5a73e022",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "209d93be-8a7d-4ed7-b3fe-56fcf41c6116",
+    "scopeSummaryId": "41a74295-4917-490c-b6f1-0223106d45ad",
+    "createdAt": "2025-05-01T19:04:07.472Z",
+    "updatedAt": "2025-05-27T15:08:41.952Z",
+    "attributions": [
+      {
+        "id": "9e3bd254-b486-44e4-b9ca-b6a354b69de0",
+        "name": "Evelina Fedorenko",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "MIT",
+        "orcid": "0000-0003-3823-514X",
+        "userId": null,
+        "pubId": "d858c2df-64ae-48e4-912d-9d6b7d5e67ac",
+        "createdAt": "2025-05-01T19:10:01.747Z",
+        "updatedAt": "2025-05-01T19:10:14.941Z",
+        "user": null
+      },
+      {
+        "id": "49a52fc3-adbd-40e1-90b4-f984b788274e",
+        "name": "Marina Bedny",
+        "avatar": null,
+        "title": null,
+        "order": 0.8125,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Johns Hopkins University",
+        "orcid": "0000-0002-2907-8042",
+        "userId": null,
+        "pubId": "d858c2df-64ae-48e4-912d-9d6b7d5e67ac",
+        "createdAt": "2025-05-14T16:50:42.807Z",
+        "updatedAt": "2025-05-14T16:51:08.596Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "acece4c3-e2a3-4a3c-812f-920e5a73e022",
+      "latestKeyAt": "2025-06-11T17:57:41.109Z",
+      "firebasePath": "drafts/draft-acece4c3-e2a3-4a3c-812f-920e5a73e022",
+      "createdAt": "2025-05-01T19:04:07.458Z",
+      "updatedAt": "2025-06-16T12:47:38.740Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nsujyg5zj28",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Syntax is a system of constraints on how words can combine into phrases and sentences to create complex meanings. Languages vary in the precise nature of these constraints: For example, some languages have strict word order rules, whereas other languages allow more flexibility in the ordering of words but make heavy use of word-internal structure (e.g., prefixes and suffixes) that tell you what role each word plays in the structure of a sentence and how words go together. Knowledge of a language\u2019s syntax allows for understanding and generating a vast number of sentences, including ones that use infrequent, unfamiliar words (e.g., "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Lana ate a cherimoya"
+          },
+          {
+            "type": "text",
+            "text": ") or express nonsensical meanings, as in Chomsky\u2019s famous \u201cColorless green ideas sleep furiously\u201d example. In the brain, syntactic processing is supported by the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "language network"
+          },
+          {
+            "type": "text",
+            "text": ", a left-lateralized interconnected set of frontal and temporal brain areas."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n45258grbn6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "For many years, the idea that a single brain area was the \u201cseat of syntax\u201d was popular. For example, one prominent proposal placed syntactic processing in the left inferior frontal cortex, within "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Broca\u2019s area"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuolx896dhi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny04dmdd9ch\" data-reactroot=\"\">Caramazza, A., &amp; Zurif, E. B. (1976). Dissociation of algorithmic and heuristic processes in language comprehension: Evidence from aphasia.\u00a0<em>Brain and language</em>,\u00a0<em>3</em>(4), 572-582. <a href=\"https://doi.org/10.1016/0093-934X(76)90048-1\" target=\"_blank\">https://doi.org/10.1016/0093-934X(76)90048-1</a></p>",
+              "customLabel": "Caramazza & Zurif, 1976",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "netm7oxqjqt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwawih0psfs\" data-reactroot=\"\">Friederici, A. D. (2002). Towards a neural basis of auditory sentence processing.\u00a0<em>Trends in cognitive sciences</em>,\u00a0<em>6</em>(2), 78-84. <a href=\"https://doi.org/10.1016/S1364-6613(00)01839-8\" target=\"_blank\">https://doi.org/10.1016/S1364-6613(00)01839-8</a></p>",
+              "customLabel": "Friederici, 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Other proposals have interpreted the role of this frontal region as broader in scope, encompassing combinatorial processing, possibly across domains ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsy6b46mgfa",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxhsbe96qwi\" data-reactroot=\"\">Hagoort, P. (2005) On Broca, brain, and binding: A new framework. <em>Trends Cogn. Sci. 9</em>, 416\u2013423. <a href=\"https://doi.org/10.1016/j.tics.2005.07.004\" target=\"_blank\">https://doi.org/10.1016/j.tics.2005.07.004</a></p>",
+              "customLabel": "Hagoort, 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "); yet others have argued for different focal syntactic-processing centers ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n59pjo8gotm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1uk7cib0w7\" data-reactroot=\"\">Vandenberghe, R., Nobre, A. C., &amp; Price, C. J. (2002). The response of left temporal cortex to sentences.\u00a0<em>Journal of Cognitive Neuroscience</em>,\u00a0<em>14</em>(4), 550-560. <a href=\"https://doi.org/10.1162/08989290260045800\" target=\"_blank\">https://doi.org/10.1162/08989290260045800</a></p>",
+              "customLabel": "Vandenberghe et al., 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Some have further argued that these \u201csyntactic hubs\u201d were "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "selective"
+          },
+          {
+            "type": "text",
+            "text": " for syntactic processing relative to other aspects of language processing (e.g., lexical access) ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n40zjnqs2gw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwawih0psfs\" data-reactroot=\"\">Friederici, A. D. (2002). Towards a neural basis of auditory sentence processing.\u00a0<em>Trends in cognitive sciences</em>,\u00a0<em>6</em>(2), 78-84. <a href=\"https://doi.org/10.1016/S1364-6613(00)01839-8\" target=\"_blank\">https://doi.org/10.1016/S1364-6613(00)01839-8</a></p>",
+              "customLabel": "Friederici, 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " ; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvr1itoz457",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxhsbe96qwi\" data-reactroot=\"\">Hagoort, P. (2005) On Broca, brain, and binding: A new framework. <em>Trends Cogn. Sci. 9</em>, 416\u2013423. <a href=\"https://doi.org/10.1016/j.tics.2005.07.004\" target=\"_blank\">https://doi.org/10.1016/j.tics.2005.07.004</a></p>",
+              "customLabel": "Hagoort, 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "a-distributed-burden-of-syntactic-processing-across-the-language-network",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "A distributed burden of syntactic processing across the language network"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nuy51lv5j5g",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "All frontal and temporal components of the language network ("
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "netk0qqwtuv",
+              "targetId": "nbyynv2zjej",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1bz6bhkcka",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nugltkwsl53\" data-reactroot=\"\">Fedorenko, E., Ivanova, A. A., &amp; Regev, T. I. (2024). The language network as a natural kind within the broader landscape of the human brain.\u00a0<em>Nature Reviews Neuroscience</em>, 1-24. <a href=\"https://doi.org/10.1038/s41583-024-00802-4\" target=\"_blank\">https://doi.org/10.1038/s41583-024-00802-4</a></p>",
+              "customLabel": "Fedorenko et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") show sensitivity to syntactic structure ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngv596nqcwo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9gqrto8hw2\" data-reactroot=\"\">Gibson, E. (in press). Syntax: A cognitive approach. <em>MIT Press.</em></p>",
+              "customLabel": "Gibson, in press",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/3bgjh908",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Neuroscience of Language"
+          },
+          {
+            "type": "text",
+            "text": "]. In brain-imaging studies, comparisons between processing (reading or listening to) structured stimuli, such as phrases and sentences, and unstructured stimuli, such as lists of unconnected words, have revealed stronger responses to structured stimuli across the language network ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0hhewfnn2m",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuhqwk0b5ux\" data-reactroot=\"\">Pallier, C., Devauchelle, A. D., &amp; Dehaene, S. (2011). Cortical representation of the constituent structure of sentences.\u00a0<em>Proceedings of the National Academy of Sciences</em>,\u00a0<em>108</em>(6), 2522-2527. <a href=\"https://doi.org/10.1073/pnas.1018711108\" target=\"_blank\">https://doi.org/10.1073/pnas.1018711108</a></p>",
+              "customLabel": "Pallier et al., 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqhmy331767",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3zll6fktkx\" data-reactroot=\"\">Shain, C., Kean, H., Casto, C., Lipkin, B., Affourtit, J., Siegelman, M., Mollica, F. &amp; Fedorenko, E. (2024).\u00a0Distributed sensitivity to syntax and semantics throughout the language network.\u00a0<em>Journal of Cognitive Neuroscience</em>,\u00a0<em>36</em>(7), 1427-1471. <a href=\"https://doi.org/10.1162/jocn_a_02164\" target=\"_blank\">https://doi.org/10.1162/jocn_a_02164</a></p>",
+              "customLabel": "Shain, Kean et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "n9gkbbgkft5",
+              "targetId": "nkobgv42heh",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "). Generating sentences (e.g., to describe an event) also elicits a stronger response in the language network compared to retrieving verbal labels for unrelated objects ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqihtrr7mq9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbuun2ow5rp\" data-reactroot=\"\">Giglio, L., Ostarek, M. O., Weber, K., &amp; Hagoort, P. (2022). Commonalities and asymmetries in the neurobiological infrastructure for language production and comprehension. <em>Cerebral Cortex</em>, <em>32</em>(7), 1405\u20131418. <a href=\"https://doi.org/10.1093/cercor/bhab287\" target=\"_blank\">https://doi.org/10.1093/cercor/bhab287</a></p>",
+              "customLabel": "Giglio et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndp1s73gwy9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"np4te6wo81e\" data-reactroot=\"\">Hu, J., Small, H., Kean, H., Takahashi, A., Zekelman, L., Kleinman, D., ... &amp; Fedorenko, E. (2023). Precision fMRI reveals that the language-selective network supports both phrase-structure building and lexical access during language production.\u00a0<em>Cerebral Cortex</em>,\u00a0<em>33</em>(8), 4384-4404. <a href=\"https://doi.org/10.1093/cercor/bhac350\" target=\"_blank\">https://doi.org/10.1093/cercor/bhac350</a></p>",
+              "customLabel": "Hu, Small et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "nhh9n6fi0xa",
+              "targetId": "nkobgv42heh",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "). Such effects are typically taken to reflect the greater combinatorial processing demands associated with sentences given that sentence comprehension and production require syntactic structure building, whereas retrieving individual words does not. Findings from other syntactic manipulations\u2014such as investigations of nonlocal syntactic dependencies ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncl6bdsjpig",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7tniwa6d9d\" data-reactroot=\"\">Shain, C., Blank, I. A., Fedorenko, E., Gibson, E., &amp; Schuler, W. (2022). Robust effects of working memory demand during naturalistic language comprehension in language-selective cortex.\u00a0<em>Journal of Neuroscience</em>,\u00a0<em>42</em>(39), 7412-7430. <a href=\"https://doi.org/10.1523/JNEUROSCI.1894-21.2022\" target=\"_blank\">https://doi.org/10.1523/JNEUROSCI.1894-21.2022</a></p>",
+              "customLabel": "Shain et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "npmn644pc4b",
+              "targetId": "n9dpwdo887a",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "), syntactic violations ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nweo59x40f9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwb3p49tdqq\" data-reactroot=\"\">Fedorenko, E., Blank, I. A., Siegelman, M., &amp; Mineroff, Z. (2020). Lack of selectivity for syntax relative to word meanings throughout the language network. <em>Cognition</em>, <em>203</em>, 104348. <a href=\"https://doi.org/10.1016/j.cognition.2020.104348\" target=\"_blank\">https://doi.org/10.1016/j.cognition.2020.104348</a></p>",
+              "customLabel": "Fedorenko et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and temporary syntactic ambiguity ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n61qmf3n97t",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njump4sk843\" data-reactroot=\"\">Mason, R. A., Just, M. A., Keller, T. A., &amp; Carpenter, P. A. (2003). Ambiguity in the brain: What brain imaging reveals about the processing of syntactically ambiguous sentences. <em>Journal of Experimental Psychology</em>, <em>29</em>(6), 1319\u20131338. <a href=\"https://doi.org/10.1037/0278-7393.29.6.1319\" target=\"_blank\">https://doi.org/10.1037/0278-7393.29.6.1319</a></p>",
+              "customLabel": "Mason, et al., 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "nmhxp13z86k",
+              "targetId": "n9dpwdo887a",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ")\u2014have painted a similar picture. This distributed sensitivity to syntactic structure aligns with studies of patients with aphasia, which have shown that damage to any component of the language network leads to similar kinds of syntactic comprehension deficits ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3vgd92ha2i",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1msr7l256r\" data-reactroot=\"\">Dick, F., Bates, E., Wulfeck, B., Utman, J. A., Dronkers, N., &amp; Gernsbacher, M. A. (2001). Language deficits, localization, and grammar: evidence for a distributive model of language breakdown in aphasic patients and neurologically intact individuals. <em>Psychological Review, 108</em>(4), 759-788. <a href=\"https://doi.org/10.1037/0033-295X.108.4.759\" target=\"_blank\">https://doi.org/10.1037/0033-295X.108.4.759</a></p>",
+              "customLabel": "Dick et al., 2001",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbctkv8lw8y",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndq96xsgnio\" data-reactroot=\"\">Wilson, S. M., &amp; Sayg\u0131n, A. P. (2004). Grammaticality judgment in aphasia: Deficits are not specific to syntactic structures, aphasic syndromes, or lesion sites. <em>Journal of Cognitive Neuroscience, 16</em>(2), 238-252. <a href=\"https://doi.org/10.1162/089892904322984535\" target=\"_blank\">https://doi.org/10.1162/089892904322984535</a></p>",
+              "customLabel": "Wilson & Saygin, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Note that although syntactic processing is distributed across multiple brain areas, these effects are spatially restricted to the language network: For example, a domain-general network that is sensitive to difficulty across diverse demanding tasks\u2014the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Multiple Demand network"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhtul75l00j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nc88fpj401c\" data-reactroot=\"\">Duncan, J., Assem, M., &amp; Shashidhara, S. (2020). Integrated intelligence from distributed brain activity.\u00a0<em>Trends in Cognitive Sciences</em>,\u00a0<em>24</em>(10), 838-852. <a href=\"https://doi.org/10.1016/j.tics.2020.06.012\" target=\"_blank\">https://doi.org/10.1016/j.tics.2020.06.012</a></p>",
+              "customLabel": "Duncan et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")\u2014shows little to no sensitivity to syntactic complexity ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsg4e1jk6iv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7tniwa6d9d\" data-reactroot=\"\">Shain, C., Blank, I. A., Fedorenko, E., Gibson, E., &amp; Schuler, W. (2022). Robust effects of working memory demand during naturalistic language comprehension in language-selective cortex.\u00a0<em>Journal of Neuroscience</em>,\u00a0<em>42</em>(39), 7412-7430. <a href=\"https://doi.org/10.1523/JNEUROSCI.1894-21.2022\" target=\"_blank\">https://doi.org/10.1523/JNEUROSCI.1894-21.2022</a></p>",
+              "customLabel": "Shain et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "nbyynv2zjej",
+          "url": "https://assets.pubpub.org/qmo3xs27/fig1_PanelA-21746210564399.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"nw8ke4fq10m\" data-reactroot=\"\">The language network comprises left-lateralized areas in the frontal and temporal lobe, and this topography is broadly similar across individuals.\u00a0Top: Sample stimuli from an extensively validated language \u201clocalizer\u201d task based on a contrast between reading or listening to sentences versus a perceptually similar control condition that lacks linguistic structure and meaning (e.g., a sequence of nonwords, or speech played backwards) (Fedorenko et al., 2024). Bottom: A probabilistic atlas for the language network based on overlaying activation maps (obtained with fMRI) from <em>n</em> = 806 participants who performed a language \u201clocalizer\u201d task (Lipkin et al., 2022). The atlas is displayed on the lateral views (left and right) of the brain; yellow areas indicate higher overlap across individuals.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngnr9yglmjb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "nkobgv42heh",
+          "url": "https://assets.pubpub.org/3zxhf37b/fig2-sensitivity_to_the_presence_of_structure_full_figure-41746210578110.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"niafx2adu36\" data-reactroot=\"\">All areas of the language network are strongly sensitive to the <em>presence of syntactic structure</em>.\u00a0The language areas show stronger responses to structured stimuli, like sentences, compared to unstructured ones, like lists of words. Top: Sample stimuli from three experimental contrasts: the Sentences&gt;Word-lists and the Jabberwocky&gt;Nonword-lists contrasts in comprehension tasks (darker and lighter red and orange boxes), where participants read or listen to these stimuli, and the Sentences&gt;Word-lists contrast in production tasks (darker and lighter yellow boxes), where participants produce these stimuli, as elicited with a picture-description paradigm. Bottom: Responses to structured and unstructured language stimuli in three language functional regions of interest (fROIs) (here and in Figure 3, the areas are shown in grey on the left lateral brain surface; these masks were used to define the regions of interest in individual participants; individual-level fROIs are ~10% of the total mask volume). The responses to the comprehension conditions are shown in red and orange colors (the first four bars for each fROI; the colors correspond to the color of the boxes showing sample stimuli; data from Shain, Kean et al., 2024), and the responses to the production conditions are shown in yellow colors (the last two bars for each fROI; data from Hu, Small et al., 2023).</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "syntactic-processing-is-not-spatially-segregated-from-other-aspects-of-language-processing",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Syntactic processing is not spatially segregated from other aspects of language processing"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nik8y43x46l",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Syntactic-structure building appears to be deeply integrated with lexical, compositional semantic, and sublexical/phonological processing: Every component of the language network shows sensitivity to all of these aspects of linguistic structure ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6cst3l35g2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nugltkwsl53\" data-reactroot=\"\">Fedorenko, E., Ivanova, A. A., &amp; Regev, T. I. (2024). The language network as a natural kind within the broader landscape of the human brain.\u00a0<em>Nature Reviews Neuroscience</em>, 1-24. <a href=\"https://doi.org/10.1038/s41583-024-00802-4\" target=\"_blank\">https://doi.org/10.1038/s41583-024-00802-4</a></p>",
+              "customLabel": "Fedorenko et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6vxms9oc6j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3zll6fktkx\" data-reactroot=\"\">Shain, C., Kean, H., Casto, C., Lipkin, B., Affourtit, J., Siegelman, M., Mollica, F. &amp; Fedorenko, E. (2024).\u00a0Distributed sensitivity to syntax and semantics throughout the language network.\u00a0<em>Journal of Cognitive Neuroscience</em>,\u00a0<em>36</em>(7), 1427-1471. <a href=\"https://doi.org/10.1162/jocn_a_02164\" target=\"_blank\">https://doi.org/10.1162/jocn_a_02164</a></p>",
+              "customLabel": "Shain, Kean et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These findings hold even when language processing is probed with intracranial recording approaches, characterized by high spatial and high temporal resolution ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9oxozdazvf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nev56925d6z\" data-reactroot=\"\">Fedorenko, E., Scott, T. L., Brunner, P., Coon, W. G., Pritchett, B., Schalk, G., &amp; Kanwisher, N. (2016). Neural correlate of the construction of sentence meaning.\u00a0<em>Proceedings of the National Academy of Sciences</em>,\u00a0<em>113</em>(41), E6256-E6262. <a href=\"https://doi.org/10.1073/pnas.1612132113\" target=\"_blank\">https://doi.org/10.1073/pnas.1612132113</a></p>",
+              "customLabel": "Fedorenko et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Additional evidence comes from approaches that relate representations from artificial neural network language models [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "] to human neural recordings from the language network: Such studies also find distributed sensitivity to phonological, lexical, syntactic, and compositional-semantic information across the network ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6y0o8ugfyv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnzc5ejqjfs\" data-reactroot=\"\">Reddy, A. J., &amp; Wehbe, L. (2021). Can fMRI reveal the representation of syntactic structure in the brain? <em>Advances in Neural Information Processing Systems,</em> 34, 9843-9856. <a href=\"https://doi.org/10.1101/2020.06.16.155499\" target=\"_blank\">https://doi.org/10.1101/2020.06.16.155499</a></p>",
+              "customLabel": "Reddy & Wehbe, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In other words, despite their strong sensitivity to structure, including abstract structure ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvufn3uv8uk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuhqwk0b5ux\" data-reactroot=\"\">Pallier, C., Devauchelle, A. D., &amp; Dehaene, S. (2011). Cortical representation of the constituent structure of sentences.\u00a0<em>Proceedings of the National Academy of Sciences</em>,\u00a0<em>108</em>(6), 2522-2527. <a href=\"https://doi.org/10.1073/pnas.1018711108\" target=\"_blank\">https://doi.org/10.1073/pnas.1018711108</a></p>",
+              "customLabel": "Pallier et al., 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " ; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nt0kt92630x",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3zll6fktkx\" data-reactroot=\"\">Shain, C., Kean, H., Casto, C., Lipkin, B., Affourtit, J., Siegelman, M., Mollica, F. &amp; Fedorenko, E. (2024).\u00a0Distributed sensitivity to syntax and semantics throughout the language network.\u00a0<em>Journal of Cognitive Neuroscience</em>,\u00a0<em>36</em>(7), 1427-1471. <a href=\"https://doi.org/10.1162/jocn_a_02164\" target=\"_blank\">https://doi.org/10.1162/jocn_a_02164</a></p>",
+              "customLabel": "Shain, Kean et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/7n23j8sg#nkobgv42heh",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Figure 2"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "),"
+          },
+          {
+            "type": "text",
+            "text": " no language area selectively supports syntactic processing (see also "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuvy4h6077k",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1msr7l256r\" data-reactroot=\"\">Dick, F., Bates, E., Wulfeck, B., Utman, J. A., Dronkers, N., &amp; Gernsbacher, M. A. (2001). Language deficits, localization, and grammar: evidence for a distributive model of language breakdown in aphasic patients and neurologically intact individuals. <em>Psychological Review, 108</em>(4), 759-788. <a href=\"https://doi.org/10.1037/0033-295X.108.4.759\" target=\"_blank\">https://doi.org/10.1037/0033-295X.108.4.759</a></p>",
+              "customLabel": "Dick et al., 2001",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " for discussions of why so-called \u201cagrammatism\u201d in patients with aphasia does not support the idea of a dissociable syntactic module)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "syntactic-processing-relies-on-both-predictive-and-integratory-computations",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Syntactic processing relies on both predictive and integratory computations"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7w18qu7f40",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Two classes of hypotheses exist about how syntactic structures are built. According to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "surprisal-based"
+          },
+          {
+            "type": "text",
+            "text": " accounts, comprehenders actively predict upcoming linguistic input, and structurally unexpected elements or strings are costly to process ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1k91snpq9d",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"np62u6euzfs\" data-reactroot=\"\">Levy, R. (2008). Expectation-based syntactic comprehension. <em>Cognition</em>, <em>106</em>(3), 1126-1177. <a href=\"https://doi.org/10.1016/j.cognition.2007.05.006\" target=\"_blank\">https://doi.org/10.1016/j.cognition.2007.05.006</a></p>",
+              "customLabel": "Levy, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Numerous brain-imaging studies have indeed observed stronger neural responses in the language areas to such unexpected elements/strings, in both traditional experimental paradigms ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "noxgia0yx4p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njump4sk843\" data-reactroot=\"\">Mason, R. A., Just, M. A., Keller, T. A., &amp; Carpenter, P. A. (2003). Ambiguity in the brain: What brain imaging reveals about the processing of syntactically ambiguous sentences. <em>Journal of Experimental Psychology</em>, <em>29</em>(6), 1319\u20131338. <a href=\"https://doi.org/10.1037/0278-7393.29.6.1319\" target=\"_blank\">https://doi.org/10.1037/0278-7393.29.6.1319</a></p>",
+              "customLabel": "Mason, et al., 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nn9f2v9bn4e",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"naj8h32c0vx\" data-reactroot=\"\">Rodd, J. M., Longe, O. A., Randall, B., &amp; Tyler, L. K. (2010). The functional organisation of the fronto-temporal language system: Evidence from syntactic and semantic ambiguity. <em>Neuropsychologia</em>, <em>48</em>(5), 1324-1335. <a href=\"https://doi.org/10.1016/j.neuropsychologia.2009.12.035\" target=\"_blank\">https://doi.org/10.1016/j.neuropsychologia.2009.12.035</a></p>",
+              "customLabel": "Rodd et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsxzqvij3w7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwb3p49tdqq\" data-reactroot=\"\">Fedorenko, E., Blank, I. A., Siegelman, M., &amp; Mineroff, Z. (2020). Lack of selectivity for syntax relative to word meanings throughout the language network. <em>Cognition</em>, <em>203</em>, 104348. <a href=\"https://doi.org/10.1016/j.cognition.2020.104348\" target=\"_blank\">https://doi.org/10.1016/j.cognition.2020.104348</a></p>",
+              "customLabel": "Fedorenko et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and naturalistic comprehension paradigms ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb76wlev3vr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8naux94qzg\" data-reactroot=\"\">Heilbron, M., Armeni, K., Schoffelen, J. M., Hagoort, P., &amp; De Lange, F. P. (2022). A hierarchy of linguistic predictions during natural language comprehension. <em>Proceedings of the National Academy of Sciences, 119</em>(32), e2201968119. <a href=\"https://doi.org/10.1073/pnas.2201968119\" target=\"_blank\">https://doi.org/10.1073/pnas.2201968119</a></p>",
+              "customLabel": "Heilbron et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "njkgbocug82",
+              "targetId": "n9dpwdo887a",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "). According to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "memory-based"
+          },
+          {
+            "type": "text",
+            "text": " accounts, elements whose integration into the sentence context places a greater demand on memory resources should be costly, as in cases when nonlocal dependencies have to be formed ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuf06yu9q4s",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"no9z0ym4dz4\" data-reactroot=\"\">Gibson, E. (1998). Linguistic complexity: Locality of syntactic dependencies. <em>Cognition</em>, <em>68</em>(1), 1-76. <a href=\"https://doi.org/10.1016/S0010-0277(98)00034-1\" target=\"_blank\">https://doi.org/10.1016/S0010-0277(98)00034-1</a></p>",
+              "customLabel": "Gibson, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Again, both controlled and naturalistic neuroimaging paradigms have provided evidence for syntactic integration costs in the language areas, even after careful controls for surprisal costs ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3caegse0mo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nh2wsdiyrvo\" data-reactroot=\"\">Constable, R. T., Pugh, K. R., Berroya, E., Mencl, W. E., Westerveld, M., Ni, W., &amp; Shankweiler, D. (2004). Sentence complexity and input modality effects in sentence comprehension: An fMRI study. <em>NeuroImage, 22</em>(1), 11-21. <a href=\"https://doi.org/10.1016/j.neuroimage.2004.01.001\" target=\"_blank\">https://doi.org/10.1016/j.neuroimage.2004.01.001</a></p>",
+              "customLabel": "Constable et al., 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nddwazprovy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7tniwa6d9d\" data-reactroot=\"\">Shain, C., Blank, I. A., Fedorenko, E., Gibson, E., &amp; Schuler, W. (2022). Robust effects of working memory demand during naturalistic language comprehension in language-selective cortex.\u00a0<em>Journal of Neuroscience</em>,\u00a0<em>42</em>(39), 7412-7430. <a href=\"https://doi.org/10.1523/JNEUROSCI.1894-21.2022\" target=\"_blank\">https://doi.org/10.1523/JNEUROSCI.1894-21.2022</a></p>",
+              "customLabel": "Shain et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "niqk7j05a0l",
+              "targetId": "n9dpwdo887a",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "). This neural evidence for both predictive and integration processes during syntactic-structure building aligns with psycholinguistic behavioral evidence, where both surprisal and memory costs explain variance in processing times ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwpf24h3n3v",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n181e5pmpz4\" data-reactroot=\"\">Demberg, V., &amp; Keller, F. (2008). Data from eye-tracking corpora as evidence for theories of syntactic processing complexity.\u00a0<em>Cognition</em>,\u00a0<em>109</em>(2), 193-210. <a href=\"https://doi.org/10.1016/j.cognition.2008.07.008\" target=\"_blank\">https://doi.org/10.1016/j.cognition.2008.07.008</a></p>",
+              "customLabel": "Demberg & Keller, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/y1uhdz0y",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Psycholinguistics"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "n9dpwdo887a",
+          "url": "https://assets.pubpub.org/psd1gzkq/fig3-sensitivity_to_structural_complexity_full_figure-51746210603504.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"nrthbmeke3o\" data-reactroot=\"\">All areas of the language network are strongly sensitive to <em>syntactic complexity</em>. The language areas show stronger responses to more syntactically complex sentences or in places of high syntactic complexity during the comprehension of naturalistic texts. Top: Sample stimuli from four contrasts: sentences with versus without a temporary syntactic ambiguity (a \u2018garden path\u2019; darker and lighter green boxes), sentences that vary in overall surprisal (darker and lighter blue boxes), and naturalistic stimuli where surprisal (darker purple box) and working memory cost (lighter purple box) vary word by word (surprisal and working memory costs are normalized between 0 and 1 and shown in shades of grey (lighter words = higher cost). Bottom: Responses to syntactic complexity in three language fROIs (same as in <a href=\"https://oecs.mit.edu/pub/7n23j8sg#nkobgv42heh\">Figure 2</a>). The responses are shown in colors that correspond to the color of the boxes showing sample stimuli. The data come from the following sources: \u2018garden path\u2019: unpublished data from the Fedorenko lab; for similar data, see Mason et al., 2003; surprisal: Tuckute et al., 2024; and naturalistic comprehension data: Shain et al., 2022.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "syntactic-computations-in-language-are-not-shared-with-other-domains",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Syntactic computations in language are not shared with other domains"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n21flkbyf8z",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Many domains other than language\u2014from music, to math and logic, to social reasoning\u2014rely on hierarchical structures. However, the brain areas that process linguistic structure are not engaged by nonlinguistic structured stimuli (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkz590qjw7e",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nugltkwsl53\" data-reactroot=\"\">Fedorenko, E., Ivanova, A. A., &amp; Regev, T. I. (2024). The language network as a natural kind within the broader landscape of the human brain.\u00a0<em>Nature Reviews Neuroscience</em>, 1-24. <a href=\"https://doi.org/10.1038/s41583-024-00802-4\" target=\"_blank\">https://doi.org/10.1038/s41583-024-00802-4</a></p>",
+              "customLabel": "Fedorenko et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " for a review). This body of evidence, along with complementary evidence of intact reasoning abilities in individuals with severe aphasia ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ne67dkk4bv8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb8ru05hu1r\" data-reactroot=\"\">Varley, R., &amp; Siegal, M. (2000). Evidence for cognition without grammar from causal reasoning and \u2018theory of mind\u2019 in an agrammatic aphasic patient. <em>Current Biology</em>, <em>10</em>(12), 723-726. <a href=\"https://doi.org/10.1016/S0960-9822(00)00538-8\" target=\"_blank\">https://doi.org/10.1016/S0960-9822(00)00538-8</a></p>",
+              "customLabel": "Varley & Siegal, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), rules out hypotheses about the importance of linguistic syntactic representations in human thought."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkv527d4ofr",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Although all parts of the language network exhibit strong sensitivity to syntactic structure, damage to the posterior temporal language area leads to longer-lasting linguistic deficits ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlctl79ovwz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny8bzf3iqiy\" data-reactroot=\"\">Wilson, S. M., Entrup, J. L., Schneck, S. M., Onuscheck, C. F., Levy, D. F., Rahman, M., Willey, E., Casilio, M., Yen, M., Brito, A. C., Kam, W., Davis L. T., de Riesthal, M., &amp; Kirshner, H. S. (2023). Recovery from aphasia in the first year after stroke. <em>Brain, 146</em>(3), 1021-1039. <a href=\"https://doi.org/10.1093/brain/awac129\" target=\"_blank\">https://doi.org/10.1093/brain/awac129</a></p>",
+              "customLabel": "Wilson et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Based on evidence from aphasia, some authors argue that frontal regions support syntax production and temporal regions support syntactic comprehension ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n70zyeflc1m",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npopowz10ue\" data-reactroot=\"\">Matchin, W., &amp; Hickok, G. (2020). The cortical organization of syntax.\u00a0<em>Cerebral Cortex</em>,\u00a0<em>30</em>(3), 1481-1498.</p>",
+              "customLabel": "Matchin & Hickok, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This argument is based on the\u00a0finding that damage to the left frontal lobe is more likely to result in production deficits and damage to the left temporal lobe is more likely to lead to comprehension deficits. However, aphasia studies do not disentangle high-level language areas from nearby speech articulation areas and speech perception areas, which are functionally distinct from the language network ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhud6wc94tf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nugltkwsl53\" data-reactroot=\"\">Fedorenko, E., Ivanova, A. A., &amp; Regev, T. I. (2024). The language network as a natural kind within the broader landscape of the human brain.\u00a0<em>Nature Reviews Neuroscience</em>, 1-24. <a href=\"https://doi.org/10.1038/s41583-024-00802-4\" target=\"_blank\">https://doi.org/10.1038/s41583-024-00802-4</a></p>",
+              "customLabel": "Fedorenko et al, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). More work with causal approaches is needed to understand the potentially privileged role of this brain area within the language network. With respect to syntactic selectivity relative to other aspects of language, it remains possible that syntactic selectivity exists at the scale of neural populations (cf. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncds142lwzu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nev56925d6z\" data-reactroot=\"\">Fedorenko, E., Scott, T. L., Brunner, P., Coon, W. G., Pritchett, B., Schalk, G., &amp; Kanwisher, N. (2016). Neural correlate of the construction of sentence meaning.\u00a0<em>Proceedings of the National Academy of Sciences</em>,\u00a0<em>113</em>(41), E6256-E6262. <a href=\"https://doi.org/10.1073/pnas.1612132113\" target=\"_blank\">https://doi.org/10.1073/pnas.1612132113</a></p>",
+              "customLabel": "Fedorenko et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or single cells, or in network-wide neural oscillations in a particular frequency band ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqjrud8u7kl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nosr2flgchg\" data-reactroot=\"\">Bastiaansen, M., Magyari, L., &amp; Hagoort, P. (2010). Syntactic unification operations are reflected in oscillatory dynamics during on-line sentence comprehension. <em>Journal of Cognitive Neuroscience</em>, <em>22</em>(7), 1333\u20131347. <a href=\"https://doi.org/10.1162/jocn.2009.21283\" target=\"_blank\">https://doi.org/10.1162/jocn.2009.21283</a></p>",
+              "customLabel": "Bastiaansen et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), but at present, no such evidence exists. Finally, although linguistic syntactic structure is processed in brain areas that are distinct from areas that process structure in other domains ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nueaybxks4w",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nugltkwsl53\" data-reactroot=\"\">Fedorenko, E., Ivanova, A. A., &amp; Regev, T. I. (2024). The language network as a natural kind within the broader landscape of the human brain.\u00a0<em>Nature Reviews Neuroscience</em>, 1-24. <a href=\"https://doi.org/10.1038/s41583-024-00802-4\" target=\"_blank\">https://doi.org/10.1038/s41583-024-00802-4</a></p>",
+              "customLabel": "Fedorenko et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), it remains to be discovered whether the structure-building algorithms and their circuit-level implementation are similar across domains."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwe1i3zkqb1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Work on syntactic processing in humans and on the neural basis of syntax connects to work on non-human animal communication systems and language evolution. Key questions include: Is language unique among animal communication systems with respect to properties like compositionality? What may be the precursors to linguistic syntax? ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4ojbd612sw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0z00kjn4wa\" data-reactroot=\"\">Leroux, M., &amp; Townsend, S. W. (2020). Call combinations in great apes and the evolution of syntax. <em>Animal Behavior and Cognition</em>, <em>7</em>(2), 131-139. <a href=\"https://doi.org/10.26451/abc.07.02.07.2020\" target=\"_blank\">https://doi.org/10.26451/abc.07.02.07.2020</a></p>",
+              "customLabel": "Leroux & Townsend, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The latter question has also been fruitfully investigated with respect to first "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "language acquisition"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb308w5i9gz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngmf4lvkl4v\" data-reactroot=\"\">Tomasello, M.\u00a0(2003).\u00a0<em>Constructing a language: A usage-based theory of language acquisition</em>. Cambridge, MA: Harvard University Press.</p>",
+              "customLabel": "Tomasello, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and work on "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "emergent languages"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nibucpjdci4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2nk0oi0hhe\" data-reactroot=\"\">Ergin, R., Meir, I., Ilkba\u015faran, D., Padden, C., &amp; Jackendoff, R. (2018). The development of argument structure in Central Taurus Sign Language.\u00a0<em>Sign Language Studies</em>,\u00a0<em>18</em>(4), 612-639. <a href=\"https://doi.org/10.1353/sls.2018.0018\" target=\"_blank\">https://doi.org/10.1353/sls.2018.0018</a></p>",
+              "customLabel": "Ergin et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), including in iterated-learning laboratory experiments ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni7ifkdn07r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nckxz7wgggx\" data-reactroot=\"\">Smith, K., Kirby, S., &amp; Brighton, H. (2003). Iterated learning: A framework for the emergence of language.\u00a0<em>Artificial life</em>,\u00a0<em>9</em>(4), 371-386. <a href=\"https://doi.org/10.1162/106454603322694825\" target=\"_blank\">https://doi.org/10.1162/106454603322694825</a></p>",
+              "customLabel": "Smith et al., 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xohbfbix",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Language Acquisition"
+          },
+          {
+            "type": "text",
+            "text": "]. Work on syntax has also been gaining increasing prominence in work on "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "communicative efficiency"
+          },
+          {
+            "type": "text",
+            "text": " in natural languages within the framework of information theory, with evidence accumulating for syntactic structures being optimized for efficient information transfer ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nykwldxkkt4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n284pgkzj3r\" data-reactroot=\"\">Gibson, E. (in press). Syntax: A cognitive approach. <em>MIT Press.</em></p>",
+              "customLabel": "Gibson, in press",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Finally, the discovery that in the human brain, syntactic structure building is deeply integrated with word meaning processing (and other aspects of language) connects to work on "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "large language models"
+          },
+          {
+            "type": "text",
+            "text": " (LLMs) in the fields of natural language processing and artificial intelligence. In modern LLMs, similar to their early precursors ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nikyyvu0sb8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk8bg1mfewu\" data-reactroot=\"\">Elman, J. L. (1991). Distributed representations, simple recurrent networks, and grammatical structure.\u00a0<em>Machine Learning</em>,\u00a0<em>7</em>, 195-225. <a href=\"https://doi.org/10.1007/BF00114844\" target=\"_blank\">https://doi.org/10.1007/BF00114844</a></p>",
+              "customLabel": "Elman, 1991",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), the very same units process sublexical regularities and word meanings and build phrase and sentence representations, suggesting that a robust linguistic system can exist without spatial segregation among linguistic components that have been historically differentiated in some linguistic traditions."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "acknowledgements",
+          "id": "acknowledgements",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Acknowledgments "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "niiwaghtmis",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "I am grateful to Colton Casto for creating the figures and to Ted Gibson, Cory Shain, Jim Rehg, Marina Bedny, and Mike Frank for helpful comments and suggestions."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n3eazmzkwlv",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nj80a07zo5h",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Dick, F., Bates, E., Wulfeck, B., Utman, J. A., Dronkers, N., & Gernsbacher, M. A. (2001). Language deficits, localization, and grammar: Evidence for a distributive model of language breakdown in aphasic patients and neurologically intact individuals. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Psychological Review, 108"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(4), 759-788. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1037/0033-295X.108.4.759",
+                          "title": null,
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1037/0033-295X.108.4.759"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nvdwsszavo0",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Fedorenko, E., Ivanova, A. A., & Regev, T. I. (2024). The language network as a natural kind within the broader landscape of the human brain.\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Nature Reviews Neuroscience"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 1-24. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1038/s41583-024-00802-4",
+                          "title": null,
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1038/s41583-024-00802-4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "ng8uo7wwo4f",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wilson, S. M., & Sayg\u0131n, A. P. (2004). Grammaticality judgment in aphasia: Deficits are not specific to syntactic structures, aphasic syndromes, or lesion sites. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Journal of Cognitive Neuroscience, 16"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(2), 238-252. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1162/089892904322984535",
+                          "title": null,
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1162/089892904322984535"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

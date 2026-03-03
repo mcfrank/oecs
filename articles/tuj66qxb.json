@@ -1,0 +1,1678 @@
+{
+  "id": "bfd2f9b7-98f2-4c2a-a8ba-83f4a98a82a5",
+  "slug": "tuj66qxb",
+  "title": "Mirror Neurons",
+  "url": "https://oecs.mit.edu/pub/tuj66qxb",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "bfd2f9b7-98f2-4c2a-a8ba-83f4a98a82a5",
+    "slug": "tuj66qxb",
+    "title": "Mirror Neurons",
+    "htmlTitle": "Mirror Neurons",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.bfd2f9b7",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "gz2408ts",
+    "editHash": "ut9urcvn",
+    "reviewHash": "1qeeai5d",
+    "commentHash": "p4l2474u",
+    "draftId": "fb9ec28b-b836-4265-96c2-83ee43369faa",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "52ff4c99-c4e2-4bb0-b2bc-92cc40e1fce9",
+    "scopeSummaryId": "d3eb6749-648b-4e84-8c61-f5377d758dd2",
+    "createdAt": "2025-03-10T17:11:17.239Z",
+    "updatedAt": "2025-03-24T12:45:10.906Z",
+    "attributions": [
+      {
+        "id": "3fd333ed-2c16-4850-857f-b10ea2209397",
+        "name": null,
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Editor",
+          "Editor-in-Chief"
+        ],
+        "affiliation": "Stanford University",
+        "orcid": null,
+        "userId": "109667a4-3426-4b8d-ab8e-6ed65afced12",
+        "pubId": "bfd2f9b7-98f2-4c2a-a8ba-83f4a98a82a5",
+        "createdAt": "2025-03-24T12:43:02.792Z",
+        "updatedAt": "2025-03-24T12:43:41.415Z",
+        "user": {
+          "id": "109667a4-3426-4b8d-ab8e-6ed65afced12",
+          "firstName": "Michael C.",
+          "lastName": "Frank",
+          "fullName": "Michael C. Frank",
+          "avatar": null,
+          "slug": "michael-frank-3",
+          "initials": "MF",
+          "title": "Benjamin Scott Crocker Professor of Human Biology",
+          "orcid": "0000-0002-7551-4378"
+        }
+      },
+      {
+        "id": "3600c86f-0999-45ad-a745-8b81f8a29205",
+        "name": null,
+        "avatar": null,
+        "title": null,
+        "order": 0.9375,
+        "isAuthor": false,
+        "roles": [
+          "Editor",
+          "Editor-in-Chief"
+        ],
+        "affiliation": "Oxford University",
+        "orcid": null,
+        "userId": "c14d977d-7f90-4c28-8da2-e0c718bef862",
+        "pubId": "bfd2f9b7-98f2-4c2a-a8ba-83f4a98a82a5",
+        "createdAt": "2025-03-24T12:43:08.277Z",
+        "updatedAt": "2025-03-24T16:14:53.470Z",
+        "user": {
+          "id": "c14d977d-7f90-4c28-8da2-e0c718bef862",
+          "firstName": "Asifa",
+          "lastName": "Majid",
+          "fullName": "Asifa Majid",
+          "avatar": null,
+          "slug": "asifa-majid",
+          "initials": "AM",
+          "title": "Editor-in-Chief",
+          "orcid": "0000-0003-0132-216X"
+        }
+      },
+      {
+        "id": "df6870d4-30b7-447e-a3ac-5295e7c63858",
+        "name": "Fr\u00e9d\u00e9rique de Vignemont",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Institut Jean Nicod, ENS-PSL University, EHESS, CNRS",
+        "orcid": "0009-0006-1354-1553",
+        "userId": null,
+        "pubId": "bfd2f9b7-98f2-4c2a-a8ba-83f4a98a82a5",
+        "createdAt": "2025-03-13T16:23:29.461Z",
+        "updatedAt": "2025-03-13T16:23:54.129Z",
+        "user": null
+      },
+      {
+        "id": "feec8bfa-548d-4f57-8f42-225272c62f73",
+        "name": "Cristina Becchio",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University Medical Center Hamburg-Eppendorf",
+        "orcid": "0000-0002-6845-0521",
+        "userId": null,
+        "pubId": "bfd2f9b7-98f2-4c2a-a8ba-83f4a98a82a5",
+        "createdAt": "2025-03-10T17:11:52.745Z",
+        "updatedAt": "2025-03-10T17:12:21.261Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "fb9ec28b-b836-4265-96c2-83ee43369faa",
+      "latestKeyAt": "2025-03-20T15:57:42.976Z",
+      "firebasePath": "drafts/draft-fb9ec28b-b836-4265-96c2-83ee43369faa",
+      "createdAt": "2025-03-10T17:11:17.223Z",
+      "updatedAt": "2025-03-24T16:14:17.172Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvli1ldsn7k",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Mirror neurons are a class of neurons that respond when an individual performs a motor act (such as grasping) and when that individual observes another performing the same act, suggesting a direct link between action and perception. Initially discovered in macaques and later identified in humans, these neurons have been posited as fundamental to action understanding and social cognition. Their discovery has inspired hypotheses regarding the mechanisms underlying empathy, imitation, and language and reshaped cognitive scientists\u2019 view of the motor system."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n84st7jctij",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Visuomotor neurons that fire both when an individual performs a motor act (such as grasping) and when it observes another individual performing the same act were first identified in the area F5 of the ventral premotor cortex of macaques ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncpwnxfw944",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzet6tg3jhc\" data-reactroot=\"\">di Pellegrino, G., Fadiga, L., Fogassi, L., Gallese, V., &amp; Rizzolatti, G. (1992). Understanding motor events: A neurophysiological study. <em>Experimental Brain Research</em>, <em>91</em>(1), 176-180. <a href=\"https://doi.org/10.1007/bf00230027\" title=\"\">https://doi.org/10.1007/bf00230027</a></p>",
+              "customLabel": "di Pellegrino et al., 1992",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The term "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "mirror neurons"
+          },
+          {
+            "type": "text",
+            "text": ", introduced a few years later ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n343ikmongz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmjw55egbep\" data-reactroot=\"\">Rizzolatti, G., Gallese, V., Fadiga, L., &amp; Fogassi, L. (1996). Action recognition in the premotor cortex. <em>Brain</em>, <em>5</em>, 593-609. <a href=\"https://doi.org/10.1093/brain/119.2.593\">https://doi.org/10.1093/brain/119.2.593</a> </p>",
+              "customLabel": "Rizzolatti et al., 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), emphasizes the distinctive dual activation properties of these neurons. Subsequent studies in nonhuman primates revealed mirror neurons in other areas, including the inferior parietal lobule and the dorsal premotor and primary motor cortices. In humans, the first evidence of a mirror response came from a transcranial magnetic stimulation study, which showed that observing an action selectively increased excitability in the muscles involved in performing that action ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "np8g65lfjql",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"neq158hl7w0\" data-reactroot=\"\">Fadiga, L., Fogassi, L., Pavesi, G., &amp; Rizzolatti, G. (1995). Motor facilitation during action observation: A magnetic stimulation study. <em>Journal of Neurophysiology</em>, <em>73</em>(6), 2608-2611. <a href=\"https://doi.org/10.1152/jn.1995.73.6.2608\" title=\"\">https://doi.org/10.1152/jn.1995.73.6.2608</a></p>",
+              "customLabel": "Fadiga et al., 1995",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Direct evidence of mirror neuron activity was later obtained through single-neuron recordings in neurosurgical patients, revealing activation during both the execution and observation of hand-grasping actions and facial emotional expressions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny08pxieda3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2kz01k6c0x\" data-reactroot=\"\">Mukamel, R., Ekstrom, A. D., Kaplan, J., Iacoboni, M., &amp; Fried, I. (2010). Single-neuron responses in humans during execution and observation of actions. <em>Current Biology</em>, <em>20</em>(8), 750-756. <a href=\"https://doi.org/10.1016/j.cub.2010.02.045\" title=\"\">https://doi.org/10.1016/j.cub.2010.02.045</a></p>",
+              "customLabel": "Mukamel et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nc2fmnvxyrw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Early studies identified two primary types of mirror neurons based on the specificity (i.e., congruency) of their response ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3nnpadi2th",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nd7s92h3zht\" data-reactroot=\"\">Gallese, V., Fadiga, L., Fogassi, L., &amp; Rizzolatti, G. (1996). Action recognition in the premotor cortex. <em>Brain</em>, <em>119</em>(2), 593-609. <a href=\"https://doi.org/10.1093/brain/119.2.593\" title=\"\">https://doi.org/10.1093/brain/119.2.593</a></p>",
+              "customLabel": "Gallese et al., 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Strictly congruent mirror neurons respond selectively to the execution and observation of the same motor act (e.g., grasping an object with a precision grip using the thumb and the index finger). In contrast, broadly congruent mirror neurons respond during the execution of one motor act (e.g., precision grip) and the observation of similar, but not identical, acts (e.g., power grip performed using the whole hand or grasping with the mouth)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n58h99x4fdw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Subsequent research expanded the understanding of mirror neuron responses by revealing additional properties ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nylek9ofcxt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nu07ukmlo5z\" data-reactroot=\"\">Kilner, J. M., &amp; Lemon, R. N. (2013). What we know currently about mirror neurons. <em>Current Biology</em>, <em>23</em>(23), R1057-R1062. <a href=\"https://doi.org/10.1016/j.cub.2013.10.051\" title=\"\">https://doi.org/10.1016/j.cub.2013.10.051</a></p>",
+              "customLabel": "Kilner & Lemon, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1vrekw5n1w",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nm567vu4ff3\" data-reactroot=\"\">Bonini, L., Rotunno, C., Arcuri, E., &amp; Gallese, V. (2022). Mirror neurons 30 years later: Implications and applications. <em>Trends in Cognitive Sciences</em>, <em>26</em>(9), 767-781. <a href=\"https://doi.org/10.1016/j.tics.2022.06.003\">https://doi.org/10.1016/j.tics.2022.06.003</a> </p>",
+              "customLabel": "Bonini et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). While early studies suggested that mirror neurons do not respond to tool use ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nehwkfqwbhn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7nqzdp9z3v\" data-reactroot=\"\">Rizzolatti, G., Fadiga, L., Gallese, V., &amp; Fogassi, L. (1996). Premotor cortex and the recognition of motor actions. <em>Cognitive Brain Research</em>, <em>3</em>(2), 131-141. <a href=\"https://doi.org/10.1016/0926-6410(95)00038-0\" title=\"\">https://doi.org/10.1016/0926-6410(95)00038-0</a></p>",
+              "customLabel": "Rizzolatti et al., 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), later findings demonstrated that extensive tool-use training can induce mirror neuron activation in response to grasping actions performed with tools ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3j7zuogrze",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsjy9ha7cgn\" data-reactroot=\"\">Rochat, M. J., Caruana, F., Jezzini, A., Escola, L., Intskirveli, I., Grammont, F., Gallese, V., Rizzolatti, G., &amp; Umilt\u00e0, M. A. (2010). Responses of mirror neurons in area F5 to hand and tool grasping observation. <em>Experimental Brain Research</em>, <em>204</em>(4), 605-616. <a href=\"https://doi.org/10.1007/s00221-010-2329-9\" title=\"\">https://doi.org/10.1007/s00221-010-2329-9</a></p>",
+              "customLabel": "Rochat et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7gx9rc5xq4",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Mirror neurons show a preference for live over video-recorded actions, with a lower proportion of neurons responding to video-recorded actions than live actions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw7j61ym42f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7wlz5lgg6j\" data-reactroot=\"\">Caggiano, V., Fogassi, L., Rizzolatti, G., Pomper, J. K., Thier, P., Giese, M. A., &amp; Casile, A. (2011). View-based encoding of actions in mirror neurons of area F5 in macaque premotor cortex. <em>Current Biology</em>, <em>21</em>(2), 144-148. <a href=\"https://doi.org/10.1016/j.cub.2010.12.022\" title=\"\">https://doi.org/10.1016/j.cub.2010.12.022</a></p>",
+              "customLabel": "Caggiano et al., 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw86ziebq3w",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ncvip5l1fkd\" data-reactroot=\"\">Caggiano, V., Pomper, J. K., Fleischer, F., Fogassi, L., Giese, M., &amp; Thier, P. (2013). Mirror neurons in monkey area F5 do not adapt to the observation of repeated actions. <em>Nature Communications</em>, <em>4</em>(1). <a href=\"https://doi.org/10.1038/ncomms2419\" title=\"\">https://doi.org/10.1038/ncomms2419</a></p>",
+              "customLabel": "Caggiano et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Some mirror neurons, known as auditory mirror neurons, respond to the execution of an action and to its associated sound, such as the cracking of a nut ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntp07e3kj4t",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njwqmze5k5w\" data-reactroot=\"\">Kohler, E., Keysers, C., Umilta\u0300, M. A., Fogassi, L., Gallese, V., &amp; Rizzolatti, G. (2002). Hearing sounds, understanding actions: Action representation in mirror neurons. <em>Science</em>, <em>297</em>(5582), 846-848. <a href=\"https://doi.org/10.1126/science.1070311\" title=\"\">https://doi.org/10.1126/science.1070311</a></p>",
+              "customLabel": "Kohler et al., 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Mirror neurons can also fire in response to partially or entirely occluded actions, supporting their role in action prediction ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "naxvvy21bpm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nckx8qbq8hq\" data-reactroot=\"\">Umilt\u00e0, M. A., Kohler, E., Gallese, V., Fogassi, L., Fadiga, L., Keysers, C., &amp; Rizzolatti, G. (2001). I know what you are doing. <em>Neuron</em>, <em>31</em>(1), 155-165. <a href=\"https://doi.org/10.1016/s0896-6273(01)00337-3\" title=\"\">https://doi.org/10.1016/s0896-6273(01)00337-3</a></p>",
+              "customLabel": "Umilt\u00e0 et al., 2001",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Additionally, they exhibit spatial preferences, with some neurons responding more strongly to actions in peripersonal space and others favoring extrapersonal space ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nq6om4so8nj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf8aljcm1ct\" data-reactroot=\"\">Caggiano, V., Fogassi, L., Rizzolatti, G., Thier, P., &amp; Casile, A. (2009). Mirror neurons differentially encode the peripersonal and extrapersonal space of monkeys. <em>Science</em>, <em>324</em>(5925), 403-406. <a href=\"https://doi.org/10.1126/science.1166818\" title=\"\">https://doi.org/10.1126/science.1166818</a></p>",
+              "customLabel": "Caggiano et al., 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njo1mnwacd3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Many mirror neurons show selectivity for the viewpoint of an observed action, such as frontal, lateral, or overhead perspectives ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nprnlra8ezr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7wlz5lgg6j\" data-reactroot=\"\">Caggiano, V., Fogassi, L., Rizzolatti, G., Pomper, J. K., Thier, P., Giese, M. A., &amp; Casile, A. (2011). View-based encoding of actions in mirror neurons of area F5 in macaque premotor cortex. <em>Current Biology</em>, <em>21</em>(2), 144-148. <a href=\"https://doi.org/10.1016/j.cub.2010.12.022\" title=\"\">https://doi.org/10.1016/j.cub.2010.12.022</a></p>",
+              "customLabel": "Caggiano et al., 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Moreover, mirror neuron activity can be modulated by the reward associated with an observed action, with stronger activation elicited by actions involving a rewarded object ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1octj2v7oe",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nef4mtaf292\" data-reactroot=\"\">Caggiano, V., Fogassi, L., Rizzolatti, G., Casile, A., Giese, M. A., &amp; Thier, P. (2012). Mirror neurons encode the subjective value of an observed action. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, <em>109</em>(29), 11848-11853. <a href=\"https://doi.org/10.1073/pnas.1205553109\" title=\"\">https://doi.org/10.1073/pnas.1205553109</a></p>",
+              "customLabel": "Caggiano et al., 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Finally"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": ","
+          },
+          {
+            "type": "text",
+            "text": " a subset of mirror neurons is tuned to the intention behind the observed act, responding stronger when the executed or observed motor act, for instance, grasping, is chained to eating (grasp-to-eat sequence) compared to when it is chained to placing (grasp-to-place sequence; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6bag4hoy6f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9rct525c7c\" data-reactroot=\"\">Bonini, L., Rozzi, S., Serventi, F. U., Simone, L., Ferrari, P. F., &amp; Fogassi, L. (2010). Ventral premotor and inferior parietal cortices make distinct contribution to action organization and intention understanding. <em>Cerebral Cortex</em>, <em>20</em>(6), 1372-1385. <a href=\"https://doi.org/10.1093/cercor/bhp200\" title=\"\">https://doi.org/10.1093/cercor/bhp200</a></p>",
+              "customLabel": "Bonini et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4halh7ib8f",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n61vzz3qrk7\" data-reactroot=\"\">Fogassi, L., Ferrari, P. F., Gesierich, B., Rozzi, S., Chersi, F., &amp; Rizzolatti, G. (2005). Parietal lobe: From action organization to intention understanding. <em>Science</em>, <em>308</em>(5722), 662-667. <a href=\"https://doi.org/10.1126/science.1106138\" title=\"\">https://doi.org/10.1126/science.1106138</a></p>",
+              "customLabel": "Fogassi et al., 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This chain organization of motor acts, combined with the mirror mechanism, has been proposed to be fundamental for understanding others\u2019 intentions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nim9uj8je3r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"na1wm8xltoi\" data-reactroot=\"\">Rizzolatti, G., &amp; Sinigaglia, C. (2016). The mirror mechanism: A basic principle of brain function. <em>Nature Reviews Neuroscience</em>, <em>17</em>(12), 757-765. <a href=\"https://doi.org/10.1038/nrn.2016.135\" title=\"\">https://doi.org/10.1038/nrn.2016.135</a></p>",
+              "customLabel": "Rizzolatti & Sinigaglia, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "the-role-of-mirror-neurons-in-intention-understanding",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The role of mirror neurons in intention understanding"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "no127jao016",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One of the most debated claims about mirror neurons is their role in intention understanding. Mirror neurons have been proposed to enable intention understanding by transforming visual information into motor knowledge ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvobvv7fad1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvicrvjl2ky\" data-reactroot=\"\">Gallese, V., &amp; Goldman, A. (1998). Mirror neurons and simulation theory of mind-reading. <em>Trends in Cognitive Sciences</em>, <em>2</em>(12), 493-501. <a href=\"https://doi.org/10.1016/S1364-6613(98)01262-5\" title=\"\">https://doi.org/10.1016/S1364-6613(98)01262-5</a></p>",
+              "customLabel": "Gallese & Goldman, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nm7q98i0ynx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvrsp33b7zf\" data-reactroot=\"\">Rizzolatti, G., &amp; Craighero, L. (2004). The mirror-neuron system. <em>Annual Review of Neuroscience</em>, <em>27</em>(1), 169-192. <a href=\"https://doi.org/10.1146/annurev.neuro.27.070203.144230\" title=\"\">https://doi.org/10.1146/annurev.neuro.27.070203.144230</a></p>",
+              "customLabel": "Rizzolatti & Craighero, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5evvbdqub7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"na1wm8xltoi\" data-reactroot=\"\">Rizzolatti, G., &amp; Sinigaglia, C. (2016). The mirror mechanism: A basic principle of brain function. <em>Nature Reviews Neuroscience</em>, <em>17</em>(12), 757-765. <a href=\"https://doi.org/10.1038/nrn.2016.135\" title=\"\">https://doi.org/10.1038/nrn.2016.135</a></p>",
+              "customLabel": "Rizzolatti & Sinigaglia, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, a major critique of this view, known as the one-to-many problem, argues that the same movement pattern (kinematics) can correspond to multiple intentions, challenging the notion that simulating observed kinematics provides access to the agent\u2019s intention ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkja2i14k6a",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk6c6rl5vs2\" data-reactroot=\"\">Jacob, P., &amp; Jeannerod, M. (2005). The motor theory of social cognition: A critique. <em>Trends in Cognitive Sciences</em>, <em>9</em>(1), 21-25. <a href=\"https://doi.org/10.1016/j.tics.2004.11.003\" title=\"\">https://doi.org/10.1016/j.tics.2004.11.003</a></p>",
+              "customLabel": "Jacob & Jeannerod, 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nseqpvvn0xk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkoohczni1t\" data-reactroot=\"\">Kilner, J. M. (2011). More than one pathway to action understanding. <em>Trends in Cognitive Sciences</em>, <em>15</em>(8), 352-357. <a href=\"https://doi.org/10.1016/j.tics.2011.06.005\" title=\"\">https://doi.org/10.1016/j.tics.2011.06.005</a></p>",
+              "customLabel": "Kilner, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, a recent development suggests that intention information is encoded in movement kinematics ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny4v6ozeen3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlax46f8x90\" data-reactroot=\"\">Patri, J. F., Cavallo, A., Pullar, K., Soriano, M., Valente, M., Koul, A., Avenanti, A., Panzeri, S., &amp; Becchio, C. (2020). Transient disruption of the inferior parietal lobule impairs the ability to attribute intention to action. <em>Current Biology</em>, <em>30</em>(23), 4594-4605.E7. <a href=\"https://doi.org/10.1016/j.cub.2020.08.104\" title=\"\">https://doi.org/10.1016/j.cub.2020.08.104</a></p>",
+              "customLabel": "Patri et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and can be used to drive the selection of the most probable motor chain (e.g., grasp-to-place), allowing the observer to link the observed act to the agent\u2019s intention ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzzrskvrrgy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nx269wou4dn\" data-reactroot=\"\">Soriano, M., Cavallo, A., D&#x27;Ausilio, A., Becchio, C., &amp; Fadiga, L. (2018). Movement kinematics drive chain selection toward intention detection. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, <em>115</em>(41), 10452-10457. <a href=\"https://doi.org/10.1073/pnas.1809825115\" title=\"\">https://doi.org/10.1073/pnas.1809825115</a></p>",
+              "customLabel": "Soriano et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "origins-of-mirror-neurons",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Origins of mirror neurons"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkmks5pmit7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Mirror properties have been proposed to arise from sensorimotor associative learning, in which repeated simultaneous observation and execution of actions form visual\u2013motor links ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngusu711tlm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwddt6y4cjo\" data-reactroot=\"\">Catmur, C., Walsh, V., &amp; Heyes, C. (2007). Sensorimotor learning configures the human mirror system. <em>Current Biology</em>, <em>17</em>(17), 1527-1531. <a href=\"https://doi.org/10.1016/j.cub.2007.08.006\" title=\"\">https://doi.org/10.1016/j.cub.2007.08.006</a></p>",
+              "customLabel": "Catmur et al., 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Debate continues over whether genetic predispositions canalize (i.e., guide and shape) this learning process ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nybxmbbkznb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny5hoyy7kss\" data-reactroot=\"\">Cook, R., Bird, G., Catmur, C., Press, C., &amp; Heyes, C. (2014). Mirror neurons: From origin to function. <em>Behavioral and Brain Sciences</em>, <em>37</em>(2), 177-192. <a href=\"https://doi.org/10.1017/S0140525X13000903\" title=\"\">https://doi.org/10.1017/S0140525X13000903</a></p>",
+              "customLabel": "Cook et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1f1ng9piv8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmzdwtc8deh\" data-reactroot=\"\">Heyes, C., &amp; Catmur, C. (2022). What happened to mirror neurons? <em>Perspectives on Psychological Science</em>, <em>17</em>(1),153-168. <a href=\"https://doi.org/10.1177/1745691621990638\">https://doi.org/10.1177/1745691621990638</a></p>",
+              "customLabel": "Heyes & Catmur, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "broken-mirror-hypothesis-of-autism",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "\u201cBroken mirror\u201d hypothesis of autism"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "na1evsmjfeu",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "broken mirror hypothesis"
+          },
+          {
+            "type": "text",
+            "text": " posits that autism-related social deficits stem from impaired mirror neuron systems ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nximtcm0z1o",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nius0njfgsg\" data-reactroot=\"\">Iacoboni, M., &amp; Dapretto, M. (2006). The mirror neuron system and the consequences of its dysfunction. <em>Nature Reviews: Neuroscience</em>, <em>7</em>(12), 942-951. <a href=\"https://doi.org/10.1038/nrn2024\" title=\"\">https://doi.org/10.1038/nrn2024</a></p>",
+              "customLabel": "Iacoboni & Dapretto, 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Early studies suggested differences in mirror neuron regions, but more recent research has not consistently supported this view ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsyj7k064mt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3k5mk7q1el\" data-reactroot=\"\">Hamilton, A. F. D. C. (2013). Reflecting on the mirror neuron system in autism: A systematic review of current theories. <em>Developmental Cognitive Neuroscience</em>, <em>3</em>(1), 91-105. <a href=\"https://doi.org/10.1016/j.dcn.2012.09.008\" title=\"\">https://doi.org/10.1016/j.dcn.2012.09.008</a></p>",
+              "customLabel": "Hamilton, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkwp4oy0agg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmzdwtc8deh\" data-reactroot=\"\">Heyes, C., &amp; Catmur, C. (2022). What happened to mirror neurons? <em>Perspectives on Psychological Science</em>, <em>17</em>(1),153-168. <a href=\"https://doi.org/10.1177/1745691621990638\">https://doi.org/10.1177/1745691621990638</a></p>",
+              "customLabel": "Heyes & Catmur, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Related theories propose that disruptions in chaining mechanisms, rather than mirror neurons themselves, may underlie intention understanding deficits in autism ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nosee98vuya",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nybf8pjtlb4\" data-reactroot=\"\">Cattaneo, L., Fabbri-Destro, M., Boria, S., Pieraccini, C., Cossu, G., Rizzolatti, G., Monti, A., Cossu, G., &amp; Rizzolatti, G. (2007). Impairment of actions chains in autism and its possible role in intention understanding. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, <em>104</em>(6), 11783-17825. <a href=\"https://doi.org/10.1073/pnas.0706273104\" title=\"\">https://doi.org/10.1073/pnas.0706273104</a></p>",
+              "customLabel": "Cattaneo et al., 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/dqw08mkw",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Autism"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "empathy-and-simulation",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Empathy and simulation"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2x22ee2k2g",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Observing actions may engage neural processes akin to those used for action planning, supporting simulation-based theories of empathy and mind reading ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0i7cokfvzp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvicrvjl2ky\" data-reactroot=\"\">Gallese, V., &amp; Goldman, A. (1998). Mirror neurons and simulation theory of mind-reading. <em>Trends in Cognitive Sciences</em>, <em>2</em>(12), 493-501. <a href=\"https://doi.org/10.1016/S1364-6613(98)01262-5\" title=\"\">https://doi.org/10.1016/S1364-6613(98)01262-5</a></p>",
+              "customLabel": "Gallese & Goldman, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/8q02cvue",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Theory of Mind"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/bc1nglmr",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Social Cognitive Neuroscience"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "language-and-music",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Language and music"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nev7qhrtige",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Mirror neurons have been proposed as a neural basis for the evolution of the syntactic-like structure characterizing language and music ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n728pm6r1ke",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnkmgbpad3b\" data-reactroot=\"\">Fadiga, L., Craighero, L., &amp; D\u2019Ausilio, A. (2009). Broca\u2019s area in language, action, and music. <em>Annals of the New York Academy of Sciences</em>, <em>1169</em>(1), 448-458. <a href=\"https://doi.org/10.1111/j.1749-6632.2009.04582.x\" title=\"\">https://doi.org/10.1111/j.1749-6632.2009.04582.x</a></p>",
+              "customLabel": "Fadiga et al., 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "rehabilitation",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Rehabilitation"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngia5zjwmac",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Mirror neurons have inspired therapeutic approaches for motor recovery after stroke, with techniques such as action observation therapy leveraging mirror mechanisms to facilitate motor rehabilitation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nv4yjs6nszv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nr2tlpznzxs\" data-reactroot=\"\">Small, S. L., Buccino, G., &amp; Solodkin, A. (2010). The mirror neuron system and treatment of stroke. <em>Developmental Psychobiology</em>, <em>54</em>(3), 293-310. <a href=\"https://doi.org/10.1002/dev.20504\" title=\"\">https://doi.org/10.1002/dev.20504</a></p>",
+              "customLabel": "Small et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "ntx8q06t12m",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nen2rq626lc",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Kilner, J. M., & Lemon, R. N. (2013). What we know currently about mirror neurons. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Current Biology"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "23"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(23), R1057-R1062. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/j.cub.2013.10.051",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/j.cub.2013.10.051"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nhutskuhjf2",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Rizzolatti, G., & Sinigaglia, C. (2016). The mirror mechanism: A basic principle of brain function. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Nature Reviews Neuroscience"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "17"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(12), 757-765. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1038/nrn.2016.135",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1038/nrn.2016.135"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

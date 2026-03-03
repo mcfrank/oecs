@@ -1,0 +1,3186 @@
+{
+  "id": "3036d218-80d9-425a-9367-9d3b0c4b9793",
+  "slug": "imt0sy0t",
+  "title": "Action",
+  "url": "https://oecs.mit.edu/pub/imt0sy0t",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "3036d218-80d9-425a-9367-9d3b0c4b9793",
+    "slug": "imt0sy0t",
+    "title": "Action",
+    "htmlTitle": "Action",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.3036d218",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "105sha8v",
+    "editHash": "ly31i08s",
+    "reviewHash": "lmk4az3j",
+    "commentHash": "1dth2fld",
+    "draftId": "9a3c78da-fa88-4c6d-b260-f0ba245a2768",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "5bae2896-2ea8-42ab-ba70-a07971f8f260",
+    "scopeSummaryId": "6156ebf3-93f1-46fe-ae93-3a1e4cffa707",
+    "createdAt": "2025-04-22T19:17:55.146Z",
+    "updatedAt": "2025-05-28T18:04:01.920Z",
+    "attributions": [
+      {
+        "id": "b3b16dc8-5517-4468-9ba9-a3fd84dee620",
+        "name": "Fr\u00e9d\u00e9rique de Vignemont",
+        "avatar": null,
+        "title": null,
+        "order": 0.625,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Institut Jean Nicod, ENS-PSL University, EHESS, CNRS",
+        "orcid": "0009-0006-1354-1553",
+        "userId": null,
+        "pubId": "3036d218-80d9-425a-9367-9d3b0c4b9793",
+        "createdAt": "2025-05-05T15:37:52.481Z",
+        "updatedAt": "2025-05-05T15:38:16.338Z",
+        "user": null
+      },
+      {
+        "id": "48f60348-84e2-4453-9fad-230e7062e338",
+        "name": "Elisabeth Pacherie",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Institut Jean Nicod, ENS-PSL University, EHESS, CNRS",
+        "orcid": "0000-0003-2337-581X",
+        "userId": null,
+        "pubId": "3036d218-80d9-425a-9367-9d3b0c4b9793",
+        "createdAt": "2025-04-22T19:19:54.654Z",
+        "updatedAt": "2025-04-22T19:20:04.840Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "9a3c78da-fa88-4c6d-b260-f0ba245a2768",
+      "latestKeyAt": "2025-05-28T15:58:43.129Z",
+      "firebasePath": "drafts/draft-9a3c78da-fa88-4c6d-b260-f0ba245a2768",
+      "createdAt": "2025-04-22T19:17:55.143Z",
+      "updatedAt": "2025-05-28T18:47:52.725Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nu1vcqbd54o",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Action is purposive behavior aimed at bringing about some change in the world, including possibly in oneself. When I raise my arm to reach for a book at the top of the bookcase, to attract your attention, or simply to stretch, I am acting. When my arm rises because someone is lifting my wrist or as a result of a muscle spasm, I am not acting; rather, something is happening to me. A central question for cognitive science is understanding how actions differ from other forms of behavior. Many believe that answering this question involves discovering the distinctive mental processes and representations responsible for behavior that qualifies as action. Cognitive scientists working on motor cognition thus aim to characterize the processes and representations involved in action planning, execution, and control."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "na04uaq0jyb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One important difference between behavior that counts as action and behavior that does not (such as reflexes and other involuntary movements) is that the former, but not the latter, appears to have a purpose or aim and is done for a reason. This idea has led many philosophers, from Aristotle onwards, to construe action in terms of intentionality and to take human intentional action as their paradigm case. In contemporary analytic philosophy, Elizabeth Anscombe "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntodyrklbam",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqtxloc7i21\" data-reactroot=\"\">Anscombe, G. E. M. (1957). <em>Intention</em>. Basil Blackwell.</p>",
+              "customLabel": "(1957)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " and Donald Davidson "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2k82b10eyy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6w789gkzou\" data-reactroot=\"\">Davidson, D. (1963). Actions, reasons and causes. <em>Journal of Philosophy</em>, <em>60</em>(23), 685-700. <a href=\"https://doi.org/10.2307/2023177\" title=\"\">https://doi.org/10.2307/2023177</a></p>",
+              "customLabel": "(1963)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " both held that to act intentionally is to act for a reason and that for an event to be an action, it must be intentional under some description. For instance, my involuntarily bumping into the person behind me will only count as an action if there is a description of this event under which it is intentional, such as my jumping backward to avoid being run over by a car. If, instead, my bumping into the person behind me was merely the result of a dizzy spell, it does not count as an action."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n33dhm8dtvo",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In the early 1960s, a debate arose over whether agents\u2019 reasons for their actions were also the causes of those actions. Anscombe and other philosophers (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9jd4akgy0c",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ner81yjhdoh\" data-reactroot=\"\">Melden, A.I. (1961). <em>Free action</em>. Routledge and Kegan Paul.</p>",
+              "customLabel": "Melden, 1961",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") argued that the connections between reasons and actions were logical, conceptual, and normative and, as such, could not be causal. In contrast, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbvi49hiwwg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6w789gkzou\" data-reactroot=\"\">Davidson, D. (1963). Actions, reasons and causes. <em>Journal of Philosophy</em>, <em>60</em>(23), 685-700. <a href=\"https://doi.org/10.2307/2023177\" title=\"\">https://doi.org/10.2307/2023177</a></p>",
+              "customLabel": "Davidson (1963)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " contended that, to genuinely explain actions, reasons must be psychological states that causally contribute to the action. In particular, he claimed that what distinguishes a particular reason as the one an agent acts on, as opposed to other possible reasons they might have for the action, is that this particular reason (rather than the others) plays a causal role in the agent's action. Under Davidson\u2019s influence, the causal theory of action emerged as the leading perspective in philosophical action theory, evolving and further developing over the subsequent decades. Notably, early belief\u2013desire versions of the causal theory were largely replaced by accounts that recognized intentions as distinctive states with both motivational and cognitive functions\u2014going beyond mere action initiation to include action guidance, control, and intra- and interpersonal coordination ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxtya2iw4jj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzjk35se5n7\" data-reactroot=\"\">Bratman, M. E. (1987). <em>Intention, plans, and practical reason</em>. Harvard University Press.</p>",
+              "customLabel": "Bratman, 1987",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nk9ihj4rfck",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvrwf2u3j7o\" data-reactroot=\"\">Frankfurt, H. G. (1978). The problem of action. <em>American Philosophical Quarterly</em>, <em>15</em>(2), 157-162.</p>",
+              "customLabel": "Frankfurt, 1978",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8av8fz6ehi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nzm94rkwc1c\" data-reactroot=\"\">Mele A. R. (1992). <em>Springs of action</em>. Oxford University Press. </p>",
+              "customLabel": "Mele, 1992",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). By treating reasons as causes, proponents of the causal theory laid the foundation for a naturalistic approach to action theory, enabling the integration of philosophical and scientific inquiry."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nuobmqwqmlz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In cognitive science, the study of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "motor cognition"
+          },
+          {
+            "type": "text",
+            "text": " aims at elucidating the nature and function of representations and processes in action generation as well as the roles of different brain structures in planning, controlling, and executing movement. To achieve this, the field draws on methodologies from cognitive and sports psychology, cognitive neuroscience, neuropsychology, and computational modeling."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nef8cwg1s8q",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Research into motor physiology dates back to the late 19th century and was initially guided by the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "sensory-motor theory"
+          },
+          {
+            "type": "text",
+            "text": " of action generation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngol64ihxzq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n03j9c3ifg3\" data-reactroot=\"\">Sherrington, C. S. (1947). <em>The integrative action of the nervous system</em>. Yale University Press.</p>",
+              "customLabel": "Sherrington, 1947",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This framework viewed actions primarily as reactions to external changes, focusing on movements and the muscles that produce them. Complex actions were in turn understood as associative sequences of reflexes with feedback from one movement triggering the next element in the sequence."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0vmj67x5ro",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "However, this reflex-based approach had significant limitations. Karl Lashley "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzis1vkwxy6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnlcllxg0nc\" data-reactroot=\"\">Lashley, K. S. (1951). The problem of serial order in behavior. In L. A. Jeffress (Ed.), <em>Cerebral mechanisms in behavior</em> (pp. 112-136). Wiley.</p>",
+              "customLabel": "(1951)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " challenged it by emphasizing that humans can voluntarily initiate interactions with their environment and are capable of rapidly learning new tasks and forming novel sequences of actions. He argued that such abilities point to the existence of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "internal plans"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "motor programs"
+          },
+          {
+            "type": "text",
+            "text": ", suggesting that action is centrally organized rather than merely reactive"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ny778dgu5ig",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The idea that voluntary actions are primarily driven by internal representations\u2014a view known as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "centralism"
+          },
+          {
+            "type": "text",
+            "text": "\u2014has other roots as well. One foundational concept is that of the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "homeostatic"
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "system"
+          },
+          {
+            "type": "text",
+            "text": ", introduced by Walter Cannon "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nc65gvfmi1h",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n01ssvtge3z\" data-reactroot=\"\">Cannon, W. B. (1939). <em>The wisdom of the body</em> (2nd ed.). Norton &amp; Co.</p>",
+              "customLabel": "(1939)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". In such systems, a process is initiated when a discrepancy arises between a central signal (representing a fixed, internal reference value) and an input signal (reflecting the current state of a parameter). This approach underscores the influence of internal factors and implies the presence of stored representations of reference values. Today, homeostasis remains a key concept in theories of behavioral control and regulation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nesarluv1xr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb5khv587vc\" data-reactroot=\"\">Hulme, O. J., Morville, T., &amp; Gutkin, B. (2019). Neurocomputational theories of homeostatic control. <em>Physics of Life Reviews</em>, <em>31</em>, 214-232. <a href=\"https://doi.org/10.1016/j.plrev.2019.07.005\" title=\"\">https://doi.org/10.1016/j.plrev.2019.07.005</a></p>",
+              "customLabel": "Hulme et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkhqnmauuok",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Another key concept is that of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "efference copy"
+          },
+          {
+            "type": "text",
+            "text": ", proposed by Erich von Holst and Horst Mittelstaedt "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuvrvvx1ffn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nt0tku31iu7\" data-reactroot=\"\">von Holst, E., &amp; Mittelstaedt, H. (1950). Das Reafferenzprinzip. <em>Naturwissenschaften</em>, <em>37</em>, 464-476. <a href=\"https://doi.org/10.1007/BF00622503\">https://doi.org/10.1007/BF00622503</a> </p>",
+              "customLabel": "(1950)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". The idea is that when motor centers send a command to the peripheral nervous system to generate movement, they also generate a copy of this command (an efference copy) that allows the brain to anticipate the effects of the motor command. An efference copy is a centrally generated signal, suggesting that the brain can monitor its activity and anticipate its next states without having to rely on peripheral sensory feedback."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nemcfl60yjc",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Centralism remains a key principle in modern theories of action generation. As Marc Jeannerod "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0f4fsfrxns",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnezx5wtkcd\" data-reactroot=\"\">Jeannerod, M. (1997). <em>The cognitive neuroscience of action</em>. Blackwell.</p>",
+              "customLabel": "(1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nun4vqceftx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"noq7x7t4bp3\" data-reactroot=\"\">Jeannerod, M. (2006). <em>Motor cognition</em>. Oxford University Press. </p>",
+              "customLabel": "2006)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " observed, for an organism to engage in internally driven, goal-directed behavior, it must possess internal models of both itself and the external world\u2014models that allow it to predict the consequences of its own actions."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njitpjyvdv0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The concept of internal models originated in robotics and control theories, in which computational frameworks incorporating control strategies based on these models were first proposed. This approach has been extensively applied in areas such as neural network modeling and adaptive control. In recent decades, growing evidence indicates that similar mechanisms also contribute to human motor control ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n96ifb1de2k",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6gnznzsy55\" data-reactroot=\"\">Frith, C. D., Blakemore, S.-J., &amp; Wolpert, D. M. (2000). Abnormalities in the awareness and control of action. <em>Philosophical Transactions of the Royal Society of London B</em>, <em>355</em>(1404), 1771-1788. <a href=\"https://doi.org/10.1098/rstb.2000.0734\" title=\"\">https://doi.org/10.1098/rstb.2000.0734</a></p>",
+              "customLabel": "Frith et al., 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny6m80xv729",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7dszjt4qy9\" data-reactroot=\"\">Wolpert, D. M., &amp; Ghahramani, Z. (2000). Computational principles of movement neuroscience. <em>Nature Neuroscience</em>, <em>3</em>(11), 1212-1217. <a href=\"https://doi.org/10.1038/81497\" title=\"\">https://doi.org/10.1038/81497</a></p>",
+              "customLabel": "Wolpert & Ghahramani, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "what-is-an-action",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "What is an action?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nswpo626bs2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Actions can take many forms. In everyday life, people often perform routine or habitual actions such as dressing in the morning, preparing breakfast, or driving from home to work. Actions can also be the result of deliberation, as when one evaluates possible options for their next vacation and, after settling on one, carefully plans their trip and stay. Bodily actions involve the production of movement, either for its own sake or as a means to bring about certain effects in the world. In contrast, mental actions\u2014such as reasoning, imagining a future scenario, or doing mental arithmetic\u2014need not involve bodily movement. Another important distinction is between "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "hot"
+          },
+          {
+            "type": "text",
+            "text": " actions, which are driven or motivated by affective states, and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cold"
+          },
+          {
+            "type": "text",
+            "text": ", dispassionate actions. Yet another distinction is between actions performed individually\u2014such as playing guitar alone in my room\u2014and actions performed jointly with others\u2014such as playing guitar as part of a band."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n090hgqco9m",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "These distinctions illustrate the variety of forms that action can take. This, in turn, raises the question of whether there is some underlying unity behind this diversity. There is a large consensus that the causal theory of action (in which an action consists of bodily movements caused by appropriate mental antecedents) is not a promising foundation for achieving unity. This theory appears to focus primarily on bodily actions, leaving mental actions unaccounted for. In addition, the mental antecedents in question are typically construed as intentions with propositional content, which may be too restrictive. While many would agree that a cat pouncing on a mouse, a bird building a nest, a zebra grazing, or an infant reaching for a toy are all engaging in purposeful behavior, their actions may not qualify as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "intentional"
+          },
+          {
+            "type": "text",
+            "text": " in the stricter sense\u2014particularly if intentionality is defined through concepts like reasons, justification, intentions, practical reasoning, or conscious awareness."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nx8dezdghsy",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "These examples suggest that cognitive science needs a notion of purposive action that is less demanding than \u201cfull-blooded\u201d intentional action. Moreover, even when focusing on human actions, many are habitual, impulsive, or automatic and are not caused by propositional intentions. To account for purposive actions that do not rely on propositional intentions, notions of nonpropositional goal representations, in which goals are encoded using motoric, perceptual, or map-like formats, have been proposed ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwtaiom9n8w",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj505xn936d\" data-reactroot=\"\">Camp, E. (2007). Thinking with maps. <em>Philosophical perspectives</em>, <em>21</em>, 145-182. <a href=\"https://doi.org/10.1111/j.1520-8583.2007.00124.x\" title=\"\">https://doi.org/10.1111/j.1520-8583.2007.00124.x</a></p>",
+              "customLabel": "Camp, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ne2pz6vp2e3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9yb6s9dzdg\" data-reactroot=\"\">Nanay, B. (2013). <em>Between perception and action</em>. Oxford University Press. </p>",
+              "customLabel": "Nanay, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njkqk9uazdd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndkeirdsvdz\" data-reactroot=\"\">Pacherie, E. (2018). Motor intentionality. In A. Newen, L. de Bruin, &amp; S. Gallagher (Eds.), The <em>Oxford handbook of 4e cognition</em> (pp. 369-387). Oxford University Press. </p>",
+              "customLabel": "Pacherie, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nksztsd9n1t",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8y51s1lqdu\" data-reactroot=\"\">Sommerville, J. A., Upshaw, M. B., &amp; Loucks, J. (2012). The nature of goal-directed action representations in infancy.\u00a0<em>Advances in Child Development and Behavior</em>,\u00a0<em>43</em>, 351-387. <a href=\"https://doi.org/10.1016/B978-0-12-397919-3.00013-7\" title=\"\">https://doi.org/10.1016/B978-0-12-397919-3.00013-7</a></p>",
+              "customLabel": "Sommerville, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbp3jaiv6j3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Beyond goal directedness, some have argued that a necessary condition for action, in all its various forms, is that the agent must have some degree of control over what they are doing and must be able to guide their actions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "na432domks8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvrwf2u3j7o\" data-reactroot=\"\">Frankfurt, H. G. (1978). The problem of action. <em>American Philosophical Quarterly</em>, <em>15</em>(2), 157-162.</p>",
+              "customLabel": "Frankfurt, 1978",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Recent efforts to elaborate on this idea have highlighted the role of executive functions\u2014such as task switching, working memory maintenance and manipulation, resource allocation, and inhibition\u2014in action guidance and control ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4hk8s7699h",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9ntnbee9ow\" data-reactroot=\"\">Badre, D. (2020). <em>On task</em>. Princeton University Press.</p>",
+              "customLabel": "Badre, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvigc9ne1fo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrwzazb0w4u\" data-reactroot=\"\">Buehler, D. (2022). Agential capacities: A capacity to guide. <em>Philosophical Studies</em>, <em>179</em>(1), 21-47. <a href=\"https://doi.org/10.1007/s11098-021-01649-6\" title=\"\">https://doi.org/10.1007/s11098-021-01649-6</a></p>",
+              "customLabel": "Buehler, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Additionally, it has been suggested that differences in agentive capacities across species are linked to the types of control they are equipped to exert over their actions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n52xcydufgr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmgqa23abgm\" data-reactroot=\"\">Tomasello, M. (2022). <em>The evolution of agency: Behavioral organization from lizards to humans</em>. MIT Press.</p>",
+              "customLabel": "Tomasello, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/rbmlimm5",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Animal Cognition"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "action-selection-and-initiation",
+          "id": "action-selection-and-initiation",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Action selection and initiation"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n78ekyan9sb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Like philosophers, psychologists and neurobiologists have primarily studied bodily action, often highlighting differences between types of actions rather than their commonalities. Notably, three key distinctions have been proposed."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nu3bzcv7my9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "First, neurobiologists distinguish between "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "endogenously driven"
+          },
+          {
+            "type": "text",
+            "text": " actions\u2014stemming from intrinsic motivation to achieve desired goals\u2014and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "exogenously driven"
+          },
+          {
+            "type": "text",
+            "text": " actions, which are triggered by stimuli and affordances in the environment. The former rely on an agent\u2019s anticipation of the action\u2019s effects and correspond to voluntary or intentional actions, whereas the latter are more closely linked to stimulus-response associations and reactions to environmental cues."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0esnzdmk17",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "However, this distinction is not absolute. Intentional actions almost always require some degree of guidance by external stimuli during planning or execution to adapt to environmental conditions. Conversely, stimulus-based actions often require some level of intentional guidance or can only be triggered in certain specific intentional states. This sets them apart from reflexes, in which the presence of a relevant external stimulus is both necessary and sufficient for triggering a response."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfojgpn2oih",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Interestingly, the brain circuits involved in controlling these two types of action are different. The medial parts of the prefrontal cortex (particularly the premotor cortex) are activated when a task is performed through endogenous actions, whereas the lateral parts of the premotor cortex are involved when a subject\u2019s behavior depends on or primarily results from a response to external stimuli ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nl67mx9enti",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbkzn8tegnw\" data-reactroot=\"\">Goldberg, G. (1985). Supplementary motor area structure and function: Review and hypotheses. <em>The Behavioral and Brain Sciences</em>, <em>8</em>(4), 567\u2013616. <a href=\"https://doi.org/10.1017/s0140525x00045167\" title=\"\">https://doi.org/10.1017/s0140525x00045167</a></p>",
+              "customLabel": "Goldberg, 1985",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n24xinjdc21",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njy6z9q5ho0\" data-reactroot=\"\">Krieghoff, V., Waszak, F., Prinz, W., &amp; Brass, M. (2011). Neural and behavioral correlates of intentional actions. <em>Neuropsychologia</em>, <em>49</em>(5), 767-776. <a href=\"https://doi.org/10.1016/j.neuropsychologia.2011.01.025\" title=\"\">https://doi.org/10.1016/j.neuropsychologia.2011.01.025</a></p>",
+              "customLabel": "Krieghoff et al., 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5j2dk6f776",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nht3rzbdivk\" data-reactroot=\"\">Passingham, R. E., Bengtsson, S. L., &amp; Lau, H. C. (2010). Medial frontal cortex: From self-generated action to reflection on one\u2019s own performance. <em>Trends in Cognitive Sciences</em>, <em>14</em>(1), 16-21. <a href=\"https://doi.org/10.1016/j.tics.2009.11.001\" title=\"\">https://doi.org/10.1016/j.tics.2009.11.001</a></p>",
+              "customLabel": "Passingham et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n996f18ntc0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Neurological disorders like "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "anarchic hand syndrome"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "utilization behavior syndrome "
+          },
+          {
+            "type": "text",
+            "text": "suggest action is underpinned by two different neuroanatomical routes. There is some overarching similarity as well. In both conditions, patients are compelled to perform actions by objects in their environment. This appears to be caused by lesions in the mesial frontal cortex, suggesting this region plays a key role in the formation and implementation of endogenous actions and inhibits conflicting, stimulus-driven actions. However, in anarchic hand syndrome, a unilateral lesion impairs control over the contralateral limb, whereas in utilization behavior syndrome, more extensive bilateral damage causes a stronger dependence on external cues."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6sp7s06ktu",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Second, psychologists in the field of associative learning distinguish between "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "goal-directed"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "goal-independent"
+          },
+          {
+            "type": "text",
+            "text": " behavior. The former relies on learned associations between an action and its outcome, whereas the latter is driven by learned associations between a stimulus and a behavioral response. This distinction is based on experiments with rats ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0v98ixkcgi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0j5kqmxpiy\" data-reactroot=\"\">Dickinson, A. (1985). Actions and habits: The development of behavioural autonomy. <em>Philosophical Transactions of the Royal Society B: Biological Sciences</em>, <em>308</em>(1135), 67e78. <a href=\"https://doi.org/10.1098/rstb.1985.0010\" title=\"\">https://doi.org/10.1098/rstb.1985.0010</a></p>",
+              "customLabel": "Dickinson, 1985",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and later with humans ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkxyqbc0mr2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxv0070gumj\" data-reactroot=\"\">Balleine, B. W., &amp; O\u2019Doherty, J. P. (2010). Human and rodent homologies in action control: Corticostriatal determinants of goal-directed and habitual action. <em>Neuropsychopharmacology</em>, <em>35</em>(1), 48-69. <a href=\"https://doi.org/10.1038/npp.2009.131\" title=\"\">https://doi.org/10.1038/npp.2009.131</a></p>",
+              "customLabel": "Balleine & O'Doherty, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") using outcome devaluation procedures. For example, after rats learn to press a lever for food, devaluating the food (e.g., through satiation or making it unappetizing) causes goal-directed rats to stop pressing the lever. However, overtrained rats continue pressing it, suggesting their responses are triggered by context via stimulus-response associations rather than by rewards."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ndffjhqeco9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Psychologists also propose that these behaviors rely on different memory systems: action-consequence associations depend on "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "declarative"
+          },
+          {
+            "type": "text",
+            "text": " (or explicit) memory, which stores factual information and rules, whereas stimulus-response associations rely on "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "procedural"
+          },
+          {
+            "type": "text",
+            "text": " memory, which encodes and stores motor skills ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntfkv5cqyix",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nes03q43ual\" data-reactroot=\"\">Mishkin, M., Malamut, B., &amp; Bachevalier, J. (1984). Memories and habits: Two neural systems. In G. Lynch, J. McGaugh, &amp; N. Weinberger (Eds.), <em>Neurobiology of learning and memory</em> (pp. 65\u201377). Guilford Press.</p>",
+              "customLabel": "Mishkin et al., 1984",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nn1u3pai83j",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A third key distinction in modern decision research is between two main strategies for action selection: "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "model-free"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "model-based"
+          },
+          {
+            "type": "text",
+            "text": " decision-making ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nasnzm52p1q",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqtppkcsagp\" data-reactroot=\"\">Drummond, N., &amp; Niv, Y. (2020). Model-based decision making and model-free learning. <em>Current Biology</em>, <em>30</em>(15), R860-R865. <a href=\"https://doi.org/10.1016/j.cub.2020.06.051\" title=\"\">https://doi.org/10.1016/j.cub.2020.06.051</a></p>",
+              "customLabel": "Drummond & Niv, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrq73ucfpw1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng230qno1st\" data-reactroot=\"\">Kool, W., Cushman, F. A., &amp; Gershman, S. J. (2018). Competition and cooperation between multiple reinforcement learning systems. In R. Morris, A. Bornstein, &amp; A. Shenhav (Eds.), <em>Goal-directed decision making</em> (pp. 153-178). Academic Press. </p>",
+              "customLabel": "Kool et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/k2ek981x",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Reinforcement Learning"
+          },
+          {
+            "type": "text",
+            "text": "]. Model-based strategies rely on an internal model of the world, which includes states of the world, transition probabilities between them, and the rewards available in each state. These models are learned through experience by tracking sequences of states and their rewards. To decide on an action, an agent searches possible trajectories within the mental model and selects the path with the best estimated outcome. In contrast, model-free decision-making assigns values to actions based on past rewards. These values are incrementally updated, stored in a cached format, and quickly retrieved to guide decisions. While computationally efficient and fast, model-free strategies lack flexibility when circumstances change abruptly, as outdated cached values must be relearned through experience. Model-based strategies, although more computationally demanding, offer greater adaptability. Internal models can be updated locally to reflect changes without requiring complete relearning. The two strategies, therefore, reflect a trade-off between efficiency and flexibility."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqjx4kez8ia",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "While the distinction between model-based and model-free action shares similarities with the distinction between goal-directed and goal-independent behavior, they should not be conflated. Although both stimulus-response actions and actions selected via model-free strategies are often called habitual, the latter but not the former are goal directed and value based ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncrfvmcsan4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng7ydpjlo76\" data-reactroot=\"\">Miller, K. J., Ludvig, E. A., Pezzulo, G., &amp; Shenhav, A. (2018). Realigning models of habitual and goal-directed decision-making. In R. Morris, A. Bornstein, &amp; A. Shenhav (Eds.), <em>Goal-directed decision making</em> (pp. 407-428). Academic Press. </p>",
+              "customLabel": "Miller et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Moreover, while model-based and model-free strategies sometimes compete, they can also cooperate. Recent computational models of arbitration between the two systems include cost-benefit models, metacognitive models, and value-based models ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntlq62nbxy1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng230qno1st\" data-reactroot=\"\">Kool, W., Cushman, F. A., &amp; Gershman, S. J. (2018). Competition and cooperation between multiple reinforcement learning systems. In R. Morris, A. Bornstein, &amp; A. Shenhav (Eds.), <em>Goal-directed decision making</em> (pp. 153-178). Academic Press. </p>",
+              "customLabel": "Kool et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "motor-representations-and-motor-planning",
+          "id": "motor-representations-and-motor-planning",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Motor representations and motor planning"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0ege304w2x",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "When talking about plans, people often refer to future-oriented plans, such as dinner plans for tonight or a vacation next summer. Forming such plans typically involves higher-level, general-purpose cognitive processes of deliberation, reasoning, and decision-making based on one\u2019s desires and beliefs about the world and resulting in intentions that outline high-level steps (e.g., check flight prices, book a hotel). In contrast, the function of motor planning is to specify the means to achieve an immediate action goal. Motor planning depends on specialized computational processes that generate motor plans outlining a sequence of bodily movements designed to fulfill a specific intention. For instance, a motor plan for reaching a cup might involve actions such as extending the elbow, moving the arm toward the cup, adjusting the hand grip, and grasping it. These plans are encoded using motor representations that specify these steps in a format directly suited for action execution."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njfbdylk254",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Motor control theorists have long recognized that the motor system faces a complex computational challenge given any immediate action goal ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuc4phpyswu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8xz6qklhbs\" data-reactroot=\"\">Lashley, K. S. (1951). The problem of serial order in behavior. In L. A. Jeffress (Ed.), <em>Cerebral mechanisms in behavior</em> (pp. 112-136). Wiley.</p>",
+              "customLabel": "Lashley, 1951",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This difficulty arises from the system\u2019s many degrees of freedom and built-in redundancy, largely because of the biomechanical properties of human limbs, joints, and muscles. Consequently, multiple movement sequences can achieve the same goal. Motor planning must solve this inverse problem by selecting the optimal mapping between goal and movement while considering constraints such as minimizing energy expenditure, avoiding extreme joint torques and discomfort, or reducing jerk ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njn4knocy57",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl71yszfmkx\" data-reactroot=\"\">Rosenbaum, D. A. (2009). <em>Human motor control</em>. Academic Press.</p>",
+              "customLabel": "Rosenbaum, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nl0nq5uf33f",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "There are now advanced computational models of motor control that explain how the inverse problem is solved, using forward models to predict the outcomes of motor commands ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7p969znqha",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1cpa947lsp\" data-reactroot=\"\">Shadmehr, R., &amp; Mussa-Ivaldi, S. (2012). <em>Biological learning and control: How the brain builds representations, predicts events, and makes decisions</em>. MIT Press. </p>",
+              "customLabel": "Shadmehr & Mussa-Ivaldi, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and motor controllers that compute optimal solutions by minimizing a cost function ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxlpvqj0mh1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nffk7p3rgx2\" data-reactroot=\"\">Diedrichsen, J., Shadmehr, R., &amp; Ivry, R. B. (2010). The coordination of movement: Optimal feedback control and beyond. <em>Trends in Cognitive Sciences</em>, <em>14</em>(1), 31-39. <a href=\"https://doi.org/10.1016/j.tics.2009.11.004\" title=\"\">https://doi.org/10.1016/j.tics.2009.11.004</a></p>",
+              "customLabel": "Diedrichsen et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n23ptkpkvud",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsekefsckvn\" data-reactroot=\"\">Todorov, E. (2009). Efficient computation of optimal actions. <em>Proceedings of the National Academy of Sciences</em>, <em>106</em>(28), 11478-11483. <a href=\"https://doi.org/10.1073/pnas.0710743106\" title=\"\">https://doi.org/10.1073/pnas.0710743106</a></p>",
+              "customLabel": "Todorov, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Motor planning is often viewed as a hierarchical process. Four distinct stages can be identified: an initial stage that specifies the motor goal (identification of a target object and determination of what is to be done to that object), an optional stage that may include additional planning for effector selection and abstract kinematic features (like effector trajectory through space), a stage that selects an action type and a control policy for responding to perturbations, and a stage that specifies movements and control policies in more detail ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx6h0j59nan",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6pfyq9v94y\" data-reactroot=\"\">Wong, A. L., Haith, A. M., &amp; Krakauer, J. W. (2015). Motor planning. <em>The Neuroscientist: A Review Journal Bringing Neurobiology, Neurology and Psychiatry</em>, <em>21</em>(4), 385\u2013398. <a href=\"https://doi.org/10.1177/1073858414541484\" title=\"\">https://doi.org/10.1177/1073858414541484</a></p>",
+              "customLabel": "Wong et al., 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncivhtl9ycc",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Motor planning heavily depends on perception and sensory information. To select a motor goal and plan movement, one must identify a target (e.g., a coffee mug) and compute the movement trajectory while considering the positions of the target, effector, and potential obstacles (e.g., a cluttered desk). The grip used to grasp the mug is further influenced by sensory details such as its size, shape, orientation, and texture. Based on neuropsychological, electrophysiological, and behavioral evidence, it was proposed that visual perception and the visual control of action rely on distinct neural pathways with processing in the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "ventral stream"
+          },
+          {
+            "type": "text",
+            "text": " (that projects from the primary visual cortex to the temporal cortex) supporting object recognition and processing in the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "dorsal stream"
+          },
+          {
+            "type": "text",
+            "text": " (that projects from the primary visual cortex to the posterior parietal cortex) computing visuomotor transformations for action ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8l5e9wr0l9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nju5tbigx34\" data-reactroot=\"\">Milner, A. D., &amp; Goodale, M. A. (1995). <em>The visual brain in action</em>. Oxford University Press.</p>",
+              "customLabel": "Milner & Goodale, 1995",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Early action planning may thus involve the ventral stream for object selection, whereas precise movement specification relies on the dorsal stream."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngf7but3m5s",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "However, subsequent research has demonstrated that the anatomical and functional division between the dorsal and ventral pathways is not as clear cut as once believed and instead reveals a more intricate organizational structure. Notably, two anatomically distinct subcircuits within the dorsal stream have been identified: a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "dorso"
+          },
+          {
+            "type": "text",
+            "text": "\u2013"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "dorsal"
+          },
+          {
+            "type": "text",
+            "text": " pathway thought to be responsible for immediate visuomotor control and a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "ventro"
+          },
+          {
+            "type": "text",
+            "text": "\u2013"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "dorsal"
+          },
+          {
+            "type": "text",
+            "text": " pathway serving as an interface between the ventral and dorsal streams and playing a role in the long-term storage of specific skilled actions associated with familiar objects ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2egdl9o96l",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n133q1cwih9\" data-reactroot=\"\">Binkofski, F., &amp; Buxbaum, L. J. (2013). Two action systems in the human brain. <em>Brain and Language</em>, <em>127</em>(2), 222-229. <a href=\"https://doi.org/10.1016/j.bandl.2012.07.007\" title=\"\">https://doi.org/10.1016/j.bandl.2012.07.007</a></p>",
+              "customLabel": "Binkofski & Buxbaum, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "cognitive-and-motor-processing",
+          "id": "cognitive-and-motor-processing",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Cognitive and motor processing"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbgv3g01x43",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Mounting evidence supports the bidirectional interplay between motor and higher-level cognitive processing. For instance, recent research on motor learning has shown that even visuomotor adaptation\u2014long thought to be a slow, incremental process driven solely by the motor system\u2014can arise from both implicit, incremental motor adjustments and explicit cognitive strategies. These strategies and heuristics enable humans to rapidly explore and evaluate novel solutions, supporting flexible, goal-oriented behavior ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkg36flyhbv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n85ocplpcf9\" data-reactroot=\"\">McDougle, S. D., Ivry, R. B., &amp; Taylor, J. A. (2016). Taking aim at the cognitive side of learning in sensorimotor adaptation tasks. <em>Trends in Cognitive Sciences</em>, <em>20</em>(7), 535-544. <a href=\"https://doi.org/10.1016/j.tics.2016.05.002\" title=\"\">https://doi.org/10.1016/j.tics.2016.05.002</a></p>",
+              "customLabel": "McDougle et al., 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nx0gjakphk6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Similarly, evidence suggests that motor imagery\u2014a cognitive strategy involving the mental construction or rehearsal of a movement\u2014can contribute to motor learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmjj6z4drq2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntqvraebzeb\" data-reactroot=\"\">Ladda, A. M., Lebon, F., &amp; Lotze, M. (2021). Using motor imagery practice for improving motor performance\u2014A review. <em>Brain and Cognition</em>, 150, 105705. <a href=\"https://doi.org/10.1016/j.bandc.2021.105705\" title=\"\">https://doi.org/10.1016/j.bandc.2021.105705</a></p>",
+              "customLabel": "Ladda et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/ge65ctmu",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Mental Imagery"
+          },
+          {
+            "type": "text",
+            "text": "]. Conversely, growing research indicates that sensorimotor processes play an important role in decision-making and that decision-making is best understood as an evolving process that continues beyond movement onset, persisting until movement completion ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndoidj3i9r5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqx3ceyohjz\" data-reactroot=\"\">Wispinski, N. J., Gallivan, J. P., &amp; Chapman, C. S. (2020). Models, movements, and minds: Bridging the gap between decision making and action. <em>Annals of the New York Academy of Sciences</em>, <em>1464</em>(1), 30-51. <a href=\"https://doi.org/10.1111/nyas.13973\" title=\"\">https://doi.org/10.1111/nyas.13973</a></p>",
+              "customLabel": "Wispinski et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqmcxgrdoyw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "These advances suggest that current theoretical and computational models must be updated to better account for the interactions and synergetic roles of higher-level cognitive processes and motor processes in motor learning and decision-making."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "joint-action",
+          "id": "joint-action",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Joint action"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0ine0gy9fc",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In addition to acting individually, agents often engage in joint action with others, enabling them to achieve goals that would be difficult or impossible to accomplish alone, such as moving heavy furniture or dancing the tango. This raises questions about the notion of shared or collective intention [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/sep9e3c2",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Shared Intentionality"
+          },
+          {
+            "type": "text",
+            "text": "]. Although there is broad agreement that joint actions and shared intentions involve more than mere summations of individual actions and intentions, there is ongoing debate about what additional factors are required. Some argue for specific interconnections between individual intentions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nypwbsrd9be",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6a91l46232\" data-reactroot=\"\">Bratman, M. E. (2014). <em>Shared agency: A planning theory of acting together</em>. Oxford University Press.</p>",
+              "customLabel": "Bratman, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), others propose a special individual attitude of \u201cwe-intention\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no8pafj47r4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9xdto6gmg0\" data-reactroot=\"\">Searle, J. (1990) Collective intentions and actions. In P. Cohen, J. Morgan, and M.E. Pollack (Eds.), <em>Intentions in communication</em> (pp. 401-416). MIT Press. </p>",
+              "customLabel": "Searle, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and still others emphasize joint commitments among participating agents ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx71xzeervg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrbcgl0lb7m\" data-reactroot=\"\">Gilbert, M. (2014). <em>Joint commitment: How we make the social world</em>. Oxford University Press.</p>",
+              "customLabel": "Gilbert, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "neqbzfvpars",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Despite their differences, these philosophical perspectives share a common trait: they are cognitively demanding, necessitating agents to have robust theory of mind abilities and advanced reasoning skills. Critics contend that such accounts are ill equipped to explain the joint action capabilities seen in young children and nonhuman animals. Moreover, they provide little insight into the processes involved in the real-time coordination of actions. These concerns have led to the emergence of minimalist accounts of joint action. Minimalists agree that acting jointly with others requires the ability to efficiently track their actions and to plan and execute one\u2019s own actions toward a common goal in response to what others are doing. However, they contend that, for at least some joint actions, this can be achieved using more modest representational and cognitive abilities than those assumed by classical philosophical accounts. Their approach builds on empirical work in cognitive psychology (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nyhggx5au9w",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n46mz7my61s\" data-reactroot=\"\">Butterfill, S. (2017). Joint action: A minimalist approach. In J. Kiverstein, (Ed.), <em>The Routledge</em> <em>handbook of philosophy of the social mind</em> (pp. 373-385). Routledge/Taylor &amp; Francis Group. </p>",
+              "customLabel": "Butterfill, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nb7i81idoj0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cognitive psychology studies of joint action investigate the perceptual, cognitive, and motor processes that enable individuals to flexibly coordinate their actions with others in real time as well as the roles played by emergent and goal-directed coordination processes ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nyv268eeri2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2sexl1nohe\" data-reactroot=\"\">Knoblich, G., Butterfill, S., &amp; Sebanz, N. (2011). Psychological research on joint action: Theory and data. <em>Psychology of Learning and Motivation-Advances in Research and Theory</em>, <em>54</em>, 59-101. <a href=\"https://doi.org/10.1016/b978-0-12-385527-5.00003-6\" title=\"\">https://doi.org/10.1016/b978-0-12-385527-5.00003-6</a></p>",
+              "customLabel": "Knoblich et al., 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nthbilup1mz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz5dmjx5637\" data-reactroot=\"\">Sebanz, N., &amp; Knoblich, G. (2021). Progress in joint-action research. <em>Current Directions in Psychological Science</em>, <em>30</em>(2), 138-143. <a href=\"https://doi.org/10.1177/0963721420984425\" title=\"\">https://doi.org/10.1177/0963721420984425</a></p>",
+              "customLabel": "Sebanz & Knoblich, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n9kh2y623k3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Emergent coordination involves processes such as interpersonal entrainment (a process that leads to the automatic synchronization of two agent\u2019s behavior, as when people walking together fall in step), the perception of joint affordances (such as a two-handed long saw that affords action to a pair of agents but not a single agent), and perception action mirroring mechanisms that lead multiple individuals to act in similar ways [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/984ungzu",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Affordances"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/tuj66qxb",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Mirror Neurons"
+          },
+          {
+            "type": "text",
+            "text": "]. In goal-directed coordination, agents plan their own motor actions in relation to both the joint goal and, to some extent, their partners\u2019 actions while also monitoring progress toward the joint goal during execution. Key mechanisms in goal-directed coordination include shared task representations, joint attention, co-representation of perception, and both verbal and nonverbal communication among agents."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2leavph4kn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Current research aims to deepen the understanding of the interplay between emergent and goal-directed coordination processes, the factors that influence agents\u2019 decisions to engage in joint action, and the commonalities and differences between joint action abilities in humans and other species."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "sense-of-agency",
+          "id": "sense-of-agency",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Sense of agency"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nv2w9b9c8d6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The empirical study of the sense of agency\u2014defined as the experience of controlling one\u2019s own actions and, through them, events in the world\u2014has been highly active over the past decades. Research has uncovered a rich set of mechanisms and factors contributing to its emergence and modulation. These range from low-level processes that compare the congruence between predicted motor command consequences and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "sensory reafferences"
+          },
+          {
+            "type": "text",
+            "text": "\u2014that is, sensory signals generated by the execution of a motor command rather than by external events ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlisnn6uilw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6gnznzsy55\" data-reactroot=\"\">Frith, C. D., Blakemore, S.-J., &amp; Wolpert, D. M. (2000). Abnormalities in the awareness and control of action. <em>Philosophical Transactions of the Royal Society of London B</em>, <em>355</em>(1404), 1771-1788. <a href=\"https://doi.org/10.1098/rstb.2000.0734\" title=\"\">https://doi.org/10.1098/rstb.2000.0734</a></p>",
+              "customLabel": "Frith et al., 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") to general purpose causal inference processes ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfnc2xcdqp7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfpona723sk\" data-reactroot=\"\">Wegner, D. M. (2003). The mind\u2019s best trick: How we experience conscious will. <em>Trends in Cognitive Sciences</em>, <em>7</em>(2), 65-69. <a href=\"https://doi.org/10.1016/s1364-6613(03)00002-0\" title=\"\">https://doi.org/10.1016/s1364-6613(03)00002-0</a></p>",
+              "customLabel": "Wegner, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In addition to cues and processes involved in action programming and execution, the sense of agency has also been found to be influenced by the fluency of action selection processes before action initiation as well as by characteristics of action outcomes such as their magnitude or emotional valence. Neuroimaging studies have played a key role in identifying the brain areas involved in the cognitive and computational processes underlying the sense of agency. Findings suggest that its neural basis lies not in a single structure but in the connectivity between frontal and prefrontal motor areas\u2014responsible for initiating action\u2014and parietal areas involved in monitoring perceptual events ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ns64s0rdokj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlur8yebx6c\" data-reactroot=\"\">Haggard, P. (2017). Sense of agency in the human brain. <em>Nature Reviews Neuroscience</em>, <em>18</em>(4), 196-207. <a href=\"https://doi.org/10.1038/nrn.2017.14\" title=\"\">https://doi.org/10.1038/nrn.2017.14</a></p>",
+              "customLabel": "Haggard, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n69hz85s4dt",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Other important areas of inquiry concern the sense of agency for joint action ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nugaczaiibz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npxma6z7h40\" data-reactroot=\"\">Loehr, J. D. (2022). The sense of agency in joint action: An integrative review. <em>Psychonomic Bulletin &amp; Review</em>, <em>29</em>(4), 1089-1117. <a href=\"https://doi.org/10.3758/s13423-021-02051-3\" title=\"\">https://doi.org/10.3758/s13423-021-02051-3</a></p>",
+              "customLabel": "Loehr, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), the role played by the sense of agency in action control, its contribution to self-consciousness, and its role in defining the status of responsible agents [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/qk3nm299",
+                  "title": "",
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Self-Consciousness"
+          },
+          {
+            "type": "text",
+            "text": "]. Several neurological and psychiatric conditions involve a pathological sense of agency, and investigating these conditions may provide valuable insights into some of these issues."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ndu8tysq0xz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "It has been proposed that biological agency evolved from simple forms of goal-directed activity in ancient vertebrates to intentional agency in mammals, rational agency in great apes, and ultimately socially normative agency in humans. This evolutionary progression is thought to have been driven by the emergence of new forms of psychological organization that support increasingly complex planning, decision-making, and executive control ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npmv4paogem",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmgqa23abgm\" data-reactroot=\"\">Tomasello, M. (2022). <em>The evolution of agency: Behavioral organization from lizards to humans</em>. MIT Press.</p>",
+              "customLabel": "Tomasello, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nm4bgj69jg6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Since its inception in the 1950s, research on planning and problem solving has been central to the fields of artificial intelligence (AI) and robotics. Early AI systems and robots were custom built to reason and act within narrow, well-defined domains. However, the exponential growth of AI over the last decades has enabled it to overcome many of its initial limitations ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmuv6gb4kml",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndftqbdat9t\" data-reactroot=\"\">Russell, S., &amp; Norvig, P. (2009). <em>Artificial intelligence: A modern approach</em> (3rd ed.). Prentice Hall.</p>",
+              "customLabel": "Russell & Norvig, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Today, some artificial agents exhibit sophisticated planning and reasoning abilities as well as robust action control capacities."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7kwl6czqgp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Despite these advances, although AI systems can represent and reason about goals, their goal directedness remains extrinsic\u2014imposed by their designers rather than arising from within the system itself. Researchers are currently exploring ways to develop robots with intrinsic goal directedness. For instance, evolutionary robotics applies evolutionary principles\u2014such as selection, variation, and heredity\u2014to robot design ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwm09sst3mc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlswl4ydqt7\" data-reactroot=\"\">Doncieux, S., Bredeche, N., Mouret, J. B., &amp; Eiben, A. E. (2015). Evolutionary robotics: What, why, and where to. <em>Frontiers in Robotics and AI</em>, <em>2</em>, 4. <a href=\"https://doi.org/10.3389/frobt.2015.00004\" title=\"\">https://doi.org/10.3389/frobt.2015.00004</a></p>",
+              "customLabel": "Doncieux et al., 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Over multiple generations, robots developed using these principles may acquire functions that qualify them as intrinsically goal directed. Whether this approach, or other self-learning design strategies, can ultimately achieve this goal remains an open question."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwouajry8eu",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A related topic concerns moral agency\u2014the connection between the capacity for action and moral responsibility. A central issue, and a matter of ongoing debate, is what agentive capacities an entity must possess to be considered a moral agent. Nonhuman animals and children are often exempted from moral responsibility on the grounds that they either lack or have yet to develop the necessary agentive capacities. A new challenge arises with the development of increasingly sophisticated artificial agents ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4br4s5ql4v",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5cy7qaf299\" data-reactroot=\"\">Hakli, R., &amp; M\u00e4kel\u00e4, P. (2019). Moral responsibility of robots and hybrid agents. <em>The Monist</em>, <em>102</em>(2), 259-275. <a href=\"https://doi.org/10.1093/monist/onz009\" title=\"\">https://doi.org/10.1093/monist/onz009</a></p>",
+              "customLabel": "Hakli & M\u00e4kel\u00e4, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Should artificial agents be considered moral agents and held accountable for their actions? Or do they lack the autonomy and self-control necessary for moral agency?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n61gpkgb4qz",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Finally, the development of joint action research invites closer connections with other fields in psychology and neuroscience that study social interaction and human prosociality. For instance, research on social motivation may shed light on why people engage in joint action even when the costs outweigh the instrumental benefits of cooperation. Another promising avenue of investigation concerns the potential connections between the mechanisms that support joint action and those underlying other forms of collective cognition and behavior, such as collective memory, the collective construction of knowledge, and collective emotions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb7yije17oh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npqwhyoyq9m\" data-reactroot=\"\">Chung, V., Gr\u00e8zes, J., &amp; Pacherie, E. (2024). Collective emotion: A framework for experimental research. <em>Emotion Review</em>, <em>16</em>(1), 28-45. <a href=\"https://doi.org/10.1177/17540739231214533\" title=\"\">https://doi.org/10.1177/1754073923121453</a></p>",
+              "customLabel": "Chung et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4rtr180xv0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "While the past few decades have significantly advanced the understanding of actions and the psychological and neural processes that underlie them, deep questions remain. Most foundational is whether, beyond the variety of action types and the diversity of processes supporting them, there exists a common core of properties shared by all actions."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "acknowledgements",
+          "id": "acknowledgements",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Acknowledgments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbgktxtil4u",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This work was supported by the French National Research Agency under grant agreements ANR-10-IDEX-0001-02 PSL* and ANR-17-EURE-0017 FrontCog."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nc6w480f4wy",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nyvfwj1nhnx",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Badre, D. (2020). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "On task"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Princeton University Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n0bu7g4o97l",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hommel, B., Brown, S. B., & Nattkemper, D. (2016). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Human action control: From intentions to movements"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Springer."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n66zg1l8lu9",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jeannerod, M. (2006). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Motor cognition: What actions tell the self."
+                  },
+                  {
+                    "type": "text",
+                    "text": " Oxford University Press."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2388 @@
+{
+  "id": "f1b0237e-fc60-40c7-84b6-c62bc7b3525c",
+  "slug": "or750iar",
+  "title": "Spatial Cognition",
+  "url": "https://oecs.mit.edu/pub/or750iar",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "f1b0237e-fc60-40c7-84b6-c62bc7b3525c",
+    "slug": "or750iar",
+    "title": "Spatial Cognition",
+    "htmlTitle": "Spatial Cognition",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.f1b0237e",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "t7zdrxfa",
+    "editHash": "hm1mfhmv",
+    "reviewHash": "91it5el2",
+    "commentHash": "5hnyq75l",
+    "draftId": "b98d5890-dc07-4b5b-af69-767bc9be11be",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "7c1c387c-7fb3-48c4-9024-c13d6c06e443",
+    "scopeSummaryId": "872e1040-7094-48bb-b94a-a66557be4db9",
+    "createdAt": "2024-06-24T17:52:59.402Z",
+    "updatedAt": "2024-07-24T13:30:50.810Z",
+    "attributions": [
+      {
+        "id": "f2b6a32d-75d6-4048-ba36-fb03a9702407",
+        "name": "Nora S. Newcombe",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Department of Psychology and Neuroscience, Temple University",
+        "orcid": "0000-0002-7044-6046",
+        "userId": null,
+        "pubId": "f1b0237e-fc60-40c7-84b6-c62bc7b3525c",
+        "createdAt": "2024-06-24T17:54:39.356Z",
+        "updatedAt": "2024-06-24T17:54:54.074Z",
+        "user": null
+      },
+      {
+        "id": "28a11d44-4283-4a4c-926e-1bbf3d1346e1",
+        "name": "Asifa Majid",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "section editor"
+        ],
+        "affiliation": "University of Oxford",
+        "orcid": "0000-0003-0132-216X",
+        "userId": null,
+        "pubId": "f1b0237e-fc60-40c7-84b6-c62bc7b3525c",
+        "createdAt": "2024-07-23T22:08:47.358Z",
+        "updatedAt": "2024-07-23T22:09:02.116Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "b98d5890-dc07-4b5b-af69-767bc9be11be",
+      "latestKeyAt": "2024-07-23T11:10:11.063Z",
+      "firebasePath": "drafts/draft-b98d5890-dc07-4b5b-af69-767bc9be11be",
+      "createdAt": "2024-06-24T17:52:59.399Z",
+      "updatedAt": "2025-09-11T02:16:48.506Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nb3j3xybx2k",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Spatial cognition"
+          },
+          {
+            "type": "text",
+            "text": " is used in cognitive science, as well as in other allied disciplines, to denote thinking about spatial content, such as positions in an environment or shapes of objects. The term additionally covers a wide variety of heterogeneous mental activities, given that the world is inherently spatial. A useful distinction is between two kinds of spatial thinking: "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "navigation-relevant"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "object-focused"
+          },
+          {
+            "type": "text",
+            "text": " cognition"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "."
+          },
+          {
+            "type": "text",
+            "text": " Each requires representation, either of the environment or of an object, as well as mental transformation of the information represented. Navigation involves finding the way around the world to gather food and drink, find social partners, avoid dangers, and return home and is prerequisite to survival for all mobile organisms. To find the way requires the representation of the relative locations of environmental features ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "allocentric framework"
+          },
+          {
+            "type": "text",
+            "text": ") and self-motion ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "inertial navigation"
+          },
+          {
+            "type": "text",
+            "text": ") internally and within that framework. Object-focused cognition involves representing the shape and structure of objects and anticipating their appearance after physical or mental transformation, such as rotation, cutting, or folding. Object-focused thinking is closely related to tool invention and tool use and is likely more specific to humans than is navigation, although tool use has also been documented in primates and corvids."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfm9l89pejc",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Humans have long observed the movements of the stars and planets, watched the migratory habits of birds, built dwellings, and fashioned tools. Only lately has empirical science considered how humans do these things. When the science of mental life began midway through the 19"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "th"
+          },
+          {
+            "type": "text",
+            "text": " century, with laboratories headed by scientists such as Wilhelm Wundt and Karl Ebbinghaus, it aimed to uncover basic laws of perception and memory, with little interest in spatial thinking or in individual variation. The study of individual differences was left to figures such as Francis Galton, who examined variations in sensory processing, and Alfred Binet, who produced the first version of the intelligence test."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbwi4vt3p8l",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Paper-and-pencil tests, largely of object-focused spatial thinking, became an important focus for psychologists building assessments of talent. Over the years, psychometricians created hundreds of tests of how quickly and accurately people could perform a wide array of spatial activities, e.g., judge true horizontal and vertical, extract a target figure from a complex drawing, judge which direction a boat would be facing after a specified transformation, or decide what a piece of paper would look like after being folded, having holes punched through the folds, and then being unfolded. Datasets of this kind were repeatedly factor analyzed, i.e., investigators examined how variables were intercorrelated, looking for clusters of abilities. However, after a century of this kind of activity, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndmi7zyn3hk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nc21m5ek7p5\" data-reactroot=\"\">Hegarty, M., &amp; Waller, D. A. (2005). Individual differences in spatial abilities. In P. Shah &amp; A. Miyake (Eds.), <em>The Cambridge handbook of visuospatial thinking</em> (pp. 121\u2013169). Cambridge University Press. <a href=\"https://psycnet.apa.org/doi/10.1017/CBO9780511610448.005\">https://doi.org/10.1017/CBO9780511610448.005</a></p>",
+              "customLabel": "Hegarty and Waller (2005)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " argued that the enterprise has not borne the hoped-for fruit, namely a characterization and categorization of spatial skills, at least in part because the tests were constructed without any guiding theory of spatial thinking."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nr8lr8o1k3z",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In the early 20"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "th"
+          },
+          {
+            "type": "text",
+            "text": " century, in parallel with this work by psychometricians, various kinds of behaviorism came to dominate experimental psychology, at least in the United States, and the study of mental life languished. This situation changed radically in the middle of the century, with discoveries from Harlow and Lorenz showing that traditional rewards such as food are not necessary to change behavior, arguments by Noam Chomsky showing that behaviorism could ever explain language acquisition, and more. One important turning point in the cognitive revolution involved navigation, occurring when "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nktwvgzn21a",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrfl777oyxb\" data-reactroot=\"\">Tolman, E. C. (1948). Cognitive maps in rats and men. <em>Psychological Review, 55</em>(4), 189\u2013208. <a href=\"https://psycnet.apa.org/doi/10.1037/h0061626\">https://doi.org/10.1037/h0061626</a></p>",
+              "customLabel": "Edward Tolman (1948)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " proposed the idea of the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cognitive map"
+          },
+          {
+            "type": "text",
+            "text": " based on his study of rats trained to go straight ahead and then turn to get a food reward. When this route was blocked but various other exits were opened, arranged in a sunburst fashion around the start box, the rats chose the arms leading relatively directly to the reward, showing they had encoded the location in the wider world, without reward, not just memorized a series of turns that led to the goal box."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvpb7258dzg",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Twenty years or so later, looking at encoding and transformation of object structure, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "na9p2316n5g",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nndhul0fvqn\" data-reactroot=\"\">Shepard, R. N., &amp; Metzler, J. (1971). Mental rotation of three-dimensional objects. <em>Science, 171</em>(3972), 701\u2013703. <a href=\"https://psycnet.apa.org/doi/10.1126/science.171.3972.701\">https://doi.org/10.1126/science.171.3972.701</a></p>",
+              "customLabel": "Shepard and Metzler (1971)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " demonstrated that people mentally move their representations in a way that tracks the amount of time it might take to move them physically. The most famous task involved the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "mental rotation"
+          },
+          {
+            "type": "text",
+            "text": " of block structures, but similar phenomena appeared for tasks such as paper folding. Steven Kosslyn continued the theme of mental transformation that mimicked perception in his series of studies on visual imagery and documented that it takes time proportional to size and distance to scan mental images (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n35gp2zvth8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6m4hmlhxj4\" data-reactroot=\"\">Kosslyn, S. M. (1975). Information representation in visual images. <em>Cognitive Psychology, 7</em>(3), 341\u2013370. <a href=\"https://psycnet.apa.org/doi/10.1016/0010-0285(75)90015-8\">https://doi.org/10.1016/0010-0285(75)90015-8</a></p>",
+              "customLabel": "Kosslyn, 1975",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Much later, however, it became clear that "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "visual imagery "
+          },
+          {
+            "type": "text",
+            "text": "and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "spatial imagery"
+          },
+          {
+            "type": "text",
+            "text": " are distinct, the former being static and detail-oriented and the latter more dynamic ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd3un016iie",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nt8wy10o5dy\" data-reactroot=\"\">Chabris, C. F., Jerde, T. E., Woolley, A. W., Gerbasi, M. E., Schuldt, J. P., Wai, J., Bennett, S. L., Hackman, J. R., &amp; Kosslyn, S. M. (2017). <em>Spatial and object visualization cognitive styles: Validation studies in 3839 individuals</em>. PsyArXiv<em>.</em> <a href=\"https://doi.org/10.31234/osf.io/98hw3\">https://doi.org/10.31234/osf.io/98hw3</a></p>",
+              "customLabel": "Chabris et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2khqq1ir1x",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Behaviorism never took hold in Europe to the same extent it had in the United States. Even before the cognitive revolution, Jean Piaget had been working in Switzerland on an approach to cognitive development that involved postulating internal mental structures. His work included investigations of mental imagery, including tasks involving horizontality-verticality and spatial perspective-taking ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ni2a4fn605x",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nw5lpfhm433\" data-reactroot=\"\">Piaget, J., &amp; Inhelder, B. (1967). <em>Child\u2019s conception of space</em>. W. W. Norton &amp; Company.</p>",
+              "customLabel": "Piaget & Inhelder, 1967",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n53dkcsakhk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndikun9crem\" data-reactroot=\"\">Piaget, J., &amp; Inhelder, B. (1971). <em>Mental imagery in the child: A study of the development of imaginal representation</em>. Routledge &amp; Kegan Paul.</p>",
+              "customLabel": "1971",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). (Of course, psychometricians also had tasks of these kinds, but the literature did not make contact at first.) Piaget was not interested in how adults vary, but he rather emphasized the slow development of children into adult thinkers over the first decade of life. Later investigations began to question Piaget\u2019s characterization, however, and investigators suggested that dynamic spatial thinking can occur even in infancy (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvj2e7bh5oi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb7tw1ypiqq\" data-reactroot=\"\">Moore, D. S. &amp; Johnson, S. P. (2008). Mental rotation in human infants: A sex difference. <em>Psychological Science</em>, <em>19</em>(11), 1063\u20131066. <a href=\"https://doi.org/10.1111/j.1467-9280.2008.02200.x\" target=\"_blank\">https://doi.org/10.1111/j.1467-9280.2008.02200.x</a></p>",
+              "customLabel": "Moore & Johnson, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The nature of what infants can do, how it differs from adult capabilities, and how development occurs over years is an area of active current investigation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n31w2kzscnl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"noakrf68s3g\" data-reactroot=\"\">Frick, A., M\u00f6hring, W., &amp; Newcombe, N. S. (2014). Development of mental transformation abilities. <em>Trends in Cognitive Sciences</em>, <em>18</em>(10), 536\u2013542. <a href=\"https://doi.org/10.1016/j.tics.2014.05.011\">https://doi.org/10.1016/j.tics.2014.05.011</a></p>",
+              "customLabel": "Frick et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n326m56wpck",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The study of the neural underpinnings of spatial thought began during the 1970s and accelerated over the next decades. In the study of navigation, the appearance in 1978 of John O\u2019Keefe and Lynn Nadel\u2019s book "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The Hippocampus as Cognitive Map"
+          },
+          {
+            "type": "text",
+            "text": " situated the then-recent discovery of place cells in the much wider theoretical canvas inspired by Tolman ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njpc7p6nak3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6v9ytb1qir\" data-reactroot=\"\">O\u2019Keefe, J., &amp; Nadel, L. (1978). <em>The hippocampus as a cognitive map</em>. Oxford University Press.</p>",
+              "customLabel": "O\u2019Keefe & Nadel, 1978",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). More spatially specific cells were soon discovered, including head-direction cells ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6s2lx2wsce",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ncvzc9pcqm2\" data-reactroot=\"\">Muller, R. U., Ranck, J. B., Jr., &amp; Taube, J. S. (1996). Head direction cells: Properties and functional significance. <em>Current Opinion in Neurobiology, 6</em>(2), 196\u2013206. <a href=\"https://doi.org/10.1016/s0959-4388(96)80073-0\">https://doi.org/10.1016/s0959-4388(96)80073-0</a></p>",
+              "customLabel": "Muller et al., 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and grid cells ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9us2hkafg3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwh19blmcp7\" data-reactroot=\"\">Hafting, T., Fyhn, M., Molden, S., Moser, M.-B., &amp; Moser, E. I. (2005). Microstructure of a spatial map in the entorhinal cortex. <em>Nature, 436</em>(7052), 801\u2013806. <a href=\"https://doi.org/10.1038/nature03721\">https://doi.org/10.1038/nature03721</a></p>",
+              "customLabel": "Hafting et al., 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The award of a Nobel Prize to John O\u2019Keefe and Edvard and Mae-Britt Moser in 2014 drew world-wide attention to this kind of research. Of course, techniques that identify such cells cannot be used with humans, but the technology to image the workings of the human brain at a coarser level through the use of magnetic resonance imaging has matured during the past two decades and has shed light on the neural networks supporting navigation (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmjmciwqdl7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ns89hxy7dig\" data-reactroot=\"\">Epstein, R. A., Patai, E. Z., Julian, J. B., &amp; Spiers, H. J. (2017). The cognitive map in humans: Spatial navigation and beyond. <em>Nature Neuroscience</em>,<em> 20</em>, 1504\u20131513. <a href=\"https://doi.org/10.1038/nn.4656\">https://doi.org/10.1038/nn.4656</a></p>",
+              "customLabel": "Epstein et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and the areas supporting object-focused processing ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1zrllvz441",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nm29lu0agll\" data-reactroot=\"\">Ayzenberg, V., &amp; Behrmann, M. (2022). Does the brain\u2019s ventral visual pathway compute object shape? <em>Trends in Cognitive Sciences, 26</em>(12), 1119\u20131132. <a href=\"https://doi.org/10.1016/j.tics.2022.09.019\">https://doi.org/10.1016/j.tics.2022.09.019</a></p>",
+              "customLabel": "Ayzenberg & Behrmann, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwa4tht0l7k",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npffg09odir\" data-reactroot=\"\">Zacks, J. M. (2008). Neuroimaging studies of mental rotation: A meta-analysis and review. <em>Journal of Cognitive Neuroscience, 20</em>(1), 1\u201319. <a href=\"https://doi.org/10.1162/jocn.2008.20013\">https://doi.org/10.1162/jocn.2008.20013</a></p>",
+              "customLabel": "Zacks, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nyfcj8rizcr",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Navigation-relevant cognition"
+          },
+          {
+            "type": "text",
+            "text": " is the thinking necessary for finding the way in the world."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7ixer6325w",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Allocentric frameworks"
+          },
+          {
+            "type": "text",
+            "text": " are the landmarks that provide external reference points for encoding location."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0hp30ep47p",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Inertial navigation"
+          },
+          {
+            "type": "text",
+            "text": " involves tracking where one is by encoding distance and direction from bodily cues."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5bx2oaor4r",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Object-focused cognition"
+          },
+          {
+            "type": "text",
+            "text": " is the representation of the shape and structure of objects and the ability to manipulate and transform these representations in a variety of ways, such as rotating or folding."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n28nz9zn0ov",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Cognitive maps are"
+          },
+          {
+            "type": "text",
+            "text": " representations of an array of objects in an environment using a common framework and allowing for charting detours and shortcuts."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n98wojmf6ht",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Mental rotation"
+          },
+          {
+            "type": "text",
+            "text": " is imagining turning an object in three-dimensional space."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nzxpi6yi3lg",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Visual imagery"
+          },
+          {
+            "type": "text",
+            "text": " is imagining something that has been perceived, in its absence."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "njk8y89ju1b",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Spatial imagery"
+          },
+          {
+            "type": "text",
+            "text": " is imagining objects moving or oneself moving in an environment."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3ehta975sl",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Cognitive graphs"
+          },
+          {
+            "type": "text",
+            "text": " are representations of an array of objects in an environment in which local relations are represented as distances and directions if experienced, but there is no common framework allowing for inferences."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmccf2sop4b",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Embodied cognition"
+          },
+          {
+            "type": "text",
+            "text": " is the theory that thinking does not involve representations but instead involves interior perception-action linkages."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkmoobch9cw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "There are several areas of controversy in spatial cognition, all of which are also central issues in cognitive science more generally."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "the-nature-of-mental-representation",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The nature of mental representation"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nzxylv4co73",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One of the key issues in cognitive science is the nature of mental representation. Research on spatial cognition has contributed to debate on this front by focusing on several specific controversies relevant to the wider issue. Regarding navigation, there has been disagreement concerning whether Tolman and others were correct in using the term cognitive map. There is a long history of suggestions that the knowledge that guides navigation is much more fragmentary, both for nonhuman animals and for humans (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd7jfyka96u",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqetfniyggo\" data-reactroot=\"\">Shettleworth, S. J. (2009). <em>Cognition, evolution, and behavior</em> (2nd ed.). Oxford University Press. <a href=\"https://doi.org/10.1093/oso/9780195319842.001.0001\" target=\"_blank\">https://doi.org/10.1093/oso/9780195319842.001.0001</a></p>",
+              "customLabel": "Shettleworth, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnfe2wcsp23",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnss2lvi86h\" data-reactroot=\"\">Wehner, R., &amp; Menzel, R. (1990). Do insects have cognitive maps? <em>Annual Review of Neuroscience, 13,</em> 403\u2013414. <a href=\"https://psycnet.apa.org/doi/10.1146/annurev.ne.13.030190.002155\">https://doi.org/10.1146/annurev.ne.13.030190.002155</a></p>",
+              "customLabel": "Wehner & Menzel, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). One prominent alternative is the idea that there is simply a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cognitive graph"
+          },
+          {
+            "type": "text",
+            "text": ", which contains local information about angles and distances but does not utilize a common framework that would allow for inference ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4uw3lt37hb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnl0p5eycmn\" data-reactroot=\"\">Warren, W. H., Rothman, D. B., Schnapp, B. H., &amp; Ericson, J. D. (2017). Wormholes in virtual space: From cognitive maps to cognitive graphs. <em>Cognition, 166</em>, 152\u2013163. <a href=\"https://doi.org/10.1016/j.cognition.2017.05.020\">https://doi.org/10.1016/j.cognition.2017.05.020</a></p>",
+              "customLabel": "Warren et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The debate continues, although a recent review and synthesis suggests that whether there is evidence of a map depends on the nature of the environment to be encoded and the characteristics of the observer ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n59glsixft0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8hzporn1tv\" data-reactroot=\"\">Peer, M., Brunec, I. K., Newcombe, N. S., &amp; Epstein, R. A. (2021). Structuring knowledge with cognitive maps and cognitive graphs. <em>Trends in Cognitive Sciences</em>, <em>25</em>(1), 37\u201354. <a href=\"https://doi.org/10.1016/j.tics.2020.10.004\">https://doi.org/10.1016/j.tics.2020.10.004</a></p>",
+              "customLabel": "Peer et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The latter suggestion brings the field of individual differences into play in an arena that has been dominated by the assumption that there is a canonical form of encoding. That is, some people are better than others at forming cognitive maps, and some environments are easier to encode in this way than others."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmt0f2vkx87",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In the domain of object-focused cognition, initial research on mental rotations and paper folding indicated a second-order isomorphism to physical action, i.e., an analogue representation without a role for analytic and verbal processes. Not everyone agreed with this claim, especially once investigators started to examine the considerable individual differences in the speed and accuracy of rotation and uncovered verbal analytic as well as analogue ways to solve the problem; using both strategically may be adaptive ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbjrmrvkl9j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6caok2czov\" data-reactroot=\"\">Nazareth, A., Killick, R., Dick, A. S., &amp; Pruden, S. M. (2019a). Strategy selection versus flexibility: Using eye-trackers to investigate strategy use during mental rotation. <em>Journal of Experimental Psychology: Learning, Memory, and Cognition</em>, <em>45</em>(2), 232\u2013245. <a href=\"https://doi.org/10.1037/xlm0000574\" target=\"_blank\">https://doi.org/10.1037/xlm0000574</a></p>",
+              "customLabel": "Nazareth et al., 2019a",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Similarly, there have been claims that visual imagery is an epiphenomenon, and all mental coding is propositional ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nidj5oyjxva",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nh2y1vaz4a9\" data-reactroot=\"\">Pylyshyn, Z. W. (1973). What the mind\u2019s eye tells the mind\u2019s brain: A critique of mental imagery. <em>Psychological Bulletin, 80</em>(1), 1\u201324. <a href=\"https://psycnet.apa.org/doi/10.1037/h0034650\">https://doi.org/10.1037/h0034650</a></p>",
+              "customLabel": "Pylyshyn, 1973",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Behavioral studies never seemed to resolve this issue, but there is now increasing neural evidence that brain areas used for vision are engaged during imagery ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndaridjcd7d",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4avvoh2twz\" data-reactroot=\"\">Farah, M. J. (1988). Is visual imagery really visual? Overlooked evidence from neuropsychology. <em>Psychological Review, 95</em>(3), 307\u2013317. <a href=\"https://psycnet.apa.org/doi/10.1037/0033-295X.95.3.307\">https://doi.org/10.1037/0033-295X.95.3.307</a></p>",
+              "customLabel": "Farah, 1988",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and that there is a two-way flow of signals between brain areas that award meaning and retrieve memories and those that conduct initial processing ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nrq4g8ni4id",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwh85ud51sj\" data-reactroot=\"\">Steel, A., Silson, E. H., Garcia, B. D., &amp; Robertson, C. E. (2024). A retinotopic code structures the interaction between perception and memory systems. <em>Nature Neuroscience, 27</em>, 339\u2013347. <a href=\"https://doi.org/10.1038/s41593-023-01512-3\">https://doi.org/10.1038/s41593-023-01512-3</a></p>",
+              "customLabel": "Steel et al., 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "the-relation-of-language-to-thought",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The relation of language to thought"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngub6nuvs7k",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "As in other domains of thinking, such as color perception, there are proposals that the nature of the language used to describe spatial relations influences how they are represented. For instance, people might encode locations with respect to distant landmarks when their languages require indicating directions using slope or compass coordinates, whereas people speaking languages that use terms such as \u201cleft\u201d and \u201cright\u201d might encode spatial relations internal to a display. The key issue is how strong these influences are. Characterization of the constraints imposed by language have ranged from being described as virtually determinative ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nag16gd0nbn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuw6iq2e2xm\" data-reactroot=\"\">Levinson S. C. (2003). <em>Space in language and cognition: Explorations in cognitive diversity</em>. Cambridge University Press. <a href=\"https://doi.org/10.1017/CBO9780511613609\">https://doi.org/10.1017/CBO9780511613609</a></p>",
+              "customLabel": "Levinson, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), to shifting and optional ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n95azubf89i",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9dd4pu9tw7\" data-reactroot=\"\">Gleitman, L., &amp; Papafragou, A. (2013). Relations between language and thought. In D. Reisberg (Ed.), <em>The Oxford handbook of cognitive psychology</em> (pp. 504\u2013523). Oxford University Press. <a href=\"https://doi.org/10.1093/oxfordhb/9780195376746.013.0032\">https://doi.org/10.1093/oxfordhb/9780195376746.013.0032</a></p>",
+              "customLabel": "Gleitman & Papafragou, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Investigations of these issues are part of the wider discussion of the relations of language and thought, which has also concerned domains such as color ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nf7wkhygpyy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8x9q9s0ati\" data-reactroot=\"\">Regier, T., &amp; Kay, P. (2009). Language, thought, and color: Whorf was half right. <em>Trends in Cognitive Sciences, 13</em>(10), 439\u2013446. <a href=\"https://doi.org/10.1016/j.tics.2009.07.001\">https://doi.org/10.1016/j.tics.2009.07.001</a></p>",
+              "customLabel": "Regier & Kay, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and odor ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhrl89muhkv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n5d61htpxcb\" data-reactroot=\"\">Majid, A., Burenhult, N., Stensmyr, M., de Valk, J., &amp; Hansson, B. S. (2018). Olfactory language and abstraction across cultures. <em>Philosophical Transactions of the Royal Society B, Biological Sciences</em>, <em>373</em>(1752), Article 20170139. <a href=\"https://doi.org/10.1098/rstb.2017.0139\">https://doi.org/10.1098/rstb.2017.0139</a></p>",
+              "customLabel": "Majid et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "the-nativist-empiricist-debate",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The nativist-empiricist debate"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nl3w9azbt64",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Another key issue in cognitive science concerns the competing perspectives on development that come from nativist and empiricist perspectives. Research on both kinds of spatial cognition has provided fertile ground for working through the possibilities. In navigation, debate has centered on the issue of whether there is an encapsulated geometric module, as proposed by some scholars (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8fz5qlxd7s",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8n2hnvbqwb\" data-reactroot=\"\">Gallistel, C. R. (1990). The organization of learning. MIT Press.</p>",
+              "customLabel": "Gallistel, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmjyxk2j0u9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nupkbd5gsy1\" data-reactroot=\"\">Spelke, E. S. (2022). <em>What babies know: Core knowledge and composition</em> (Vol. 1). Oxford University Press. <a href=\"https://psycnet.apa.org/doi/10.1093/oso/9780190618247.001.0001\">https://doi.org/10.1093/oso/9780190618247.001.0001</a></p>",
+              "customLabel": "Spelke, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This proposal requires the use of linguistic coding to account for adult flexibility (an interesting variant on the idea that language strongly structures thinking). The alternative perspective is that infants and toddlers come equipped to notice both continuous boundaries and distal landmarks as they encode their environment, with development consisting in developing an adaptive combination of cues given environmental experience ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmx9klt3end",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl25idu76qh\" data-reactroot=\"\">Newcombe, N. S. (2024). What have we learned from research on the \u201cgeometric module\u201d? <em>Learning &amp; Behavior</em>, <em>52</em>, 14\u201318. <a href=\"https://doi.org/10.3758/s13420-023-00617-w\">https://doi.org/10.3758/s13420-023-00617-w</a></p>",
+              "customLabel": "Newcombe, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "np07rhlpwve",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3ncp4cjq7s\" data-reactroot=\"\">Xu, Y., Regier, T., &amp; Newcombe, N. S. (2017). An adaptive cue combination model of human spatial reorientation. <em>Cognition</em>, <em>163</em>, 56\u201366. <a href=\"https://doi.org/10.1016/j.cognition.2017.02.016\" target=\"_blank\">https://doi.org/10.1016/j.cognition.2017.02.016</a></p>",
+              "customLabel": "Xu et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In object-focused spatial cognition, possibilities about development range from early competence concerning concepts such as solidity, gravity, and object permanence as inferred from looking at time data ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7dy7j0tkac",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"noj8eyuchae\" data-reactroot=\"\">Spelke, E. S., Breinlinger, K., Macomber, J., &amp; Jacobson, K. (1992). Origins of knowledge. <em>Psychological Review, 99</em>(4), 605\u2013632. <a href=\"https://doi.org/10.1037/0033-295x.99.4.605\">https://doi.org/10.1037/0033-295x.99.4.605</a></p>",
+              "customLabel": "Spelke et al., 1992",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") to Piaget\u2019s idea of slow change over a decade of life. There is now a solid database to suggest that competence begins in infancy but is far from mature, building in a cascade that depends on factors such as motor development and interactive experience ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6h9jw4c56t",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrb8ne66qr5\" data-reactroot=\"\">Oakes, L. M., &amp; Rakison, D. H. (2019). <em>Developmental cascades: Building the infant mind.</em> Oxford University Press. <a href=\"https://doi.org/10.1093/oso/9780195391893.001.0001\">https://doi.org/10.1093/oso/9780195391893.001.0001</a></p>",
+              "customLabel": "Oakes & Rakison, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, none of these views have yet grappled adequately with the question of why adults show such wide variation in many but not all abilities. We all understand solidity, but many of us struggle with mental rotation."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "embodiment",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Embodiment"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nj71eo0x65h",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Considering the role of sensory and motor experience in development brings up the issue of the role of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "embodiment"
+          },
+          {
+            "type": "text",
+            "text": " in adult cognition [see also "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/1cafk2cg",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Proxemics"
+          },
+          {
+            "type": "text",
+            "text": "]. In the extreme, there have been suggestions that perception-action loops can account for cognition and that all cognition is necessarily embodied ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh15vmy8c58",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxmugjb94vs\" data-reactroot=\"\">Barsalou, L. W. (2020). Challenges and opportunities for grounding cognition. <em>Journal of Cognition, 3</em>(1), Article 31. <a href=\"https://doi.org/10.5334/joc.116\">https://doi.org/10.5334/joc.116</a></p>",
+              "customLabel": "Barsalou, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nctxsokoqo0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nonawlik2f5\" data-reactroot=\"\">Thelen, E., &amp; Smith, L. B. (1994). <em>A dynamic systems approach to the development of cognition and action.</em> MIT Press. <a href=\"https://doi.org/10.7551/mitpress/2524.001.0001\" target=\"_blank\">https://doi.org/10.7551/mitpress/2524.001.0001</a></p>",
+              "customLabel": "Thelen & Smith, 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). These models deny that there is a need to postulate representation (of any kind) at all. An intermediate position emphasizes the role of perception and action in building knowledge, both in infancy and later, as we learn new skills. However, there may be a continuum in each learning sequence from body-based to symbolic representations. This perspective opens the way for investigating the role of gesture in this abstraction process ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "np6m4cdik6k",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvfaz1ibge2\" data-reactroot=\"\">Goldin-Meadow, S. (2015). Gesture as a window onto communicative abilities: Implications for diagnosis and intervention. <em>Perspectives on Language Learning and Education, 22</em>(2), 50\u201360<em>.</em> <a href=\"https://doi.org/10.1044/lle22.2.50\">https://doi.org/10.1044/lle22.2.50</a></p>",
+              "customLabel": "Goldin-Meadow, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/usvwqp80",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Gesture"
+          },
+          {
+            "type": "text",
+            "text": "] as well as for examining the role of spatial representations created by learners and teachers, such as the use of sketches, diagrams, and graphs. These symbolic schemes capture and communicate knowledge and provide a platform on which it can be reflectively refined."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1nar7dwyn1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Spatial cognition research has many potential applications, e.g., robotics, city planning, better signage design for malls and airports, or creation of more user-friendly instructions for furniture assembly at home. It is also a focus of research on cognitive aging, because navigation deficits are a prominent and troubling aspect of Alzheimer\u2019s disease ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1flx7byh1z",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8cjal7enqo\" data-reactroot=\"\">Lester, A. W., Moffat, S. D., Wiener, J. M., Barnes, C. A., &amp; Wolbers, T. (2017). The aging navigational system. <em>Neuron</em>, <em>95</em>(5), 1019\u20131035. <a href=\"https://doi.org/10.1016/j.neuron.2017.06.037\" target=\"_blank\">https://doi.org/10.1016/j.neuron.2017.06.037</a></p>",
+              "customLabel": "Lester et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). An especially prominent connection is to support education in science, technology, engineering, and mathematics (STEM) across ages and levels of expertise. However, other subjects also benefit from spatial analysis, e.g., history ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncodweh9po6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkfntveblle\" data-reactroot=\"\">White, R. (2010). What is spatial history? <em>Stanford University Spatial History Lab.</em> <a href=\"https://web.stanford.edu/group/spatialhistory/media/images/publication/what%20is%20spatial%20history%20pub%20020110.pdf\">https://web.stanford.edu/group/spatialhistory/media/images/publication/what%20is%20spatial%20history%20pub%20020110.pdf</a></p>",
+              "customLabel": "White, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The links to STEM are strongest for object-focused spatial skills, where the literature has shown not only concurrent correlations, but also longitudinal correlations with appropriate control variables at various ages from preschool through university (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndxop9tb9oh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njy37xwnt38\" data-reactroot=\"\">Frick, A. (2019). Spatial transformation abilities and their relation to later mathematics performance. <em>Psychological Research, 83,</em> 1465\u20131484. <a href=\"https://doi.org/10.1007/s00426-018-1008-5\">https://doi.org/10.1007/s00426-018-1008-5</a></p>",
+              "customLabel": "Frick, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npusij59dff",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6gr7co9po5\" data-reactroot=\"\">Verdine, B. N., Irwin, C. M., Golinkoff, R. M., &amp; Hirsh-Pasek, K. (2014). Contributions of executive function and spatial skills to preschool mathematics achievement. <em>Journal of</em> <em>Experimental Child Psychology, 126</em>, 37\u201351. <a href=\"https://doi.org/10.1016/j.jecp.2014.02.012\">https://doi.org/10.1016/j.jecp.2014.02.012</a></p>",
+              "customLabel": "Verdine et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nm043vr0jgn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nay9l3tp9zz\" data-reactroot=\"\">Wai, J., Lubinski, D., &amp; Benbow, C. P. (2009). Spatial ability for STEM domains: Aligning over 50 years of cumulative psychological knowledge solidifies its importance. <em>Journal of Educational Psychology, 101</em>(4), 817\u2013835. <a href=\"https://psycnet.apa.org/doi/10.1037/a0016127\">https://doi.org/10.1037/a0016127</a></p>",
+              "customLabel": "Wai et al., 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Because these skills are malleable ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmxrq5jsv7c",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb8ghom0ypd\" data-reactroot=\"\">Uttal, D. H., Meadow, N. G., Tipton, E., Hand, L. L., Alden, A. R., Warren, C., &amp; Newcombe, N. S. (2013). The malleability of spatial skills: A meta-analysis of training studies. <em>Psychological Bulletin, 139</em>(2), 352\u2013402. <a href=\"https://doi.org/10.1037/a0028446\">https://doi.org/10.1037/a0028446</a></p>",
+              "customLabel": "Uttal et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), there has been increasing interest in testing whether interventions to raise spatial skills will translate into learning gains. This literature is the largest for early math learning, with enough data to support a meta-analysis that showed small but significant effects ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ne3h0qv1m88",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nt1nm82rf5z\" data-reactroot=\"\">Hawes, Z. C. K., Gilligan-Lee, K. A., &amp; Mix, K. S. (2022). Effects of spatial training on mathematics performance: A meta-analysis. <em>Developmental Psychology, 58</em>(1), 112\u2013137. <a href=\"https://doi.org/10.1037/dev0001281\">https://doi.org/10.1037/dev0001281</a></p>",
+              "customLabel": "Hawes et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7utlnzuts2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "It is unclear whether certain types of spatial skills are more important than others, as well as whether effects vary across specific disciplines and subdisciplines. In mathematics, although it is natural to suppose that areas such as geometry are more spatial, expert mathematicians engage spatial areas of the brain when reasoning across a wide array of mathematical problems ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbvwcr89101",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n54vnq80wec\" data-reactroot=\"\">Amalric, M., &amp; Dehaene, S. (2019). A distinct cortical network for mathematical knowledge in the human brain. <em>NeuroImage</em>, <em>189</em>, 19\u201331. <a href=\"https://doi.org/10.1016/j.neuroimage.2019.01.001\">https://doi.org/10.1016/j.neuroimage.2019.01.001</a></p>",
+              "customLabel": "Amalric & Dehaene, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In science, there is some evidence that spatial skills may vary across disciplines. For instance, although geoscientists and chemists both excel in mental rotation compared to English professors, geoscientists also showed high scores on a test of reassembling a stimulus that had been cracked and the pieces slid apart, as can happen in Earth\u2019s history, while chemistry professors performed no better than English professors ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntqniq0zg91",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmda6ob9qzx\" data-reactroot=\"\">Resnick, I., &amp; Shipley, T. F. (2013). Breaking new ground in the mind: An initial study of mental brittle transformation and mental rigid rotation in science experts. <em>Cognitive Processing, 14</em>(2), 143\u2013152. <a href=\"https://doi.org/10.1007/s10339-013-0548-2\">https://doi.org/10.1007/s10339-013-0548-2</a></p>",
+              "customLabel": "Resnick & Shipley, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Although navigation skills have been less-studied in this area than object-focused skills, geoscientists perform better in learning a novel virtual environment than psychology professors ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8xe1wkpzyp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbf6085ug0q\" data-reactroot=\"\">Nazareth, A., Newcombe, N. S., Shipley, T. F., Velazquez, M., &amp; Weisberg, S. M. (2019b). Beyond small-scale spatial skills: Navigation skills and geoscience education. <em>Cognitive Research: Principles and Implications</em>, <em>4</em>(1), Article 17. <a href=\"https://doi.org/10.1186/s41235-019-0167-2\">https://doi.org/10.1186/s41235-019-0167-2</a></p>",
+              "customLabel": "Nazareth et al., 2019b",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Sorting out which skills relate to which kinds of STEM learning and reasoning would be easier if there was clearer specification of the underlying mechanisms. For mathematics, several possibilities have been suggested, including shared automatic processing, perhaps linked to shared neural substrates, spatialized representations of quantity such as the number line, and strategic recruitment of spatial thinking ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7cpfowc2qe",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ncbs0ggnozf\" data-reactroot=\"\">Mix, K. S. (2019). Why are spatial skill and mathematics related? <em>Child Development Perspectives, 13</em>(2), 121\u2013126. <a href=\"https://doi.org/10.1111/cdep.12323\">https://doi.org/10.1111/cdep.12323</a></p>",
+              "customLabel": "Mix, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkrr6kp7gt8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9sowuhc5jw\" data-reactroot=\"\">Hawes, Z., &amp; Ansari, D. (2020). What explains the relationship between spatial and mathematical skills? A review of evidence from brain and behavior. <em>Psychonomic Bulletin &amp; Review, 27</em>(3), 465\u2013482. <a href=\"https://psycnet.apa.org/doi/10.3758/s13423-019-01694-7\">https://doi.org/10.3758/s13423-019-01694-7</a></p>",
+              "customLabel": "Hawes & Ansari, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n3bnbx4izdu",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nev3ch1upio",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ekstrom, A. D., Spiers, H. J., Bohbot, V. D., & Rosenbaum, R. S. (2018). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Human spatial navigation"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Princeton University Press. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.2307/j.ctvc773wg",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.2307/j.ctvc773wg"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n8ygjel2wnv",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Lester, A. W., Moffat, S. D., Wiener, J. M., Barnes, C. A., & Wolbers, T. (2017). The aging navigational system. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Neuron"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "95"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(5), 1019\u20131035. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/j.neuron.2017.06.037",
+                          "title": "",
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/j.neuron.2017.06.037"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nuyw3ptpv8c",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Newcombe, N. S. (2018). Three kinds of spatial cognition. In J. T. Wixted (Ed.), "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Stevens' handbook of experimental psychology and cognitive neuroscience "
+                  },
+                  {
+                    "type": "text",
+                    "text": "(Vol. 3, Chapter 15). John Wiley & Sons. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1002/9781119170174.epcn315",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1002/9781119170174.epcn315"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "na52mx9w8sw",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Shettleworth, S. J. (2009). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Cognition, evolution, and behavior"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (2nd ed.). Oxford University Press. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1093/oso/9780195319842.001.0001",
+                          "title": "",
+                          "target": "_blank",
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1093/oso/9780195319842.001.0001"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

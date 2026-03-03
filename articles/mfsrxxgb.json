@@ -1,0 +1,1544 @@
+{
+  "id": "61e20c82-2d30-4747-b514-bc4a4bbdc288",
+  "slug": "mfsrxxgb",
+  "title": "Cultural Attractors",
+  "url": "https://oecs.mit.edu/pub/mfsrxxgb",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "61e20c82-2d30-4747-b514-bc4a4bbdc288",
+    "slug": "mfsrxxgb",
+    "title": "Cultural Attractors",
+    "htmlTitle": "Cultural Attractors",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.61e20c82",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "dznx0i6y",
+    "editHash": "wopwcdts",
+    "reviewHash": "udwlen5k",
+    "commentHash": "d3eiqdb6",
+    "draftId": "bd2469e6-3541-4494-bb3c-980c97ac864a",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "6b807091-69c0-4778-b076-a8ab0f2c95d6",
+    "scopeSummaryId": "2e058ea1-4275-4339-94fb-e983bfc2b6d5",
+    "createdAt": "2024-07-08T14:59:25.225Z",
+    "updatedAt": "2024-09-10T11:52:38.751Z",
+    "attributions": [
+      {
+        "id": "2a8cac79-e427-4bc1-b9cb-e0988c794eb2",
+        "name": "Nicolas Claidi\u00e8re",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Centre de Recherche en Psychologie et Neuroscience, UMR7077, Universit\u00e9 Aix-Marseille/CNRS, Marseille, France.",
+        "orcid": "0000-0002-4472-6597",
+        "userId": null,
+        "pubId": "61e20c82-2d30-4747-b514-bc4a4bbdc288",
+        "createdAt": "2024-07-08T15:00:35.372Z",
+        "updatedAt": "2024-07-08T15:01:22.491Z",
+        "user": null
+      },
+      {
+        "id": "532ad4d7-b1b6-46bc-96aa-497f0dca2564",
+        "name": "Dan Sperber",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Department of Cognitive Science, CEU, Vienna and Institut Jean Nicod, ENS, Paris",
+        "orcid": "0000-0002-4066-3058",
+        "userId": null,
+        "pubId": "61e20c82-2d30-4747-b514-bc4a4bbdc288",
+        "createdAt": "2024-07-08T15:00:55.213Z",
+        "updatedAt": "2024-07-08T15:01:28.523Z",
+        "user": null
+      },
+      {
+        "id": "7c4b4251-889f-4762-bc62-d159caf7d2a2",
+        "name": "H. Clark Barrett",
+        "avatar": null,
+        "title": null,
+        "order": 0.9375,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "University of California, Los Angeles",
+        "orcid": "0000-0002-4157-6511",
+        "userId": null,
+        "pubId": "61e20c82-2d30-4747-b514-bc4a4bbdc288",
+        "createdAt": "2024-07-23T21:19:50.451Z",
+        "updatedAt": "2024-07-23T21:20:19.320Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "bd2469e6-3541-4494-bb3c-980c97ac864a",
+      "latestKeyAt": "2024-09-04T17:54:49.282Z",
+      "firebasePath": "drafts/draft-bd2469e6-3541-4494-bb3c-980c97ac864a",
+      "createdAt": "2024-07-08T14:59:25.220Z",
+      "updatedAt": "2024-09-10T11:50:56.328Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nc5izqbfq5k",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cultural traits are ideas, practices, or artifacts that propagate and remain relatively stable in a population over time. The stability of a trait can be secured not only through faithful copying but also through "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cultural attraction"
+          },
+          {
+            "type": "text",
+            "text": ". Even if a trait is transformed every time it is transmitted, it may be stable at the population level. This stability emerges if the transformations involved are not random but instead probabilistically converge toward and cluster around specific points in the space of possibilities, for example, a canonical version of a folktale or a preferred way of cooking a dish. These points of convergence in cultural transmission are called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cultural attractors"
+          },
+          {
+            "type": "text",
+            "text": ", and the claim that cultural attraction plays a major role in cultural evolution is called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cultural attraction theory"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbht5ybyq9m",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The idea of cultural attraction was first outlined by "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n58tvqxqnht",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nijgbies0ag\" data-reactroot=\"\">Sperber, D. (1996) <em>Explaining culture: A naturalistic approach</em>. Cambridge University Press.</p>",
+              "customLabel": "Sperber (1996)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " and has since been developed by many others (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwl7hnk802j",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndhu6kncgx3\" data-reactroot=\"\">Claidi\u00e8re, N., Scott-Phillips, T. C., &amp; Sperber, D. (2014). How Darwinian is cultural evolution? <em>Philosophical Transactions of the Royal Society B</em>, <em>369</em>(1642), 20130368. <a href=\"https://doi.org/10.1098/rstb.2013.0368\">https://doi.org/10.1098/rstb.2013.0368</a></p>",
+              "customLabel": "Claidi\u00e8re et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n90mr7kc093",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nor07icv05d\" data-reactroot=\"\">Falandays, J. B., &amp; Smaldino, P. E. (2022). The emergence of cultural attractors: How dynamic populations of learners achieve collective cognitive alignment. <em>Cognitive Science</em>, <em>46</em>(8), e13183. <a href=\"https://doi.org/10.1111/cogs.13183\">https://doi.org/10.1111/cogs.13183</a></p>",
+              "customLabel": "Falandays & Smaldino, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ";  "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n76h6lnswg7",
+              "href": null,
+              "value": "https://doi.org/10.1093/oxfordhb/9780198869252.013.4",
+              "unstructuredValue": "",
+              "customLabel": "Miton, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx6cxnpvt7u",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmo2eh8c4dn\" data-reactroot=\"\">Morin, O. (2016). <em>How traditions live and die</em>. Oxford University Press.</p>",
+              "customLabel": "Morin, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nltbb9nwseh",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxr98dqk20m\" data-reactroot=\"\">Poulsen, V., &amp; DeDeo, S. (2023). Cognitive attractors and the cultural evolution of religion. <em>Proceedings of the Annual Meeting of the Cognitive Science Society</em>, <em>45. </em><a href=\"https://doi.org/10.31234/osf.io/daxyu\">https://doi.org/10.31234/osf.io/daxyu</a> </p>",
+              "customLabel": "Poulsen & DeDeo, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Cultural attraction theory draws much of its inspiration from cognitive and evolutionary psychology and anthropology. It shares a naturalistic perspective with theories of cultural evolution more directly inspired by Darwin\u2019s biological ideas ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndqy52w3cd3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb0z3f69dkt\" data-reactroot=\"\">Boyd, R., &amp; Richerson, P. J. (1985). <em>The origin and evolution of cultures</em>. Oxford University Press.</p>",
+              "customLabel": "Boyd & Richerson, 1985",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ns8va7om2z0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nin0syt242u\" data-reactroot=\"\">Cavalli-Sforza, L. L., &amp; Feldman, M. W. (1981).\u00a0<em>Cultural transmission and evolution: A quantitative approach</em>\u00a0(No. 16). Princeton University Press.</p>",
+              "customLabel": "Cavalli-Sforza & Feldman, 1981",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "neukmog7tto",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3jjons9w2z\" data-reactroot=\"\">Mesoudi, A., Whiten, A., &amp; Laland, K. N. (2004). Perspective: Is human cultural evolution Darwinian? Evidence reviewed from the perspective of The Origin of Species.\u00a0<em>Evolution</em>,\u00a0<em>58</em>(1), 1-11. <a href=\"https://doi.org/10.1111/j.0014-3820.2004.tb01568.x\">https://doi.org/10.1111/j.0014-3820.2004.tb01568.x</a> </p>",
+              "customLabel": "Mesoudi et al., 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). According to these theories, cultural stability is mostly secured by faithful transmission and cultural evolution is mostly the effect of cultural selection, in which selection is understood as the differential adoption of cultural variants. It is now commonly agreed that in principle, both cultural attraction and cultural selection may play a role in cultural evolution. What is debated is their relative importance and their articulation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnx0f3i3u4k",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n05c0131e9v\" data-reactroot=\"\">Mesoudi, A. (2021). Cultural selection and biased transformation: two dynamics of cultural evolution.\u00a0<em>Philosophical Transactions of the Royal Society B</em>,\u00a0<em>376</em>(1828), 20200053. <a href=\"https://doi.org/10.1098/rstb.2020.0053\">https://doi.org/10.1098/rstb.2020.0053</a></p>",
+              "customLabel": "Mesoudi, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3o17rj44jj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbtqw0n1mnd\" data-reactroot=\"\">Sterelny, K. (2017). Cultural evolution in California and Paris. <em>Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences</em>, <em>62</em>, 42-50. <a href=\"https://doi.org/10.1016/j.shpsc.2016.12.005\">https://doi.org/10.1016/j.shpsc.2016.12.005</a></p>",
+              "customLabel": "Sterelny, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/u870vxpu",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Cultural Evolution"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngc9scfdlcr",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cultural attraction theory focuses on microprocesses at work in the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cultural causal chains"
+          },
+          {
+            "type": "text",
+            "text": " that propagate cultural items in a population. In these causal chains, psychological and environmental processes alternate. Psychological processes guide individual behavior such as practical actions and symbolic gestures. These are perceived and interpreted by others and thereby influence their behavior, which may in turn influence other individuals, and so on. It is through such causal chains that ideas, practices, and artifacts propagate."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "naipt56fu0f",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The relative stability of cultural traits is often taken to imply that imitation, communication, and memory must have sufficient fidelity to secure stability. However, the psychological processes involved in cultural transmission are in good part constructive rather than merely preservative, and their output is rarely an accurate copy of the input ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncby2oobf8n",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njd06oyaevz\" data-reactroot=\"\">Bartlett, F. C. (1932) <em>Remembering: A study in experimental and social psychology</em>.\u00a0Cambridge University Press.</p>",
+              "customLabel": "Bartlett, 1932",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Consciously or unconsciously, learners use what they observe in the behavior of others or what they understand in their communication to construct a version of ideas, practices, or artifacts adapted to their own interests. When these interests are shared by members of a social group, individual transformations are likely to converge and, in so doing, to stabilize cultural traits in the vicinity of cultural attractors."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nlchig3ymc0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cultural attractors are statistical regularities, clusters produced by convergent transformations. What explains these statistical regularities is the existence of a variety of diverse factors involved in transmission towards attractors, as illustrated through the two case studies below."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "color-lexicons",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Color lexicons"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n4csjf11fas",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Color lexicons vary across languages, but not randomly. Two major factors of cultural attraction that explain the stability of color lexicons and their commonalities across languages are dedicated color perception mechanisms and communicative efficiency ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nenlqknd070",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ne1krcvxdfw\" data-reactroot=\"\">Zaslavsky, N., Kemp, C., Tishby, N., &amp; Regier, T. (2019). Color naming reflects both perceptual structure and communicative need.\u00a0<em>Topics in Cognitive Science</em>,\u00a0<em>11</em>(1), 207-219. <a href=\"https://doi.org/10.1111/tops.12395\">https://doi.org/10.1111/tops.12395</a> </p>",
+              "customLabel": "Zaslavsky et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Additional causal factors of attraction are also involved: for instance, both ultraviolet-light incidence (which varies with latitude) and the vicinity of large bodies of water may have a causal effect on the probability of a lexicon stabilizing around either a term for blue or a single term for both blue and green ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd80ec0tjcw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nh0ibw676a4\" data-reactroot=\"\">Josserand, M., Meeussen, E., Majid, A., &amp; Dediu, D. (2021). Environment and culture shape both the colour lexicon and the genetics of colour perception.\u00a0<em>Scientific Reports</em>,\u00a0<em>11</em>(1), 19095. <a href=\"https://doi.org/10.1038/s41598-021-98550-3\">https://doi.org/10.1038/s41598-021-98550-3</a> </p>",
+              "customLabel": "Josserand et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "dry-stone-walling",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Dry stone walling"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nesf1o9xi9t",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Dry stone walling is an ancient technique found around the world. The placement of each stone presents a distinct challenge, and so imitation and instruction, however important, are insufficient for the effective acquisition of the skill. Factors of attraction such as gravity and the affordances provided by different kinds of stones are crucial in explaining the wide distribution and stability of the technique."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ndkue7zb6sm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cultural selection theories assume that there is a clear separation between (a) copying processes that occur in every episode of cultural transmission and secure the stability of cultural traits and (b) selection processes that play a role in individuals\u2019 adopting a trait or a variant, thus contributing to its cultural success. By contrast, cultural attraction theory assumes that the same processes of attraction may determine both the stability and the success of cultural traits."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nqiyihao9k9",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Up to now, most empirical work on cultural attraction has been focused on one category of factors of cultural attraction: evolved psychological mechanisms (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvgw8c7bbgz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nor16qejpoc\" data-reactroot=\"\">Boyer, P. (2018). <em>Minds make societies: How cognition explains the world humans create</em>. Yale University Press.</p>",
+              "customLabel": "Boyer, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nf9uwt9thi8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3myymloprf\" data-reactroot=\"\">De Cruz, H. (2006). Why are some numerical concepts more successful than others? An evolutionary perspective on the history of number concepts.\u00a0<em>Evolution and Human Behavior</em>,\u00a0<em>27</em>(4), 306-323. <a href=\"https://doi.org/10.1016/j.evolhumbehav.2006.02.001\">https://doi.org/10.1016/j.evolhumbehav.2006.02.001</a> </p>",
+              "customLabel": "De Cruz, 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxp7hl71b9k",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkxzkunooyq\" data-reactroot=\"\">Miton, H., Claidi\u00e8re, N., &amp; Mercier, H. (2015). Universal cognitive mechanisms explain the cultural success of bloodletting.\u00a0<em>Evolution and Human Behavior</em>,\u00a0<em>36</em>(4), 303-312. <a href=\"https://doi.org/10.1016/j.evolhumbehav.2015.01.003\">https://doi.org/10.1016/j.evolhumbehav.2015.01.003</a> </p>",
+              "customLabel": "Miton et al., 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The range of factors of cultural attraction is, however, much more diverse and varies along several dimensions."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "psychologicalecological",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Psychological/ecological"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhsaeekzjer",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Some factors of attraction such as mechanisms of color perception are psychological. Others, such as gravity, the presence of large bodies of water reflecting a blue sky, or the spatial disposition of artifacts ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuio7b14f9i",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz5g3bwmoek\" data-reactroot=\"\">Miton, H., Wolf, T., Vesper, C., Knoblich, G., &amp; Sperber, D. (2020). Motor constraints influence cultural evolution of rhythm. <em>Proceedings of the Royal Society B: Biological Sciences</em>, <em>287</em>(1937), 20202001. <a href=\"https://doi.org/10.1098/rspb.2020.2001\">https://doi.org/10.1098/rspb.2020.2001</a> </p>",
+              "customLabel": "Miton et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), are ecological factors of attraction. There are also factors of cultural attraction, such as the availability of measurement tools, that are simultaneously psychological and ecological and that can be seen as cases of extended cognition."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "generallocal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "General/local"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1knvtcpdiv",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Some factors of cultural attraction are always present, for instance, gravity or color perception. Others are more narrowly situated in time and space ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nb3q2n04shp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf09vwiecb4\" data-reactroot=\"\">Morin, O. (2016). <em>How traditions live and die</em>. Oxford University Press.</p>",
+              "customLabel": "Morin, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The range of colors already named in a color lexicon at a time is a local factor affecting the ease with which a new color category might be acquired and contributes to its likelihood to be added to that lexicon. The kind of stones available (e.g., granite or limestone) is a local factor that helps explain differences in stone-walling techniques."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "naturally-producedculturally-produced",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Naturally produced/culturally produced"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1az1kdqdmy",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Species specific\u2013evolved psychological mechanisms or local wild fauna are natural phenomena that play an important role as factors of cultural attraction. In humans\u2019 "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cumulative cultures"
+          },
+          {
+            "type": "text",
+            "text": ", some factors of cultural attraction are, to a greater or lesser extent, themselves culturally produced. Most human psychological capacities that act as factors of cultural attraction such as literacy are neither natural instincts nor "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cultural gadgets"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntqhiu5jfqd",
+              "href": null,
+              "value": "https://doi.org/10.4159/9780674985155",
+              "unstructuredValue": "",
+              "customLabel": "Heyes, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "); they are cultural readjustments or extensions of biologically evolved capacities ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n675i9weisl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8ncyceepxg\" data-reactroot=\"\">Dehaene, S., &amp; Cohen, L. (2011). The unique role of the visual word form area in reading.\u00a0<em>Trends in Cognitive Sciences</em>,\u00a0<em>15</em>(6), 254-262. <a href=\"https://doi.org/10.1016/j.tics.2011.04.003\">https://doi.org/10.1016/j.tics.2011.04.003</a> </p>",
+              "customLabel": "Dehaene & Cohen, 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Domesticated animals are not just biological organisms but also culturally produced artifacts that play a major role in stabilizing many other cultural traits."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nr34uswdlf5",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cultural attractors are historically situated regularities that may emerge, change, and disappear over time. A better understanding of the variety of factors of cultural attraction and their causal role is essential to the future development of cultural attraction theory."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ny1yyu0upll",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In cultural selection theories, some of mechanisms described here as \u201cpsychological factors of cultural attraction\u201d are described as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "content biases"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxajsvfdym3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nsg47v6rmfc\" data-reactroot=\"\">Richerson, P. J. &amp; Boyd, R. (2005).\u00a0<em>Not by genes alone: How culture transformed human evolution</em>. University of Chicago Press.</p>",
+              "customLabel": "Richerson & Boyd, 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and play a role in cultural selection. For example, given human memory mechanisms, some versions of a folktale are easier to remember than others. From a selectionist viewpoint, these mechanisms may bias new tellers of a tale towards selecting the more memorable version they have heard as a model to copy, thereby contributing to its cultural success. From an attractionist viewpoint, on the other hand, typical tellers of a tale are biased in constructing their own version by memory mechanisms, causing versions of the tale to cluster around an optimally memorable \u201ccanonical\u201d form. Clearly, memory mechanisms may play a causal role both in tellers\u2019 decision to choose one version of a tale as a model and in the construction of their own version. In other words, both cultural selection and cultural attraction processes may well have a role to play in cultural evolution."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkcnttg99mp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Still, the selection and attraction approaches make distinct and testable predictions regarding interindividual processes of transmission and population-level processes of diffusion ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntp4ivue84c",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1aikbh4j9u\" data-reactroot=\"\">Acerbi, A., Charbonneau, M., Miton, H., &amp; Scott-Phillips, T. (2021). Culture without copying or selection. <em>Evolutionary Human Sciences</em>, <em>3, </em>e50. <a href=\"https://doi.org/10.1017/ehs.2021.47\">https://doi.org/10.1017/ehs.2021.47</a></p>",
+              "customLabel": "Acerbi et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkex4vgodbz",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwe78vo7yjt\" data-reactroot=\"\">Claidi\u00e8re, N., &amp; Sperber, D. (2007). The role of attraction in cultural evolution. <em>Journal of Cognition and Culture</em>, <em>7</em>(1-2), 89-111. <a href=\"https://doi.org/10.1163/156853707x171829\">https://doi.org/10.1163/156853707x171829</a> </p>",
+              "customLabel": "Claidi\u00e8re & Sperber, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). It is therefore possible to distinguish the relative role of selection and attraction in the evolution of a variety of specific cultural phenomena. Arguably, the selection and attraction approaches might be unified by treating faithful transmission as a limiting case of attraction in which transformations away from an attractor are too rare to compromise the stability of the trait but still make new variants available for selection (as do mutations in genetic evolution)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6ipo1m8rck",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "According to cultural attraction theory, cultural transmission is not only a preservative but also a constructive process involving a wide variety of psychological and ecological mechanisms. Most of the psychological mechanisms involved do not have as their primary function the transmission of information let alone the stabilization of culture. Cultural attraction theory suggests that cognitive psychology and cultural anthropology are mutually relevant as sources of hypotheses and evidence: many hypotheses about cognitive mechanisms imply testable predictions about population-level cultural phenomena and vice versa. Because cultural causal chains involve processes and mechanisms at work not only inside individuals but also in their common environment, this mutual relevance of psychology and anthropology should be particularly manifest in the study of embodied, extended, and distributed cognition."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n5buzec310p",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "na2ottgx4mh",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Claidi\u00e8re, N., Scott-Phillips, T. C., & Sperber, D. (2014). How Darwinian is cultural evolution? "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Philosophical Transactions of the Royal Society B"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "369"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(1642), 20130368. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1098/rstb.2013.0368",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1098/rstb.2013.0368"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nfwzqtj5fiy",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Miton, H., Claidi\u00e8re, N., & Mercier, H. (2015). Universal cognitive mechanisms explain the cultural success of bloodletting.\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Evolution and Human Behavior"
+                  },
+                  {
+                    "type": "text",
+                    "text": ",\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "36"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(4), 303-312. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/j.evolhumbehav.2015.01.003",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/j.evolhumbehav.2015.01.003"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "njlsxxdqemt",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Morin, O. (2016). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "How traditions live and die"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Oxford University Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "neoc6kzx1pg",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Sperber, D. (1996). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Explaining culture: A naturalistic approach"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Blackwell Publishers."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

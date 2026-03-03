@@ -1,0 +1,1644 @@
+{
+  "id": "02bf2682-aca1-4234-9b7a-2f2a7a322dd3",
+  "slug": "i1om74mo",
+  "title": "Causal Learning",
+  "url": "https://oecs.mit.edu/pub/i1om74mo",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "02bf2682-aca1-4234-9b7a-2f2a7a322dd3",
+    "slug": "i1om74mo",
+    "title": "Causal Learning",
+    "htmlTitle": "Causal Learning",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.02bf2682",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "whukakzk",
+    "editHash": "y7ejg8yw",
+    "reviewHash": "iid0cqnt",
+    "commentHash": "qgjw88ci",
+    "draftId": "2774480d-8c29-4dba-bb97-f6b2eeab9e95",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "c9524326-e2b2-4e70-bbb3-1c682c7e9902",
+    "scopeSummaryId": "ba57325d-533a-4052-83e1-d02c826f4518",
+    "createdAt": "2024-07-02T12:43:30.988Z",
+    "updatedAt": "2024-07-24T12:16:25.347Z",
+    "attributions": [
+      {
+        "id": "a2e6db98-8e38-4a4b-addd-fcf5b553f61a",
+        "name": "Alison Gopnik",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of California at Berkeley",
+        "orcid": "0000-0002-7183-0867",
+        "userId": null,
+        "pubId": "02bf2682-aca1-4234-9b7a-2f2a7a322dd3",
+        "createdAt": "2024-07-02T12:44:24.350Z",
+        "updatedAt": "2024-07-02T12:44:36.733Z",
+        "user": null
+      },
+      {
+        "id": "5eba27f9-2bc7-4243-a6d3-fbdfc1eec13d",
+        "name": "Marina Bedny",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Johns Hopkins University",
+        "orcid": "0000-0002-2907-8042",
+        "userId": null,
+        "pubId": "02bf2682-aca1-4234-9b7a-2f2a7a322dd3",
+        "createdAt": "2024-07-23T21:00:27.159Z",
+        "updatedAt": "2024-07-23T21:00:44.483Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "2774480d-8c29-4dba-bb97-f6b2eeab9e95",
+      "latestKeyAt": "2024-07-23T21:01:14.942Z",
+      "firebasePath": "drafts/draft-2774480d-8c29-4dba-bb97-f6b2eeab9e95",
+      "createdAt": "2024-07-02T12:43:30.985Z",
+      "updatedAt": "2024-07-24T12:16:01.337Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nzzj8eh5yif",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Learning about the causal structure of the world is a fundamental problem for human cognition. Over the past 20 years, cognitive scientists have applied advances in our understanding of causation in philosophy and computer science, particularly within the Causal Bayes Net formalism, to understand human causal learning. The formalism specifies a probabilistic generative model that describes the causal relations between variables. The central idea is that if X causes Y, acting to change the value of X will change the value of Y. Empirical research has shown that human children are remarkably adept at causal learning and that they learn in a way that mirrors the formalism. Preschool children can use information about the conditional probability of variables and the outcomes of actions on those variables to infer the causal structure of the physical, biological, and psychological world; discover unobserved variables; and learn high-level abstract features of causal systems. Children do this by observing the outcomes of other people\u2019s actions, listening to causal language, and exploring and experimenting themselves in their everyday play."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nv4k3jhe58p",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Going back to "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n92v0yuwoe9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3wiyzh2vhf\" data-reactroot=\"\">Hume, D. (1739). <em>A treatise of human nature</em>. Clarendon Press.</p>",
+              "customLabel": "Hume (1739)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", philosophers have worried about how we can learn that X causes Y, when all we directly observe is whether X is associated with Y. Some suggested that causation just "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "is"
+          },
+          {
+            "type": "text",
+            "text": " association; others argued that causal relations require a particular spatio-temporal path from cause to effect. Around 2000, philosophers of science James Woodward and Clark Glymour and computer scientist Judea Pearl articulated a formal account of causal knowledge and learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1g1wd8x7m3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nparbicqmie\" data-reactroot=\"\">Glymour, C. N. (2001). <em>The mind\u2019s arrows: Bayes nets and graphical causal models in psychology</em>. MIT press. https://doi.org/10.7551/mitpress/4638.001.0001</p>",
+              "customLabel": "Glymour, 2001",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nakf2d0gx5h",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmm4fxaslcc\" data-reactroot=\"\">Spirtes, P., Glymour, C., &amp; Scheines, R. (2001).\u00a0<em>Causation, prediction, and search</em>. MIT press. https://doi.org/10.7551/mitpress/1754.001.0001</p>",
+              "customLabel": "Spirtes et al., 2001",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n70qjv9g53u",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ne5876x11on\" data-reactroot=\"\">Woodward, J. (2005).\u00a0<em>Making things happen: A theory of causal explanation</em>. Oxford University Press.</p>",
+              "customLabel": "Woodward, 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzbzxjk9zk0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nk319qcnbf6\" data-reactroot=\"\">Woodward, J. (2021).\u00a0<em>Causation with a human face: Normative theory and descriptive psychology</em>. Oxford University Press.</p>",
+              "customLabel": "2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlts6d8qpe6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6r3dzqutju\" data-reactroot=\"\">Pearl, J. (2000). <em>Causality</em>. Cambridge University Press.</p>",
+              "customLabel": "Pearl, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nis7buf8om4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndqxhgj0uvf\" data-reactroot=\"\">Pearl, J., &amp; Mackenzie, D. (2018).\u00a0<em>The book of why: The new science of cause and effect</em>. Basic Books.</p>",
+              "customLabel": "Pearl & Mackenzie, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nc2v47tmkc0",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In parallel, developmental psychologists articulated the \u201ctheory theory\u201d: the idea that children\u2019s cognitive development and learning is like theory formation in science [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zw60p83x",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Cognitive Development"
+          },
+          {
+            "type": "text",
+            "text": "] ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx8aba5f2ij",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrsnlfc7glr\" data-reactroot=\"\">Gopnik, A. (2012). Scientific thinking in young children: Theoretical advances, empirical research, and policy implications. <em>Science</em>, <em>337</em>(6102), 1623\u20131627. https://doi.org/10.1126/science.1223416</p>",
+              "customLabel": "Gopnik, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncc79kt7m9g",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngivqoi8cau\" data-reactroot=\"\">Carey, S. (2009). <em>The origin of concepts</em>. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780195367638.001.0001</p>",
+              "customLabel": "Carey, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9ezbin622y",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrkmc4lc04m\" data-reactroot=\"\">Wellman, H. M., &amp; Gelman, S. A. (1998). Knowledge acquisition in foundational domains. In W. Damon (Ed.), <em>Handbook of child psychology: Vol. 2. Cognition, perception, and language</em> (pp. 523\u2013573). John Wiley &amp; Sons, Inc.</p>",
+              "customLabel": "Wellman & Gelman, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Causal learning plays a central role in theory formation, so a research program emerged to test whether children would infer the right causal structures from data about statistics and interventions in the way that scientists do and that the formalism prescribed. This turned out to be correct to a remarkable degree. By age four, children can infer the causal structure of the physical, biological, and psychological world; discover unobserved variables; and learn high-level causal "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "overhypotheses"
+          },
+          {
+            "type": "text",
+            "text": " in this way ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndjdiu9upnn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"na6svwaf1d8\" data-reactroot=\"\">Gopnik, A., &amp; Wellman, H. M. (2012). Reconstructing constructivism: Causal models, Bayesian learning mechanisms, and the theory theory. <em>Psychological Bulletin</em>, <em>138</em>(6), 1085\u20131108. https://doi.org/10.1037/a0028044</p>",
+              "customLabel": "Gopnik & Wellman, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8sn20ncyms",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nx2ug8fhgq1\" data-reactroot=\"\">Goddu, M.K., Gopnik, A. (2024). The development of human causal learning and reasoning.\u00a0<em>Nature Reviews Psychology</em>,\u00a0<em>3</em>(5), 319\u2013339. https://doi.org/10.1038/s44159-024-00300-5</p>",
+              "customLabel": "Goddu & Gopnik, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Also, in parallel, developmentalists found that even infants could detect some particular causal relationships, such as relations of movement and collision among objects and relations between agents\u2019 actions and their goals ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npt4no2nmas",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nim62w4dbd9\" data-reactroot=\"\">Carey, S. (2009). <em>The origin of concepts</em>. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780195367638.001.0001</p>",
+              "customLabel": "Carey, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4jtkeb6x03",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n40qzynif1g\" data-reactroot=\"\">Spelke, E. S. (2022). <em>What babies know: Core knowledge and composition</em> (Vol. 1). Oxford University Press. https://doi.org/10.1093/oso/9780190618247.001.0001</p>",
+              "customLabel": "Spelke, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "intervention",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Intervention"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngqsqfxksj8",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "interventionist"
+          },
+          {
+            "type": "text",
+            "text": " definition of causation is that a variable X is causally related to a variable Y if and only if an intervention to change the value of X will change the value of Y. This is why a controlled experiment is the gold standard for causal inference in science. It contrasts with association or prediction. Yellow nicotine-stained fingers and smoking might both be associated with lung cancer, and you might predict that someone with yellow fingers would be more likely to get lung cancer. But intervening to wash your hands would not affect the probability of the disease, although stopping smoking would."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "bayesian-networks",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Bayesian networks"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nftzq4ebi5o",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Causal relations are often described in terms of directed acyclic graphs that systematically connect causal variables, called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Bayes nets"
+          },
+          {
+            "type": "text",
+            "text": ". The graph can be used to systematically generate the conditional probabilities of variables and the outcomes of interventions on those variables. In principle, it is then possible to use Bayesian methods to learn the graph from the data. The Bayes net formalism was part of a broader movement toward Bayesian probabilistic models of cognition [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/98iya9su",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Bayesianism"
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/lwxmte1p",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Bayesian Models of Cognition"
+          },
+          {
+            "type": "text",
+            "text": "], involving many types of probabilistic generative models and including hierarchical relations between such models ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwvoj5mvdr9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ne1ou7tpwxu\" data-reactroot=\"\">Tenenbaum, J. B., Kemp, C., Griffiths, T. L., &amp; Goodman, N. D. (2011). How to grow a mind: Statistics, structure, and abstraction. <em>Science</em>, <em>331</em>(6022), 1279\u20131285. https://doi.org/10.1126/science.1192788</p>",
+              "customLabel": "Tenenbaum et al., 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nj87ji1fq42",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuh3sx9ykuc\" data-reactroot=\"\">Ullman, T. D., &amp; Tenenbaum, J. B. (2020). Bayesian models of conceptual development: Learning as building models of the world. <em>Annual Review of Developmental Psychology</em>, <em>2</em>, 533\u2013558. https://doi.org/10.1146/annurev-devpsych-121318-084833</p>",
+              "customLabel": "Ullman & Tenenbaum, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "overhypotheses",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Overhypotheses"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ntas4rxg37g",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A higher-order causal overhypothesis or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "framework theory"
+          },
+          {
+            "type": "text",
+            "text": " could constrain lower-level models ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwhtzvw4g8n",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb30uhaddya\" data-reactroot=\"\">Griffiths, T. L., &amp; Tenenbaum, J. B. (2009). Theory-based causal induction. <em>Psychological Review</em>, <em>116</em>(4), 661\u2013716. https://doi.org/10.1037/a0017201</p>",
+              "customLabel": "Griffiths & Tenenbaum, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For example, if you believe that human actions are caused by beliefs and desires [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/8q02cvue",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Theory of Mind"
+          },
+          {
+            "type": "text",
+            "text": "], you can restrict lower-level causal explanations for a particular action to Bayes nets that include these variables."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "search",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Search"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7v8wg4btpx",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The Bayesian hypothesis testing framework has a central dilemma: How does a learner search through all the possible causal hypotheses and decide which ones to test? There have been attempts to answer this question using \u201csampling\u201d methods, and children may use these methods [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/n6c8sb19",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Markov Chain Monte Carlo"
+          },
+          {
+            "type": "text",
+            "text": "] ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntnkj5ptdgo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n57hrq41ajy\" data-reactroot=\"\">Bonawitz, E., Denison, S., Griffiths, T. L., &amp; Gopnik, A. (2014). Probabilistic models, learning algorithms, and response variability: Sampling in cognitive development. <em>Trends in Cognitive Sciences,</em> <em>18</em>, 497\u2013500. Advance online publication. https://doi.org/10.1016/j.tics.2014.06.006</p>",
+              "customLabel": "Bonawitz et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). But the search problem is still intractable and hence an open area of research."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "active-learning-and-exploration",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Active learning and exploration"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "no0ngclzlkc",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Children actively and spontaneously intervene on the world to get data to solve causal problems ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntqo9az7bh6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3e3mcppq37\" data-reactroot=\"\">Schulz, L. (2012). The origins of inquiry: Inductive inference and exploration in early childhood. <em>Trends in Cognitive Sciences</em>, <em>16</em>, 382\u2013389. https://doi.org/10.1016/j.tics.2012.06.004</p>",
+              "customLabel": "Schulz, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This active learning is similar to experimentation in science and to exploration in reinforcement learning."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "social-causal-learning",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Social causal learning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ns5eymkofip",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Children learn causal relationships both through active learning and exploration but also through observations of others and through language [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/d8e1n1e8",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Social Learning"
+          },
+          {
+            "type": "text",
+            "text": "] ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7z8rx2exeo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nr950frnx7o\" data-reactroot=\"\">Sobel, D. M., &amp; Kushnir, T. (2013). Knowledge matters: How children evaluate the reliability of testimony as a process of rational inference. <em>Psychological Review</em>, <em>120</em>(4), 779\u2013797. https://doi.org/10.1037/a0034191</p>",
+              "customLabel": "Sobel & Kushnir, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmpg7b8k9f2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndubwmdwqql\" data-reactroot=\"\">Meltzoff, A. N., Waismeyer, A., &amp; Gopnik, A. (2012). Learning about causes from people: Observational causal learning in 24-month-old infants.\u00a0<em>Developmental Psychology</em>,\u00a0<em>48</em>(5), 1215.</p>",
+              "customLabel": "Meltzoff et al., 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nv5wurh86sa",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "How is general causal learning related to more specific types of causal knowledge in "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "intuitive physics"
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "intuitive psychology"
+          },
+          {
+            "type": "text",
+            "text": ", sometimes called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "core knowledge"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2wbv6s08lj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nydwfyt60e2\" data-reactroot=\"\">Carey, S. (2009). <em>The origin of concepts</em>. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780195367638.001.0001</p>",
+              "customLabel": "Carey, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n00yhan0qw5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7ajdty0mk0\" data-reactroot=\"\">Spelke, E. S. (2022). <em>What babies know: Core knowledge and composition</em> (Vol. 1). Oxford University Press. https://doi.org/10.1093/oso/9780190618247.001.0001</p>",
+              "customLabel": "Spelke, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), which appear to be in place very early in development? Are these separate systems or are they integrated? And if so, how?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nidoumkfjp8",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Different caregivers and cultures may transmit different kinds of causal knowledge through language and various forms of teaching. How these linguistic and cultural mechanisms work is still an unsolved problem."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nrfoflynq27",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "One important new direction concerns the relation between causal learning and the machine learning methods that have recently transformed computer science and AI. Even very large language models appear to have particular difficulty with causal inference and learning tasks [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "]. Is there a way to combine modern machine learning and the causal Bayes net approach? Modifying reinforcement learning techniques, which, like causal learning, involve interventions on the world, might be especially promising."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5bfjisyxdv",
+          "class": "MsoNormal",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A second set of broader connections concerns the biological and evolutionary origins of causal learning. On one hand, understanding the effects of your actions on the world, a primordial kind of causal learning, is foundational to even the first intelligences that evolved in the Cambrian, the first geological period of the Paleozoic Era. On the other hand, the comparative animal cognition literature suggests that even other primates\u2019 causal learning abilities are limited compared to human learning. Nonhuman animals appear to learn in a way that is less general\u2014restricted to particular ecologically relevant contexts\u2014and less impersonal\u2014restricted to learning the effects of your own actions rather than the effects of others\u2019 actions or understanding causal relations that are not directly the outcome of actions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n92kwzxevbp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nx2ug8fhgq1\" data-reactroot=\"\">Goddu, M.K., Gopnik, A. (2024). The development of human causal learning and reasoning.\u00a0<em>Nature Reviews Psychology</em>,\u00a0<em>3</em>(5), 319\u2013339. https://doi.org/10.1038/s44159-024-00300-5</p>",
+              "customLabel": "Goddu & Gopnik, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "acknowledgements",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Acknowledgements"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvtwql8yae5",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The author acknowledges funding and support from\u00a0DARPA grant 047498-002,\u00a0John Templeton Foundation grant 61475, Templeton World Charity Foundation TWCF0434, and the\u00a0Department of Defense Office of Naval Research Multidisciplinary University Initiative.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nt3q005qgfx",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nmkthotiy9q",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Goddu, M.K., Gopnik, A. (2024). The development of human causal learning and reasoning.\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Nature Reviews Psychology"
+                  },
+                  {
+                    "type": "text",
+                    "text": ",\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "3"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(5), 319\u2013339. https://doi.org/10.1038/s44159-024-00300-5"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nc6w7gkov6o",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Pearl, J., & Mackenzie, D. (2018).\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The book of why: the new science of cause and effect"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Basic books."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "ndezcvp5fjr",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ullman, T. D., & Tenenbaum, J. B. (2020). Bayesian models of conceptual development: Learning as building models of the world.\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Annual Review of Developmental Psychology"
+                  },
+                  {
+                    "type": "text",
+                    "text": ",\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "2"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", 533\u2013558. https://doi.org/10.1146/annurev-devpsych-121318-084833"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nmap2dmsi19",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Woodward, J. (2021).\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Causation with a human face: Normative theory and descriptive psychology"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Oxford University Press."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

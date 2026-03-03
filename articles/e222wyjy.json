@@ -1,0 +1,1637 @@
+{
+  "id": "494deacd-ed49-4708-b686-c0597537339c",
+  "slug": "e222wyjy",
+  "title": "Compositionality",
+  "url": "https://oecs.mit.edu/pub/e222wyjy",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "494deacd-ed49-4708-b686-c0597537339c",
+    "slug": "e222wyjy",
+    "title": "Compositionality",
+    "htmlTitle": "Compositionality",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.494deacd",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "vidk5xp4",
+    "editHash": "yh59ot49",
+    "reviewHash": "qfwei3wx",
+    "commentHash": "v0fsmo92",
+    "draftId": "89b80586-6db9-4932-b669-9ae37bb4e17f",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "32bb4605-8f99-4e6e-93e8-cee7877a65a0",
+    "scopeSummaryId": "d50a9ee0-89d4-4269-813f-c27b06cae28d",
+    "createdAt": "2024-11-06T21:16:36.373Z",
+    "updatedAt": "2024-12-03T15:04:31.782Z",
+    "attributions": [
+      {
+        "id": "4108e00e-14eb-43c5-bef4-18b347559713",
+        "name": "Ryan M. Nefdt",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of Cape Town and University of Bristol",
+        "orcid": "0000-0002-2118-9960",
+        "userId": null,
+        "pubId": "494deacd-ed49-4708-b686-c0597537339c",
+        "createdAt": "2024-11-06T21:18:10.574Z",
+        "updatedAt": "2024-11-06T21:19:03.106Z",
+        "user": null
+      },
+      {
+        "id": "4d9f92c2-f11e-4e5b-8a13-1ea6923836d0",
+        "name": "Christopher Potts",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Stanford University",
+        "orcid": "0000-0002-7978-6055",
+        "userId": null,
+        "pubId": "494deacd-ed49-4708-b686-c0597537339c",
+        "createdAt": "2024-11-06T21:18:21.127Z",
+        "updatedAt": "2024-11-06T21:19:16.202Z",
+        "user": null
+      },
+      {
+        "id": "f07081b9-53ee-482c-b06e-d1c54412a251",
+        "name": "Evan Kidd",
+        "avatar": null,
+        "title": null,
+        "order": 0.9375,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "The Australian National University",
+        "orcid": "0000-0003-4301-2290",
+        "userId": null,
+        "pubId": "494deacd-ed49-4708-b686-c0597537339c",
+        "createdAt": "2024-11-07T22:08:07.596Z",
+        "updatedAt": "2024-11-07T22:08:30.782Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "89b80586-6db9-4932-b669-9ae37bb4e17f",
+      "latestKeyAt": "2024-12-03T00:31:17.109Z",
+      "firebasePath": "drafts/draft-89b80586-6db9-4932-b669-9ae37bb4e17f",
+      "createdAt": "2024-11-06T21:16:36.371Z",
+      "updatedAt": "2024-12-04T18:06:02.997Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5ad06g0slv",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Compositionality is a central concept in cognitive science, with applications in linguistic, visual, and general cognition. In studies on language, the principle says that the meaning of a syntactically complex phrase is a function of the meanings of its constituent parts and the way they are combined. One can think of this as specifying a recursive process in which lexical items (e.g., words ) have atomic meanings, and these come together to form phrasal meanings (e.g., noun phrase), which are themselves inputs to more complex phrase meanings (e.g., sentences), and so forth. The principle can be seen as offering an explanation of why and how people are able to produce and interpret novel well-formed expressions: the meanings of such expressions are taken to be fully determined by their syntax and the lexical items they contain."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n8i9e7h39in",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Precedents for the principle of compositionality can be found in the work of Gottlob Frege ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1gm62w1h4y",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrl3p78hd4q\" data-reactroot=\"\">Frege, G. (1884). <em>Die grundlagen der arithmetik: Eine logisch-mathematische untersuchung ueber den begriff der zahl</em>. Wilhelm Koebner.</p>",
+              "customLabel": "Frege, 1884",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nks6nagxjwl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4bnjnh9ywm\" data-reactroot=\"\">Janssen, T. M. V. (1997). Compositionality. In J. van Benthem &amp; A. ter Meulen (Eds.), <em>Handbook of logic and language</em> (pp. 417\u2013473). Elsevier.</p>",
+              "customLabel": "Janssen, 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, the modern form of the principle is due to Richard Montague. One of Montague\u2019s central tenets was that there is \u201cno important theoretical difference between natural languages and the artificial languages of logicians\u201d ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nelvp9cbta2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkz3ff6y6zd\" data-reactroot=\"\">Montague, R. (1970). Universal grammar. <em>Theoria</em>, <em>36</em>(3), 373\u2013398. <a href=\"https://doi.org/10.1111/j.1755-2567.1970.tb00434.x\">https://doi.org/10.1111/j.1755-2567.1970.tb00434.x</a> </p>",
+              "customLabel": "Montague, 1970",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Logical languages are the prototypical examples of compositional systems, and so Montague\u2019s tenet creates an expectation that natural languages will be compositional as well."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "np6nkspmedc",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Ever since Montague\u2019s work, the principle of compositionality has profoundly shaped linguistic theory. It is used to explain core properties of natural languages, it guides linguists in their analytical choices, and it arguably even influences the kinds of phenomena that linguists seek to explain. Versions of the principle have also been proposed for other areas of cognition, including vision, planning, and abstract reasoning."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "compositionality_FINAL.docx.xhtml#h.3znysh7",
+          "id": "compositionality_FINAL.docx.xhtml#h.3znysh7",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Intuitive compositional analysis"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ntdkh3qxdbk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "At its core, the principle of compositionality is a mereological process that breaks complex structures into meaningful constituents or parts. For example, the sentence \u201cthe kitten sleeps quietly\u201d contains two phrases, a noun phrase (the kitten) and a verb phrase (sleeps quietly), that come together to form a sentence: [[the kitten] [sleeps quietly]]. The meanings of the lexical items are stipulated. The meaning of the subject \u201cthe kitten\u201d\u2014call it \u03b1\u2014is determined by a function applied to the meanings of \u201cthe\u201d and \u201ckitten.\u201d The same logic applies to \u201csleeps quietly\u201d to produce a meaning \u03b2, and the meaning of the entire structure is then determined by a function applied to \u03b1 and \u03b2."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nm9eps6ayht",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Compositionality itself does not dictate what the parts are. The example assumes that \u201csleeps\u201d and \u201cquietly\u201d were atomic units, but they could be decomposed into smaller meaningful (but perhaps more abstract) parts, like \u201csleep\u201d plus present tense and \u201cquiet\u201d plus an adverbial meaning. It is similarly possible to treat frozen expressions like \u201ca lot of\u201d as atomic units. The compositionality claim can thus be seen as conditional: if the syntactic analysis breaks an expression down into parts, then some compositional analysis of the parts must be correct. "
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "productivity-systematicity-and-infinity",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Productivity, systematicity, and infinity"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nul7pd5vvsm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Theoretical arguments for compositionality have generally involved three distinct properties: productivity, infinity, and systematicity."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n92t31iscir",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The argument for productivity relies on the fact that humans can produce countless sentences with a limited lexicon and memory storage. Thus, semantic theory needs to explain this capability in finite terms ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9dzk3rhjup",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntwwmr2ryu2\" data-reactroot=\"\">Katz, J. J., &amp; Fodor, J. A. (1963). The structure of semantic theory. <em>Language</em>, <em>39</em>(2), 170\u2013210. <a href=\"https://doi.org/10.2307/411200\">https://doi.org/10.2307/411200</a> </p>",
+              "customLabel": "Katz & Fodor, 1963",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and compositional systems are candidates for such explanations."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nv5niwp3crb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The phenomenon of productivity is sometimes described in terms of human\u2019s \u201cinfinite\u201d capacity to use language ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nybtzuyqlq6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbc1em45ncm\" data-reactroot=\"\">Chomsky, N., Seely, T. D., Berwick, R. C., Fong, S., Huybregts, M. A. C., Kitahara, H., McInnerney, A., &amp; Sugimoto, Y. (2023). <em>Merge and the strong minimalist thesis</em>. Cambridge University Press.</p>",
+              "customLabel": "Chomsky et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The sense in which this is an infinite capacity is highly idealized and depends on many assumptions about language and cognition, but the space of expressions people can use is so vast that it cannot possibly reduce to memorization, so the question of infinity can be set aside here."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6zialvmv78",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Finally, a related notion to compositionality is systematicity ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no9664ofy2o",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfliw7gkyc7\" data-reactroot=\"\">Fodor, J. A., &amp; Pylyshyn, Z. W. (1988). Connectionism and cognitive architecture: A critical analysis. <em>Cognition</em>, <em>28</em>(1-2), 3\u201371. <a href=\"https://doi.org/10.1016/0010-0277(88)90031-5\" title=\"Persistent link using digital object identifier\" target=\"_blank\">https://doi.org/10.1016/0010-0277(88)90031-5</a></p>",
+              "customLabel": "Fodor & Pylyshyn, 1988",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This idea can be expressed in distributional terms: if (1) you know what \u201cthe kitten sleeps\u201d means and (2) you know that \u201ckitten\u201d and \u201cpuppy\u201d are related in relevant ways, then (3) you know what \u201cthe puppy sleeps\u201d means. In a sense, 1 and 2 seem to fully determine 3. Compositionality can be seen as an explanation for this systematicity, but the observations alone do not entail compositionality ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2b3wh3s3ot",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njx94a3um2w\" data-reactroot=\"\">Szab\u00f3, Z. G. (2000). <em>Problems of compositionality.</em> Routledge Press.</p>",
+              "customLabel": "Szab\u00f3, 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). "
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "compositionality_FINAL.docx.xhtml#h.krk8uqphsv1a",
+          "id": "compositionality_FINAL.docx.xhtml#h.krk8uqphsv1a",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Locality"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngmyssr854y",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "It is a hallmark of the way linguists think about compositionality that they tend to focus on the meanings of the immediate parts of constituents ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nqif61u35h2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf3ak6wzgg7\" data-reactroot=\"\">Dowty, D. (2007). Compositionality as an empirical problem. In C. Barker &amp; P. Jacobson (Eds.), <em>Direct compositionality</em> (pp. 23\u2013101). Oxford University Press.</p>",
+              "customLabel": "Dowty, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). One sees this in the \u201csleeping kitten\u201d example: for the final sentence meaning, there are only the meanings \u03b1 and \u03b2 and not their constituent parts. To see the potential consequences of this, assume (at least for purposes of illustration) that \u201cthe kitten ate the treat\u201d and \u201cthe treat was eaten by the kitten\u201d are synonymous\u2014call their shared meaning \u0263. Then no subsequent meaning operation can distinguish these two sentences. It follows, for example, that no compositional rule operating on this sentence meaning could depend on the identity of the subject of the sentence because the rule can see only \u0263. That is, because the rule can only see \u0263, it is insensitive as to whether the subject is \u201cthe kitten\u201d or \u201cthe treat.\u201d"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "compositionality_FINAL.docx.xhtml#h.2et92p0",
+          "id": "compositionality_FINAL.docx.xhtml#h.2et92p0",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Salient challenges"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ntce25l8fxr",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "There are a wide range of challenges to compositionality ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmsipiedvix",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntq1r9pn5x2\" data-reactroot=\"\">Partee, B. H. (1984). Compositionality. In F. Landman &amp; F. Veltman (Eds.), <em>Varieties of formal semantics</em> (pp. 281\u2013311). Foris.</p>",
+              "customLabel": "Partee, 1984",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). One is the ubiquitous issue of ambiguity. For example, in \u201cI saw a crane pick up a steel beam,\u201d people tend to infer that \u201ccrane\u201d refers to a machine rather than a bird because of the content of \u201cpick up a steel beam.\u201d Thus, the process of ambiguity resolution depends on the broader context [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/y1uhdz0y",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Psycholinguistics"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ny30pks1kjj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A second issue is that of discourse-dependent items. In a discourse like \u201cThe kitten is sleeping quietly. She had a long day,\u201d the pronoun \u201cshe\u201d is very likely to be interpreted as referring to the same entity as \u201cthe kitten\u201d in the first sentence. This looks like a highly nonlocal dependency\u2014a reader or listener cannot resolve the meaning of even the entire sentence \u201cShe had a long day\u201d in isolation [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/gx9ypm4x",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Conversation"
+          },
+          {
+            "type": "text",
+            "text": "]. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngvk2vb7hk5",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In response to these challenges, semanticists have generally invoked a distinction between representations\u00a0and intended meanings . For example, there are (at least) two representations of \u201cI saw a crane pick up a steel beam,\u201d one in which the text or sound pattern \u201ccrane\u201d refers to birds and another in which it refers to machines. Both representations are well formed semantically, but world knowledge leads comprehenders to select one as the likely intended meaning. This pragmatic process goes beyond compositionality."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "compositionality_FINAL.docx.xhtml#h.wx87j0vuysbn",
+          "id": "compositionality_FINAL.docx.xhtml#h.wx87j0vuysbn",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "A constraint on theories?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nn1sbt9vqzm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A common question is whether or not, in adopting compositionality as a requirement for theories, one is ruling out potential analyses. The answer appears to be \u201cno,\u201d at least for the usual range of potential formalizations of the principle ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzvut36rvyf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlkdx4cj0hi\" data-reactroot=\"\">Zadrozny, W. (1994). From compositional to systematic semantics. <em>Linguistics and Philosophy</em>, <em>17</em>(4), 329\u2013342. <a href=\"https://doi.org/10.1007/BF00985572\">https://doi.org/10.1007/BF00985572</a> </p>",
+              "customLabel": "Zadrozny, 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Even the assumption made above about the locality of the principle is easily circumvented if the meanings involved are allowed to be suitably abstract. The proof consists in showing that by the standard definition of semantic compositionality, any semantics whatsoever can be encoded as compositional semantics. The precise details are beyond the present scope. However, caution should be applied with this (likely) formal result. Just because one "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "can"
+          },
+          {
+            "type": "text",
+            "text": " give a compositional treatment does not mean that one "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "should"
+          },
+          {
+            "type": "text",
+            "text": " give such a treatment ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4wtq229h00",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb8aqvxd0qc\" data-reactroot=\"\">Kazmi, A., &amp; Pelletier, F. J. (1998). Is compositionality formally vacuous? <em>Linguistics and Philosophy</em>, <em>21</em>(6), 629\u2013633. <a href=\"https://doi.org/10.1023/A:1005388721969\">https://doi.org/10.1023/A:1005388721969</a> </p>",
+              "customLabel": "Kazmi & Pelletier, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For example, assume that idiomatic expressions like \u201cpull strings\u201d (meaning \u201cuse one\u2019s influence to get ahead\u201d) are non-compositional, and suppose this is deliberately reflected in the semantic analysis constructed. This could be construed as a claim about how idioms work, and the fact that someone can construct an alternative analysis in which idioms work compositionally is not necessarily relevant. From this perspective, compositionality emerges as a flexible working principle and perhaps as a way to distinguish different phenomena."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "compositionality_FINAL.docx.xhtml#h.6jljn87jiiqs",
+          "id": "compositionality_FINAL.docx.xhtml#h.6jljn87jiiqs",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "The limits of compositionality"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7362787z7g",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "It seems inevitable that there will be phenomena in language that are not compositional. Idioms are likely candidates. However, it is noteworthy that idioms are not always frozen expressions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3y3qbp8lfy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nejqk0tnapx\" data-reactroot=\"\">Nunberg, G., Sag, I. A., &amp; Wasow, T. (1994). Idioms. In S. Everson (Ed.), <em>Language: Companions to ancient thought</em> (pp. 491\u2013538). Cambridge University Press.</p>",
+              "customLabel": "Nunberg et al., 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and so they might still pose challenges for compositionality. For example, consider again the idiom \u201cpull strings.\u201d A variant of this is \u201cpull legal strings,\u201d in which the modifier \u201clegal\u201d seems to operate systematically on the meaning. This suggests that there are meaningful subparts of the idiom, and yet a fully compositional account seems unlikely to be feasible or accurate."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nipcoahhloy",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "An alternative interpretation of such phenomena has prompted some cognitive linguists to adopt an entirely distinct framework eschewing the role of compositionality. Specifically, construction grammar and radical construction grammar question what they call the \u201cbuilding block model\u201d of meaning, in which meaningful parts are combined to produce meaningful wholes ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n152vhmpqyo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfp438o2smk\" data-reactroot=\"\">Croft, W. (2013). Radical construction grammar. In T. Hoffmann &amp; G. Trousdale (Eds.), <em>The Oxford handbook of construction grammar</em> (pp. 211\u2013232). Oxford University Press.</p>",
+              "customLabel": "Croft, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7lk1utgx2n",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nml7ucfqaor\" data-reactroot=\"\">Goldberg, A. (2015). Compositionality. In N. Reimer (Ed.), <em>The Routledge handbook of semantics</em> (pp. 419-433). Routledge Press.</p>",
+              "customLabel": "Goldberg, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Their suggested alternative model is one in which constructions play a larger role in both syntax and semantics. Constructions are usually taken to be pairings of form and meaning such that there are \u201cslots\u201d for the saturation of individual constructions, as in "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "X takes Y for granted"
+          },
+          {
+            "type": "text",
+            "text": ". Constructions can range from frozen idiomatic phrases to more flexible and abstract (or \u201cschematic\u201d; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n19nyiyl2n3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nonbohu6v05\" data-reactroot=\"\">Fillmore, C., Kay, P., &amp; O\u2019Connor, M. (1988). Regularity and idiomaticity in grammatical constructions: The case of let alone. <em>Language</em>, <em>64</em>(3), 501\u2013538. <a href=\"https://doi.org/10.2307/414531\">https://doi.org/10.2307/414531</a> </p>",
+              "customLabel": "Fillmore et al., 1988",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") rule-like patterns. If these phenomena are as ubiquitous as construction grammarians claim, then, in a reversal of fortunes, compositionality might form the periphery and semiflexible idiomatic expressions might form the core of linguistic cognition."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "compositionality_FINAL.docx.xhtml#h.tyjcwt-1",
+          "id": "compositionality_FINAL.docx.xhtml#h.tyjcwt-1",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Human language processing"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nl9or9621hg",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "It is an open question how compositionality relates to human language processing outside of semantics. There are at least three distinct perspectives ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngc205ddkgc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4qoivd5tj5\" data-reactroot=\"\">Nefdt, R. M. (2020). A puzzle concerning compositionality in machines. <em>Minds and Machines</em>, <em>30</em>(1), 47\u201375. <a href=\"https://doi.org/10.1007/s11023-020-09519-6\">https://doi.org/10.1007/s11023-020-09519-6</a> </p>",
+              "customLabel": "Nefdt, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "): First, a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "process compositionality"
+          },
+          {
+            "type": "text",
+            "text": " in which humans actually perform computations corresponding to a compositional analysis\u2014that is, they do something like what is in the semanticists\u2019 idealized theories. Second, a weaker "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "state compositionality"
+          },
+          {
+            "type": "text",
+            "text": " in which the complex structure can in principle be analyzed in compositional terms, but no claim is made about whether humans actually do that. This may be the case for expressions like \u201ca lot of\u201d: a clever semanticist could find a compositional analysis, but it might seem contrived. Finally, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "outcome compositionality"
+          },
+          {
+            "type": "text",
+            "text": "\u00a0is where input\u2013output behavior appears compositional, but no claim is made about compositionality. Frequently encountered words and phrases, which might be memorized, could fall into this class. For example, \u201cbetter late than never\u201d can be given a compositional analysis, but actual usage of it might have the characteristics of a memorized phrase."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "compositionality_FINAL.docx.xhtml#h.35nkun2",
+          "id": "compositionality_FINAL.docx.xhtml#h.35nkun2",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Natural language processing"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkwj8wsrmxm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Recent developments in natural language processing have begun to offer new perspectives on compositionality. Perhaps the most striking finding is that modern large language models [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zp5n8ivs",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Large Language Models"
+          },
+          {
+            "type": "text",
+            "text": "] seem to induce partial compositional analysis just from training on large quantities of text, using learning objectives that simply push the model to imitate those texts. In other words, these models seem, at least in some instances, to arrive at process compositional analyses, and this may explain how they are able to successfully generalize to novel expressions. This is an exciting new opportunity for interdisciplinary collaboration, as linguists and computer scientists can collaborate on assessing models using compositional phenomena and on studying the ways in which models perform highly abstract compositional analyses."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "compositionality-beyond-language-and-humans",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Compositionality beyond language and humans"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncynbtx3cek",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "It has been suggested that the alleged failures of compositionality in language point to the compositionality of thought as the dominant interpretation of the principle in cognitive science ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuspupezrg4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhuo8v4ft96\" data-reactroot=\"\">Fodor, J. A., &amp; Lepore, E. (2002). <em>The compositionality papers</em>. Oxford University Press.</p>",
+              "customLabel": "Fodor & Lepore, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Compositional interpretations have been offered in a number of nonlinguistic domains including planning, music, and visual perception. In addition, the application of compositional analysis to general cognition opens up the possibility of applications outside of human cognition including bird-song, planning in chimpanzees, and other primate gestural systems [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/suwgvzqg",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Primate Communication"
+          },
+          {
+            "type": "text",
+            "text": "]. Some of these avenues have been fruitfully explored (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2owet6f3my",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"neqc77qnrhc\" data-reactroot=\"\">Dautriche, I., Buccola, B., Berthet, M., Fagot, J., &amp; Chemla, E. (2022). Evidence for compositionality in baboons (<em>Papio papio</em>) through the test case of negation. <em>Nature Scientific Reports</em>, <em>12</em>, 19181. <a href=\"https://doi.org/10.1038/s41598-022-21143-1\">https://doi.org/10.1038/s41598-022-21143-1</a> </p>",
+              "customLabel": "Dautriche et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, it should be noted that many of these proposals start from the linguistic principle as their basis."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "acknowledgments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Acknowledgments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nibwqcwrhuu",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "We would like to thank Asida Majid, Evan Kidd, and Michael Frank for their advice and direction on the content of the entry. We would also like to thank Ahmad Jabbar for early input on what is useful to include for such a broad topic."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "compositionality_FINAL.docx.xhtml#h.3dy6vkm",
+          "id": "compositionality_FINAL.docx.xhtml#h.3dy6vkm",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading "
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "ndxwdnbfesy",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nz7hvyq3oqi",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Fodor, J. A., & Lepore, E. (2002). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The compositionality papers"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Oxford University Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nu61t6mms5s",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Janssen, T. M. V. (1997). Compositionality. In J. van Benthem & A. ter Meulen (Eds.), "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Handbook of logic and language"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (pp. 417\u2013473). Elsevier."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nh5mqjjaxou",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Partee, B. H. (1984). Compositionality. In F. Landman & F. Veltman (Eds.), "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Varieties of formal semantics"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (pp. 281\u2013311). Foris."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nfe89anpcxl",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Szab\u00f3, Z. G. (2012). Compositionality. In E. N. Zalta (Ed.), "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The Stanford encyclopedia of philosophy."
+                  },
+                  {
+                    "type": "text",
+                    "text": " Stanford University. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "http://plato.stanford.edu/archives/win2012/entries/compositionality/",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "http://plato.stanford.edu/archives/win2012/entries/compositionality/"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

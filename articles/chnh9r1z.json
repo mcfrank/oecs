@@ -1,0 +1,1476 @@
+{
+  "id": "4481de80-63d9-42a2-87ee-0ef098143df8",
+  "slug": "chnh9r1z",
+  "title": "Perceptual Learning",
+  "url": "https://oecs.mit.edu/pub/chnh9r1z",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "4481de80-63d9-42a2-87ee-0ef098143df8",
+    "slug": "chnh9r1z",
+    "title": "Perceptual Learning",
+    "htmlTitle": "Perceptual Learning",
+    "description": null,
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.4481de80",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "amyri1tr",
+    "editHash": "gckejyk2",
+    "reviewHash": "fccjv04n",
+    "commentHash": "epzubcok",
+    "draftId": "846d4f8a-0fe4-4dd3-9ff5-d07a04e39575",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "484acee2-a786-4018-beda-55dbf85156cc",
+    "scopeSummaryId": "ab372fd5-e73a-4e85-bbb5-6988d0bb37de",
+    "createdAt": "2024-08-20T17:20:00.934Z",
+    "updatedAt": "2024-09-30T15:09:31.409Z",
+    "attributions": [
+      {
+        "id": "3a24c9ec-e5d1-4722-beab-d9e44e8ba14b",
+        "name": "Madeleine Ransom",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of British Columbia, Okanagan",
+        "orcid": "0000-0002-4927-9183",
+        "userId": null,
+        "pubId": "4481de80-63d9-42a2-87ee-0ef098143df8",
+        "createdAt": "2024-08-20T17:20:44.193Z",
+        "updatedAt": "2024-08-20T17:20:58.098Z",
+        "user": null
+      },
+      {
+        "id": "7d7ad0c8-26ab-4e6d-9f17-d1d415c46fd2",
+        "name": "Robert L. Goldstone",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Indiana University",
+        "orcid": "0000-0001-8357-8358",
+        "userId": null,
+        "pubId": "4481de80-63d9-42a2-87ee-0ef098143df8",
+        "createdAt": "2024-08-20T17:21:08.039Z",
+        "updatedAt": "2024-08-20T17:21:21.391Z",
+        "user": null
+      },
+      {
+        "id": "1de48a12-456d-495e-a10c-ab81323b4037",
+        "name": null,
+        "avatar": null,
+        "title": null,
+        "order": 0.9375,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Stanford University",
+        "orcid": null,
+        "userId": "109667a4-3426-4b8d-ab8e-6ed65afced12",
+        "pubId": "4481de80-63d9-42a2-87ee-0ef098143df8",
+        "createdAt": "2024-09-13T17:59:00.316Z",
+        "updatedAt": "2024-09-13T17:59:34.050Z",
+        "user": {
+          "id": "109667a4-3426-4b8d-ab8e-6ed65afced12",
+          "firstName": "Michael C.",
+          "lastName": "Frank",
+          "fullName": "Michael C. Frank",
+          "avatar": null,
+          "slug": "michael-frank-3",
+          "initials": "MF",
+          "title": "Benjamin Scott Crocker Professor of Human Biology",
+          "orcid": "0000-0002-7551-4378"
+        }
+      }
+    ],
+    "draft": {
+      "id": "846d4f8a-0fe4-4dd3-9ff5-d07a04e39575",
+      "latestKeyAt": "2024-09-30T15:09:14.085Z",
+      "firebasePath": "drafts/draft-846d4f8a-0fe4-4dd3-9ff5-d07a04e39575",
+      "createdAt": "2024-08-20T17:20:00.931Z",
+      "updatedAt": "2024-10-31T01:08:48.432Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncy7oqyzap5",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Perceptual learning is a change in perception due to practice or repeated exposure to a given category of stimuli. It is commonly measured via performance improvements in perceptual tasks.\u00a0The study of perceptual learning can be separated into research on basic perceptual tasks, real-world perceptual expertise, and object recognition. Perceptual learning is distinct from other forms of learning in that it involves structural and functional changes to perceptual systems. It can occur under a wide variety of conditions, such as with or without feedback, task relevance, and conscious attention. Open questions include whether a single perceptual learning model can accommodate this wide variety of conditions, and what neural and psychological mechanisms underlie perceptual learning. Practical applications include improving expert performance and treating pathologies such as amblyopia (lazy eye). Recent philosophical debate over perceptual learning includes whether high-level (more complex) properties are represented in perception, whether perception is theory laden or penetrated by cognition as a result, and whether there can be \u201cbad\u201d or biased cases of perceptual learning.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nddsl9xwb3m",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Two early experiments in perceptual learning illustrate different approaches to its study. In 1858, German physiologist Alfred Wilhelm Volkmann measured improvements in people\u2019s ability to perform a basic perceptual task with a simple stimulus: distinguish between two distinct but simultaneous points of stimulation on their skin "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n05tavep7ap",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nb08029sf8s\" data-reactroot=\"\">Volkmann, AW (1858) &quot;\u00dbber den Einflu\u00df der \u00dbbung auf das Erkennenr\u00e4umlicher Distanzen&quot; \u00a0Berichte \u00fcber die Verhandlungen der K\u00f6niglichS\u00e4chsischen Gesellschaft der Wissenschaften zu Leipzig: Mathematisch-Physische Classe. 38-69, 10.\u00a0</p>",
+              "customLabel": "(Volkmann, 1858)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". In contrast, in 1897, American psychologists Bryan and Harter studied real-life skills involving perceptual expertise: those of telegraph operators, who learned to comprehend and produce messages in telegraphic code "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n4hywv6ldt7",
+              "href": null,
+              "value": "https://doi.org/10.1037/h0073806",
+              "unstructuredValue": "",
+              "customLabel": "",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nos8x03yb72",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "These disparate approaches have largely persisted. Pioneering work on perceptual learning by Eleanor "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuv3ho9dgct",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n75dn5bhykc\" data-reactroot=\"\">Gibson, E. J. (1969). <em>Principles of perceptual learning and development.</em> Appleton-Century-Crofts.</p>",
+              "customLabel": "Gibson (1969)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " employed relatively complex perceptual stimuli in comparison to researchers who studied phenomena such as learned sensitivity to simple line orientations and motion discrimination.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfq168lniqv",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Today, three relatively self-contained research programs have emerged, investigating the perceptual processes involved in learning to detect and discriminate simple stimuli in lab-created tasks ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngmeccwg78p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nokha3a1lu6\" data-reactroot=\"\">Dosher, B. A., &amp; Lu, Z. L. (2017). Visual perceptual learning and models. <em>Annual Review of Vision Science</em>, <em>3</em>(1), 343-363. <a href=\"https://doi.org/10.1146/annurev-vision-102016-061249\">https://doi.org/10.1146/annurev-vision-102016-06</a></p>",
+              "customLabel": "Dosher & Lu, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), real-world objects of perceptual expertise ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1emw0b8gnq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nz2uo5hp1f6\" data-reactroot=\"\">Gauthier, I., Tarr, M., &amp; Bub, D. (Eds.). (2010). <em>Perceptual expertise: Bridging brain and behavior</em>. Oxford University Press.</p>",
+              "customLabel": "Gauthier et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and general object recognition ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd7dywrj90p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"netsher1tjc\" data-reactroot=\"\">Peissig, J. J., &amp; Tarr, M. J. (2007). Visual object recognition: Do we know more now than we did 20 years ago? <em>Annual Review of Psychology</em>, <em>58</em>, 75-96. <a href=\"https://doi.org/10.1146/annurev.psych.58.102904.190114\">https://doi.org/10.1146/annurev.psych.58.102904.190114</a> </p>",
+              "customLabel": "Peissig & Tarr, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n2voq7j8l0f",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Perceptual learning is distinct from other forms of learning, such as motor and cognitive learning, in that there is a change in the functional and structural organization of the perceptual system itself [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/jr9encpg",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Statistical Learning"
+          },
+          {
+            "type": "text",
+            "text": "].\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nsomojsek4l",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Evidence for a perceptual locus of change comes from brain imaging that demonstrates structural and functional changes in early visual cortical areas after learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3fii50izn3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvr600npswp\" data-reactroot=\"\">Folstein, J. R., Gauthier, I., &amp; Palmeri, T. J. (2013). Category learning increases discriminability of relevant object dimensions in visual cortex. <em>Cerebral Cortex</em>, <em>23</em>(4), 814-823. <a href=\"https://doi.org/10.1093/cercor/bhs067\">https://doi.org/10.1093/cercor/bhs067</a> </p>",
+              "customLabel": "Folstein et al., 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), changes to perceptual processing within the first 170-ms post-stimulus onset ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngok1tryk35",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3sv5zvhvzg\" data-reactroot=\"\">Tanaka, J. W., &amp; Curran, T. (2001). A neural basis for expert object recognition. <em>Psychological Science</em>, <em>12</em>(1), 43-47. <a href=\"https://doi.org/10.1111/1467-9280.00308.\">https://doi.org/10.1111/1467-9280.00308.</a> </p>",
+              "customLabel": "Tanaka & Curran, 2001",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and training specificity, in which a lack of transfer from learned to novel contexts is thought to indicate a perceptual change ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "neouhtlp63r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngfzcklohhk\" data-reactroot=\"\">Ahissar, M., &amp; Hochstein, S. (1997). Task difficulty and the specificity of perceptual learning. <em>Nature</em>, <em>387</em>(6631), 401-406. <a href=\"https://doi.org/10.1038/387401a0\">https://doi.org/10.1038/387401a0</a> </p>",
+              "customLabel": "Ahissar & Hochstein, 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nhhzg7mjgmr",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "While the bulk of evidence for perceptual learning comes from vision research, perceptual learning has been observed in all other sensory modalities (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntggmd2g40p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhauu9nrot3\" data-reactroot=\"\">Spence, C. (2019). Perceptual learning in the chemical senses: A review. <em>Food Research International</em>, <em>123</em>, 746-761. <a href=\"https://doi.org/10.1016/j.foodres.2019.06.005\">https://doi.org/10.1016/j.foodres.2019.06.005</a> </p>",
+              "customLabel": "Spence, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and in multisensory integration ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuwarfnuqc1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1ejn2e17xp\" data-reactroot=\"\">Shams, L., &amp; Seitz, A. R. (2008). Benefits of multisensory learning. <em>Trends in Cognitive Sciences</em>, <em>12</em>(11), 411-417. <a href=\"https://doi.org/10.1016/j.tics.2008.07.006\">https://doi.org/10.1016/j.tics.2008.07.006</a> </p>",
+              "customLabel": "Shams & Seitz, 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n09hqgk6p99",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Characterizing the variety of factors that lead to changes in perception because of perceptual learning is an important area of investigation. Distinctions have been made between fast and slow processes, task-relevant versus -irrelevant stimuli, (a lack of) conscious attention to or awareness of the stimuli, and learning with or without feedback during the training period ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nu4hj7zg5yv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntd12132ie9\" data-reactroot=\"\">Watanabe, T., Nanez, J. E., &amp; Sasaki, Y. (2001). Perceptual learning without perception. <em>Nature</em>, <em>413</em>(6858), 844-848. <a href=\"https://doi.org/10.1038/35101601\">https://doi.org/10.1038/35101601</a> </p>",
+              "customLabel": "Watanabe et al., 2001",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/xdqgwrkq",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Attention"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkg03ht6s3q",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Given the different conditions and sensory modalities in which perceptual learning occurs, as well as considerable variation in the complexity of the learned stimuli, there can be skepticism of the prospect for a unified model. For example, many models of the neural mechanisms of perceptual learning do not explain both task-relevant and -irrelevant varieties, or they explain perceptual learning of simple but not more complex stimuli (although, see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nyd0xsnb98s",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny2uook0tre\" data-reactroot=\"\">Watanabe, T., &amp; Sasaki, Y. (2015). Perceptual learning: Toward a comprehensive theory. <em>Annual Review of Psychology</em>, <em>66</em>, 197-221. <a href=\"https://doi.org/10.1146/annurev-psych-010814-015214\">https://doi.org/10.1146/annurev-psych-010814-015214</a> </p>",
+              "customLabel": "Watanabe & Sasaki, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Whether or not these models can be extended to multisensory perceptual learning is a further question. Several attempts have been made to give a unified account of the psychological mechanisms responsible for perceptual learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n79aluij4w8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nglizbqmbeu\" data-reactroot=\"\">Goldstone, R. L. (1998). Perceptual learning. <em>Annual Review of Psychology, 49</em>, 585-612. <a href=\"https://doi.org/10.1146/annurev.psych.49.1.585\">https://doi.org/10.1146/annurev.psych.49.1.585</a> </p>",
+              "customLabel": "Goldstone, 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nujo74vvmxw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngvqww9b18m\" data-reactroot=\"\">Kellman, P. J., &amp; Garrigan, P. (2009). Perceptual learning and human expertise. <em>Physics of Life Reviews, 6</em>(2), 53-84. <a href=\"https://doi.org/10.1016/j.plrev.2008.12.001\">https://doi.org/10.1016/j.plrev.2008.12.001</a> </p>",
+              "customLabel": "Kellman & Garrigan, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nm9b4870yp6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Computational models offer mechanistic theories of perceptual learning that provide accounts of the time course, durability, and specificity of training. Most of these models are neural networks because their gradual, incremental adaptation of weights between neuron-like units aligns well with the typically protracted course of human perceptual learning ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n14m3lptfdx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nokha3a1lu6\" data-reactroot=\"\">Dosher, B. A., &amp; Lu, Z. L. (2017). Visual perceptual learning and models. <em>Annual Review of Vision Science</em>, <em>3</em>(1), 343-363. <a href=\"https://doi.org/10.1146/annurev-vision-102016-061249\">https://doi.org/10.1146/annurev-vision-102016-06</a></p>",
+              "customLabel": "Dosher & Lu, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). There is an important distinction between unsupervised and supervised models.\u00a0Unsupervised neural networks pick up on coherent patterns among input elements across many inputs ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7xts0lpti2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nyyf6j2wn9b\" data-reactroot=\"\">Austerweil, J. L., &amp; Griffiths, T. L. (2013). A nonparametric Bayesian framework for constructing flexible feature representations. <em>Psychological Review</em>, <em>120</em>(4), 817-851. <a href=\"https://doi.org/10.1037/a0034194\">https://doi.org/10.1037/a0034194</a> </p>",
+              "customLabel": "Austerweil & Griffiths, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), whereas supervised models create new ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmwj8crltor",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfkwr5poutg\" data-reactroot=\"\">Goldstone, R. L. (2003).\u00a0Learning to perceive while perceiving to learn.\u00a0In R. Kimchi, M. Behrmann, &amp; C. Olson (Eds.), <em>Perceptual organization in vision: Behavioral and neural perspectives</em>\u00a0(pp. 233-278). Lawrence Erlbaum Associates.</p>",
+              "customLabel": "Goldstone, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and weight preexisting ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5ye20sdks1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfs91yx9xr2\" data-reactroot=\"\">Petrov, A. A., Dosher, B. A., &amp; Lu, Z. L. (2005). The dynamics of perceptual learning: An incremental reweighting model. <em>Psychological Review</em>, <em>112</em>(4), 715-743. <a href=\"https://doi.org/10.1037/0033-295X.112.4.715\">https://doi.org/10.1037/0033-295X.112.4.715</a> </p>",
+              "customLabel": "Petrov et al., 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") perceptual components that are useful for an important task. An important future direction will be to incorporate both unsupervised and supervised learning so that a single learning system simultaneously finds underlying regularities in the form of stimulus clusters, dimensions, and features and also warps these regularities in response to environmental feedback."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nsnu48jb36c",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Practical applications of perceptual learning include enhancing perceptual expertise in areas such as sports, music, medical diagnosis, and mathematics ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nm0f5cf9zwt",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndwnjov5yrx\" data-reactroot=\"\">Goldstone, R. L., Marghetis, T., Weitnauer, E., Ottmar, E. R., &amp; Landy, D. (2017). Adapting perception, action, and technology for mathematical reasoning.\u00a0<em>Current Directions in Psychological Science</em>, <em>26</em>(5), 434-441. <a href=\"https://doi.org/10.1177/09637214177048\">https://doi.org/10.1177/09637214177048</a> </p>",
+              "customLabel": "Goldstone et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "); treating pathologies such as amblyopia (lazy eye); and mitigating age-related visual decline ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndgygrl7uyx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ny2uook0tre\" data-reactroot=\"\">Watanabe, T., &amp; Sasaki, Y. (2015). Perceptual learning: Toward a comprehensive theory. <em>Annual Review of Psychology</em>, <em>66</em>, 197-221. <a href=\"https://doi.org/10.1146/annurev-psych-010814-015214\">https://doi.org/10.1146/annurev-psych-010814-015214</a> </p>",
+              "customLabel": "Watanabe & Sasaki, 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Some suggestions for improving perceptual learning include pairing confusable stimuli to increase their discriminability, creating easy-to-hard training sequences, requiring learners to actively predict components of stimuli, providing immediate feedback, employing contrastive labels, and initially presenting systematically caricatured members for highly similar categories."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nznevz91lof",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Some philosophers have recently invoked perceptual learning to support the claim that we can perceive high-level properties of objects, such as a tree or a person ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhe6grqap98",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv3rrkhy0kp\" data-reactroot=\"\">Ransom, M. (2020). Expert knowledge by perception. <em>Philosophy</em>, <em>95</em>(3), 309-335. <a href=\"https://doi.org/10.1017/S0031819120000157\">https://doi.org/10.1017/S0031819120000157</a> </p>",
+              "customLabel": "Ransom, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "noz0xaiqysr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nquz1twg7xu\" data-reactroot=\"\">Stokes, D. (2021). <em>Thinking and perceiving</em>. Routledge.</p>",
+              "customLabel": "Stokes, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nryqnqiys8q",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4m79vcyp4e\" data-reactroot=\"\">Burnston, D. (2021) Perceptual learning, categorical perception, and cognitive permeation. <em>Dialectica</em>,<em> 75</em>(1). <a href=\"https://doi.org/10.48106/dial.v75.i1.03\">https://doi.org/10.48106/dial.v75.i1.03</a> </p>",
+              "customLabel": "Burnston, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, others have argued that perceptual learning merely alters what sorts of low-level properties we are able to perceive, such as color, shape, and motion ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nvojvxeevpw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nosbuiccmn5\" data-reactroot=\"\">Connolly, K. (2019). <em>Perceptual learning: The flexibility of the senses</em>. Oxford University Press.</p>",
+              "customLabel": "Connolly, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Allowing for the alteration of perception through learning raises the question of whether perception is theory laden or penetrable by our theories and beliefs (cognitive penetration), which would have implications for scientific observation ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nyaq3sy3owb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nv3rrkhy0kp\" data-reactroot=\"\">Ransom, M. (2020). Expert knowledge by perception. <em>Philosophy</em>, <em>95</em>(3), 309-335. <a href=\"https://doi.org/10.1017/S0031819120000157\">https://doi.org/10.1017/S0031819120000157</a> </p>",
+              "customLabel": "Ransom, 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n90zf5deln5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nquz1twg7xu\" data-reactroot=\"\">Stokes, D. (2021). <em>Thinking and perceiving</em>. Routledge.</p>",
+              "customLabel": "Stokes, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Finally, there is the possibility that perception may be biased in undesirable ways as a result of biases in the learning environment or process ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ngk1syjwuvr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nosbuiccmn5\" data-reactroot=\"\">Connolly, K. (2019). <em>Perceptual learning: The flexibility of the senses</em>. Oxford University Press.</p>",
+              "customLabel": "Connolly, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9okid7b5vc",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nm6xhe4qimx\" data-reactroot=\"\">Prettyman, A. (2019). Perceptual learning. <em>Wiley Interdisciplinary Reviews: Cognitive Science</em>, <em>10</em>(3), e1489. <a href=\"https://doi.org/10.1002/wcs.1489\">https://doi.org/10.1002/wcs.1489</a> </p>",
+              "customLabel": "Prettyman, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw5kucge69q",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2jpthe9f4l\" data-reactroot=\"\">Jenkin, Z. (2023). Perceptual learning.\u00a0<em>Philosophy Compass</em>,\u00a0<em>18</em>(6), e12932. <a href=\"https://doi.org/10.1111/phc3.12932\">https://doi.org/10.1111/phc3.12932</a> </p>",
+              "customLabel": "Jenkin, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1w0rcex6yp",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Regardless of whether perceptual learning involves cognitive penetration, it is broadly connected to cognition as a whole because it leads to changes to the input representations for all processes downstream from perception in the flow of information.\u00a0Given the major consequences of lasting changes to perceptual processing, it is not surprising that perceptual systems generally change slowly and\u00a0conservatively.\u00a0Nonetheless, perceptual learning is an important tool for creating flexible cognitive systems in which environmental regularities can be assimilated into a learning device that is subject to perceptual constraints [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/984ungzu",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Affordances"
+          },
+          {
+            "type": "text",
+            "text": "]. Viewed in this way, perceptual learning critically involves a learner modifying the constraints according to which their own subsequent learning unfolds."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nsig05b94sy",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n75dn5bhykc",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gibson, E. J. (1969). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Principles of perceptual learning and development."
+                  },
+                  {
+                    "type": "text",
+                    "text": " Appleton-Century-Crofts."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "njmvn8rhaei",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Lu, Z. L., & Dosher, B. A. (2022). Current directions in visual perceptual learning. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Nature Reviews Psychology"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "1"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(11), 654-668. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1038/s44159-022-00107-2",
+                          "title": "",
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1038/s44159-022-00107-2"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nxchx2v5pe5",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Prettyman, A. (2019). Perceptual learning. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Wiley Interdisciplinary Reviews: Cognitive Science"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "10"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(3), e1489. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1002/wcs.1489",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1002/wcs.1489"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "na56kese19c",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Sagi, D. (2011). Perceptual learning in vision research. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Vision Research"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "51"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(13), 1552-1566. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1016/j.visres.2010.10.019",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1016/j.visres.2010.10.019"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

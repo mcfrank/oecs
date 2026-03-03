@@ -1,0 +1,1785 @@
+{
+  "id": "7b57c281-dd2f-4651-8c51-d359c75378c9",
+  "slug": "s41l0yu6",
+  "title": "Memory",
+  "url": "https://oecs.mit.edu/pub/s41l0yu6",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "7b57c281-dd2f-4651-8c51-d359c75378c9",
+    "slug": "s41l0yu6",
+    "title": "Memory",
+    "htmlTitle": "Memory",
+    "description": "",
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.7b57c281",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "y6l0wsmi",
+    "editHash": "ugyf0r9z",
+    "reviewHash": "9qq1m7xs",
+    "commentHash": "sur9o8k1",
+    "draftId": "f963939b-cd97-4357-baf1-fa2fe2d841c1",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "989c369d-cfe2-4526-bf41-e63eedd583c8",
+    "scopeSummaryId": "141144be-40da-4519-bce3-daf541d012a2",
+    "createdAt": "2025-08-13T16:06:06.487Z",
+    "updatedAt": "2025-09-10T17:37:28.682Z",
+    "attributions": [
+      {
+        "id": "e38940ad-8200-4134-8e7a-ff1177807afa",
+        "name": "Nikola Andonovski",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Universit\u00e9 Grenoble Alpes; Ruhr-Universit\u00e4t Bochum",
+        "orcid": "0000-0001-6957-0261",
+        "userId": null,
+        "pubId": "7b57c281-dd2f-4651-8c51-d359c75378c9",
+        "createdAt": "2025-08-13T16:06:34.107Z",
+        "updatedAt": "2025-08-13T16:07:33.398Z",
+        "user": null
+      },
+      {
+        "id": "72bd4bff-edbe-4586-b617-f7647cdddc13",
+        "name": "Kourken Michaelian",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Universit\u00e9 Grenoble Alpes; Institut Universitaire de France",
+        "orcid": "0000-0002-5205-3046",
+        "userId": null,
+        "pubId": "7b57c281-dd2f-4651-8c51-d359c75378c9",
+        "createdAt": "2025-08-13T16:07:09.818Z",
+        "updatedAt": "2025-08-13T16:07:29.905Z",
+        "user": null
+      },
+      {
+        "id": "d5964433-b4b5-4c21-adda-0e83185281d6",
+        "name": "Adrian Alsmith",
+        "avatar": null,
+        "title": null,
+        "order": 0.9375,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "King's College London",
+        "orcid": "0000-0002-1557-4133",
+        "userId": null,
+        "pubId": "7b57c281-dd2f-4651-8c51-d359c75378c9",
+        "createdAt": "2025-08-19T23:18:40.804Z",
+        "updatedAt": "2025-08-19T23:19:02.689Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "f963939b-cd97-4357-baf1-fa2fe2d841c1",
+      "latestKeyAt": "2025-09-02T16:19:43.695Z",
+      "firebasePath": "drafts/draft-f963939b-cd97-4357-baf1-fa2fe2d841c1",
+      "createdAt": "2025-08-13T16:06:06.336Z",
+      "updatedAt": "2025-09-10T17:35:18.215Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n65qdhbsqbj",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Memory is a capacity that enables an agent\u2019s behavior to be modified and shaped by its past experience. Given this characterization, two central questions arise. First, what are the mechanisms by which such behavioral modifications are produced\u2014that is, how does memory function? Second, should memory be treated as a unitary capacity, or are there fundamentally different kinds of memory that should be distinguished? These two questions have been central throughout the long history of philosophical inquiry into memory and the shorter but rich history of empirical memory research. Researchers have debated, on the one hand, the nature of memory mechanisms and processes and, on the other hand, the merits of rival taxonomies of memory. As memory is widely recognized as playing a central role in shaping human experience and cognition, this research is essential for advancing both theoretical knowledge and practical applications across domains as diverse as mental health, education, and artificial intelligence.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nx2i5vzjhdf",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Although memory was already an object of philosophical inquiry in ancient Greece ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnc9swu4970",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhg9xx2wqt4\" data-reactroot=\"\">Herrmann, D. J., &amp; Chaffin, R. (Eds.). (1988).\u00a0<em>Memory in historical perspective: The literature before Ebbinghaus.</em>\u00a0Springer.</p>",
+              "customLabel": "Herrmann & Chaffin, 1988",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), modern empirical memory research traces its history to Hermann "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nz80v3masz4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxt36n94bsf\" data-reactroot=\"\">Ebbinghaus, H. (1964). <em>Memory: A contribution to experimental psychology</em>. (H.A. Ruber &amp; C. E. Bussenius, Trans.). Dover. (Original work published 1885)</p>",
+              "customLabel": "Ebbinghaus (1885/1964)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", who was the first to apply the experimental methods of natural science to memory. Measuring the amount of time or the number of repetitions it took to learn a series of simple units such as nonsense syllables, Ebbinghaus described processes relating to learning, retention, and forgetting that have stood the test of time. In doing so, he drew explicitly on the ancient metaphor of storage, describing experiences as being \u201cinscribed\u201d in the mind and as leaving traces that are \u201cread off\u201d during remembering. Inspired by the same metaphor, Richard "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nswwa5hxhg8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfffrczx0kp\" data-reactroot=\"\">Semon, R. W. (1921). <em>The mneme.</em> G. Allen &amp; Unwin Limited.</p>",
+              "customLabel": "Semon (1921)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " later coined the term "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "engram"
+          },
+          {
+            "type": "text",
+            "text": " to refer to the physical substrate of memory traces. Reluctant to speculate about the biological basis of memory, Semon posed the question whether engrams are localized in particular cells or brain regions or whether they are more widely distributed. That question would come to the fore in the mid-twentieth century, as Karl Lashley\u2019s experiments involving cortical lesions lent support to distributed models of storage ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nots6w6dxzo",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nczw5jdy2yo\" data-reactroot=\"\">Lashley, K. S. (1950). In search of the engram. In J. F. Danielli &amp; R. Brown (Eds.), <em>Symposium of the Society for Experimental Biology (</em>Vol. 4, pp. 454-482). Cambridge University Press.\u00a0</p>",
+              "customLabel": "Lashley, 1950",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In a seminal contribution, Donald O. "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "neuuojmzyeb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nj3bmqgs7z0\" data-reactroot=\"\">Hebb, D. O. (1949). <em>Organization of behavior: A neuropsychological theory</em>. Wiley.</p>",
+              "customLabel": "Hebb (1949)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " hypothesized that memories are stored in populations of functionally connected neurons, an idea that has profoundly influenced modern memory neuroscience."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "neqej5b61lc",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In the early decades of memory research, both William "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n31nuknb4tl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nuyjxd25fev\" data-reactroot=\"\">James, W. (1890).<em> The principles of psychology. </em>Holt, Rinehart and Winston.</p>",
+              "customLabel": "James (1890)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " and Henri "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n31hn3nlrt1",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"na0frrdtn5u\" data-reactroot=\"\">Bergson, H. (1911). <em>Matter and memory</em> (N. M. Paul &amp; W. S. Palmer, Trans.). Swan Sonnenschein &amp; Co. (Original work published 1896)</p>",
+              "customLabel": "Bergson (1896/1911)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " proposed distinctions among kinds of memory they took to be importantly different. The idea that memory is not a unitary capacity but rather a collection of distinct systems would nevertheless only take hold in the 1960s and 1970s, when researchers distinguished first between short-term and long-term memory ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxbuwgfj7q2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"naaizsaqd9m\" data-reactroot=\"\">Atkinson, R. C., &amp; Shiffrin, R. M. (1968). Human memory: A proposed system and its control processes. In K. W. Spence &amp; J. T. Spence (Eds.), <em>Psychology of learning and motivation</em> (Vol. 2, pp. 89-195). Academic Press. <a href=\"https://doi.org/10.1016/S0079-7421(08)60422-3\">https://doi.org/10.1016/S0079-7421(08)60422-3</a> </p>",
+              "customLabel": "Atkinson & Shiffrin, 1968",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and then among different long-term memory systems ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1iufs34dj8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq8im8uhi0g\" data-reactroot=\"\">Tulving, E. (1983). <em>Elements of episodic memory.</em> Oxford University Press.</p>",
+              "customLabel": "Tulving, 1983",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), leading to the emergence of the multiple memory systems view."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "encoding-storage-and-retrieval",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Encoding, storage, and retrieval"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nq1h6wjcggw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "According to a widely accepted model, memory processing involves three essential stages: encoding, storage, and retrieval. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Encoding "
+          },
+          {
+            "type": "text",
+            "text": "is the acquisition of information and its transformation into a form suitable for storage. The effectiveness of encoding depends on the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "level of processing"
+          },
+          {
+            "type": "text",
+            "text": ": information that is processed more deeply\u2014that is, in terms of its meaning rather than surface features like visual appearance or sound\u2014is typically remembered better than information processed more shallowly ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nev08a3qk6v",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0ryy6mipr5\" data-reactroot=\"\">Craik, F. I. M., &amp; R. S. Lockhart. (1972). Levels of processing: A framework for memory research. <em>Journal of Verbal Learning and Verbal Behavior</em>, <em>11</em>(6), 671\u2013684. <a href=\"https://doi.org/10.1016/S0022-5371(72)80001-X\">https://doi.org/10.1016/S0022-5371(72)80001-X</a> </p>",
+              "customLabel": "Craik & Lockhart, 1972",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Storage "
+          },
+          {
+            "type": "text",
+            "text": "is the maintenance of this information over time. It includes "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "consolidation"
+          },
+          {
+            "type": "text",
+            "text": ", a process through which memory traces are strengthened and made more stable and long lasting. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Retrieval "
+          },
+          {
+            "type": "text",
+            "text": "is the process of accessing or recovering stored information. These stages are generally understood by psychologists to be interdependent and frequently overlapping."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "forgetting",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Forgetting"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ns0jt9ox0h2",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Forgetting "
+          },
+          {
+            "type": "text",
+            "text": "is the loss of or inability to retrieve information from memory. Psychologists believe it occurs because of a variety of factors, including gradual information decay, interference from other information, and unavailability of memory cues\u2014external or internal triggers (e.g., smells, sounds) that help access stored information. Although often seen as a failure of memory, forgetting can be beneficial, enabling organisms to prioritize relevant information and conserve cognitive resources ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ng3wditytql",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nnqe1loawp5\" data-reactroot=\"\">Schacter, D. L. (2021). <em>The seven sins of memory updated edition: How the mind forgets and remembers.</em> Houghton Mifflin Harcourt.</p>",
+              "customLabel": "Schacter, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "memory-systems",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Memory systems"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nm7a6kxhafm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "According to the multiple memory systems view, memory is not a unitary capacity but is rather composed of multiple neurocognitive systems characterized by distinct kinds of representation, principles of operation, and neural substrates ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuwk1gwnrcg",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2y9bfkaawi\" data-reactroot=\"\">Squire, L. R. (2004). Memory systems of the brain: A brief history and current perspective. <em>Neurobiology of Learning and Memory</em>,\u00a0<em>82</em>(3), 171-177. <a href=\"https://doi.org/10.1016/j.nlm.2004.06.005\">https://doi.org/10.1016/j.nlm.2004.06.005</a> </p>",
+              "customLabel": "Squire, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Memory systems constitute the basic kinds of memory. They interact to enable learning, retention, and retrieval across different domains of knowledge. Long-term memory systems are"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "typically categorized into "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "explicit (declarative) memory"
+          },
+          {
+            "type": "text",
+            "text": ", which involves conscious recollection of events and facts (e.g., episodic and semantic memory) and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "implicit (nondeclarative) memory, "
+          },
+          {
+            "type": "text",
+            "text": "which operates without conscious awareness (e.g., procedural memory and conditioning). Short-term memory systems, such as working memory, support the temporary maintenance and manipulation of information needed for reasoning and goal-directed behavior. The precise relationship between working memory and short-term memory is a subject of theoretical disagreement; some models characterize short-term storage as a component of a complex working memory system, whereas others posit short-term stores that are not part of working memory (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n47psokfyvs",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhzgbdimg2t\" data-reactroot=\"\">Cowan, N. (2017). The many faces of working memory and short-term storage.\u00a0<em>Psychonomic Bulletin &amp; Review</em>,\u00a0<em>24</em>(4), 1158-1170. <a href=\"https://doi.org/10.3758/s13423-016-1191-6\">https://doi.org/10.3758/s13423-016-1191-6</a>  </p>",
+              "customLabel": "Cowan, 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "episodic-memory",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Episodic memory"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nguiyd1yoy5",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Episodic memory"
+          },
+          {
+            "type": "text",
+            "text": " is a memory system that enables the recollection of personally experienced events. It involves the storage and retrieval of information about specific events (e.g., one\u2019s tenth birthday party) and a distinctive sense of \u201cre-experiencing\u201d or \u201creliving\u201d the personal past ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny5bf53c0x2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nq8im8uhi0g\" data-reactroot=\"\">Tulving, E. (1983). <em>Elements of episodic memory.</em> Oxford University Press.</p>",
+              "customLabel": "Tulving, 1983",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). It thus bears an essential connection to the self, to the sense of subjective time, and to the form of consciousness that enables individuals to be aware of their own continued existence."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "semantic-memory",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Semantic memory"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nnztcjl76je",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Semantic memory"
+          },
+          {
+            "type": "text",
+            "text": " is a system responsible for storing and accessing general knowledge about the world, including the meanings of words and concepts [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/j39m4jos",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Concepts"
+          },
+          {
+            "type": "text",
+            "text": "]. It supports a wide range of cognitive activities, including object recognition, reasoning, and future planning. Semantic memory interacts closely with episodic memory as well as with other sensory, perceptual, and motor systems ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nm93tgagw54",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"neqjmq1snxl\" data-reactroot=\"\">Kumar, A. A. (2021). Semantic memory: A review of methods, models, and current challenges. <em>Psychonomic Bulletin &amp; Review</em>,\u00a0<em>28</em>(1), 40-80. <a href=\"https://doi.org/10.3758/s13423-020-01792-x\">https://doi.org/10.3758/s13423-020-01792-x</a> </p>",
+              "customLabel": "Kumar, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "procedural-memory",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Procedural memory"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n5wq8tvxp8f",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Procedural memory"
+          },
+          {
+            "type": "text",
+            "text": " is a memory system underlying a variety of motor, perceptual, and cognitive skills. It supports the know-how"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "involved in performing activities like riding a bicycle or playing a musical instrument. Procedural knowledge is typically acquired gradually through repeated practice, eventually becoming automatic and requiring little or no conscious effort to access ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzz1u2icmtd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2y9bfkaawi\" data-reactroot=\"\">Squire, L. R. (2004). Memory systems of the brain: A brief history and current perspective. <em>Neurobiology of Learning and Memory</em>,\u00a0<em>82</em>(3), 171-177. <a href=\"https://doi.org/10.1016/j.nlm.2004.06.005\">https://doi.org/10.1016/j.nlm.2004.06.005</a> </p>",
+              "customLabel": "Squire, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "working-memory",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Working memory"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbbcdweo2j7",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Working memory"
+          },
+          {
+            "type": "text",
+            "text": " is a memory system enabling the short-term storage and manipulation of information for goal-directed processing [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/1rgtz41v",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Working Memory"
+          },
+          {
+            "type": "text",
+            "text": "]. It operates on timescales measured in seconds and has a very limited capacity ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nx8u59oewmm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkyr6na6oe8\" data-reactroot=\"\">Cowan, N. (2012).\u00a0<em>Working memory capacity</em>. Psychology Press.</p>",
+              "customLabel": "Cowan, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). According to one influential view, working memory consists of multiple distinct components, including a central executive responsible for attentional control and manipulation and several subsidiary components that store and maintain phonological (speech- and sound-based) and visuospatial information ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nspbf4foji4",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"navgx3a5scn\" data-reactroot=\"\">Baddeley, A. D. (2007).\u00a0<em>Working memory, thought, and action</em>. Oxford University Press.</p>",
+              "customLabel": "Baddeley, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n0qcajz3gg3",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Particularly notable is the renewed search for the neural bases of storage and retrieval. Researchers have employed a variety of novel methods to capture, manipulate, and artificially reactivate populations of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "engram neurons "
+          },
+          {
+            "type": "text",
+            "text": "("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6eupprrle5",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nh4vs6jttl8\" data-reactroot=\"\">Josselyn, S. A., K\u00f6hler, S., &amp; Frankland, P. W. (2015). Finding the engram. <em>Nature Reviews Neuroscience</em>, <em>16</em>(9), 521-534. <a href=\"https://doi.org/10.1038/nrn4000\">https://doi.org/10.1038/nrn4000</a> </p>",
+              "customLabel": "Josselyn et al., 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Engram neurons are localized in specific brain regions (e.g., the hippocampus or the amygdala) but are embedded in broader brain networks, challenging the traditional dichotomy between localized and distributed memory storage.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfr9th8dqbf",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Also notable is the emergence of neuroimaging and clinical evidence revealing a close connection between episodic memory and imagination [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/d16msun2",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Episodic Future Thinking"
+          },
+          {
+            "type": "text",
+            "text": "]. This evidence has inspired a class of theories that posit a common neurocognitive system underlying both capacities ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzsk46mjmli",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nozw9ypc9ih\" data-reactroot=\"\">Hassabis, D. &amp; Maguire, E.A. (2007). Deconstructing episodic memory with construction. <em>Trends in Cognitive Sciences</em>, <em>11</em>(7), 299-306. <a href=\"https://doi.org/10.1016/j.tics.2007.05.001\">https://doi.org/10.1016/j.tics.2007.05.001</a> </p>",
+              "customLabel": "Hassabis & Maguire, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nezygva009p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nbco2k59nal\" data-reactroot=\"\">Schacter, D. L. &amp; Addis, D. R. (2007). The cognitive neuroscience of constructive memory: remembering the past and imagining the future. <em>Philosophical Transactions of the Royal Society B</em>, <em>362</em>(1481): 773-786. <a href=\"https://doi.org/10.1098/rstb.2007.2087\">https://doi.org/10.1098/rstb.2007.2087</a> </p>",
+              "customLabel": "Schacter & Addis, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). According to such theories, remembering the past and imagining the future amount to two forms of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "mental time travel"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ng9alkdl084",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n0mxnfjblq7\" data-reactroot=\"\">Michaelian, K. (2016). <em>Mental time travel</em>: <em>Episodic memory and our knowledge of the personal past</em>. MIT Press.</p>",
+              "customLabel": "Michaelian, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmvskm1u469",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Recent work has also deepened the understanding of the relationship between memory and sleep. A wealth of evidence shows that sleep plays a critical role in memory consolidation, facilitating the reorganization of memories and their integration into the network of preexisting memories, while selectively strengthening those that are most salient or relevant ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6q55zdyx0h",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwgsetcmvlz\" data-reactroot=\"\">Rasch, B., &amp; Born, J. (2013). About sleep\u2019s role in memory.\u00a0<em>Physiological Reviews</em>, <em>93</em>(2), 681-766. <a href=\"https://doi.org/10.1152/physrev.00032.2012\">https://doi.org/10.1152/physrev.00032.2012</a> </p>",
+              "customLabel": "Rasch & Born, 2013",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvfa7dtaq4s",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "An important line of research concerns the relation between memory and the self, grounded in a prominent theory that characterizes memory as providing an autobiographical database for the self ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncesny7hym7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngs7m3si69w\" data-reactroot=\"\">Conway, M. A. (2005). Memory and the self.\u00a0<em>Journal of Memory and Language</em>,\u00a0<em>53</em>(4), 594-628. <a href=\"https://doi.org/10.1016/j.jml.2005.08.005\">https://doi.org/10.1016/j.jml.2005.08.005</a> </p>",
+              "customLabel": "Conway, 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/y25banqk",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Self"
+          },
+          {
+            "type": "text",
+            "text": "]. Another line of research concerns memory in nonhuman"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "animals, with a debate about whether nonhuman animals have episodic memory attracting particular attention ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkcawgbdhbb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nye1y63gm7d\" data-reactroot=\"\">Suddendorf, T., &amp; Corballis, M. C. (2010). Behavioural evidence for mental time travel in nonhuman animals.\u00a0<em>Behavioural Brain Research</em>,\u00a0<em>215</em>(2), 292-298. <a href=\"https://doi.org/10.1016/j.bbr.2009.11.044\">https://doi.org/10.1016/j.bbr.2009.11.044</a> </p>",
+              "customLabel": "Suddendorf & Corballis, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Most recently, rapid advances in generative artificial intelligence have inspired new lines of inquiry that compare memory in biological organisms and artificial agents and explore more biologically inspired memory architectures for future artificial intelligence systems ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "np8ta07zkzk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nav36f8cc4e\" data-reactroot=\"\">Rolls, E. T. (2024). The memory systems of the human brain and generative artificial intelligence.\u00a0<em>Heliyon</em>,\u00a0<em>10</em>(11), e31965. <a href=\"https://doi.org/10.1016/j.heliyon.2024.e31965\">https://doi.org/10.1016/j.heliyon.2024.e31965</a> </p>",
+              "customLabel": "Rolls, 2024",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "acknowledgments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Acknowledgments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngkeh13gknq",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "N.A. was funded by the European Union\u2019s Horizon research and innovation program under the Marie Sklodowska-Curie grant agreement 101062754. K.M. was supported by Agence Nationale de la Recherche (ANR) grant number ANR-23-CE54-0004-0, by ORCHID grant number 113-2927-I-A49A-501, by the ANR in the framework of the \u201cInvestissements d\u2019avenir\u201d program (ANR-15-IDEX-02), by the joint initiatives in research and education programme from National Taiwan University/Universite\u0301 Grenoble Alpes/University of Tsukuba trilateral center, and by Australian Research Council (ARC) grant number DP250100887."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Further reading\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nhn24mnfxkf",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n7xvp0i1tv0",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De Brigard, F. (2023). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Memory and remembering."
+                  },
+                  {
+                    "type": "text",
+                    "text": " Cambridge University Press."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nyqq20jxxn0",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ranganath, C. (2024) "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Why we remember: Unlocking memory\u2019s power to hold on to what matters."
+                  },
+                  {
+                    "type": "text",
+                    "text": " Doubleday."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nxc6nscx5gq",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Sant\u2019Anna, A., McCarroll, C. J., & Michaelian, K. (Eds.). (2023). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Current controversies in philosophy of memory"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Routledge."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nnqe1loawp5",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Schacter, D. L. (2021). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "The seven sins of memory updated edition: How the mind forgets and remembers."
+                  },
+                  {
+                    "type": "text",
+                    "text": " Houghton Mifflin Harcourt."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

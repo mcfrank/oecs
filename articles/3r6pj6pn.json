@@ -1,0 +1,1198 @@
+{
+  "id": "cdacaf45-af4b-4f72-bf8a-c5ab07460f3c",
+  "slug": "3r6pj6pn",
+  "title": "Open Science",
+  "url": "https://oecs.mit.edu/pub/3r6pj6pn",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "cdacaf45-af4b-4f72-bf8a-c5ab07460f3c",
+    "slug": "3r6pj6pn",
+    "title": "Open Science",
+    "htmlTitle": "Open Science",
+    "description": "",
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": "2024-07-24T00:00:00.000Z",
+    "doi": "10.21428/e2759450.cdacaf45",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "xra9uvl7",
+    "editHash": "ygtqe07z",
+    "reviewHash": "37ai9dv4",
+    "commentHash": "zkc0gdek",
+    "draftId": "14beb1e4-f813-40fe-9c60-474ea52e7917",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "0ac4ab18-0e97-4e2e-a148-7400d78efc05",
+    "scopeSummaryId": "fbcb5088-7b1a-4be2-86b5-05c702b7fc90",
+    "createdAt": "2024-04-25T14:36:18.621Z",
+    "updatedAt": "2024-07-24T13:10:33.129Z",
+    "attributions": [
+      {
+        "id": "224618d2-bbbe-499c-aef9-d575d494e9bf",
+        "name": "Tom E. Hardwicke",
+        "avatar": null,
+        "title": null,
+        "order": 0.5,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of Melbourne",
+        "orcid": "0000-0001-9485-4952",
+        "userId": null,
+        "pubId": "cdacaf45-af4b-4f72-bf8a-c5ab07460f3c",
+        "createdAt": "2024-05-02T18:32:22.427Z",
+        "updatedAt": "2024-05-02T18:34:24.079Z",
+        "user": null
+      },
+      {
+        "id": "61415d09-ab08-4a5e-8fe6-5cc51afd4882",
+        "name": "Simine Vazire",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of Melbourne",
+        "orcid": "0000-0002-3933-9752",
+        "userId": null,
+        "pubId": "cdacaf45-af4b-4f72-bf8a-c5ab07460f3c",
+        "createdAt": "2024-05-02T18:32:36.653Z",
+        "updatedAt": "2024-05-02T18:34:30.974Z",
+        "user": null
+      },
+      {
+        "id": "c854fb45-072f-457b-beea-bdcfc23102b0",
+        "name": "Michael C. Frank",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "section editor"
+        ],
+        "affiliation": "Stanford University",
+        "orcid": "0000-0002-7551-4378",
+        "userId": null,
+        "pubId": "cdacaf45-af4b-4f72-bf8a-c5ab07460f3c",
+        "createdAt": "2024-07-23T21:50:50.364Z",
+        "updatedAt": "2024-07-23T21:51:09.657Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "14beb1e4-f813-40fe-9c60-474ea52e7917",
+      "latestKeyAt": "2024-07-24T21:49:05.116Z",
+      "firebasePath": "drafts/draft-14beb1e4-f813-40fe-9c60-474ea52e7917",
+      "createdAt": "2024-04-25T14:36:18.617Z",
+      "updatedAt": "2024-07-24T21:51:04.023Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbq8l20kbyb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Open science refers to a set of principles and practices that promote transparency in science. The core idea is to make it easy for others to access, verify, and build on scientific research, for example, by reanalyzing data, critiquing methods, running replication studies, or identifying errors or sources of bias. Examples of open science include preregistration; sharing of data, research materials, and analysis scripts; disclosure of funding and conflicts of interest; and open access to research articles. Proponents usually acknowledge that transparency needs to be weighed against other ethical priorities such as participant privacy\u2014a key guiding principle is that research should be as \u201copen as possible and as closed as necessary.\u201d\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nsvl00n6esu",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "While open science is a relatively modern term, transparency is a longstanding scientific principle ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxrcz25p0wl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nisktiwhqji\" data-reactroot=\"\">Wootton, D. (2016). <em>The invention of science: A new history of the scientific revolution</em>. Harper Perennial.</p>",
+              "customLabel": "Wootton, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). During the early Scientific Revolution, visionaries like Francis Bacon and Robert Boyle criticized the clandestine research practices of alchemists and advocated for greater transparency and collaboration, including practices like communal witnessing, in which experiments were performed in front of an audience. The principles of transparency and independent verification are embodied in the motto of one of the oldest scientific institutions, the Royal Society: "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "nullius in verba"
+          },
+          {
+            "type": "text",
+            "text": " (take no one\u2019s word for it)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nmyfqfprw21",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "As science has expanded and evolved, transparency has been increasingly neglected, with occasional exceptions. For example, in medicine, concerns about publication bias ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny9eoboofft",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nixgm70cdlx\" data-reactroot=\"\">Simes, R. J. (1986). Publication bias: The case for an international registry of clinical trials. Journal of Clinical Oncology, 4(10), 1529\u20131541. https://doi.org/10.1200/JCO.1986.4.10.1529 </p>",
+              "customLabel": "Simes, 1986",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") spurred advocacy for the preregistration of clinical trials, a practice that is now a legal requirement in many jurisdictions. Open science received limited attention in the cognitive sciences until the 2010s, when mounting concerns about research quality led to calls for greater transparency ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw017w8kc17",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n797qxgmphv\" data-reactroot=\"\">Ioannidis, J. P. A., Munaf\u00f2, M. R., Fusar-Poli, P., Nosek, B. A., &amp; David, S. P. (2014). Publication and other reporting biases in cognitive sciences: Detection, prevalence, and prevention. <em>Trends in Cognitive Sciences</em>, <em>18</em>(5), 235\u2013241. <a href=\"https://doi.org/10.1016/j.tics.2014.02.010\">https://doi.org/10.1016/j.tics.2014.02.010</a> </p>",
+              "customLabel": "Ioannidis et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8j4vfozk45",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nqyf0p6bbkr\" data-reactroot=\"\">Munaf\u00f2, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Percie du Sert, N., Simonsohn, U., Wagenmakers, E.-J., Ware, J. J., &amp; Ioannidis, J. P. A. (2017). A manifesto for reproducible science. <em>Nature Human Behaviour</em>, <em>1</em>(1), Article 0021. <a href=\"https://doi.org/10.1038/s41562-016-0021\">https://doi.org/10.1038/s41562-016-0021</a>\u00a0</p>",
+              "customLabel": "Munaf\u00f2 et al., 2017",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). This renewed focus on open science has been supported by new online infrastructure, such as preprint servers, study registries, and repositories for storing data, materials, and analysis scripts. Initial bottom-up advocacy for open science from community groups such as the Peer Reviewers Openness Initiative and the Society for the Improvement of Psychological Science has been reinforced by top-down policy initiatives from major scientific organizations ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n744gzs93bw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nozysnbstjv\" data-reactroot=\"\">Nosek, B. A., Alter, G., Banks, G. C., Borsboom, D., Bowman, S. D., Breckler, S. J., Buck, S., Chambers, C. D., Chin, G., Christensen, G., Contestabile, M., Dafoe, A., Eich, E., Freese, J., Glennerster, R., Goroff, D., Green, D. P., Hesse, B., Humphreys, M., \u2026 Yarkoni, T. (2015). Promoting an open research culture. <em>Science</em>, <em>348</em>(6242), 1422\u20131425. <a href=\"https://doi.org/10.1126/science.aab2374\">https://doi.org/10.1126/science.aab2374</a> </p>",
+              "customLabel": "Nosek et al., 2015",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In 2021, The United Nations Educational, Scientific and Cultural Organization (UNESCO) identified open science as a global priority."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "preregistration",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Preregistration"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nupvzyrfo6l",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Preregistration refers to archiving a research plan (e.g., aims/hypotheses, methods, and analyses) in a public registry, typically before any data has been collected. Preregistration is intended to reduce the risk of bias by encouraging researchers to make decisions independently of the data ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "niz1dx66d7r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkikp8lixys\" data-reactroot=\"\">Hardwicke, T. E., &amp; Wagenmakers, E.-J. (2023). Reducing bias, increasing transparency and calibrating confidence with preregistration. <em>Nature Human Behaviour</em>, <em>7</em>(1), 15\u201326. <a href=\"https://doi.org/10.1038/s41562-022-01497-2\">https://doi.org/10.1038/s41562-022-01497-2</a></p>",
+              "customLabel": "Hardwicke & Wagenmakers, 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). When research decisions such as how to define outliers are made with knowledge of the data, those decisions can be skewed in favor of the researchers\u2019 preferred outcome, creating a risk of bias. A public preregistration also enables readers to identify which decisions were preplanned (decreasing the risk of bias) and which were not (increasing the risk of bias) and appropriately calibrate their confidence in the study results. Preregistration templates have been developed for a variety of cognitive science domains, such as quantitative psychology ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnqt96yb9o0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8lfkn1rgq2\" data-reactroot=\"\">Bosnjak, M., Fiebach, C. J., Mellor, D., Mueller, S., O\u2019Connor, D. B., Oswald, F. L., &amp; Sokol, R. I. (2022). A template for preregistration of quantitative research in psychology: Report of the joint psychological societies preregistration task force. <em>American Psychologist</em>, <em>77</em>(4), 602\u2013615. <a href=\"https://doi.org/10.1037/amp0000879\">https://doi.org/10.1037/amp0000879</a></p>",
+              "customLabel": "Bosnjak et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), cognitive modeling ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzm5q0t25ab",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1vj038m1qf\" data-reactroot=\"\">Cr\u00fcwell, S., &amp; Evans, N. J. (2021). Preregistration in diverse contexts: A preregistration template for the application of cognitive models. <em>Royal Society Open Science</em>, <em>8</em>(10), 210155. <a href=\"https://doi.org/10.1098/rsos.210155\">https://doi.org/10.1098/rsos.210155</a></p>",
+              "customLabel": "Cr\u00fcwell & Evans, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and experimental linguistics ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nh8bmxw85no",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9slem235ru\" data-reactroot=\"\">Roettger, T. B. (2021). Preregistration in experimental linguistics: Applications, challenges, and limitations. <em>Linguistics</em>, <em>59</em>(5), 1227\u20131249. <a href=\"https://doi.org/10.1515/ling-2019-0048\">https://doi.org/10.1515/ling-2019-0048</a></p>",
+              "customLabel": "Roettger, 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/lwxmte1p",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Bayesian Models of Cognition"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "open-data-materials-and-analysis-scripts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Open data, materials, and analysis scripts"
+          },
+          {
+            "type": "text",
+            "text": "\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncsqdzteyw0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Sharing data can facilitate the detection of error or fraud, synthesis and aggregation of evidence, and novel discovery. Anonymization or other precautions are sometimes necessary to ensure data are shared responsibly ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n8r981oxt68",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1p6p13bz5o\" data-reactroot=\"\">Meyer, M. N. (2018). Practical tips for ethical data sharing. <em>Advances in Methods and Practices in Psychological Science</em>, <em>1</em>(1), 131\u2013144. <a href=\"https://doi.org/10.1177/2515245917747656\">https://doi.org/10.1177/2515245917747656</a> </p>",
+              "customLabel": "Meyer, 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Sharing materials such as stimuli, survey instruments, software, and detailed methods ensures that research can be thoroughly evaluated. It also increases efficiency by facilitating reuse and enables independent verification, for example, through replication studies. Sharing analysis scripts enables independent researchers to verify whether the reported results can be obtained by repeating the original analysis with the original data ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "computational reproducibility"
+          },
+          {
+            "type": "text",
+            "text": "). Analysis scripts document how data were filtered, transformed, analyzed, and visualized, usually in computational code.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "open-access",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Open access"
+          },
+          {
+            "type": "text",
+            "text": "\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvqaxs6w3d6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Open access refers to making research articles freely available to readers. Traditionally, most scientific publications are only accessible to scientists based at institutions that can afford journal subscription fees. Open access advocates argue that this practice is unfair, as most research is funded by the public; moreover, making research accessible to all would maximize its benefits to society. Increasingly, researchers share preprints: freely accessible research articles stored on preprint servers such as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "PsyArXiv"
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n84ipwsqdtl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ncgxxhdan0q\" data-reactroot=\"\">Moshontz, H., Binion, G., Walton, H., Brown, B. T., &amp; Syed, M. (2021). A guide to posting and managing preprints. <em>Advances in Methods and Practices in Psychological Science</em>, <em>4</em>(2). <a href=\"https://doi.org/10.1177/25152459211019948\">https://doi.org/10.1177/25152459211019948</a> </p>",
+              "customLabel": "Moshontz et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Some journals also make some or all of their articles open access, although often the authors have to pay a fee."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n8c8hjk3e0o",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Despite its scientific benefits, open science can increase pressures (e.g., workload or financial) on individual scientists, which may exacerbate existing inequalities ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkf7c4ra7d7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3iluzg53av\" data-reactroot=\"\">Bahlai, C., Bartlett, L., Burgio, K., Fournier, A., Keiser, C., Poisot, T., &amp; Whitney, K. (2019). Open science isn\u2019t always open to all scientists. <em>American Scientist</em>, <em>107</em>(2), 78. <a href=\"https://doi.org/10.1511/2019.107.2.78\">https://doi.org/10.1511/2019.107.2.78</a></p>",
+              "customLabel": "Bahlai et al., 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Additionally, it is not always clear how to balance transparency with competing legal, ethical, or practical constraints. For example, it has been argued that open science could facilitate harassment in controversial areas such as climate science ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkvwflrv2xp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4gv9vxxby7\" data-reactroot=\"\">Lewandowsky, S., &amp; Bishop, D. (2016). Don\u2019t let transparency damage science. <em>Nature</em>, <em>529</em>(7587), 459\u2013461. <a href=\"https://doi.org/10.1038/529459a\">https://doi.org/10.1038/529459a</a> </p>",
+              "customLabel": "Lewandowsky & Bishop, 2016",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") and create challenges for qualitative researchers ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n5xml2i6d2t",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n94epqww3zo\" data-reactroot=\"\">Pownall, M., Talbot, C. V., Kilby, L., &amp; Branney, P. (2023). Opportunities, challenges and tensions: Open science through a lens of qualitative social psychology. <em>British Journal of Social Psychology</em>, <em>62</em>(4), 1581\u20131589. <a href=\"https://doi.org/10.1111/bjso.12628\">https://doi.org/10.1111/bjso.12628</a></p>",
+              "customLabel": "Pownall et al., 2023",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). As the adoption of open science practices has increased, a number of implementation problems have been surfaced by meta-research. For example, open datasets are often inadequately documented ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwleam94h35",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ng1hhv5kf32\" data-reactroot=\"\">Towse, J. N., Ellis, D. A., &amp; Towse, A. S. (2020). Opening Pandora\u2019s Box: Peeking inside psychology\u2019s data sharing practices, and seven recommendations for change. <em>Behavior Research Methods</em>, <em>53</em>, 1455\u20131468. <a href=\"https://doi.org/10.3758/s13428-020-01486-1\">https://doi.org/10.3758/s13428-020-01486-1</a> </p>",
+              "customLabel": "Towse et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and researchers often fail to disclose deviations from preregistered plans ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njhbumu37aw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlxw4bo5apf\" data-reactroot=\"\">Claesen, A., Gomes, S., Tuerlinckx, F., &amp; Vanpaemel, W. (2021). Comparing dream to reality: An assessment of adherence of the first generation of preregistered studies. <em>Royal Society Open Science</em>, <em>8</em>(10), 211037. <a href=\"https://doi.org/10.1098/rsos.211037\">https://doi.org/10.1098/rsos.211037</a></p>",
+              "customLabel": "Claesen et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "meta-research",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Meta-research"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncz2u1ym1vm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Meta-research (research on research), or meta-science, is a growing discipline that uses theoretical and empirical approaches to study and improve scientific research ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ny7nzceqcwv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n36wvxyz6rd\" data-reactroot=\"\">Hardwicke, T. E., Serghiou, S., Janiaud, P., Danchev, V., Cr\u00fcwell, S., Goodman, S. N., &amp; Ioannidis, J. P. A. (2020). Calibrating the scientific ecosystem through meta-research. <em>Annual Review of Statistics and Its Application</em>, <em>7</em>(1), 11\u201337. <a href=\"https://doi.org/10.1146/annurev-statistics-031219-041104\">https://doi.org/10.1146/annurev-statistics-031219-041104</a></p>",
+              "customLabel": "Hardwicke et al., 2020",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Open science and meta-research are frequently in dialogue, with meta-research empirically evaluating the effectiveness and possible side effects of open science reforms and open science providing data and content for meta-researchers to evaluate (e.g., datasets, preregistrations, study materials)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "public-trust-in-science",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Public trust in science"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ncmnp5s0725",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Transparency is a core principle of science (children are often taught in school that scientists \u201cshow their work\u201d) and necessary for scientific self-correction. Thus, it seems logical that public trust in science would depend on a scientific community\u2019s demonstrated commitment to open science. However, evidence regarding the link between open science and public trust in science is mixed (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nngxt6by725",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhszz1yfz51\" data-reactroot=\"\">Rosman, T., Bosnjak, M., Silber, H., Ko\u00dfmann, J., &amp; Heycke, T. (2022). Open science and public trust in science: Results from two studies. <em>Public Understanding of Science</em>, <em>31</em>(8), 1046\u20131062. <a href=\"https://doi.org/10.1177/09636625221100686\">https://doi.org/10.1177/09636625221100686</a></p>",
+              "customLabel": "Rosman et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "research-misconduct-and-research-integrity",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Research misconduct and research integrity"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nv35b52vei6",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Open science does not prevent honest errors, misconduct, or poor research design\u2014transparently reported science can still be wrong. However, open science practices make it easier to detect and correct errors, biases, and misrepresentations. Open science is thus one of several mechanisms for improving research quality."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "n1ms56k6mmd",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nqyf0p6bbkr",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Munaf\u00f2, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Percie du Sert, N., Simonsohn, U., Wagenmakers, E.-J., Ware, J. J., & Ioannidis, J. P. A. (2017). A manifesto for reproducible science. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Nature Human Behaviour"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "1"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(1), Article 0021. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1038/s41562-016-0021",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1038/s41562-016-0021"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\u00a0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n9ym59839ma",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Frank, M. C., Braginsky, M., Cachia, J., Coles, N., Hardwicke, T. E., Hawkins, R., Mathur, M., & Williams, R. (2024). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Experimentology: An open science approach to experimental psychology methods"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". MIT Press. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://experimentology.io",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://experimentology.io"
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

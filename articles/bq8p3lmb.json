@@ -1,0 +1,1557 @@
+{
+  "id": "528dddc3-7c25-4ce0-902c-b596cdc01518",
+  "slug": "bq8p3lmb",
+  "title": "Hidden Markov Models",
+  "url": "https://oecs.mit.edu/pub/bq8p3lmb",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "528dddc3-7c25-4ce0-902c-b596cdc01518",
+    "slug": "bq8p3lmb",
+    "title": "Hidden Markov Models",
+    "htmlTitle": "Hidden Markov Models",
+    "description": "",
+    "htmlDescription": "Ingmar Visser (0000-0003-3855-2778)\nUniversity of Amsterdam",
+    "avatar": null,
+    "customPublishedAt": null,
+    "doi": "10.21428/e2759450.528dddc3",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "mk3f75v4",
+    "editHash": "a07w0jzy",
+    "reviewHash": "seh4evbs",
+    "commentHash": "kw7zg299",
+    "draftId": "01b687d5-7f84-4e66-8bc6-79830061e066",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "ba5d84ed-edcd-4633-84f1-a0259246193c",
+    "scopeSummaryId": "d1eef811-5196-41e0-88b5-a5c1e641036e",
+    "createdAt": "2025-10-10T13:53:12.321Z",
+    "updatedAt": "2025-11-20T21:08:39.373Z",
+    "attributions": [
+      {
+        "id": "55ad4b9f-a401-4503-a86a-217225b2bc96",
+        "name": "Ingmar Visser",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "University of Amsterdam",
+        "orcid": "0000-0003-3855-2778",
+        "userId": null,
+        "pubId": "528dddc3-7c25-4ce0-902c-b596cdc01518",
+        "createdAt": "2025-10-10T13:56:33.189Z",
+        "updatedAt": "2025-10-10T13:56:45.005Z",
+        "user": null
+      },
+      {
+        "id": "c894e09b-497b-4e45-abc7-99f9f65408ad",
+        "name": "Michael C. Frank",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "Section Editor"
+        ],
+        "affiliation": "Stanford University",
+        "orcid": "0000-0002-7551-4378",
+        "userId": null,
+        "pubId": "528dddc3-7c25-4ce0-902c-b596cdc01518",
+        "createdAt": "2025-10-21T20:40:02.259Z",
+        "updatedAt": "2025-10-21T20:42:43.898Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "01b687d5-7f84-4e66-8bc6-79830061e066",
+      "latestKeyAt": "2025-11-20T20:56:35.960Z",
+      "firebasePath": "drafts/draft-01b687d5-7f84-4e66-8bc6-79830061e066",
+      "createdAt": "2025-10-10T13:53:12.317Z",
+      "updatedAt": "2025-11-20T21:07:05.976Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7wy1s9n323",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Hidden Markov models are a class of statistical model used to characterize time series and longitudinal data. When applied to longitudinal data, the model is also known as the latent Markov model. Hidden Markov models are very versatile models and have a wide range of applications. The model is appropriate when the underlying process is assumed to be discrete, and measurements are taken at discrete (equally spaced) points in time. In cognitive science, the model is primarily applied to data on learning and cognitive development as well as to psychophysiological data."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "history",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1htwc0q1di",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Baum and Petrie laid the statistical foundations of hidden Markov models (HMMs) in the 1960s. In their article, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nf8u1rc30zn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nl7trgaxt8g\" data-reactroot=\"\">Baum, L. E., &amp; Petrie, T. (1966). Statistical inference for probabilistic functions of finite state Markov chains. <em>Annals of Mathematical Statistics</em>, <em>37</em>(6), 1554\u20131540. <a href=\"https://doi.org/10.1214/aoms/1177699147\">https://doi.org/10.1214/aoms/1177699147</a> </p>",
+              "customLabel": "Baum and Petrie (1966)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " derived the main equations necessary to efficiently compute the likelihood for these models (informally, the probability of the data under the model as a function of the parameters) as well as outlining methods for parameter estimation. Note that, at the time, the models were not called HMMs but referred to as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "probabilistic functions of Markov chains"
+          },
+          {
+            "type": "text",
+            "text": ". The groundwork for latent Markov models was done by Wiggins around the same time, presenting models for the analysis of longitudinal panel data (see "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nv5z7fryvnw",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nc99xs2fya0\" data-reactroot=\"\">Wiggins, L. M. (1973). <em>Panel analysis: Latent probability models for attitude and behavior processes.</em> Jossey-Bass.</p>",
+              "customLabel": "Wiggins, 1973",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nf1qmzegheh",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Early applications of time series analysis with HMMs were developed in engineering and economics. A key paper in the engineering literature is "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nnb5j654faj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nen4bb4x7wn\" data-reactroot=\"\">Rabiner, L. R. (1989). A tutorial on hidden Markov models and selected applications in speech recognition. <em>Proceedings of the IEEE</em>, <em>77</em>(2), 257\u2013286. <a href=\"https://doi.org/10.1109/5.18626\">https://doi.org/10.1109/5.18626</a> </p>",
+              "customLabel": "Rabiner (1989)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". In this work, Rabiner applied the HMM to the problem of speech recognition; a continuous stream of speech data needs to be parsed into discrete segments\u2014words. In economic time series, HMMs have been (and continue to be) applied to characterize and predict different phases of the economy. For example, so-called \u201cbear\u201d and \u201cbull\u201d markets (with average stock prices going up or down) on the stock exchange are modeled by "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6w5tv9a5rf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1yj9c71wnk\" data-reactroot=\"\">Kim, C. J. (1994). Dynamic linear models with Markov-switching. <em>Journal of Econometrics</em>, <em>60</em>(1\u20132): 1\u201322. <a href=\"https://doi.org/10.1016/0304-4076(94)90036-1\">https://doi.org/10.1016/0304-4076(94)90036-1</a> </p>",
+              "customLabel": "Kim (1994)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". In the context of economics, these models are often referred to as regime-switching models."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "noaq2yoeam4",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The latent Markov model (LMM) for longitudinal data was popularized in the social sciences by Langeheine and Van de Pol in the 1980s and 1990s (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3jlon6vwqq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxpmopla8dw\" data-reactroot=\"\">Langeheine, R., &amp; Van de Pol, F. (1990). A unifying framework for Markov modeling in discrete space and discrete time. <em>Sociological Methods and Research</em>, <em>18</em>(4), 416\u2013441. <a href=\"https://doi.org/10.1177/0049124190018004002\">https://doi.org/10.1177/0049124190018004002</a> </p>",
+              "customLabel": "Langeheine & Van de Pol, 1990",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The aim was to characterize groups of people and societal change. Applications in learning and developmental psychology are first presented in "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nz56tqkufa0",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwvny2ims57\" data-reactroot=\"\">Visser, I., Raijmakers, M. E. J., &amp; Molenaar, P. (2002). Fitting hidden Markov models to psychological data. <em>Scientific Programming</em>, <em>10</em>(3), 185\u2013199. <a href=\"https://doi.org/10.1155/2002/874560\">https://doi.org/10.1155/2002/874560</a> </p>",
+              "customLabel": "Visser et al. (2002)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlcex10imjj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nis6pzm1pak\" data-reactroot=\"\">Schmittmann, V. D., Visser, I., &amp; Raijmakers, M. E. J. (2006). Multiple learning modes in the development of performance on a rule-based category-learning task. <em>Neuropsychologia</em>, <em>44</em>(11), 2079\u20132091. <a href=\"https://doi.org/10.1016/j.neuropsychologia.2005.12.011\">https://doi.org/10.1016/j.neuropsychologia.2005.12.011</a> </p>",
+              "customLabel": "Schmittmann et al. (2006)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". In these and later applications, the discrete states of the HMM or LMM are seen as cognitive states or strategies that people use to answer items or solve problems in (experimental) psychology tasks."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "core-concepts",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core concepts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n1l104cq51r",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Two main assumptions characterize HMMs. First, the underlying process of interest is discrete, meaning that there are only a finite number of discrete states that the process can be in. Second, the evolution of the process (or development) is Markovian, meaning that the current state only depends on the previous state\u2014and not on earlier states. In cognitive science, the primary use of HMMs and LMMs is in the areas of learning and cognitive development and in the area of psychophysiological data. HMMs capture sudden changes in a system and are therefore very suitable for analyzing "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "phase transitions"
+          },
+          {
+            "type": "text",
+            "text": " in complex systems [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/00hsw4x2",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Complex Dynamical Systems"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "hmms-and-lmms-in-learning-and-development",
+          "id": "hmms-and-lmms-in-learning-and-development",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "HMMs and LMMs in learning and development"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n788a4ku7ta",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The theoretical perspective of stages in developmental psychology has been very influential ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nmbb11td9wa",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n8bogdvcx8g\" data-reactroot=\"\">Inhelder, B., &amp; Piaget, J. (1958). <em>The growth of logical thinking from childhood to adolescence</em>. Basic Books.</p>",
+              "customLabel": "Inhelder & Piaget, 1958",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In this framework, cognitive development proceeds through several discrete stages, which cannot be directly observed [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/zw60p83x",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Cognitive Development"
+          },
+          {
+            "type": "text",
+            "text": "]. Such stages are visible in typical Piagetian tasks such as the conservation of liquid task and the balance scale task. When children engage in such tasks repeatedly, a developmental sequence may be observed in which they switch from one strategy to the next. In the balance scale task, a typical switch concerns including the distance dimension instead of only considering the number of weights. In such situations, the LMM is an appropriate model for the data and can help detect the switches the children go through ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nd6x8ncfmei",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nlr03jbszx6\" data-reactroot=\"\">Jansen, B. R. J., Raijmakers, M. E. J., &amp; Visser, I. (2007). Rule transition on the balance scale task: A case study in belief change. <em>Synthese</em>, 155, 211\u2013236. <a href=\"https://doi.org/10.1007/s11229-006-9142-9\">https://doi.org/10.1007/s11229-006-9142-9</a> </p>",
+              "customLabel": "Jansen et al., 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nf2bgb5wfkn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Similarly, participants in experimental paradigms may switch between different strategies. A typical case in category learning is the switch between rule-based and exemplar-based categorization ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npk8g60ilvu",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n6f8vr0lfca\" data-reactroot=\"\">Johansen, M. K., &amp; Palmeri, T. J. (2002). Are there representational shifts during category learning? <em>Cognitive Psychology</em>, <em>45</em>(4), 482\u2013553. <a href=\"https://doi.org/10.1016/s0010-0285(02)00505-4\">https://doi.org/10.1016/s0010-0285(02)00505-4</a> </p>",
+              "customLabel": "Johansen & Palmeri, 2002",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), which was analyzed using HMMs ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nlr8gb7a08r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nc40inil4vx\" data-reactroot=\"\">Raijmakers, M. E. J., Schmittmann, V. D., &amp; Visser, I. (2014). Costs and benefits of automatization in category learning of ill-defined rules. <em>Cognitive Psychology</em>, <em>69</em>, 1\u201324. <a href=\"https://doi.org/10.1016/j.cogpsych.2013.12.002\">https://doi.org/10.1016/j.cogpsych.2013.12.002</a> </p>",
+              "customLabel": "Raijmakers et al., 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Another application is the analysis of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "regime switches"
+          },
+          {
+            "type": "text",
+            "text": " in response times in experimental tasks ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhak3sooubi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3kehoynymm\" data-reactroot=\"\">Van der Maas, H. L. J., Dutilh, G., Visser, I., Grasman, R. P. P. P., &amp; Wagenmakers, E. J. (2008). Phase transitions in the trade-off between speed and accuracy in choice reaction time tasks. [Manuscript in preparation].</p>",
+              "customLabel": "Van der Maas et al., 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), in which a discrete switch occurs between different settings of the speed\u2013accuracy trade-off."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvzlgg0wwnb",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In all these examples, the construct of interest is assumed to be a discrete state, in particular, a cognitive state or a developmental stage, which is observed through a set of measurements that have a probabilistic or noisy relationship with the underlying state. In this context, the probabilistic relationship is also referred to as the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "measurement model,"
+          },
+          {
+            "type": "text",
+            "text": " as it measures the underlying states."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "example-learning-in-the-dimensional-change-card-sorting-task",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Example: Learning in the Dimensional Change Card Sorting task"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n6uoe06e3ns",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "n76g7nlrxo0",
+              "targetId": "nnyumo2l9sk",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", data is presented from the Dimensional Change Card Sorting task ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9fiwkb7dl6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ns2h3m9io0e\" data-reactroot=\"\">van Bers, B. M. C. W., Visser, I., van Schijndel, T. J. P., Mandell, D. J., &amp; Raijmakers, M. E. J. (2011). The dynamics of development on the Dimensional Change Card Sorting task. <em>Developmental Science</em>, <em>14</em>(5), 960\u2013971. <a href=\"https://doi.org/10.1111/j.1467-7687.2011.01045.x\">https://doi.org/10.1111/j.1467-7687.2011.01045.x</a> </p>",
+              "customLabel": "van Bers et al., 2011",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In this task, six trials are presented in which children have to make a choice where to sort a particular card using a different rule than they used previously, for example,\u00a0shifting from sorting on color to sorting on shape. The results show the performance over the six trials averaged within three age groups (93 children ranging from 3 to 5 years old were tested). Overall, performance is higher as the children are older. Moreover, as "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "n7v90hp0eam",
+              "targetId": "nnyumo2l9sk",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " indicates, the probability correct is not constant across trials, certainly in the 3- and 4-year-old children."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "nnyumo2l9sk",
+          "url": "https://assets.pubpub.org/xy1lxfjg/41760104569618.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"n17y6z7mu01\" data-reactroot=\"\">Post-switch performance in the Dimensional Change Card Sorting task from <span id=\"n9fiwkb7dl6\" data-node-type=\"citation\" data-value=\"\" data-unstructured-value=\"&lt;p id=&quot;ns2h3m9io0e&quot; data-reactroot=&quot;&quot;&gt;van Bers, B. M. C. W., Visser, I., van Schijndel, T. J. P., Mandell, D. J., &amp;amp; Raijmakers, M. E. J. (2011). The dynamics of development on the Dimensional Change Card Sorting task. &lt;em&gt;Developmental Science&lt;/em&gt;, &lt;em&gt;14&lt;/em&gt;(5), 960\u2013971. &lt;a href=&quot;https://doi.org/10.1111/j.1467-7687.2011.01045.x&quot;&gt;https://doi.org/10.1111/j.1467-7687.2011.01045.x&lt;/a&gt; &lt;/p&gt;\" data-custom-label=\"van Bers et al. (2011)\" class=\"citation\">van Bers et al. (2011)</span>.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nvp7iq4qipm",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "An HMM is applied to this data by assuming that participants can be in either of two cognitive states: the perseverator state (P) or the switching state (S). That is, some children switch to the new rule correctly, whereas others have trouble and persevere using the old rule, and there is some mixed behavior. Between trials, they can potentially switch between states\u2014this is assumed to happen only occasionally, and the model is used to estimate these probabilities. In this HMM, the measurement model within the states is straightforward; it represents the probability of sorting an item correctly given the state. In the switching state, this probability is expected to be high (close to 1.0); in the perseverator state, it is expected to be low (close to zero)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nuw2p7uj2gd",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A depiction of the fitted model for these data is shown in "
+          },
+          {
+            "type": "reference",
+            "attrs": {
+              "id": "nhlu2f03682",
+              "targetId": "nwuwbozphh2",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ". The model has two states that are labeled P and S for perseverator and switcher, respectively. Within the nodes, the probabilities correct conditional on those states are provided, and they are, as expected, close to zero and one. The arrows between the states indicate the probabilities of transitioning between the states (from trial to trial). The probability of transitioning from P to S is 0.15; this means that there is some probability for participants to switch from being in the P state to being in the S state. The model parameters can be used to assess which participants switch at which trial (through the posterior probabilities), revealing that, in this case, some participants indeed switch (and that this mostly happens after trial one or two). The developmental interpretation is that children experience a sudden insight after one or two trials and then perform correctly from then on. Reports from children and experimenters corroborate such insights. The probability of switching from the S state to the P state is tiny and negligible in practice; the developmental interpretation is that regression does not occur in this task."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "id": "nwuwbozphh2",
+          "url": "https://assets.pubpub.org/o4vrxdt8/41760104569619.png",
+          "size": 50,
+          "align": "full",
+          "caption": "<p id=\"nk85tpao0gb\" data-reactroot=\"\">Two-state HMM for Dimensional Change Card Sorting task data.</p>",
+          "altText": "",
+          "hideLabel": false,
+          "fullResolution": false,
+          "href": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nzaz8lr919n",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This HMM representation of the data highlights that cognitive development can progress through sudden insight and as a result of a sudden increase in performance rather than a gradual increase resulting in slight improvements over time."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "other-applications",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Other applications"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngdoqv1w187",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "More recently, HMMs have been widely applied to psychophysiological data. An early example is "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nxomrouko9r",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngamf7l6j88\" data-reactroot=\"\">Flexer, A., Sykacek, P., Rezek, I., &amp; Dorffner, G. (2002). An automatic, continuous and probabilistic sleep stager based on a hidden Markov model. <em>Applied Artificial Intelligence</em>, <em>16</em>(3), 199\u2013207. <a href=\"https://doi.org/10.1080/088395102753559271\">https://doi.org/10.1080/088395102753559271</a> </p>",
+              "customLabel": "Flexer et al. (2002)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ", who aimed to model sleep stages by analysis of electroencephalography data with HMMs. The underlying constructs of interest are the sleep stages, which cannot be directly observed. The electroencephalography signal, however, has typical patterns associated with the sleep stages that can be measured and segmented using HMMs."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "ngabo8vy0ev",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Another area of application is that of eye-tracking data. Eye-movement data is typically characterized by eye-movement "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "events"
+          },
+          {
+            "type": "text",
+            "text": " such as fixations and saccades. To extract such events from raw eye-tracking data, HMMs can be appropriate tools by using as input the sample-to-sample velocity and acceleration as measurements. The states of the HMM correspond to the different events (see, e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nu4uc70e7bx",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nh1tbdtalgj\" data-reactroot=\"\">Houpt, J. W., Frame, M. E., &amp; Blaha, L. M. (2018). Unsupervised parsing of gaze data with a beta-process vector auto-regressive hidden Markov model. <em>Behavior Research Methods</em>, <em>50</em>(5), 2074\u20132096. <a href=\"https://doi.org/10.3758/s13428-017-0974-7\">https://doi.org/10.3758/s13428-017-0974-7</a> </p>",
+              "customLabel": "Houpt et al., 2018",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n12vpfzhuvl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhkoausrkoh\" data-reactroot=\"\">L\u00fcken, M., Kucharsk\u1ef3, \u0160., &amp; Visser, I. (2022). Characterising eye movement events with an unsupervised hidden Markov model. <em>Journal of Eye Movement Research</em>, <em>15</em>(1), 1\u201329. <a href=\"https://doi.org/10.16910/jemr.15.1.4\">https://doi.org/10.16910/jemr.15.1.4</a> </p>",
+              "customLabel": "L\u00fcken et al., 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "questions-controversies-and-new-developments",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nw9b7miukwa",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Conceptually, the HMM and LMM are identical; both are characterized by discrete states and probabilistic measurement of those states. In one statistical aspect they are different: although the domain of generalization for the LMM is the population of the individuals (that was measured repeatedly), the domain of generalization in the HMM is time. That is, in a time series model, the aim is to predict future time points of the evolution or development of the system."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nc9p08ksz4d",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "HMMs are versatile models as shown by their wide application. An important limitation is the Markov assumption itself, that is, the assumption that the current state of a process only depends on the previous state and not on multiple earlier states. Many extensions of HMMs are concerned with alleviating this, either by adding multiple layers of states such as in the hierarchical HMM ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncmgrgo805d",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nxsh5fo0d7h\" data-reactroot=\"\">Fine, S., Singer, Y., &amp; Tishby, N. (1998). The hierarchical hidden Markov model: Analysis and applications. <em>Machine Learning</em>, <em>32</em>, 41\u201362. <a href=\"https://doi.org/10.1023/A:1007469218079\">https://doi.org/10.1023/A:1007469218079</a> </p>",
+              "customLabel": "Fine et al., 1998",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or by adding additional dependency such as in the hidden semi-Markov model ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nhxxotupc8a",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2wbvvfq2tp\" data-reactroot=\"\">Bulla, J., &amp; Bulla, I. (2006). Stylized facts of financial time series and hidden semi-Markov models. <em>Computational Statistics &amp; Data Analysis</em>, <em>51</em>(4): 2192\u20132209. <a href=\"https://doi.org/10.1016/j.csda.2006.07.021\">https://doi.org/10.1016/j.csda.2006.07.021</a> </p>",
+              "customLabel": "Bulla & Bulla, 2006",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n7a5phvzp3e",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In recent years, Bayesian estimation has become much more common and accessible also in the application of HMMs ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n7cfkptdset",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nhent0f934p\" data-reactroot=\"\">Cappe, O., Moulines, E., &amp; Ryden, T. (2005). <em>Inference in hidden Markov models</em>. Springer.</p>",
+              "customLabel": "Cappe et al., 2005",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). As a result, more extensive measurement models are possible than is the case with the classical estimation approaches (e.g., "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n6l4yzs63r9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ndn5mvwqobi\" data-reactroot=\"\">Kucharsk\u1ef3, \u0160., Tran, N. H., Veldkamp, H., Raijmakers, M. E. J., &amp; Visser, I. (2021). Hidden Markov models of evidence accumulation in speeded decision tasks. <em>Computational Brain &amp; Behavior</em>, <em>4</em>, 416\u2013441. <a href=\"https://doi.org/10.1007/s42113-021-00115-0\">https://doi.org/10.1007/s42113-021-00115-0</a> </p>",
+              "customLabel": "Kucharsk\u1ef3 et al., 2021",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "broader-connections",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "niumpsx1srk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The concept of Markov models is ubiquitous in mathematics and plays a role in many areas of statistics. Closer to cognitive science and most relevant is the connection between Markov models and linguistic analysis."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nkha98g7okn",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsnp8cln15t",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n4l4qr5lx4u\" data-reactroot=\"\">Chomsky, N. (1959). On certain formal properties of grammars. <em>Information and Control</em>, <em>2</em>(2), 137\u2013167. <a href=\"https://doi.org/10.1016/S0019-9958(59)90362-6\">https://doi.org/10.1016/S0019-9958(59)90362-6</a> </p>",
+              "customLabel": "Chomsky (1959)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncay23gwl9m",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n7mr86tru7n\" data-reactroot=\"\">Miller, G. A., &amp; Chomsky, N. (1963). Finitary models of language users. In R. Luce, R. R. Bush, &amp; E. Galanter (Eds.), <em>Handbook of mathematical psychology </em>(pp. 419\u2013491). Wiley.</p>",
+              "customLabel": "Miller and Chomsky (1963)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " developed a framework for the characterization of formal languages. The simplest type of language (in the Chomsky hierarchy) is the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "regular"
+          },
+          {
+            "type": "text",
+            "text": " language or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "finite state"
+          },
+          {
+            "type": "text",
+            "text": " language. The connection with Markov models becomes clear in comparison with finite state languages; there is a finite number of discrete underlying states that is necessary to (completely) describe the (regular) language. When such a language is stochastic, the class of finite state languages corresponds very closely to the class of HMMs such that each regular language is represented by an HMM. These models have also been implemented in connectionist models of language processing [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/o3wg9y45",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Recurrent Neural Networks"
+          },
+          {
+            "type": "text",
+            "text": "]."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "non16p925av",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Besides playing a role in theoretical discussions in the foundations of cognitive science, finite state languages have also been used in experimental psychology in artificial grammar learning experiments. Participants are exposed to sequences formed by a regular language and then tested on their discrimination and processing of sequences from that language ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nu6z0ghvcq3",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n68kbioqwl0\" data-reactroot=\"\">Reber, A. S. (1967). Implicit learning of artificial grammars. <em>Journal of Verbal Learning and Verbal Behavior</em>, <em>6</em>(6), 855\u2013863. <a href=\"https://doi.org/10.1016/S0022-5371(67)80149-X\">https://doi.org/10.1016/S0022-5371(67)80149-X</a> </p>",
+              "customLabel": "Reber, 1967",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0s9k2pb0qm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nf7sftdlil2\" data-reactroot=\"\">Cleeremans, A., &amp; McClelland, J. L. (1991). Learning the structure of event sequences. <em>Journal of Experimental Psychology: General</em>, <em>120</em>(3), 235\u2013253. <a href=\"https://doi.org/10.1037//0096-3445.120.3.235\">https://doi.org/10.1037//0096-3445.120.3.235</a> </p>",
+              "customLabel": "Cleeremans & McClelland, 1991",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "further-reading",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Further reading "
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nrjumsxna33",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nvnurg9q2za",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Kaplan, D. (2008). An overview of Markov chain methods for the study of stage-sequential developmental processes. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Developmental Psychology"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "44"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(2), 457\u2013467. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1037/0012-1649.44.2.457",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1037/0012-1649.44.2.457"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "na83c9nrvyy",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Visser, I., & Speekenbrink, M. (2022). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Mixture and hidden Markov models with R"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Springer."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

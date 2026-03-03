@@ -1,0 +1,1583 @@
+{
+  "id": "381bbb0e-94ec-40c5-a8d9-186994c29b61",
+  "slug": "s37heqam",
+  "title": "Signaling",
+  "url": "https://oecs.mit.edu/pub/s37heqam",
+  "published_at": null,
+  "html": "",
+  "plain_text": "",
+  "raw_pub": {
+    "id": "381bbb0e-94ec-40c5-a8d9-186994c29b61",
+    "slug": "s37heqam",
+    "title": "Signaling",
+    "htmlTitle": "Signaling",
+    "description": "",
+    "htmlDescription": null,
+    "avatar": null,
+    "customPublishedAt": "2024-07-24T00:00:00.000Z",
+    "doi": "10.21428/e2759450.381bbb0e",
+    "labels": null,
+    "downloads": null,
+    "metadata": null,
+    "viewHash": "o7bmp7gu",
+    "editHash": "6p1c2zmp",
+    "reviewHash": "i86fw40f",
+    "commentHash": "13m5ubq8",
+    "draftId": "7d402108-b70c-49c5-995d-6279d7a63bb8",
+    "communityId": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "crossrefDepositRecordId": "5a3ccb9b-5db7-4962-be45-a853f59cf205",
+    "scopeSummaryId": "5d4c99e6-713c-4337-a5c6-43b2429d9935",
+    "createdAt": "2024-06-04T20:29:24.864Z",
+    "updatedAt": "2024-07-24T13:23:19.274Z",
+    "attributions": [
+      {
+        "id": "325dc6f8-ffcb-4d47-8213-91ceb55b13cb",
+        "name": "Paul E. Smaldino",
+        "avatar": null,
+        "title": null,
+        "order": 0.75,
+        "isAuthor": true,
+        "roles": [],
+        "affiliation": "Santa Fe Institute, Department of Cognitive and Information Sciences, University of California, Merced",
+        "orcid": "0000-0002-7133-5620",
+        "userId": null,
+        "pubId": "381bbb0e-94ec-40c5-a8d9-186994c29b61",
+        "createdAt": "2024-06-04T20:30:05.433Z",
+        "updatedAt": "2024-07-23T22:00:37.437Z",
+        "user": null
+      },
+      {
+        "id": "6d4ace56-6886-4889-ad86-a04212124ad6",
+        "name": "H. Clark Barrett",
+        "avatar": null,
+        "title": null,
+        "order": 0.875,
+        "isAuthor": false,
+        "roles": [
+          "section editor"
+        ],
+        "affiliation": "University of California, Los Angeles",
+        "orcid": "0000-0002-4157-6511",
+        "userId": null,
+        "pubId": "381bbb0e-94ec-40c5-a8d9-186994c29b61",
+        "createdAt": "2024-07-23T22:00:37.417Z",
+        "updatedAt": "2024-07-23T22:00:52.126Z",
+        "user": null
+      }
+    ],
+    "draft": {
+      "id": "7d402108-b70c-49c5-995d-6279d7a63bb8",
+      "latestKeyAt": "2024-07-23T22:01:45.198Z",
+      "firebasePath": "drafts/draft-7d402108-b70c-49c5-995d-6279d7a63bb8",
+      "createdAt": "2024-06-04T20:29:24.861Z",
+      "updatedAt": "2024-07-24T13:22:37.385Z"
+    }
+  },
+  "raw_text": {
+    "type": "doc",
+    "attrs": {
+      "meta": {},
+      "suggestionId": null,
+      "suggestionTimestamp": null,
+      "suggestionUserId": null,
+      "suggestionDiscussionId": null,
+      "suggestionKind": null,
+      "suggestionOriginalAttrs": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nm3mmorp1nw",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In the forests of the Indian subcontinent, a tiger rears up to scratch marks high on a tree trunk, letting other tigers know the individual claiming this territory is a big one. Over in the Okavango Delta of Botswana, a dominant female baboon grunts to a subordinate female as she approaches, assuaging the subordinate female that she is not under threat. Meanwhile, a college freshman sets out for the day wearing a t-shirt with a picture of her favorite band, in the hopes that it will allow her to find friends whose sensibilities match her own. All of these are examples of signals, acts in which a sender communicates information to influence the behavior of a receiver. Signals can have instrumental functions and consequences from the perspective of both the senders and receivers of those signals."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "history",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "History\u00a0\u00a0\u00a0\u00a0\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "newo7xqeopt",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Among the first formal treatments of signaling is "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ntuhe2unl0s",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nrmg5fqfbpc\" data-reactroot=\"\">Lewis, D. (1969). <em>Convention: A philosophical study</em>. Harvard University Press.</p>",
+              "customLabel": "Lewis's (1969)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " book "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Convention,"
+          },
+          {
+            "type": "text",
+            "text": " in which he analyzes games involving a signaler and a receiver. The signaler knows the state of the world (which could include the signaler\u2019s own state) and wants to communicate this to the receiver, who then takes the proper action conditional on her subsequent understanding of the world. Even if signals are not initially correlated with particular states of the world, each state can become reliably associated with a particular signal as long as the interests of the sender and receiver are aligned. Meaningful signaling systems can reliably emerge in populations in which interactions are repeated and involve broadly aligned interests ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nerdtw88aay",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nwglampddhw\" data-reactroot=\"\">Skyrms, B. (2010). <em>Signals: Evolution, learning, and information</em>. Oxford University Press.\u00a0</p>",
+              "customLabel": "Skyrms, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nr8527za05a",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In evolutionary ecology, signals are typically defined in terms of reproductive fitness. For example, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ncgo0st065e",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nelsjdai5lb\" data-reactroot=\"\">Maynard Smith, J., &amp; Harper, D. (2003). <em>Animal signals</em>. Oxford University Press.\u00a0</p>",
+              "customLabel": "Maynard Smith and Harper (2003)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " define a signal as \u201cany act or structure that alters the behavior of other organisms, which evolved owing to that effect, and which is effective because the receiver's response has also evolved.\u201d The evolutionary clauses serve to disqualify candidate signals that achieve a desired effect by accident\u2014that is, signals and their responses should reflect "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "typical"
+          },
+          {
+            "type": "text",
+            "text": " behavior in a population\u2014and also to avoid attributing deliberative cognitive abilities without evidence. That said, the evolution of signaling does not require selection on genes; both individual learning and social transmission are also selective mechanisms that facilitate evolution ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0xvoilgss7",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nggn557ecb2\" data-reactroot=\"\">Skinner, B. F. (1981). Selection by consequences. <em>Science, 213</em>(4507),<em> </em>501\u2013504. <a href=\"https://doi.org/10.1126/science.7244649\">https://doi.org/10.1126/science.7244649</a> </p>",
+              "customLabel": "Skinner, 1981",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nkn6qlpupgm",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nm8u3m61xq1\" data-reactroot=\"\">Jablonka, E., &amp; Lamb, M. J. (2004). <em>Evolution in four dimensions. </em>MIT Press.\u00a0\u00a0</p>",
+              "customLabel": "Jablonka & Lamb, 2004",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In principle, "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9qlnly4el6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n1lxj85klda\" data-reactroot=\"\">Maynard Smith, J., &amp; Harper, D. (2003). <em>Animal signals</em>. Oxford University Press.\u00a0</p>",
+              "customLabel": "Maynard Smith and Harper's (2003)",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": " definition could be revised to allow for learned or deliberative signals. For example, the signaling capabilities made possible by language have likely been shaped by cultural evolution for both learnability and efficacy ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "np1up1rwkw2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfkuzn2hgnu\" data-reactroot=\"\">Chater, N., &amp; Christiansen, M. H. (2010). Language acquisition meets language evolution. <em>Cognitive Science, 34</em>(7),<em> </em>1131\u20131157<em>. </em><a href=\"https://doi.org/10.1111/j.1551-6709.2009.01049.x\">https://doi.org/10.1111/j.1551-6709.2009.01049.x</a> </p>",
+              "customLabel": "Chater & Christiansen, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Either way, the point is that a signal has a function, which is to alter the behavior of other individuals in ways that benefit the signaler.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "na6fooumx95",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The benefit to the signaler is key. It differentiates signals from "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "cues"
+          },
+          {
+            "type": "text",
+            "text": ", which are traits or behaviors that can be used by others to make adaptive decisions that are typically not intended by or adaptive for the sender ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n2bjr9hxp17",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"no9ybdxajjo\" data-reactroot=\"\">Maynard Smith, J., &amp; Harper, D. (2003). <em>Animal signals</em>. Oxford University Press.\u00a0</p>",
+              "customLabel": "Maynard Smith & Harper, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). For example, an injured deer may walk with a limp, cueing a wolf that it will make easy prey.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "core-concepts",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Core concepts\u00a0\u00a0\u00a0\u00a0\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "honest-signals",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Honest signals"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "n3f64x4eoci",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Signals serve many functions. They allow individuals to find mates and other social partners, to avoid conflict, to coordinate and direct behaviors. Signals can also be used to manipulate others in ways that may or may not be mutually beneficial. If I see you looking for your keys and I remember that you left them by the toaster, a gestural signal\u2014pointing to the toaster\u2014will help you to get the job done. Honest signals like this are expected whenever the signaler and receiver have aligned interests ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nfkz65rqt23",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n16vedijulc\" data-reactroot=\"\">Farrell, J., &amp; Rabin, M. (1996). Cheap talk. <em>Journal of Economic Perspectives, 10</em>(3), 103\u2013118. <a href=\"https://doi.org/10.1257/jep.10.3.103\">https://doi.org/10.1257/jep.10.3.103</a> </p>",
+              "customLabel": "Farrell & Rabin, 1996",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ") or when they are likely to interact repeatedly ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nc3p3lyi6tf",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ntolfugsyvu\" data-reactroot=\"\">Silk, J. B., Kaldor, E., &amp; Boyd, R. (2000). Cheap talk when interests conflict. <em>Animal Behaviour, 59</em>(2), 423\u2013432. <a href=\"https://doi.org/10.1006/anbe.1999.1312\">https://doi.org/10.1006/anbe.1999.1312</a> </p>",
+              "customLabel": "Silk et al., 2000",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). On the other hand, a similar pointing gesture could be used to deceive if I want to direct your attention away from a co-conspirator who is quietly stealing your keys. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "neyq45k2p4j",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In the very long run, a signaling system that does not benefit the receiver at least most of the time is unlikely to persist. That said, some deceptions can also endure if being deceived occasionally is not too costly. Consider an example of Batesian mimicry, in which the harmless scarlet kingsnake evolved striped patterns very similar to those of the venomous and toxic coral snake. The kingsnake\u2019s mimicry can persist and remain effective at deterring predators as long as coral snakes are sufficiently common that predators justifiably avoid eating anything with similar patterns ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nl3trdcpl9b",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nij85gt8u0r\" data-reactroot=\"\">Pfennig, D. W., Harcombe, W. R., &amp; Pfennig, K. S. (2001). Frequency-dependent Batesian mimicry. <em>Nature, 410</em>, 323. <a href=\"https://doi.org/10.1038/35066628\">https://doi.org/10.1038/35066628</a> </p>",
+              "customLabel": "Pfennig et al., 2001",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). On the other hand, some signals are nearly impossible to fake because they reply on the properties of an individual\u2019s physical characteristics. These are often called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "index signals"
+          },
+          {
+            "type": "text",
+            "text": ". For example, when a nightclub bouncer flexes his biceps to intimidate an unruly patron, the size of the muscles is an honest index of strength.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "costly-signaling",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Costly signaling"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nbh1tlpa02j",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "When signalers have incentives to deceive, honest signaling can also be enforced by a cost or handicap ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "npj26h51711",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"npwd5s9rbyx\" data-reactroot=\"\">Maynard Smith, J., &amp; Harper, D. (2003). <em>Animal signals</em>. Oxford University Press.\u00a0</p>",
+              "customLabel": "Maynard Smith & Harper, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Only tigers that are actually large can reach high up on a tree trunk. The archetypal example of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "costly signaling"
+          },
+          {
+            "type": "text",
+            "text": " is the peacock\u2019s tail. Peahens prefer to mate with males with large and lustrous tails. Of course, what they really want is a strong and healthy mate whose genes will yield robust offspring. The tail is an honest signal of these qualities because only males who are sufficiently strong, healthy, and cunning can grow such a large tail without succumbing to disease or predation. Costly signaling theory has been proposed to explain many features of human behavior, including the role of university education in hiring practices ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbbm4gpxbmi",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ni09g1ki0t5\" data-reactroot=\"\">Spence, M. (1973). Job market signaling. <em>The Quarterly Journal of Economics, 87</em>(3), 355\u2013374. <a href=\"https://doi.org/10.2307/1882010\">https://doi.org/10.2307/1882010</a> </p>",
+              "customLabel": "Spence, 1973",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), engagement in dangerous religious rituals ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nw1sawqf5xp",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nn4adgnf9el\" data-reactroot=\"\">Sosis, R. (2003). Why aren\u2019t we all Hutterites? <em>Human Nature, 14</em>(2), 91\u2013127. <a href=\"https://doi.org/10.1007/s12110-003-1000-6\">https://doi.org/10.1007/s12110-003-1000-6</a> </p>",
+              "customLabel": "Sosis, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and deliberate self-harm by criminals ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n3w1pm3z6rq",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nct02wf0nx5\" data-reactroot=\"\">Gambetta, D. (2009). <em>Codes of the underworld: How criminals communicate</em>. Princeton University Press.</p>",
+              "customLabel": "Gambetta, 2009",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "fixedId": "",
+          "id": "identity-signaling",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "\u00a0"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "Identity signaling"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nwoyvuqshy8",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Signals can also be used for social assessment and assortment. Ethnic markers, linguistic tags, or other identity signals are used to determine friend from foe and in decisions regarding whether to approach, flee, attack, or ignore ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n1iyifygydn",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n17bifw0f4t\" data-reactroot=\"\">Smaldino, P. E. (2019). Social identity and cooperation in cultural evolution. <em>Behavioural Processes, 161</em>, 108\u2013116. <a href=\"https://doi.org/10.1016/j.beproc.2017.11.015\">https://doi.org/10.1016/j.beproc.2017.11.015</a> </p>",
+              "customLabel": "Smaldino, 2019",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Indeed, the signaling function of social identity may be an essential tool for reducing the uncertainties involved in determining the nature of social relationships. However, the role of third-party receivers can also influence the strategic choice of identity signals ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ne3fu9450yl",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nje7o5sq40m\" data-reactroot=\"\">Clark, H. H., &amp; Carlson, T. B. (1982). Hearers and speech acts. <em>Language, 58</em>(2), 332\u2013373.\u00a0<a href=\"https://doi.org/10.2307/414102\">https://doi.org/10.2307/414102</a> </p>",
+              "customLabel": "Clark & Carlson, 1982",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no3qp8xufdb",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nihsf7q0hk1\" data-reactroot=\"\">Loury, G. C. (1994). Self-censorship in public discourse: A theory of \u201cpolitical correctness\u201d and related phenomena. <em>Rationality and Society, 6</em>(4), 428\u2013461.\u00a0<a href=\"https://doi.org/10.1177/10434631940060040\">https://doi.org/10.1177/10434631940060040</a></p>",
+              "customLabel": "Loury, 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Signaling certain aspects of identity might be important for finding social partners but simultaneously risky if that identity is persecuted. This problem may be partly solved by the versatility and inherent ambiguity of human language. For example, ambiguity can provide plausible deniability while also allowing for multiple interpretations ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "njfia24hhd8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkuislxc3nk\" data-reactroot=\"\">Pinker, S., Nowak, M. A., &amp; Lee, J. J. (2008). The logic of indirect speech. <em>Proceedings of the National Academy of Sciences, 105</em>(3),<em> </em>833\u2013838.\u00a0<a href=\"https://doi.org/10.1073/pnas.0707192105\">https://doi.org/10.1073/pnas.0707192105</a></p>",
+              "customLabel": "Pinker et al., 2008",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), some of which will be meaningful only to those who share a common background ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nuqj7mdgvi8",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n9blnej32ii\" data-reactroot=\"\">Smaldino, P. E., &amp; Turner, M. A. (2022). Covert signaling is an adaptive communication strategy in diverse populations. <em>Psychological Review, 129</em>(4),<em> </em>812\u2013829.\u00a0<a href=\"https://doi.org/10.1037/rev0000344\">https://doi.org/10.1037/rev0000344</a> </p>",
+              "customLabel": "Smaldino & Turner, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0\u00a0\u00a0\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "questions-controversies-and-new-developments",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Questions, controversies, and new developments"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nfbwcahh0t1",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "In much of animal communication, each signal corresponds to exactly one meaning [see "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://oecs.mit.edu/pub/sk15jg0g",
+                  "title": null,
+                  "target": null,
+                  "pubEdgeId": null
+                }
+              }
+            ],
+            "text": "Animal Culture"
+          },
+          {
+            "type": "text",
+            "text": "]. The famous vervet monkey signaling system, for example, has clear signals for \u201chawk!,\u201d \u201cleopard!,\u201d and \u201csnake!,\u201d but cannot communicate the sentiment, \u201cI wonder if hawks and leopards could be friends.\u201d Human language is distinct because its grammar offers the flexibility to construct and interpret myriad novel sentences ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n9xxfakybbr",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nma2qppk7ep\" data-reactroot=\"\">Fitch, W. T. (2010) <em>The evolution of language</em>. Cambridge University Press.\u00a0</p>",
+              "customLabel": "Fitch, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). However, this flexibility also comes with a lack of clarity. Sentences are often ambiguous in their meaning, the resolution of which may depend on the receiver\u2019s knowledge of the speaker\u2019s intent and frame of reference.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nj1s8z9ycg0",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Game-theoretic models suggest that ambiguity can be adaptive if clarity is costly ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "np7ljsvdko2",
+              "href": null,
+              "value": "https://doi.org/10.1086/676652",
+              "unstructuredValue": "",
+              "customLabel": "Santana, 2014",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), but linguistic ambiguity can also be employed strategically to manipulate or rally coalitions of diverse individuals ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nsszspqkg4p",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvw340e387a\" data-reactroot=\"\">Eisenberg, E. M. (1984). Ambiguity as strategy in organizational communication. <em>Communication Monographs, 51</em>(3), 227\u2013242. <a href=\"https://psycnet.apa.org/doi/10.1080/03637758409390197\" target=\"_blank\">https://doi.org/10.1080/03637758409390197</a></p>",
+              "customLabel": "Eisenberg, 1984",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). In risky situations, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "em"
+              }
+            ],
+            "text": "covert signals "
+          },
+          {
+            "type": "text",
+            "text": "of identity can be employed that suggest clear affiliations to those who are in the know but have low salience for others ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "no4a7o43o0h",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nm8fnpa4vo7\" data-reactroot=\"\">Smaldino, P. E., &amp; Turner, M. A. (2022). Covert signaling is an adaptive communication strategy in diverse populations. <em>Psychological Review, 129</em>(4),<em> </em>812\u2013829.\u00a0<a href=\"https://doi.org/10.1037/rev0000344\">https://doi.org/10.1037/rev0000344</a> </p>",
+              "customLabel": "Smaldino & Turner, 2022",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Such signals exploit the fact that meaning in human communication is not embedded entirely in the signals themselves but is constructed through appeals to shared context and experience ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwk0f6nj7w2",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ns87opf7gb9\" data-reactroot=\"\">Wilson, D., &amp; Sperber, D. (2012). <em>Meaning and relevance</em>. Cambridge University Press.</p>",
+              "customLabel": "Wilson & Sperber, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nta1vuvr6kx",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Not all communication systems are usefully characterized as signaling systems. As mentioned, the flexibility and ambiguity in human language prompts the need for a more nuanced approach to understanding. Some have also challenged the simplicity of the signaler\u2013receiver dichotomy in communicative exchange ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbrba6mno9u",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n2is82wfosy\" data-reactroot=\"\">Owings, D. H., &amp; Morton, E. S. (1997). The role of information in communication: An assessment/management approach. In D. H. Owings, M. D. Beecher, &amp; N. S. Thompson (Eds.), <em>Communication</em> (pp. 359\u2013390). Springer.</p>",
+              "customLabel": "Owings & Morton, 1997",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nzuvvu86vcv",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkiv3s70eax\" data-reactroot=\"\">Owren, M. J., Rendall, D., &amp; Ryan, M. J. (2010). Redefining animal signaling: Influence versus information in communication. <em>Biology &amp; Philosophy, 25</em>, 755\u2013780. <a href=\"https://doi.org/10.1007/s10539-010-9224-4\">https://doi.org/10.1007/s10539-010-9224-4</a> </p>",
+              "customLabel": "Owren et al., 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Information is not just passively received but actively extracted through the assessment and subsequent manipulation of behavior. Communication may therefore be as much a process of regulation as it is one of information exchange. Nevertheless, the signaling framework remains useful to understanding much about behavior and communication in humans and other animals.\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "broader-connections",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Broader connections"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "id": "nu9gptc9drk",
+          "class": null,
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Because signaling is so important to communication between members of a social species, it is a topic that has been studied\u2014often independently\u2014in many disciplines, including philosophy ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nbqki66jb9e",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"n3wdq0hk1xh\" data-reactroot=\"\">Lewis, D. (1969). <em>Convention: A philosophical study</em>. Harvard University Press.</p>",
+              "customLabel": "Lewis, 1969",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n73933t4wh6",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nvozkm3u874\" data-reactroot=\"\">Skyrms, B. (2010). <em>Signals: Evolution, learning, and information</em>. Oxford University Press.\u00a0</p>",
+              "customLabel": "Skyrms, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), economics ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n30crehp969",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nfpmj0ega1b\" data-reactroot=\"\">Spence, M. (1973). Job market signaling. <em>The Quarterly Journal of Economics, 87</em>(3), 355\u2013374. <a href=\"https://doi.org/10.2307/1882010\">https://doi.org/10.2307/1882010</a> </p>",
+              "customLabel": "Spence, 1973",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nywswfiw9lk",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nmcf6uptuov\" data-reactroot=\"\">Loury, G. C. (1994). Self-censorship in public discourse: A theory of \u201cpolitical correctness\u201d and related phenomena. <em>Rationality and Society, 6</em>(4), 428\u2013461.\u00a0<a href=\"https://doi.org/10.1177/10434631940060040\">https://doi.org/10.1177/10434631940060040</a></p>",
+              "customLabel": "Loury, 1994",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), behavioral ecology ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nj2aw1l1vjd",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nafk3lbc97c\" data-reactroot=\"\">Maynard Smith, J., &amp; Harper, D. (2003). <em>Animal signals</em>. Oxford University Press.\u00a0</p>",
+              "customLabel": "Maynard Smith & Harper, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "), and anthropology ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0ss092q7yj",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"ngur30ouhgr\" data-reactroot=\"\">Sosis, R. (2003). Why aren\u2019t we all Hutterites? <em>Human Nature, 14</em>(2), 91\u2013127. <a href=\"https://doi.org/10.1007/s12110-003-1000-6\">https://doi.org/10.1007/s12110-003-1000-6</a> </p>",
+              "customLabel": "Sosis, 2003",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "n0ue9ll5qca",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"njqk83sy2jx\" data-reactroot=\"\">Wilson, D., &amp; Sperber, D. (2012). <em>Meaning and relevance</em>. Cambridge University Press.</p>",
+              "customLabel": "Wilson & Sperber, 2012",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). The fields of communication and linguistics are also deeply concerned with signaling ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nwk3r3t9g63",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nklwpg2le10\" data-reactroot=\"\">Eisenberg, E. M. (1984). Ambiguity as strategy in organizational communication. <em>Communication Monographs, 51</em>(3), 227\u2013242. <a href=\"https://psycnet.apa.org/doi/10.1080/03637758409390197\" target=\"_blank\">https://doi.org/10.1080/03637758409390197</a></p>",
+              "customLabel": "Eisenberg, 1984",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "nod4gjat6iy",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nkkhqx6f2dx\" data-reactroot=\"\">Fitch, W. T. (2010) <em>The evolution of language</em>. Cambridge University Press.\u00a0</p>",
+              "customLabel": "Fitch, 2010",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": "). Signaling theory, as briefly presented here, can shed light on how we humans present ourselves and understand each other, in face-to-face as well as online interactions ("
+          },
+          {
+            "type": "citation",
+            "attrs": {
+              "id": "ndxac6edwn9",
+              "href": null,
+              "value": "",
+              "unstructuredValue": "<p id=\"nr7m2tbq40u\" data-reactroot=\"\">Donath, J. (2007). Signals in social supernets. <em>Journal of Computer-Mediated Communication, 13</em>(1), 231-251. <a href=\"https://doi.org/10.1111/j.1083-6101.2007.00394.x\">https://doi.org/10.1111/j.1083-6101.2007.00394.x</a> </p>",
+              "customLabel": "Donath, 2007",
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            }
+          },
+          {
+            "type": "text",
+            "text": ").\u00a0\u00a0\u00a0"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "fixedId": "",
+          "id": "further-reading",
+          "textAlign": null,
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "Further reading"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "attrs": {
+          "id": "nffbconryok",
+          "rtl": null,
+          "suggestionId": null,
+          "suggestionTimestamp": null,
+          "suggestionUserId": null,
+          "suggestionDiscussionId": null,
+          "suggestionKind": null,
+          "suggestionOriginalAttrs": null
+        },
+        "content": [
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "nz34hy9mixl",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Maynard Smith, J., & Harper, D. (2003). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Animal signals"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Oxford University Press.\u00a0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n3idkp4ih89",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Skyrms, B. (2010). "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Signals: Evolution, learning, and information"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Oxford University Press.\u00a0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "attrs": {
+              "suggestionId": null,
+              "suggestionTimestamp": null,
+              "suggestionUserId": null,
+              "suggestionDiscussionId": null,
+              "suggestionKind": null,
+              "suggestionOriginalAttrs": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "id": "n8qqyxp83l1",
+                  "class": null,
+                  "textAlign": null,
+                  "rtl": null,
+                  "suggestionId": null,
+                  "suggestionTimestamp": null,
+                  "suggestionUserId": null,
+                  "suggestionDiscussionId": null,
+                  "suggestionKind": null,
+                  "suggestionOriginalAttrs": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Smaldino, P. E., & Turner, M. A. (2022). Covert signaling is an adaptive communication strategy in diverse populations. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": "Psychological Review, 129"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(4),"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "em"
+                      }
+                    ],
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "text": "812\u2013829.\u00a0"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://doi.org/10.1037/rev0000344",
+                          "title": null,
+                          "target": null,
+                          "pubEdgeId": null
+                        }
+                      }
+                    ],
+                    "text": "https://doi.org/10.1037/rev0000344"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
