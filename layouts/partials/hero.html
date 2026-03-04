@@ -1,0 +1,6 @@
+{{/* Hero banner and logo for home page only; include in baseof when .IsHome. Run scripts/download_oecs_assets.py to fetch images. */}}
+<div class="oecs-hero-banner" style="background-image: url('{{ "images/hero-bg.png" | relURL }}');">
+  <div class="oecs-hero-banner-inner">
+    <img src="{{ "images/hero-logo.png" | relURL }}" alt="{{ .Site.Title }}" class="oecs-hero-logo">
+  </div>
+</div>
