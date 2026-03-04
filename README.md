@@ -87,6 +87,22 @@ This will:
 
 Add `--output-html` to also save raw HTML under `scripts/output/site_pages/` for debugging.
 
+### Step 1b: (Optional) Download graphical assets
+
+To match the live OECS look—hero background and logo on the home page, and images for thematic collection cards—download assets from the live site:
+
+```bash
+python scripts/download_oecs_assets.py
+```
+
+This fetches the OECS home page, extracts asset URLs from the page data, and downloads:
+
+- **Hero:** `static/images/hero-bg.png` (home banner background) and `static/images/hero-logo.png` (large logo).
+- **Header logo:** `static/images/logo.png` (for optional use in the header).
+- **Thematic collections:** one image per theme under `static/images/themes/` (e.g. `technology.png`, `language.jpg`).
+
+It also writes `data/theme_images.json` (slug → image path) and updates `data/thematic_collections.json` with an `image` field per theme. Run this whenever you want to refresh these assets; the site will build without them, but the hero and theme cards will look best after a successful run.
+
 ### Step 2: (Optional) Re-fetch article JSON from PubPub
 
 Only needed when you want to pull new or updated articles from the OECS PubPub backend. Requires `.secrets` and `config.json`:

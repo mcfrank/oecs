@@ -4,9 +4,14 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
   <div class="thematic-collections-grid">
+    {{ $imgs := .Site.Data.theme_images | default dict }}
     {{ range .Pages.ByTitle }}
-    {{ if ne .Params.slug "search" }}
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ $slug := .File.ContentBaseName }}
+    {{ if ne $slug "search" }}
+    <a href="{{ .RelPermalink }}" class="thematic-collection-card">
+      {{ with index $imgs $slug }}<img src="{{ . | relURL }}" alt="" class="thematic-collection-img">{{ end }}
+      <span class="thematic-collection-title">{{ .Title }}</span>
+    </a>
     {{ end }}
     {{ end }}
   </div>

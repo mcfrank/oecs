@@ -12,6 +12,7 @@
 </head>
 <body class="oecs-body">
   {{ partial "header.html" . }}
+  {{ if .IsHome }}{{ partial "hero.html" . }}{{ end }}
   <main class="oecs-main">
     {{ block "main" . }}{{ end }}
   </main>

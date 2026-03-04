@@ -141,8 +141,10 @@ a { color: var(--oecs-color-link); }
   font-size: 0.9rem;
   color: #555;
   margin: 0.75rem 0 1.5rem;
-  padding: 0.5rem 0;
+  padding: 0.75rem 1rem;
   border-top: 1px solid var(--oecs-color-border);
+  background-color: #f1f1f1;
+  border-radius: 4px;
 }
 
 .oecs-meta-line { margin: 0.25rem 0; }
@@ -177,6 +179,28 @@ a { color: var(--oecs-color-link); }
   border-radius: 4px;
 }
 
+/* Home hero banner (background + logo) */
+.oecs-hero-banner {
+  width: 100%;
+  min-height: 280px;
+  background-color: #fff;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.oecs-hero-banner-inner {
+  padding: 2rem;
+}
+
+.oecs-hero-logo {
+  max-height: 200px;
+  width: auto;
+  display: block;
+}
+
 /* List pages */
 .oecs-list ul { list-style: none; padding-left: 0; }
 .oecs-list li { margin: 0.5rem 0; }
@@ -195,17 +219,31 @@ a { color: var(--oecs-color-link); }
 }
 
 .thematic-collections-grid a {
-  display: block;
-  padding: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
   text-decoration: none;
   border: 1px solid var(--oecs-color-border);
   border-radius: 4px;
   color: var(--oecs-color-text);
+  overflow: hidden;
 }
 
 .thematic-collections-grid a:hover {
   border-color: var(--oecs-accent);
   color: var(--oecs-accent);
+}
+
+.thematic-collection-img {
+  width: 100%;
+  height: 120px;
+  object-fit: cover;
+  display: block;
+}
+
+.thematic-collection-title {
+  display: block;
+  padding: 0.75rem;
 }
 
 /* Blockquotes (e.g. testimonials) */
