@@ -1,0 +1,15 @@
+{{ define "title" }}{{ .Title }} · {{ .Site.Title }}{{ end }}
+{{ define "main" }}
+<article class="oecs-article">
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.subtitle }}<p class="oecs-article-subtitle">{{ . }}</p>{{ end }}
+  {{ with .Params.authors }}<p class="oecs-article-byline">by {{ delimit . ", " }}</p>{{ end }}
+  <div class="oecs-article-meta">
+    {{ with .Params.section_editors }}<p class="oecs-meta-line">Section Editor{{ if gt (len .) 1 }}s{{ end }}: {{ delimit . ", " }}</p>{{ end }}
+    {{ $eic := .Params.editors_in_chief | default .Site.Params.editors_in_chief }}{{ with $eic }}<p class="oecs-meta-line">Editors-in-Chief: {{ delimit . ", " }}</p>{{ end }}
+    {{ with .Params.date }}<p class="oecs-meta-line">Published: {{ . }}</p>{{ end }}
+    {{ with .Params.doi }}<p class="oecs-meta-line">DOI: <a href="https://doi.org/{{ . }}">{{ . }}</a></p>{{ end }}
+  </div>
+  {{ .Content }}
+</article>
+{{ end }}

@@ -4,6 +4,8 @@ slug: 1y8kpgak
 date: '2026-01-28'
 authors:
 - Mark A. Schmuckler
+section_editors:
+- Michael C. Frank
 ---
 
 Ecological validity refers to the degree to which a given research context is indicative of, or can be generalized to, real-world environments. On the surface, ecological validity is a seemingly simple concept. In the definition above, the notion of *research context* encompasses: the physical *setting for* the research; the information, or *stimuli*, experienced by research participants; the *responses* of research participants; and the observed *results* produced by the aforementioned components. As an example, a researcher interested in childhood aggression might argue that their work is ecologically valid if they looked at children’s aggressive acts during free play on the school yard (the *environmental setting*), if they examined the interactions between children leading up to the aggressive behavior (the *stimulus*), or the actual physical act, and potential harm, of the aggressive behavior (the *behavioral response*). Understanding ecological validity is critical for those designing and conducting experimental research, as well as for those assessing such work.

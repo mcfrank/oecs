@@ -4,6 +4,8 @@ slug: za65x7nh
 date: '2026-01-28'
 authors:
 - Mary Hayhoe
+section_editors:
+- Timothy F. Brady
 ---
 
 Eye movements are a necessary component of human visual function because of the variation in acuity across the retina, and humans direct gaze so that locations of interest fall on the high acuity foveal region. Consequently a person’s direction of gaze typically reveals what they are attending to. Knowing the location and timing of gaze therefore allows measurement of visual and cognitive processes on a finer time scale than verbal report. Because eye movements are tightly linked to shifts in attention they have been a rich source of information about visual and cognitive mechanisms. Improvements in eye tracking technology have recently allowed a much broader range of experimental contexts to be examined, making it an important tool in Cognitive Science.

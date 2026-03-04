@@ -1,0 +1,8 @@
+{{- $dest := .Destination -}}
+{{- $href := $dest -}}
+{{- if hasPrefix $dest "/articles/" -}}
+  {{- $path := strings.TrimPrefix "/" $dest -}}
+  {{- if not (hasSuffix $path "/") }}{{ $path = printf "%s/" $path }}{{ end -}}
+  {{- $href = printf "%s%s" .Page.Site.BaseURL $path -}}
+{{- end -}}
+<a href="{{ $href | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ with .Text }}{{ . }}{{ end }}</a>

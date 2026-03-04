@@ -7,7 +7,7 @@ import argparse
 import json
 import re
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Set
+from typing import Any, Dict, List, Optional, Set, Tuple
 
 from markdownify import markdownify as md
 
@@ -73,7 +73,7 @@ def render_inline(node: Dict[str, Any], known_slugs: Set[str], buf: List[str]) -
         href = marks.get("link")
         if href:
             url = rewrite_internal_url(href, known_slugs)
-            buf.append(f"[{text}]({url})")
+            buf.append(f"[{text.strip()}]({url})")
         elif marks.get("strong") and marks.get("em"):
             buf.append(f"***{text}***")
         elif marks.get("strong"):
@@ -86,7 +86,7 @@ def render_inline(node: Dict[str, Any], known_slugs: Set[str], buf: List[str]) -
         buf.append("\n")
     elif t == "citation":
         label = (node.get("attrs") or {}).get("customLabel") or ""
-        buf.append(f"({label})")
+        buf.append(label)  # no extra parens; prose already has ( ) around citation
     elif t and "content" in node:
         for c in node.get("content") or []:
             render_inline(c, known_slugs, buf)
@@ -163,6 +163,35 @@ def block_to_md_list_item(node: Dict[str, Any], known_slugs: Set[str], prefix: s
     return prefix + " " + inner
 
 
+def _collect_citations(node: Any, out: List[Tuple[str, str]]) -> None:
+    """Recursively collect (customLabel, unstructuredValue) from citation nodes, order of first appearance."""
+    if isinstance(node, dict):
+        if node.get("type") == "citation":
+            attrs = node.get("attrs") or {}
+            uv = (attrs.get("unstructuredValue") or "").strip()
+            label = (attrs.get("customLabel") or "").strip()
+            if uv:
+                out.append((label, uv))
+        for c in node.get("content") or []:
+            _collect_citations(c, out)
+    elif isinstance(node, list):
+        for c in node:
+            _collect_citations(c, out)
+
+
+def collect_citation_references(doc: Dict[str, Any]) -> List[str]:
+    """Return list of unique unstructuredValue HTML strings in doc order (deduped by value)."""
+    raw: List[Tuple[str, str]] = []
+    _collect_citations(doc, raw)
+    seen: set = set()
+    unique: List[str] = []
+    for _label, uv in raw:
+        if uv and uv not in seen:
+            seen.add(uv)
+            unique.append(uv)
+    return unique
+
+
 def doc_to_markdown(doc: Dict[str, Any], known_slugs: Set[str]) -> str:
     blocks = []
     for node in doc.get("content") or []:
@@ -170,21 +199,59 @@ def doc_to_markdown(doc: Dict[str, Any], known_slugs: Set[str]) -> str:
             line = block_to_md(node, known_slugs)
             if line:
                 blocks.append(line)
-    return "\n\n".join(blocks)
+    body = "\n\n".join(blocks)
+    # Remove stray space after markdown link in "[see ...]" so "[see [Ref](url) ]" and "[see [A](url) ; [B](url)]" render without extra space
+    body = re.sub(r"\]\(([^)]+)\)\s+(\])", r"](\1)\2", body)
+    body = re.sub(r"\]\(([^)]+)\)\s+(;)", r"](\1)\2", body)
+    # Append References section from citation unstructuredValue (like OECS expandable section)
+    refs_html = collect_citation_references(doc)
+    if refs_html:
+        refs_md = []
+        for i, html in enumerate(refs_html, 1):
+            refs_md.append(html_to_markdown(html))
+        body = body + "\n\n# References\n\n" + "\n\n".join(refs_md)
+    return body
 
 
 def html_to_markdown(html: str) -> str:
     return md(html or "", heading_style="ATX", strip=["script", "style"]).strip()
 
 
+def _attribution_name(att: Dict[str, Any]) -> Optional[str]:
+    name = att.get("name") or (att.get("user") or {}).get("fullName")
+    return (name or "").strip() or None
+
+
 def extract_authors(raw_pub: Optional[Dict]) -> List[str]:
     authors = []
     for att in (raw_pub or {}).get("attributions") or []:
         if att.get("isAuthor"):
-            name = att.get("name") or (att.get("user") or {}).get("fullName")
+            name = _attribution_name(att)
             if name:
                 authors.append(name)
     return authors
+
+
+def extract_section_editors(raw_pub: Optional[Dict]) -> List[str]:
+    out = []
+    for att in (raw_pub or {}).get("attributions") or []:
+        roles = att.get("roles") or []
+        if any(r and "Section Editor" in str(r) for r in roles):
+            name = _attribution_name(att)
+            if name and name not in out:
+                out.append(name)
+    return out
+
+
+def extract_editors_in_chief(raw_pub: Optional[Dict]) -> List[str]:
+    out = []
+    for att in (raw_pub or {}).get("attributions") or []:
+        roles = att.get("roles") or []
+        if any(r and "Editor-in-Chief" in str(r) for r in roles):
+            name = _attribution_name(att)
+            if name and name not in out:
+                out.append(name)
+    return out
 
 
 def iso_date_from(created: Optional[str], published: Optional[str]) -> str:
@@ -237,6 +304,9 @@ def main() -> None:
         date = iso_date_from(created, published)
         doi = raw_pub.get("doi") or ""
         authors = extract_authors(raw_pub)
+        section_editors = extract_section_editors(raw_pub)
+        editors_in_chief = extract_editors_in_chief(raw_pub)
+        subtitle = (raw_pub.get("description") or "").strip() or None
 
         fm: Dict[str, Any] = {"title": title, "slug": slug}
         if date:
@@ -245,6 +315,12 @@ def main() -> None:
             fm["doi"] = doi
         if authors:
             fm["authors"] = authors
+        if subtitle:
+            fm["subtitle"] = subtitle
+        if section_editors:
+            fm["section_editors"] = section_editors
+        if editors_in_chief:
+            fm["editors_in_chief"] = editors_in_chief
 
         # YAML front matter (simple dump)
         import yaml

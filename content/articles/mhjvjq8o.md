@@ -4,6 +4,8 @@ slug: mhjvjq8o
 date: '2026-01-24'
 authors:
 - Melissa Lê-Hoa Võ
+section_editors:
+- Timothy F. Brady
 ---
 
 As soon as you open your eyes, you perform something that is referred to as *scene perception*, a cognitive process by which the brain interprets and understands its visual environment. It involves recognizing, organizing, and extracting meaningful information from complex scenes, enabling humans to identify objects, their relationships, spatial layout, and relevant features within a given environment. This cognitive process is key to navigating and interacting effectively with our surroundings. A hallmark of scene perception is that it takes only a brief glimpse to extract rich meaning from complex visual input (see Figure 1). The remarkable speed and ease with which we process scenes is the product of swiftly integrating bottom-up visual information with top-down scene knowledge. It is this fascinating cognitive feat that will be covered here.

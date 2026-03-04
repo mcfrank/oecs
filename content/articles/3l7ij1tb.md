@@ -4,6 +4,8 @@ slug: 3l7ij1tb
 date: '2026-01-24'
 authors:
 - Eon-Suk Ko
+section_editors:
+- Michael C. Frank
 ---
 
 When communicating with infants, we use infant-directed speech, a specialized way of speaking characterized by a higher pitch, exaggerated intonation, short utterances, and frequent repetition. The language tends to be grammatically simpler, and the vocabulary is often tailored to topics relevant to the child’s world. Sometimes referred to as “baby talk,” this kind of speech is not just playful but conveys emotional warmth and supports early language acquisition. Across many cultures, infants consistently show a preference for infant-directed speech over the speech adults use with one another, and this preference appears to promote greater attention and learning. As children develop, caregivers subtly tune their speech, gradually reducing prosodic exaggeration and increasing linguistic complexity in response to children’s growing perceptual and cognitive abilities. Thus, infant-directed speech serves both as a cue for social connection and as a learning environment that adapts to developmental change.
@@ -50,7 +52,7 @@ Casillas, M., Brown, P., & Levinson, S. C. (2020). Early Language Experience in 
 
 Coffey, J. R., & Snedeker, J. (2025). How strong is the relationship between caregiver speech and language development? A meta-analysis. *Journal of Child Language*, 1–36. doi:10.1017/S0305000924000692
 
-Cooper, R. P., & Aslin, R. N. (1990). Preference for infant-directed speech in the first month after birth. *Child Development, 61*(5), 1584–1595.[ https://doi.org/10.2307/1130766](https://doi.org/10.2307/1130766)
+Cooper, R. P., & Aslin, R. N. (1990). Preference for infant-directed speech in the first month after birth. *Child Development, 61*(5), 1584–1595.[https://doi.org/10.2307/1130766](https://doi.org/10.2307/1130766)
 
 Cox, C., Bergmann, C., Fowler, E., Keren-Portnoy, T., Roepstorff, A., Bryant, G., & Fusaroli, R. (2023). A systematic review and Bayesian meta-analysis of the acoustic features of infant-directed speech. *Nature Human Behaviour*, 7(1), 114–133. https://doi.org/10.1038/s41562-022-01452-1
 
@@ -62,13 +64,13 @@ Greenwood, C. R., Schnitz, A. G., Irvin, D., Tsai, S. F., & Carta, J. J. (2018).
 
 Hart, B., & Risley, T. R. (1995). *Meaningful differences in the everyday experience of young American children*. Baltimore, MD: Paul H. Brookes Publishing.
 
-Huttenlocher, J., Waterfall, H., Vasilyeva, M., Vevea, J., & Hedges, L. V. (2010). Sources of variability in children’s language growth. *Cognitive Psychology, 61*(4), 343–365.[ https://doi.org/10.1016/j.cogpsych.2010.08.002](https://doi.org/10.1016/j.cogpsych.2010.08.002)
+Huttenlocher, J., Waterfall, H., Vasilyeva, M., Vevea, J., & Hedges, L. V. (2010). Sources of variability in children’s language growth. *Cognitive Psychology, 61*(4), 343–365.[https://doi.org/10.1016/j.cogpsych.2010.08.002](https://doi.org/10.1016/j.cogpsych.2010.08.002)
 
 Ko, E.-S., & Jun, J. (2024). Phonological variation in child-directed speech is modulated by lexical frequency. *Journal of Child Language, 51(2)*, 288–313. doi:10.1017/S0305000923000466
 
-Kuhl, P. K., Andruski, J. E., Chistovich, I. A., Chistovich, L. A., Kozhevnikova, E. V., Ryskina, V. L., ... & Lacerda, F. (1997). Cross-language analysis of phonetic units in language addressed to infants. *Science, 277*(5326), 684–686.[ https://doi.org/10.1126/science.277.5326.684](https://doi.org/10.1126/science.277.5326.684)
+Kuhl, P. K., Andruski, J. E., Chistovich, I. A., Chistovich, L. A., Kozhevnikova, E. V., Ryskina, V. L., ... & Lacerda, F. (1997). Cross-language analysis of phonetic units in language addressed to infants. *Science, 277*(5326), 684–686.[https://doi.org/10.1126/science.277.5326.684](https://doi.org/10.1126/science.277.5326.684)
 
-ManyBabies Consortium. (2020). Quantifying sources of variability in infancy research using the infant-directed speech preference. *Advances in Methods and Practices in Psychological Science, 3*(1), 24–52.[ https://doi.org/10.1177/2515245919900809](https://doi.org/10.1177/2515245919900809)
+ManyBabies Consortium. (2020). Quantifying sources of variability in infancy research using the infant-directed speech preference. *Advances in Methods and Practices in Psychological Science, 3*(1), 24–52.[https://doi.org/10.1177/2515245919900809](https://doi.org/10.1177/2515245919900809)
 
 Nencheva, M. L., & Lew-Williams, C. (2022). Understanding why infant-directed speech supports learning: A dynamic attention perspective. *Developmental Review*, 66, 101047. [https://doi.org/10.1016/j.dr.2022.101047](https://doi.org/10.1016/j.dr.2022.101047)
 

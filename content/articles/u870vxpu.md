@@ -5,53 +5,55 @@ date: '2024-07-24'
 doi: 10.21428/e2759450.304de239
 authors:
 - Alex Mesoudi
+section_editors:
+- Daniel Haun
 ---
 
 Cultural evolution is the idea that cultural change constitutes an evolutionary process. As such, we can use evolutionary tools, concepts, and methods to study cultural change and diversity in humans and other species. *Culture* is here typically defined broadly as any socially learned information, encompassing beliefs, knowledge, attitudes, skills, norms, languages, institutional rules, and anything else transmitted socially (e.g., via imitation, language, or teaching) from one individual to another. This social transmission constitutes an inheritance process, one that operates in parallel to genetic inheritance. When culturally inherited information varies across individuals or groups and changes over time in response to various factors, we can say that culture evolves. Despite the basic analogy with genetic evolution, there are many differences between cultural and genetic evolution. For example, genetic information is transmitted in humans from parent to offspring, whereas cultural information can be acquired from many more sources such as teachers, peers, books, or the internet. Finally, cultural evolution researchers also study the evolutionary origins of the capacity for culture, by studying the cultural capacities of different species, and evidence for culture in the paleoanthropological and archaeological records.
 
 # **History**
 
-Even before *The Origin of Species* ((Darwin, 1859)), historical linguists argued that languages gradually evolve and diversify in a branching fashion just like species ((van Wyhe, 2005)). In* The Descent of Man *((Darwin, 1871)), Darwin similarly argued that languages evolve over time with selection acting to favor certain words and grammatical forms. Nascent theories of cultural evolution emerged in the late 1800s in anthropology, archaeology, economics, and psychology. However, evolution fell from favor in early 20th century social sciences, partly because of associations with eugenics [see [Eugenic Thinking and the Cognitive Sciences](/articles/ptlnp5h2)] and partly because evolution was seen (incorrectly) as entailing inevitable progress along fixed stages, rather than gradual tree-like diversification. Sporadic attempts to apply evolutionary theory to cultural change in the mid 20th century (e.g., memetics) failed to generate meaningful research programs.
+Even before *The Origin of Species* (Darwin, 1859), historical linguists argued that languages gradually evolve and diversify in a branching fashion just like species (van Wyhe, 2005). In* The Descent of Man *(Darwin, 1871), Darwin similarly argued that languages evolve over time with selection acting to favor certain words and grammatical forms. Nascent theories of cultural evolution emerged in the late 1800s in anthropology, archaeology, economics, and psychology. However, evolution fell from favor in early 20th century social sciences, partly because of associations with eugenics [see [Eugenic Thinking and the Cognitive Sciences](/articles/ptlnp5h2)] and partly because evolution was seen (incorrectly) as entailing inevitable progress along fixed stages, rather than gradual tree-like diversification. Sporadic attempts to apply evolutionary theory to cultural change in the mid 20th century (e.g., memetics) failed to generate meaningful research programs.
 
-The foundations of modern cultural evolution theory emerged in the 1980s when books by (Cavalli-Sforza and Feldman (1981)) and (Boyd and Richerson (1985)) provided a formal mathematical framework for understanding cultural evolution. Ethnographic ((Hewlett & Cavalli-Sforza, 1986)) and experimental ((Mesoudi & Whiten, 2008)) work then tested the assumptions and predictions of these and subsequent models. In the 1990s, researchers borrowed phylogenetic methods from biology to reconstruct the evolutionary history of cultural traits ((Mace & Pagel, 1994)), including languages ((Gray & Jordan, 2000)), coming full circle to pre-Darwin days, and research began on culture in nonhuman species ((Whiten et al., 1999)).
+The foundations of modern cultural evolution theory emerged in the 1980s when books by Cavalli-Sforza and Feldman (1981) and Boyd and Richerson (1985) provided a formal mathematical framework for understanding cultural evolution. Ethnographic (Hewlett & Cavalli-Sforza, 1986) and experimental (Mesoudi & Whiten, 2008) work then tested the assumptions and predictions of these and subsequent models. In the 1990s, researchers borrowed phylogenetic methods from biology to reconstruct the evolutionary history of cultural traits (Mace & Pagel, 1994), including languages (Gray & Jordan, 2000), coming full circle to pre-Darwin days, and research began on culture in nonhuman species (Whiten et al., 1999).
 
 # **Core concepts**
 
 ## *Transmission pathways*
 
-Genetic information (in humans at least) is inherited exclusively from parents to offspring, known as *vertical* transmission. Cultural information can also be vertically transmitted when we learn from our parents. Cultural transmission may also be *oblique*, involving learning from members of the previous generation other than our parents, and *horizontal*, involving learning from peers within our own generation ((Cavalli-Sforza & Feldman, 1981)).
+Genetic information (in humans at least) is inherited exclusively from parents to offspring, known as *vertical* transmission. Cultural information can also be vertically transmitted when we learn from our parents. Cultural transmission may also be *oblique*, involving learning from members of the previous generation other than our parents, and *horizontal*, involving learning from peers within our own generation (Cavalli-Sforza & Feldman, 1981).
 
 ## *Transmission biases*
 
-When learning obliquely or horizontally, people typically do not copy randomly. Rather, they use *transmission biases* (*bias* in the statistical sense of *nonrandom*, rather than having any negative connotations). For example, people may preferentially learn from prestigious individuals such as politicians or celebrities ((Henrich & Gil-White, 2001)) or conform to the majority behavior in their group ((Boyd & Richerson, 1985)). Alternatively, people might preferentially learn certain kinds of information, e.g., information about social relationships or emotionally salient stimuli, collectively known as *content biases*. Many transmission biases have been documented and shown to be adaptive under certain conditions ((Kendal et al., 2018)).
+When learning obliquely or horizontally, people typically do not copy randomly. Rather, they use *transmission biases* (*bias* in the statistical sense of *nonrandom*, rather than having any negative connotations). For example, people may preferentially learn from prestigious individuals such as politicians or celebrities (Henrich & Gil-White, 2001) or conform to the majority behavior in their group (Boyd & Richerson, 1985). Alternatively, people might preferentially learn certain kinds of information, e.g., information about social relationships or emotionally salient stimuli, collectively known as *content biases*. Many transmission biases have been documented and shown to be adaptive under certain conditions (Kendal et al., 2018).
 
 ## *Population thinking*
 
-One advantage of a cultural evolutionary framework is that it explores the population-level consequences of individual-level processes such as transmission biases, known as *population thinking*. For example, conformity can generate and preserve between-group cultural differences ((Boyd & Richerson, 1985)). Prestige bias can generate runaway selection for increasingly elaborate displays of prestige, such as enormous mansions, analogous to peacocks’ tails ((Boyd & Richerson, 1985)). Horizontal transmission generates faster cultural change than vertical ((Cavalli-Sforza & Feldman, 1981)). Formal models are invaluable here, because it is difficult for unaided human minds to predict population-level consequences of individual-level decisions.
+One advantage of a cultural evolutionary framework is that it explores the population-level consequences of individual-level processes such as transmission biases, known as *population thinking*. For example, conformity can generate and preserve between-group cultural differences (Boyd & Richerson, 1985). Prestige bias can generate runaway selection for increasingly elaborate displays of prestige, such as enormous mansions, analogous to peacocks’ tails (Boyd & Richerson, 1985). Horizontal transmission generates faster cultural change than vertical (Cavalli-Sforza & Feldman, 1981). Formal models are invaluable here, because it is difficult for unaided human minds to predict population-level consequences of individual-level decisions.
 
 ## *Cumulative culture*
 
-Many species have culture, in the sense of social learning and group-specific cultural traditions. However, only humans unambiguously have cumulative cultural evolution, where knowledge and skills increase in efficiency over time, often remarkably rapidly ((Mesoudi & Thornton, 2018)). Think of how powered flight went from the Wright brothers to moon landing in just 66 years. Much research aims to explain the seeming uniqueness of the cumulative culture of our species and what drives the often exponential growth in cultural knowledge.
+Many species have culture, in the sense of social learning and group-specific cultural traditions. However, only humans unambiguously have cumulative cultural evolution, where knowledge and skills increase in efficiency over time, often remarkably rapidly (Mesoudi & Thornton, 2018). Think of how powered flight went from the Wright brothers to moon landing in just 66 years. Much research aims to explain the seeming uniqueness of the cumulative culture of our species and what drives the often exponential growth in cultural knowledge.
 
 ## *Cultural phylogenetics*
 
-Biologists use phylogenetic methods to reconstruct the evolutionary history and relatedness of different species. Cultural evolution researchers have used similar methods to reconstruct the cultural evolutionary history of languages, tools, folk tales, and other traits where multiple lineages diversify over time in a tree-like fashion ((Evans et al., 2021)).
+Biologists use phylogenetic methods to reconstruct the evolutionary history and relatedness of different species. Cultural evolution researchers have used similar methods to reconstruct the cultural evolutionary history of languages, tools, folk tales, and other traits where multiple lineages diversify over time in a tree-like fashion (Evans et al., 2021).
 
 # **Questions, controversies, and new developments**
 
-Although it is now established that many nonhuman species possess *culture* in the sense of social learning and cultural traditions, an outstanding question relates to how and why human cultural evolution is distinctively *cumulative*. Theoretical and empirical work has explored the role of transmission fidelity and demographic features such as large, interconnected population structures, yet there is currently no clear consensus on what cognitive, social, and demographic factors permit uniquely human cumulative culture. Relatedly, there is also debate over the extent to which the socio-cognitive capacities underlying cultural evolution more generally, such as imitation, theory of mind, and language, are the product of genetic evolution versus being *cognitive gadgets* that are themselves the product of cultural evolution ((Heyes, 2018)).
+Although it is now established that many nonhuman species possess *culture* in the sense of social learning and cultural traditions, an outstanding question relates to how and why human cultural evolution is distinctively *cumulative*. Theoretical and empirical work has explored the role of transmission fidelity and demographic features such as large, interconnected population structures, yet there is currently no clear consensus on what cognitive, social, and demographic factors permit uniquely human cumulative culture. Relatedly, there is also debate over the extent to which the socio-cognitive capacities underlying cultural evolution more generally, such as imitation, theory of mind, and language, are the product of genetic evolution versus being *cognitive gadgets* that are themselves the product of cultural evolution (Heyes, 2018).
 
-There is also longstanding debate over the extent to which cultural evolution is shaped by universal or domain-specific features of cognition, sometimes called *inductive biases* ((Griffiths et al., 2008)) or referred to as *cultural attraction*, [see [Cultural Attractors](/articles/mfsrxxgb)] versus the faithful preservation and selection of cultural traits based on their performance or efficiency. The former is likely to explain cross-cultural regularities (e.g., in categorical structures, linguistic forms, or color terminologies), whereas the latter generates the open-ended cumulative cultural evolution mentioned previously, but how the two processes interact, and in what domains, is often contested.
+There is also longstanding debate over the extent to which cultural evolution is shaped by universal or domain-specific features of cognition, sometimes called *inductive biases* (Griffiths et al., 2008) or referred to as *cultural attraction*, [see [Cultural Attractors](/articles/mfsrxxgb)] versus the faithful preservation and selection of cultural traits based on their performance or efficiency. The former is likely to explain cross-cultural regularities (e.g., in categorical structures, linguistic forms, or color terminologies), whereas the latter generates the open-ended cumulative cultural evolution mentioned previously, but how the two processes interact, and in what domains, is often contested.
 
-Another outstanding question concerns the extent to which cultural evolution, specifically cultural selection at the level of the group, can explain the unusually strong proclivity of our species for cooperation with non-kin ((Smith, 2020)). Group-level explanations for cooperation are typically rejected in evolutionary biology, but some argue that cultural evolutionary processes such as conformity or norm-following create favorable conditions for group selection in humans.
+Another outstanding question concerns the extent to which cultural evolution, specifically cultural selection at the level of the group, can explain the unusually strong proclivity of our species for cooperation with non-kin (Smith, 2020). Group-level explanations for cooperation are typically rejected in evolutionary biology, but some argue that cultural evolutionary processes such as conformity or norm-following create favorable conditions for group selection in humans.
 
-Finally, recent rapid advances in artificial intelligence (AI) have led to questions regarding how AI is shaping, or might shape, human cultural evolution (). Is AI accelerating human cultural evolution by more efficiently accumulating and synthesizing past (and possibly creating new) knowledge? Does AI even constitute a third form of evolution alongside genetic and cultural evolution?
+Finally, recent rapid advances in artificial intelligence (AI) have led to questions regarding how AI is shaping, or might shape, human cultural evolution . Is AI accelerating human cultural evolution by more efficiently accumulating and synthesizing past (and possibly creating new) knowledge? Does AI even constitute a third form of evolution alongside genetic and cultural evolution?
 
 # **Broader connections**
 
-The field of cultural evolution is highly interdisciplinary, intersecting anthropology, archaeology, biology, economics, history, linguistics, psychology, sociology, and more. Indeed, one of the attractions of cultural evolution is its potential to integrate and unify across these traditional disciplines ((Mesoudi et al., 2006)).
+The field of cultural evolution is highly interdisciplinary, intersecting anthropology, archaeology, biology, economics, history, linguistics, psychology, sociology, and more. Indeed, one of the attractions of cultural evolution is its potential to integrate and unify across these traditional disciplines (Mesoudi et al., 2006).
 
-In cognitive science, several researchers have used Bayesian inference to model cultural transmission, where individuals’ prior beliefs are combined with information received from other individuals to produce posterior belief distributions in a population ((Griffiths et al., 2008)) [see [Markov Chain Monte Carlo](/articles/n6c8sb19)]. This approach has been applied to the iterated learning of languages ((Kirby et al., 2007)), categories ((Griffiths et al., 2008)), color terminologies ((Xu et al., 2013)), and other traits.
+In cognitive science, several researchers have used Bayesian inference to model cultural transmission, where individuals’ prior beliefs are combined with information received from other individuals to produce posterior belief distributions in a population (Griffiths et al., 2008) [see [Markov Chain Monte Carlo](/articles/n6c8sb19)]. This approach has been applied to the iterated learning of languages (Kirby et al., 2007), categories (Griffiths et al., 2008), color terminologies (Xu et al., 2013), and other traits.
 
 # **Further reading**
 
@@ -59,3 +61,49 @@ In cognitive science, several researchers have used Bayesian inference to model 
 - Mesoudi, A. (2011). *Cultural evolution: How Darwinian theory can explain human culture & synthesize the social sciences.* University of Chicago Press.
 - Richerson, P. J., & Boyd, R. (2004). *Not by genes alone: How culture transformed human evolution. *University of Chicago Press.
 - Richerson, P. J., & Christiansen, M. H. (Eds.). (2013). *Cultural evolution: Society, technology, language, and religion*. MIT Press.
+
+# References
+
+Darwin, C. (1968). *The origin of species*. Penguin. (Original work published 1859)
+
+van Wyhe, J. (2005). The descent of words: Evolutionary thinking 1780–1880. *Endeavour*, *29*(3), 94–100. [https://doi.org/10.1016/j.endeavour.2005.07.002](https://doi.org/10.1016/j.endeavour.2005.07.002 "Persistent link using digital object identifier")
+
+Darwin, C. (2003). *The descent of man*. Gibson Square Books. (Original work published 1871)
+
+Cavalli-Sforza, L. L., & Feldman, M. W. (1981). *Cultural transmission and evolution: A quantitative approach*. Princeton University Press.
+
+Boyd, R., & Richerson, P. J. (1985). *Culture and the evolutionary process*. University of Chicago Press.
+
+Hewlett, B. S., & Cavalli-Sforza, L. L. (1986). Cultural transmission among Aka Pygmies. *American Anthropologist*, *88*(4), 922–934.
+
+Mesoudi, A., & Whiten, A. (2008). The multiple roles of cultural transmission experiments in understanding human cultural evolution. *Philosophical Transactions of the Royal Society B*, *363*(1509), 3489–3501. <https://doi.org/10.1098/rstb.2008.0129>
+
+Mace, R., & Pagel, M. D. (1994). The comparative method in anthropology. *Current Anthropology*, *35*(5), 549–564.
+
+Gray, R. D., & Jordan, F. M. (2000). Language trees support the express-train sequence of Austronesian expansion. *Nature*, *405*, 1052–1055.
+
+Whiten, A., Goodall, J., McGrew, W. C., Nishida, T., Reynolds, V., Sugiyama, Y., Tutin, C. E. G., Wrangham, R. W., & Boesch, C. (1999). Cultures in chimpanzees. *Nature*, *399*(6737), 682–685. <https://doi.org/10.1038/21415>
+
+Cavalli-Sforza, L. L., & Feldman, M. W. (1981). *Cultural transmission and evolution: A quantitative approach*. Princeton University Press.
+
+Henrich, J., & Gil-White, F. J. (2001). The evolution of prestige: Freely conferred deference as a mechanism for enhancing the benefits of cultural transmission. *Evolution and Human Behavior*, *22*(3), 165–196. <https://doi.org/10.1016/S1090-5138(00)00071-4>
+
+Boyd, R., & Richerson, P. J. (1985). *Culture and the evolutionary process*. University of Chicago Press.
+
+Kendal, R. L., Boogert, N. J., Rendell, L., Laland, K. N., Webster, M., & Jones, P. L. (2018). Social learning strategies: Bridge-building between fields. *Trends in Cognitive Sciences, 22*(7), 651–665. <https://doi.org/10.1016/j.tics.2018.04.003>
+
+Mesoudi, A., & Thornton, A. (2018). What is cumulative cultural evolution? *Proceedings of the Royal Society B*, *285*(1880), 20180712. <https://doi.org/10.1098/rspb.2018.0712>
+
+Evans, C. L., Greenhill, S. J., Watts, J., List, J.-M., Botero, C. A., Gray, R. D., & Kirby, K. R. (2021). The uses and abuses of tree thinking in cultural evolution. *Philosophical Transactions of the Royal Society B*, *376*(1828), 20200056. <https://doi.org/10.1098/rstb.2020.0056>
+
+Heyes, C. (2018). *Cognitive gadgets: The cultural evolution of thinking*. Harvard University Press.
+
+Griffiths, T. L., Kalish, M. L., & Lewandowsky, S. (2008). Theoretical and empirical evidence for the impact of inductive biases on cultural evolution. *Philosophical Transactions of the Royal Society B*, *363*(1509), 3503–3514. <https://doi.org/10.1098/rstb.2008.0146>
+
+Smith, D. (2020). Cultural group selection and human cooperation: A conceptual and empirical review. *Evolutionary Human Sciences*, *2*, e2. <https://doi.org/10.1017/ehs.2020.2>
+
+Mesoudi, A., Whiten, A., & Laland, K. N. (2006). Towards a unified science of cultural evolution. *Behavioral and Brain Sciences*, *29*(4), 329–347. <https://doi.org/10.1017/S0140525X06009083>
+
+Kirby, S., Dowman, M., & Griffiths, T. L. (2007). Innateness and culture in the evolution of language. *Proceedings of the National Academy of Sciences*, *104*(12), 5241–5245. [**https://doi.org/10.1073/pnas.0608222104**](https://doi.org/10.1073/pnas.0608222104)
+
+Xu, J., Dowman, M., & Griffiths, T. L. (2013). Cultural transmission results in convergence towards colour term universals. *Proceedings of the Royal Society B: Biological Sciences*, *280*(1758), 20123073. <https://doi.org/10.1098/rspb.2012.3073>

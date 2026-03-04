@@ -4,6 +4,8 @@ slug: 7mp7dfdd
 date: '2026-01-28'
 authors:
 - Moira R. Dillon
+section_editors:
+- Michael C. Frank
 ---
 
 The word *geometry* means to ‘measure the world’, and humans have evolved sensitivities to some of the world’s geometries, including its small-scale, manipulable objects and its large-scale, navigable places. Humans, in turn, have populated their world with geometry: Across cultures and historical time, human art has been full of abstract geometric designs. From at least the time Euclid organized all the definitions and postulates of his *Elements*, geometry has also meant the study of such abstractions, including infinitesimal points, lines, and surfaces, which go beyond what can be directly experienced. Both intuitive geometric abilities and abstract formalizations have supported many of humanity’s greatest cultural achievements, from art and architecture to science and technology. For the cognitive sciences, the task is to understand the origins of these geometries within the human mind, including what they measure in the world and how.

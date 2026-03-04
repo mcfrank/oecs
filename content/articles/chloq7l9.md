@@ -5,23 +5,28 @@ date: '2025-02-26'
 doi: 10.21428/e2759450.95725785
 authors:
 - Santiago Echeverri
+section_editors:
+- Frédérique de Vignemont
+editors_in_chief:
+- Michael C. Frank
+- Asifa Majid
 ---
 
 In everyday life, people think of skepticism as the position of a stubborn person who rejects what other people believe in. Some skeptics may deny that climate change is real, while others claim that the first moon landing did not take place. Contemporary philosophers think of skepticism in a different way. In their view, skepticism is the conclusion of a paradoxical argument about epistemic statuses like knowledge and reasons. A paradoxical argument is a logically valid argument that, starting from seemingly plausible premises, reaches an absurd conclusion. There are two major skeptical arguments. The *regress argument* purports to show that people lack reasons to believe any claim whatsoever because the search for those reasons inevitably leads to an infinite regress. The *underdetermination argument* seeks to prove that people lack reasons to believe that there are things such as chairs, trees, other people, and so on. It supports that conclusion by citing skeptical hypotheses, including the idea that people might be dreaming or the suggestion that people could be brains in a vat connected to a supercomputer that mimics the pattern of neural activity that would be produced if they were perceiving external objects.
 
 # History
 
-In classic Greek, “skeptic” (*skeptikós*) means “inquirer.” Rather than defending an eccentric position, the skeptic was someone who steadily searched for truth. To that end, the skeptic employed argumentative techniques to examine different opinions. Those techniques enabled the skeptic to realize that they lacked good reasons to believe various claims about the nature of reality, leading them to a state of mental indecision known as *suspension of judgment* (*epoché*). Since that state induced another state of freedom from distress (*ataraxía*), ancient skepticism was a way of life ((Sextus Empiricus, 2000);  for historical overviews, see: (Hankinson, 1995); (Vogt, 2022)).
+In classic Greek, “skeptic” (*skeptikós*) means “inquirer.” Rather than defending an eccentric position, the skeptic was someone who steadily searched for truth. To that end, the skeptic employed argumentative techniques to examine different opinions. Those techniques enabled the skeptic to realize that they lacked good reasons to believe various claims about the nature of reality, leading them to a state of mental indecision known as *suspension of judgment* (*epoché*). Since that state induced another state of freedom from distress (*ataraxía*), ancient skepticism was a way of life (Sextus Empiricus, 2000;  for historical overviews, see: Hankinson, 1995; Vogt, 2022).
 
-Skeptical arguments played an important role in Europe during the early modern period, when the Reformation gave rise to widespread religious disagreement and the development of the new physical science was accompanied by uncertainty about the cognitive powers of the human mind ((Popkin, 2003)). During that period, philosophers put forward skeptical arguments with new twists. Some radicalized previous forms of doubt. For example, (Descartes (1641/1996)) urged that there are no sure signs that we are not dreaming and suggested that an almighty God could deceive him about seemingly simple arithmetical claims. Hume extended skepticism to any question of fact, including the apparently obvious inductive claim that the sun rises every morning ((Hume, 1739/2011)). Many philosophers of that period thought of skepticism as a phase of thought that should be overcome before one could lay the firm foundations of science ((Descartes, 1641/1996); (Kant, 1781/1998)).
+Skeptical arguments played an important role in Europe during the early modern period, when the Reformation gave rise to widespread religious disagreement and the development of the new physical science was accompanied by uncertainty about the cognitive powers of the human mind (Popkin, 2003). During that period, philosophers put forward skeptical arguments with new twists. Some radicalized previous forms of doubt. For example, Descartes (1641/1996) urged that there are no sure signs that we are not dreaming and suggested that an almighty God could deceive him about seemingly simple arithmetical claims. Hume extended skepticism to any question of fact, including the apparently obvious inductive claim that the sun rises every morning (Hume, 1739/2011). Many philosophers of that period thought of skepticism as a phase of thought that should be overcome before one could lay the firm foundations of science (Descartes, 1641/1996; Kant, 1781/1998).
 
-Although contemporary philosophers still discuss skeptical arguments, skepticism has now acquired a new meaning. Contemporary philosophers typically see skeptical claims as absurd conclusions of paradoxical arguments, that is, logically valid arguments that start from seemingly plausible premises but lead to puzzling conclusions ((Greco, 2000); (Pritchard, 2012); (Pryor, 2000); (Stroud, 1984)). It is often claimed that those paradoxical arguments are the upshot of our attempts at understanding the workings of key epistemic concepts like “knowledge” and “reasons.” Thus, when contemporary philosophers discuss skeptical arguments, it is unlikely that they are recommending a way of life. They are more likely suggesting that a certain theory of knowledge, reasons, or other epistemic statuses has an important flaw that needs to be fixed [see [Conceptual Analysis](/articles/pit4hw2l)].
+Although contemporary philosophers still discuss skeptical arguments, skepticism has now acquired a new meaning. Contemporary philosophers typically see skeptical claims as absurd conclusions of paradoxical arguments, that is, logically valid arguments that start from seemingly plausible premises but lead to puzzling conclusions (Greco, 2000; Pritchard, 2012; Pryor, 2000; Stroud, 1984). It is often claimed that those paradoxical arguments are the upshot of our attempts at understanding the workings of key epistemic concepts like “knowledge” and “reasons.” Thus, when contemporary philosophers discuss skeptical arguments, it is unlikely that they are recommending a way of life. They are more likely suggesting that a certain theory of knowledge, reasons, or other epistemic statuses has an important flaw that needs to be fixed [see [Conceptual Analysis](/articles/pit4hw2l)].
 
 # Core concepts
 
 ## *Skeptical claim*
 
-A skeptical claim is a proposition that contradicts one or more propositions that are widely accepted within a community. Hereafter, the words “claim” and “proposition” will be used interchangeably. When the relevant community includes most adult humans, the skeptical claim contradicts *common sense* ((Moore, 1925/1993)). In philosophy, the most widely discussed skeptical claims concern epistemic statuses like humans’ (alleged) lack of *epistemic reasons* and *propositional knowledge.*
+A skeptical claim is a proposition that contradicts one or more propositions that are widely accepted within a community. Hereafter, the words “claim” and “proposition” will be used interchangeably. When the relevant community includes most adult humans, the skeptical claim contradicts *common sense* (Moore, 1925/1993). In philosophy, the most widely discussed skeptical claims concern epistemic statuses like humans’ (alleged) lack of *epistemic reasons* and *propositional knowledge.*
 
 ## *Epistemic reason*
 
@@ -60,9 +65,9 @@ There have been several influential strategies to block the regress argument and
 
 Responses to the regress argument are attempts at showing that one or another outcome of Agrippa’s trilemma does not lead to universal skepticism.
 
-*Infinitism* holds that human beings with finite cognitive resources can have an infinite number of beliefs. To that end, beliefs should not be cognitively too demanding ((Aikin, 2011); (Klein, 1999); (Peirce, 1931–1958)). For example, beliefs could be understood as dispositions. Roughly, a subject *S* *dispositionally* *believes* that *p* just in case *p* is easily inferable from *S*’s explicit beliefs ((Harman, 1986)), or *S* is ready to act on the truth of *p* ((Dennett, 1978)). One can then have an infinite number of dispositional beliefs. For instance, one can dispositionally believe that 2 is greater than 1, that 3 is greater than 1, that 4 is greater than 1, and so on.
+*Infinitism* holds that human beings with finite cognitive resources can have an infinite number of beliefs. To that end, beliefs should not be cognitively too demanding (Aikin, 2011; Klein, 1999; Peirce, 1931–1958). For example, beliefs could be understood as dispositions. Roughly, a subject *S* *dispositionally* *believes* that *p* just in case *p* is easily inferable from *S*’s explicit beliefs (Harman, 1986), or *S* is ready to act on the truth of *p* (Dennett, 1978). One can then have an infinite number of dispositional beliefs. For instance, one can dispositionally believe that 2 is greater than 1, that 3 is greater than 1, that 4 is greater than 1, and so on.
 
-Few philosophers have found this response plausible. A prominent objection relies on a putative connection between one’s believing that *p* and one’s understanding of sentences that express *p*. If one has an infinite number of beliefs, some of the sentences that express their contents will be too complex for human beings to understand. Now, if one does not understand a sentence that expresses the proposition that *p*, one does not have the belief that *p*. Therefore, human beings do not have an infinite number of beliefs ((Audi, 1993)).
+Few philosophers have found this response plausible. A prominent objection relies on a putative connection between one’s believing that *p* and one’s understanding of sentences that express *p*. If one has an infinite number of beliefs, some of the sentences that express their contents will be too complex for human beings to understand. Now, if one does not understand a sentence that expresses the proposition that *p*, one does not have the belief that *p*. Therefore, human beings do not have an infinite number of beliefs (Audi, 1993).
 
 *Foundationalism* provides another type of response to the regress argument. To that end, it rejects the idea that only beliefs can provide reasons for other beliefs (i.e., the *belief principle* mentioned in Box 1). In this view, at least some of humans’ beliefs are backed up by reasons that are not beliefs (i.e., non-doxastic reasons). Hence, it is necessary to introduce a principled distinction between two kinds of beliefs. *Basic beliefs* are beliefs that are supported by non-doxastic reasons; the regress stops with basic beliefs. *Non-basic beliefs* are rationally supported through their inferential relations to basic beliefs. Therefore, one can think of human belief systems as having the structure of a pyramid, with basic beliefs at the base, and non-basic beliefs on top.
 
@@ -70,45 +75,45 @@ Foundationalism must answer two questions. First, which beliefs count as basic? 
 
 There are as many forms of foundationalism as there are answers to these questions.
 
-*Classical foundationalism* imposes very strict requirements on basic beliefs. For example, some classic foundationalists suggested that basic beliefs should be immune to radical doubt ((Descartes, 1641/1996)). Since very few beliefs can be immune to radical doubt, classical foundationalism does not offer a large enough supply of basic beliefs to rationally support all non-basic beliefs ((Alston, 1976)).
+*Classical foundationalism* imposes very strict requirements on basic beliefs. For example, some classic foundationalists suggested that basic beliefs should be immune to radical doubt (Descartes, 1641/1996). Since very few beliefs can be immune to radical doubt, classical foundationalism does not offer a large enough supply of basic beliefs to rationally support all non-basic beliefs (Alston, 1976).
 
-In the recent literature, most authors have dropped the requirement of immunity to radical doubt. Some have suggested that basic perceptual beliefs are rationally supported by experiences that seem to present external world propositions as true ((Huemer, 2001); (Pryor, 2000); (Tucker, 2013)). An alternative view holds that basic beliefs are those beliefs that originate from belief-independent cognitive processes that produce a higher ratio of true beliefs than false beliefs ((Goldman, 1979)).
+In the recent literature, most authors have dropped the requirement of immunity to radical doubt. Some have suggested that basic perceptual beliefs are rationally supported by experiences that seem to present external world propositions as true (Huemer, 2001; Pryor, 2000; Tucker, 2013). An alternative view holds that basic beliefs are those beliefs that originate from belief-independent cognitive processes that produce a higher ratio of true beliefs than false beliefs (Goldman, 1979).
 
-According to classic foundationalism, non-basic beliefs should be connected with basic beliefs via deductive links. Unfortunately, this view seems overly restrictive. Hence, contemporary foundationalists include induction and inference to the best explanation as legitimate forms of inference to rationally support non-basic beliefs ((Alston, 1976); (Audi, 1993)).
+According to classic foundationalism, non-basic beliefs should be connected with basic beliefs via deductive links. Unfortunately, this view seems overly restrictive. Hence, contemporary foundationalists include induction and inference to the best explanation as legitimate forms of inference to rationally support non-basic beliefs (Alston, 1976; Audi, 1993).
 
-*Coherentism* offers a different response to the regress argument. On this view, although the regress can include chains with iterations of the same belief, the circles so formed need not prevent one from having rationally supported beliefs. One has reasons for a belief that *p* if one’s belief that *p* “fits” or “is congruent” with one’s remaining beliefs. When that happens, one has a *coherent* belief system. For coherentism, the regress argument—and foundationalism, for that matter—goes wrong in assuming that rational relations among beliefs proceed linearly and in a single direction. According to coherentism, one should rather think of human belief systems as networks ((Quine & Ullian, 1978)). As a result, the main task for coherentism is to clarify what it takes for a network of beliefs to be coherent. Coherence typically includes the absence of logical inconsistencies and the existence of explanatory relations among beliefs ((BonJour, 1985); (Lehrer, 1974)).
+*Coherentism* offers a different response to the regress argument. On this view, although the regress can include chains with iterations of the same belief, the circles so formed need not prevent one from having rationally supported beliefs. One has reasons for a belief that *p* if one’s belief that *p* “fits” or “is congruent” with one’s remaining beliefs. When that happens, one has a *coherent* belief system. For coherentism, the regress argument—and foundationalism, for that matter—goes wrong in assuming that rational relations among beliefs proceed linearly and in a single direction. According to coherentism, one should rather think of human belief systems as networks (Quine & Ullian, 1978). As a result, the main task for coherentism is to clarify what it takes for a network of beliefs to be coherent. Coherence typically includes the absence of logical inconsistencies and the existence of explanatory relations among beliefs (BonJour, 1985; Lehrer, 1974).
 
-Coherentism is not without problems, however. A difficulty arises from human cognitive limitations. Any human being holds logically inconsistent beliefs that do not prevent them from having rational beliefs. For example, if Lois Lane does not know that Superman is Clark Kent, she may believe (at the same time) that Superman can fly and that Clark Kent cannot fly. Yet, this unnoticed inconsistency does not seem to prevent Lois Lane from having reasons to hold many other beliefs, like the belief that she exists ((Feldman, 2003)). Furthermore, coherentism faces the so-called *isolation problem*. By focusing solely on internal relations within a belief system, coherentism neglects the role of perception to gain reasons for belief. Imagine a paranoid subject whose beliefs are radically cut off from the external world but still manages to maintain a coherent belief system. If coherentism is true, that paranoid subject’s beliefs are rational. Several authors find that consequence unpalatable ((McDowell, 1996)).
+Coherentism is not without problems, however. A difficulty arises from human cognitive limitations. Any human being holds logically inconsistent beliefs that do not prevent them from having rational beliefs. For example, if Lois Lane does not know that Superman is Clark Kent, she may believe (at the same time) that Superman can fly and that Clark Kent cannot fly. Yet, this unnoticed inconsistency does not seem to prevent Lois Lane from having reasons to hold many other beliefs, like the belief that she exists (Feldman, 2003). Furthermore, coherentism faces the so-called *isolation problem*. By focusing solely on internal relations within a belief system, coherentism neglects the role of perception to gain reasons for belief. Imagine a paranoid subject whose beliefs are radically cut off from the external world but still manages to maintain a coherent belief system. If coherentism is true, that paranoid subject’s beliefs are rational. Several authors find that consequence unpalatable (McDowell, 1996).
 
-The problems faced by both foundationalism and coherentism have led many authors to develop hybrid views ((Haack, 1993); (McDowell, 1996)). Those views try to combine the strengths of both approaches to solve problems faced by each view when taken in isolation.
+The problems faced by both foundationalism and coherentism have led many authors to develop hybrid views (Haack, 1993; McDowell, 1996). Those views try to combine the strengths of both approaches to solve problems faced by each view when taken in isolation.
 
 ## *Responses to the underdetermination argument*
 
-Recall the main contention of the underdetermination argument: since humans lack reasons that favor, on balance, their beliefs in external entities over radical skeptical hypotheses, humans lack reasons to hold beliefs in external entities like chairs, trees, and other people. So-called *relevant alternatives theories* hold that this requirement is too demanding (hence, they reject the underdetermination principle mentioned above). On their view, you can have reasons to believe that *p* even though, on balance, your reasons do not favor *p* over all the obvious alternatives to *p* ((Austin, 1946); (Dretske, 1971); (Goldman, 1976); (Pritchard, 2010)). In other words, your possession of reasons to believe that *p* only requires that your reasons favor, on balance, *p* over the relevant alternatives to *p*. In this context, “relevant alternatives” refers to those possibilities that could easily obtain in the subject’s circumstances.
+Recall the main contention of the underdetermination argument: since humans lack reasons that favor, on balance, their beliefs in external entities over radical skeptical hypotheses, humans lack reasons to hold beliefs in external entities like chairs, trees, and other people. So-called *relevant alternatives theories* hold that this requirement is too demanding (hence, they reject the underdetermination principle mentioned above). On their view, you can have reasons to believe that *p* even though, on balance, your reasons do not favor *p* over all the obvious alternatives to *p* (Austin, 1946; Dretske, 1971; Goldman, 1976; Pritchard, 2010). In other words, your possession of reasons to believe that *p* only requires that your reasons favor, on balance, *p* over the relevant alternatives to *p*. In this context, “relevant alternatives” refers to those possibilities that could easily obtain in the subject’s circumstances.
 
 Imagine that it is common to find crocodiles in your own environment. Suppose also that it is obvious to you that “That is a zebra” and “That is a crocodile” are contraries. Suppose now that you have reasons to believe the proposition “That is a zebra.” Intuitively, your reasons should favor, on balance, the zebra proposition over the crocodile proposition. It is, however, quite easy to comply with that condition. For instance, you probably know that only zebras have black and white stripes, that they have fur, and that their shape is very different from the shape of crocodiles. Suppose now that you are not in an environment where people are prone to be captured by evil scientists, who then put their brains in vats and connect them to supercomputers that make them have nonveridical hallucinations. Hence, you do not need to have reasons that favor, on balance, the zebra proposition over the brain-in-a-vat hypothesis.
 
 Relevant alternatives theories seem to dovetail with everyday epistemic practices. Even in the sciences, in which epistemic norms are the most stringent, scientists are not expected to give reasons that speak against radical skeptical hypotheses.
 
-Unfortunately, relevant alternatives theories are not without problems. It has been argued that intuitions about the seemingly unreasonable demands of an epistemic principle do not show that that principle is false. More specifically, the act of making a demand may be unreasonable, although the demand itself stems from a true principle. As an analogy, think of cases in which it would be rude to make a remark, even if that remark would still say something true. By parity of reasoning, the underdetermination principle could still tacitly govern human epistemic practices, although the requirements of action, cooperation, and communication lead humans to ignore the demand of having reasons that are strong enough to favor external world propositions over radical skeptical hypotheses ((Stroud, 1984); see also (DeRose, 1995) and (Vogel, 1999) for further criticism).
+Unfortunately, relevant alternatives theories are not without problems. It has been argued that intuitions about the seemingly unreasonable demands of an epistemic principle do not show that that principle is false. More specifically, the act of making a demand may be unreasonable, although the demand itself stems from a true principle. As an analogy, think of cases in which it would be rude to make a remark, even if that remark would still say something true. By parity of reasoning, the underdetermination principle could still tacitly govern human epistemic practices, although the requirements of action, cooperation, and communication lead humans to ignore the demand of having reasons that are strong enough to favor external world propositions over radical skeptical hypotheses (Stroud, 1984; see also DeRose, 1995 and Vogel, 1999 for further criticism).
 
-Alternatively, if one endorses the underdetermination principle but still wants to avoid the radical skeptical conclusion, one is compelled to reject the idea that one lacks reasons that favor one’s beliefs in external entities over radical skeptical hypotheses. Some philosophers have suggested that humans might have a priori reasons that favor external world propositions over radical skeptical hypotheses. An *a priori reason* is a reason that is not grounded in experience. Some authors have tried to derive a priori reasons from the types of inferences that humans accept in everyday life. More specifically, they have extracted a number of rules of inference from those inferences and redeployed them to disregard radical skeptical hypotheses ((Cohen, 2010)). Others have suggested that it is a priori rational to disregard skeptical hypotheses because, in so doing, humans maximize their chances of attaining their epistemic goals, like forming more true beliefs than false beliefs ((Wright, 2004)).
+Alternatively, if one endorses the underdetermination principle but still wants to avoid the radical skeptical conclusion, one is compelled to reject the idea that one lacks reasons that favor one’s beliefs in external entities over radical skeptical hypotheses. Some philosophers have suggested that humans might have a priori reasons that favor external world propositions over radical skeptical hypotheses. An *a priori reason* is a reason that is not grounded in experience. Some authors have tried to derive a priori reasons from the types of inferences that humans accept in everyday life. More specifically, they have extracted a number of rules of inference from those inferences and redeployed them to disregard radical skeptical hypotheses (Cohen, 2010). Others have suggested that it is a priori rational to disregard skeptical hypotheses because, in so doing, humans maximize their chances of attaining their epistemic goals, like forming more true beliefs than false beliefs (Wright, 2004).
 
-These views are controversial, however. Skeptical hypotheses concern contingent and specific states of affairs, such as, “I am a brain in a vat who is having a nonveridical hallucination of a zebra right there.” In the absence of experience, it is unclear how one could have reasons that speak to the falsity of these contingent and specific states of affairs ((McDowell, 1996); (Pritchard, 2012); but see (Hawthorne, 2002)).
+These views are controversial, however. Skeptical hypotheses concern contingent and specific states of affairs, such as, “I am a brain in a vat who is having a nonveridical hallucination of a zebra right there.” In the absence of experience, it is unclear how one could have reasons that speak to the falsity of these contingent and specific states of affairs (McDowell, 1996; Pritchard, 2012; but see Hawthorne, 2002).
 
-Other philosophers have pointed out that, in everyday epistemic practices, people do cite and accept perceptual reasons that speak to the falsity of skeptical hypotheses ((Echeverri, 2023); (McDowell, 2011); (Pritchard, 2012); (Williamson, 2000)). To illustrate, suppose that Ricardo calls me to inquire whether my colleague Lara is at work. I could answer Ricardo’s question by taking a good look at Lara’s office and saying, “Yes, I can see that Lara is at work.” If my circumstances are favorable, this linguistic construction conveys a *factive reason*, namely, a reason that entails the truth of its propositional content. If I see that Lara is at work, it is a fact that Lara is at work. Since that fact would not obtain in a brain-in-a-vat scenario in which I merely had a nonveridical hallucination of Lara, I do have at least one reason that favors the proposition that Lara is at work over the brain-in-a-vat hypothesis. If one takes these considerations at face value, one can have reasons that are better than the reasons that one would have in a skeptical scenario. This type of view is known as *epistemological disjunctivism*. The label “disjunctivism” comes from the need for an exclusive disjunction to state it: either one has reasons that guarantee the truth of some external world proposition (as in the office scenario), or one merely seems to have those reasons (as in the brain-in-a-vat scenario).
+Other philosophers have pointed out that, in everyday epistemic practices, people do cite and accept perceptual reasons that speak to the falsity of skeptical hypotheses (Echeverri, 2023; McDowell, 2011; Pritchard, 2012; Williamson, 2000). To illustrate, suppose that Ricardo calls me to inquire whether my colleague Lara is at work. I could answer Ricardo’s question by taking a good look at Lara’s office and saying, “Yes, I can see that Lara is at work.” If my circumstances are favorable, this linguistic construction conveys a *factive reason*, namely, a reason that entails the truth of its propositional content. If I see that Lara is at work, it is a fact that Lara is at work. Since that fact would not obtain in a brain-in-a-vat scenario in which I merely had a nonveridical hallucination of Lara, I do have at least one reason that favors the proposition that Lara is at work over the brain-in-a-vat hypothesis. If one takes these considerations at face value, one can have reasons that are better than the reasons that one would have in a skeptical scenario. This type of view is known as *epistemological disjunctivism*. The label “disjunctivism” comes from the need for an exclusive disjunction to state it: either one has reasons that guarantee the truth of some external world proposition (as in the office scenario), or one merely seems to have those reasons (as in the brain-in-a-vat scenario).
 
-A key problem for epistemological disjunctivism is to reconcile the idea that one can have factive reasons in favorable circumstances with the widespread intuition that those favorable circumstances are subjectively indiscriminable from skeptical scenarios ((McDowell, 2011); (Pritchard, 2012); (Williamson, 2000)). Another problem concerns the (in)compatibility of epistemological disjunctivism with cognitive science. Some contend that epistemological disjunctivism is inconsistent with the way in which perceptual science individuates perceptual states, for perceptual science requires that one and the same fundamental type of mental state is common to veridical and nonveridical perception ((Burge, 2005)). Defenders of epistemological disjunctivism have suggested that the incompatibility is unreal because perceptual states can be individuated in different ways. For psychological purposes, scientists may need to posit types of mental states shared by veridical and nonveridical perception. For epistemological purposes, however, philosophers may need to introduce mental states that are only available in favorable circumstances ((McDowell, 2013)).
+A key problem for epistemological disjunctivism is to reconcile the idea that one can have factive reasons in favorable circumstances with the widespread intuition that those favorable circumstances are subjectively indiscriminable from skeptical scenarios (McDowell, 2011; Pritchard, 2012; Williamson, 2000). Another problem concerns the (in)compatibility of epistemological disjunctivism with cognitive science. Some contend that epistemological disjunctivism is inconsistent with the way in which perceptual science individuates perceptual states, for perceptual science requires that one and the same fundamental type of mental state is common to veridical and nonveridical perception (Burge, 2005). Defenders of epistemological disjunctivism have suggested that the incompatibility is unreal because perceptual states can be individuated in different ways. For psychological purposes, scientists may need to posit types of mental states shared by veridical and nonveridical perception. For epistemological purposes, however, philosophers may need to introduce mental states that are only available in favorable circumstances (McDowell, 2013).
 
 # Broader connections
 
 Despite their abstract character, skeptical arguments bear interesting connections with various issues in cognitive science.
 
-First, cognitive scientists have been concerned with the distinction between perception and cognition. If there are functional marks that distinguish perceptual processes from cognitive processes, foundationalists could exploit them to develop an empirically informed account of basic beliefs ((Block, 2023); (Lyons, 2009)). If basic beliefs are grounded in experiences that seem to present certain contents as true, one may inquire into the psychological underpinnings of the feeling of presence. Empirical findings on metacognition might be relevant to that end ((Teng, 2023)) [see [Metacognition](/articles/zjuzickv)].
+First, cognitive scientists have been concerned with the distinction between perception and cognition. If there are functional marks that distinguish perceptual processes from cognitive processes, foundationalists could exploit them to develop an empirically informed account of basic beliefs (Block, 2023; Lyons, 2009). If basic beliefs are grounded in experiences that seem to present certain contents as true, one may inquire into the psychological underpinnings of the feeling of presence. Empirical findings on metacognition might be relevant to that end (Teng, 2023) [see [Metacognition](/articles/zjuzickv)].
 
-Second, several cognitive scientists have suggested that belief systems are best understood as collections of fragments of beliefs that may be inconsistent with one another ((Borgoni et al., 2021)). If one follows the lead of coherentism, one might need to restrict coherence requirements to fragments of beliefs.
+Second, several cognitive scientists have suggested that belief systems are best understood as collections of fragments of beliefs that may be inconsistent with one another (Borgoni et al., 2021). If one follows the lead of coherentism, one might need to restrict coherence requirements to fragments of beliefs.
 
-Third, research on embodied, embedded, enactive, and extended cognition has identified many constitutive relations between the mind and the external environment. This body of research might be relevant to shed light on a key contention of epistemological disjunctivism; namely, that humans can have perceptual reasons that guarantee the truth of some propositions ((Carvalho, 2021)).
+Third, research on embodied, embedded, enactive, and extended cognition has identified many constitutive relations between the mind and the external environment. This body of research might be relevant to shed light on a key contention of epistemological disjunctivism; namely, that humans can have perceptual reasons that guarantee the truth of some propositions (Carvalho, 2021).
 
 # **Acknowledgments**
 
@@ -120,3 +125,105 @@ I am grateful to Hannah Birkenkötter, Frédérique de Vignemont, Asifa Majid, a
 - Comesaña, J., & Klein, P. (2024). Skepticism. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford encyclopedia of philosophy *(Spring ed.)*. *Stanford University.
 - Greco, J. (2008). *The Oxford handbook of skepticism.* Oxford University Press.
 - Machuca, D. E., & Reed, B. (Eds.). (2018). *Skepticism: From antiquity to the present.* Bloomsbury Academic.
+
+# References
+
+Sextus Empiricus (2000). *Outlines of scepticism* (2nd ed., J. Annas & J. Barnes, Eds.). Cambridge University Press.
+
+Hankinson, R. J. (1995). *The sceptics.* Routledge.
+
+Vogt, K. (2022). Ancient skepticism. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford encyclopedia of philosophy* (Winter ed.). Stanford University.
+
+Popkin, R. (2003). *The history of scepticism from Savonarola to Bayle* (3rd ed.). Oxford University Press.
+
+Descartes, R. (1996). *Descartes: Meditations on first philosophy: With selections from the objections and replies* (J. Cottingham, Trans.). Cambridge University Press. (Original work published 1641)
+
+Hume, D. (2011). *A treatise of human nature* (D. F. Norton & M. J. Norton, Eds.). Clarendon Press. (Original work published 1739)
+
+Descartes, R. (1996). *Descartes: Meditations on first philosophy: With selections from the objections and replies* (J. Cottingham, Trans.). Cambridge University Press. (Original work published 1641)
+
+Kant, I. (1998). *Critique of pure reason.* (P. Guyer & A. W. Wood, Eds.). Cambridge University Press. (Original work published 1781)
+
+Greco, J. (2000). *Putting skeptics in their place: The nature of skeptical arguments and their role in philosophical inquiry.* Cambridge University Press.
+
+Pritchard, D. (2012). *Epistemological disjunctivism.* Oxford University Press
+
+Pryor, J. (2000). The skeptic and the dogmatist. *Noûs,* *34*(4), 517–549. <https://doi.org/10.1111/0029-4624.00277>
+
+Stroud, B. (1984). *The Significance of philosophical scepticism.* Oxford University Press.
+
+Moore, G. E. (1993). A defence of common sense. In T. Baldwin, Ed., *G. E. Moore: Selected writings* (pp. 106–133). Routledge. (Original work published 1925)
+
+Aikin, S. F. (2011). *Epistemology and the regress problem.* Routledge.
+
+Klein, P. (1999). Human knowledge and the infinite regress of reasons*. Philosophical Perspectives, 13*, 297–325. <https://doi.org/10.1111/0029-4624.33.s13.14>
+
+Peirce, C. S. (1931–1958). *Collected papers of C. S. Peirce* (Vols. 1–8, C. Hartshorne, P. Weiss, & A. Burks, Eds.). Harvard University Press.
+
+Harman, G. (1986). *Change in view: Principles of reasoning.* MIT Press.
+
+Dennett, D. (1978). *Brainstorms.* MIT Press.
+
+Audi, R. (1993). *The structure of justification.* Cambridge University Press.
+
+Alston, W. (1976). Two types of foundationalism. *Journal of Philosophy, 73*(7), 165–185. <https://doi.org/10.2307/2025920>
+
+Huemer, M. (2001). *Skepticism and the veil of perception.* Rowman & Littlefield.
+
+Pryor, J. (2000). The skeptic and the dogmatist. *Noûs,* *34*(4), 517–549. <https://doi.org/10.1111/0029-4624.00277>
+
+Tucker, C. (2013). *Seemings and justification: New essays on dogmatism and phenomenological conservatism.* Oxford University Press.
+
+Goldman, A. (1979). What is justified belief? In G. Pappas (Ed.), *Justification and Knowledge* (pp. 1–25). D. Reidel.
+
+Audi, R. (1993). *The structure of justification.* Cambridge University Press.
+
+Quine, W. V. O., & Ullian, J. S. (1978). *The web of belief* (2nd ed.). McGraw-Hill Education.
+
+BonJour, L. (1985). *The structure of empirical knowledge.* Harvard University Press.
+
+Lehrer, K. (1974). *Knowledge.* Clarendon Press.
+
+Feldman, R. (2003). *Epistemology.* Prentice Hall.
+
+McDowell, J. (1996). *Mind and world* (2nd ed). Harvard University Press.
+
+Haack, S. (1993). *Evidence and inquiry: Towards reconstruction in epistemology*. Blackwell.
+
+Austin, J. L. (1946). Other minds. In J. L. Austin (Ed.), *Philosophical papers* (pp. 76–116). Oxford University Press.
+
+Dretske, F. (1971). Conclusive reasons. *Australasian Journal of Philosophy*, *49*(1), 1–22. <https://doi.org/10.1080/00048407112341001>
+
+Goldman, A. (1976). Discrimination and perceptual knowledge. *Journal of Philosophy, 73*(11), 771–791. <https://doi.org/10.2307/2025679>
+
+Pritchard, D. (2010). Relevant alternatives, perceptual knowledge and discrimination. *Noûs,* *44*(2), 245–268. <https://doi.org/10.1111/j.1468-0068.2010.00739.x>
+
+DeRose, K. (1995). Solving the skeptical problem. *Philosophical Review, 104*(1), 1–52. <https://doi.org/10.2307/2186011>
+
+Vogel, J. (1999). The new relevant alternatives theory. *Philosophical Perspectives, 13*, 155–180. <https://doi.org/10.1111/0029-4624.33.s13.8>
+
+Cohen, S. (2010). Bootstrapping, defeasible reasoning, and a priori justification. *Philosophical Perspectives, 24*(1), 141–159. <https://doi.org/10.1111/j.1520-8583.2010.00188.x>
+
+Wright, C. (2004). Warrant for nothing (and foundations for free)? *Proceedings of the Aristotelian Society Supplementary Volume,* *78*(1), 167–212. <https://doi.org/10.1111/j.0309-7013.2004.00121.x>
+
+Hawthorne, J. (2002). Deeply contingent a priori knowledge. *Philosophy and Phenomenological Research, 65*(2), 247–269. <https://doi.org/10.1111/j.1933-1592.2002.tb00201.x>
+
+Echeverri, S. (2023). A-rational epistemological disjunctivism. *Philosophy and Phenomenological Research, 106*(3), 692–719. <https://doi.org/10.1111/phpr.12898>
+
+McDowell, J. (2011). *Perception as a capacity for knowledge*. Marquette University Press.
+
+Williamson, T. (2000). *Knowledge and its limits.* Oxford University Press.
+
+Burge, T. (2005). Disjunctivism and perceptual psychology*. Philosophical Topics, 33*(1), 1–78*.*
+
+McDowell, J. (2013). Tyler Burge on disjunctivism (II). *Philosophical Explorations, 16*(3), 259–279. <https://doi.org/10.1080/13869795.2013.808693>
+
+Block, N. (2023). *The border between seeing and thinking.* Oxford University Press.
+
+Lyons, J. C. (2009). *Perception and basic beliefs.* Oxford University Press.
+
+Teng, L. (2023). A metacognitive account of phenomenal force. *Mind and Language, 38*(4), 1081–1101. <https://doi.org/10.1111/mila.12442>
+
+Borgoni, C., Kindermann, D., & Onofri, A. (Eds.). (2021). *The fragmented mind.* Oxford University Press.
+
+Carvalho, E. M. (2021). An ecological approach to disjunctivism. *Synthese, 198*(Suppl. 1), 285–306. <https://doi.org/10.1007/s11229-019-02253-2>

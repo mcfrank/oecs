@@ -5,6 +5,8 @@ date: '2025-07-17'
 doi: 10.21428/e2759450.25dc99f6
 authors:
 - Joseph W. Kable
+section_editors:
+- Marina Bedny
 ---
 
 Neuroeconomics is the study of decision-making that integrates theories, methods, and insights from economics, psychology, and neuroscience. Motivating this integration is the desire to understand decision-making at multiple levels of analysis—from what goal the decision-maker might be trying to achieve and what choices would maximize that goal, to what cognitive representations and processes the decision-maker uses to make their decision and how those representations and processes are realized in the brain. Underlying this research program is the belief that these different levels of analysis should inform and constrain each other: Neuroeconomics prizes explanations of decision-making that are consilient across academic fields and that account for both what individuals choose and the psychological and neural mechanisms that generate those choices.
@@ -17,49 +19,91 @@ Much ongoing work in neuroeconomics has historical roots in, for example, utilit
 
 ## *Utility and subjective value*
 
-Mathematical models of decision-making in psychology and economics often assume that a decision-maker assigns a *utility*, or *subjective value*, to each option being considered and then chooses the option with the highest subjective value. Thus, one central question in neuroeconomics has been whether there are neural signals related to the subjective value of different options during decision-making. Using functional magnetic resonance imaging, neural correlates of subjective value have been observed consistently during decision-making in several brain regions, including the *ventromedial prefrontal cortex* and the *ventral striatum* ((Bartra et al., 2013)). Neural correlates of subjective value have also been identified in single neurons in similar regions ((Padoa-Schioppa, 2011)).
+Mathematical models of decision-making in psychology and economics often assume that a decision-maker assigns a *utility*, or *subjective value*, to each option being considered and then chooses the option with the highest subjective value. Thus, one central question in neuroeconomics has been whether there are neural signals related to the subjective value of different options during decision-making. Using functional magnetic resonance imaging, neural correlates of subjective value have been observed consistently during decision-making in several brain regions, including the *ventromedial prefrontal cortex* and the *ventral striatum* (Bartra et al., 2013). Neural correlates of subjective value have also been identified in single neurons in similar regions (Padoa-Schioppa, 2011).
 
 ## *Preferences and individual differences*
 
-Mathematical models of decision-making can also be used to study individual differences. Parameters in these models can account for people’s idiosyncratic preferences regarding risk and uncertainty (e.g., would you choose $20 for sure or a 50% chance to win $40?), intertemporal tradeoffs (e.g., would you choose $20 now or $40 in 90 days?), or interpersonal tradeoffs (e.g., would you split $20 equally with a stranger or keep the entire amount for yourself?). Neuroeconomists have examined the association between these parameters and different aspects of brain structure or function ((Kable & Levy, 2015)). They have also studied how these preferences change over the course of the lifespan, from childhood through older adulthood ((Hartley & Somerville, 2015); (Lighthall, 2020)).
+Mathematical models of decision-making can also be used to study individual differences. Parameters in these models can account for people’s idiosyncratic preferences regarding risk and uncertainty (e.g., would you choose $20 for sure or a 50% chance to win $40?), intertemporal tradeoffs (e.g., would you choose $20 now or $40 in 90 days?), or interpersonal tradeoffs (e.g., would you split $20 equally with a stranger or keep the entire amount for yourself?). Neuroeconomists have examined the association between these parameters and different aspects of brain structure or function (Kable & Levy, 2015). They have also studied how these preferences change over the course of the lifespan, from childhood through older adulthood (Hartley & Somerville, 2015; Lighthall, 2020).
 
 ## *Choice dynamics*
 
-The class of *integration-to-bound* models, which includes the widely used *drift diffusion model*, can be used to explain why some choices take longer than others and why some choices are more variable than others. These models posit that information for or against different choice options accumulate over time until a threshold is reached for making a decision. Neural activity consistent with such an integration-to-bound process has been found in many brain regions involved in decision-making ((Gold & Shadlen, 2007)).
+The class of *integration-to-bound* models, which includes the widely used *drift diffusion model*, can be used to explain why some choices take longer than others and why some choices are more variable than others. These models posit that information for or against different choice options accumulate over time until a threshold is reached for making a decision. Neural activity consistent with such an integration-to-bound process has been found in many brain regions involved in decision-making (Gold & Shadlen, 2007).
 
 ## *Reinforcement learning*
 
-*Reinforcement learning* concerns how humans and other agents learn from trial-and-error experience which actions are the most valuable to take [see [Reinforcement Learning](/articles/k2ek981x)]. A key teaching signal in reinforcement learning models is the *reward prediction error*, the difference between the reward received and the reward expected. Much research has examined how the responses of *dopaminergic neurons* resemble a reward prediction error signal ((Schultz et al., 1997)) and the causal role for dopamine signals in learning about rewards through experience ((Steinberg et al., 2013)).
+*Reinforcement learning* concerns how humans and other agents learn from trial-and-error experience which actions are the most valuable to take [see [Reinforcement Learning](/articles/k2ek981x)]. A key teaching signal in reinforcement learning models is the *reward prediction error*, the difference between the reward received and the reward expected. Much research has examined how the responses of *dopaminergic neurons* resemble a reward prediction error signal (Schultz et al., 1997) and the causal role for dopamine signals in learning about rewards through experience (Steinberg et al., 2013).
 
 ## *Altruism*
 
-Different explanations for altruistic decisions, when one individual sacrifices to help another, differ in the motivations they ascribe to the altruist. Neuroeconomists have used neural data, particularly signals measured from regions known to track subjective value, to reveal the motivations underlying altruistic choices ((Harbaugh et al., 2007)). They have also built on work in social cognitive neuroscience, which has identified neural networks critical for *empathy* and *mentalizing*, to examine the role of these social cognitive processes in altruism ((Tusche et al., 2016)) [see [Social Cognitive Neuroscience](/articles/bc1nglmr)].
+Different explanations for altruistic decisions, when one individual sacrifices to help another, differ in the motivations they ascribe to the altruist. Neuroeconomists have used neural data, particularly signals measured from regions known to track subjective value, to reveal the motivations underlying altruistic choices (Harbaugh et al., 2007). They have also built on work in social cognitive neuroscience, which has identified neural networks critical for *empathy* and *mentalizing*, to examine the role of these social cognitive processes in altruism (Tusche et al., 2016) [see [Social Cognitive Neuroscience](/articles/bc1nglmr)].
 
 ## *Game theory and strategic choice*
 
-Situations in which multiple decision-makers are in cooperation or competition have been modeled in economics using *game theory* and *behavioral game theory*. Neuroeconomists have studied such situations, sometimes recording neural activity from multiple decision-makers at the same time. These studies have examined, for example, whether individuals whose choices reflect more steps of strategic reasoning exhibit more activity in mentalizing regions ((Coricelli & Nagel, 2009)) and whether activity in mentalizing regions tracks learning about what others do in repeated strategic interactions ((Hampton et al., 2008)).
+Situations in which multiple decision-makers are in cooperation or competition have been modeled in economics using *game theory* and *behavioral game theory*. Neuroeconomists have studied such situations, sometimes recording neural activity from multiple decision-makers at the same time. These studies have examined, for example, whether individuals whose choices reflect more steps of strategic reasoning exhibit more activity in mentalizing regions (Coricelli & Nagel, 2009) and whether activity in mentalizing regions tracks learning about what others do in repeated strategic interactions (Hampton et al., 2008).
 
 # Questions, controversies, and new developments
 
 ## *How rational are the psychological and neural mechanisms of decision-making?*
 
-Many ongoing debates in neuroeconomics concern the evidence for competing models of decision-making in each of the research domains discussed above. Often, competing models differ in the extent to which they assume psychological and neural processes depart from an idealized model that implements certain normative principles or optimally satisfies certain goals [see [Foundations of Rationality](/articles/hggua2hs)]. For example, there is increasing evidence that the neural correlates of subjective value are *context dependent* in a manner that would predict violations of traditional versions of utility theory. However, opinions on the extent of context dependence and its implications are wide ranging, from those who argue that the brain may not in fact do any form of value maximization to those that argue that the kinds of context dependence observed are a predictable form of neural efficiency ((Louie et al., 2015)).
+Many ongoing debates in neuroeconomics concern the evidence for competing models of decision-making in each of the research domains discussed above. Often, competing models differ in the extent to which they assume psychological and neural processes depart from an idealized model that implements certain normative principles or optimally satisfies certain goals [see [Foundations of Rationality](/articles/hggua2hs)]. For example, there is increasing evidence that the neural correlates of subjective value are *context dependent* in a manner that would predict violations of traditional versions of utility theory. However, opinions on the extent of context dependence and its implications are wide ranging, from those who argue that the brain may not in fact do any form of value maximization to those that argue that the kinds of context dependence observed are a predictable form of neural efficiency (Louie et al., 2015).
 
 ## *Will neuroeconomics change economics?*
 
-From the field’s inception, critics of neuroeconomics have questioned whether it would, or even should, influence mainstream economics, with some economists arguing that data on psychological processes or neural mechanisms are irrelevant for the questions and methods that traditionally define economics. To date, one of neuroeconomics’ most salient effects has been indirect, serving as inspiration for a recent *cognitive turn* within economics. A foundational principle of neuroscience is that the brain faces efficiency constraints, that is, pressure to maximize the amount of useful information encoded while minimizing the use of neural resources and capacity. This principle is one inspiration for cognitive economic models that explain behavior previously considered irrational as arising from constraints on computational capacity combined with efficient coding ((Woodford, 2020)).
+From the field’s inception, critics of neuroeconomics have questioned whether it would, or even should, influence mainstream economics, with some economists arguing that data on psychological processes or neural mechanisms are irrelevant for the questions and methods that traditionally define economics. To date, one of neuroeconomics’ most salient effects has been indirect, serving as inspiration for a recent *cognitive turn* within economics. A foundational principle of neuroscience is that the brain faces efficiency constraints, that is, pressure to maximize the amount of useful information encoded while minimizing the use of neural resources and capacity. This principle is one inspiration for cognitive economic models that explain behavior previously considered irrational as arising from constraints on computational capacity combined with efficient coding (Woodford, 2020).
 
 ## *Will neuroeconomics lead to real-world applications?*
 
-A recent development has been the potential for neuroeconomics to generate real-world applications. In the realm of business, researchers have used neuroeconomic methods to address questions in several applied academic fields, most prominently finance ((Frydman & Camerer, 2016)) and marketing ((Karmarkar & Plassmann, 2019)). One line of research concerns *neuroforecasting*, which has shown that neural signals measured in a smaller group of participants (typically less than 100) can predict the market-level performance of fundraising appeals or commercial ads or population-level sharing of news stories or social media ((Knutson & Genevsky, 2018)). Along these lines, many marketing research firms now claim to use neural measures in their work.
+A recent development has been the potential for neuroeconomics to generate real-world applications. In the realm of business, researchers have used neuroeconomic methods to address questions in several applied academic fields, most prominently finance (Frydman & Camerer, 2016) and marketing (Karmarkar & Plassmann, 2019). One line of research concerns *neuroforecasting*, which has shown that neural signals measured in a smaller group of participants (typically less than 100) can predict the market-level performance of fundraising appeals or commercial ads or population-level sharing of news stories or social media (Knutson & Genevsky, 2018). Along these lines, many marketing research firms now claim to use neural measures in their work.
 
-Another potentially promising domain of application is mental health. Recently, some policymakers have bemoaned the fact that decades of neuroscience research have so far failed to deliver revolutionary new mental health treatments. In response to this challenge, researchers have sought new approaches, one of which is computational psychiatry ((Huys et al., 2016)). One core approach in this new field is to use neuroeconomic paradigms to understand how psychological and neural processes are affected by different psychiatric conditions.
+Another potentially promising domain of application is mental health. Recently, some policymakers have bemoaned the fact that decades of neuroscience research have so far failed to deliver revolutionary new mental health treatments. In response to this challenge, researchers have sought new approaches, one of which is computational psychiatry (Huys et al., 2016). One core approach in this new field is to use neuroeconomic paradigms to understand how psychological and neural processes are affected by different psychiatric conditions.
 
 # Broader connections
 
-Neuroeconomics has deep connections to other areas of cognitive science, including perception and artificial intelligence. Many ideas in neuroeconomics, including integration-to-bound models and models of efficient coding, originated in studies of perceptual decision-making, and innovations in these models in perception are often quickly ported to study decisions based on subjective preferences ((Polania et al., 2019)). Similarly, as modern deep neural networks are trained using reinforcement learning algorithms, innovations in those algorithms have inspired new tests regarding the nature of the dopaminergic reward prediction error signal ((Dabney et al., 2020)).
+Neuroeconomics has deep connections to other areas of cognitive science, including perception and artificial intelligence. Many ideas in neuroeconomics, including integration-to-bound models and models of efficient coding, originated in studies of perceptual decision-making, and innovations in these models in perception are often quickly ported to study decisions based on subjective preferences (Polania et al., 2019). Similarly, as modern deep neural networks are trained using reinforcement learning algorithms, innovations in those algorithms have inspired new tests regarding the nature of the dopaminergic reward prediction error signal (Dabney et al., 2020).
 
 # Further reading
 
 - Kable, J. W., & Glimcher, P. W. (2009). The neurobiology of decision: Consensus and controversy. *Neuron*, *63*(6), 733–745. [https://doi.org/10.1016/j.neuron.2009.09.003](https://doi.org/10.1016/j.neuron.2009.09.003)
 - Rangel, A., Camerer, C., & Montague, P. R. (2008). A framework for studying the neurobiology of value-based decision making. *Nature Reviews Neuroscience*, *9*(7), 545–556. [https://doi.org/10.1038/nrn2357](https://doi.org/10.1038/nrn2357)
+
+# References
+
+Bartra, O., McGuire, J. T., & Kable, J. W. (2013). The valuation system: A coordinate-based meta-analysis of BOLD fMRI experiments examining neural correlates of subjective value. *NeuroImage*, *76*, 412–427. <https://doi.org/10.1016/j.neuroimage.2013.02.063>
+
+Padoa-Schioppa, C. (2011). Neurobiology of economic choice: A good-based model. *Annual Review of Neuroscience*, *34*(1), 333–359. <https://doi.org/10.1146/annurev-neuro-061010-113648>
+
+Kable, J. W., & Levy, I. (2015). Neural markers of individual differences in decision-making. *Current Opinion in Behavioral Sciences*, *5*, 100–107. <http://linkinghub.elsevier.com/retrieve/pii/S2352154615001102>
+
+Hartley, C. A., & Somerville, L. H. (2015). The neuroscience of adolescent decision-making. *Current Opinion in Behavioral Sciences*, *5*, 108–115. <https://doi.org/10.1016/j.cobeha.2015.09.004>
+
+Lighthall, N. R. (2020). Neural mechanisms of decision‐making in aging. *Wiley Interdisciplinary Reviews: Cognitive Science*, *11*(1), e1519. <https://doi.org/10.1002/wcs.1519>
+
+Gold, J. I., & Shadlen, M. N. (2007). The neural basis of decision making. *Annual Review of Neuroscience*, *30*(1), 535–574. <https://doi.org/10.1146/annurev.neuro.29.051605.113038>
+
+Schultz, W., Dayan, P., & Montague, P. R. (1997). A neural substrate of prediction and reward. *Science*, *275*(5306), 1593–1599. <http://pubmed.gov/9054347>
+
+Steinberg, E. E., Keiflin, R., Boivin, J. R., Witten, I. B., Deisseroth, K., & Janak, P. H. (2013). A causal link between prediction errors, dopamine neurons and learning. *Nature Neuroscience*, *16*(7), 966–973. <https://doi.org/10.1038/nn.3413>
+
+Harbaugh, W. T., Mayr, U., & Burghart, D. R. (2007). Neural responses to taxation and voluntary giving reveal motives for charitable donations. *Science*, *316*(5831), 1622–1625. <https://doi.org/10.1126/science.1137065>
+
+Tusche, A., Bockler, A., Kanske, P., Trautwein, F. M., & Singer, T. (2016). Decoding the charitable brain: Empathy, perspective taking, and attention shifts differentially predict altruistic giving. *Journal of Neuroscience*, *36*(17), 4719–4732. <https://doi.org/10.1523/jneurosci.3392-15.2016>
+
+Coricelli, G., & Nagel, R. (2009). Neural correlates of depth of strategic reasoning in medial prefrontal cortex. *Proceedings of the National Academy of Sciences of the United States of America*, *106*(23), 9163–9168. <https://doi.org/10.1073/pnas.0807721106>
+
+Hampton, A. N., Bossaerts, P., & O’Doherty, J. P. (2008). Neural correlates of mentalizing-related computations during strategic interactions in humans. *Proceedings of the National Academy of Sciences of the United States of America*, *105*(18), 6741–6746. <https://doi.org/10.1073/pnas.0711099105>
+
+Louie, K., Glimcher, P. W., & Webb, R. (2015). Adaptive neural coding: From biological to behavioral decision-making. *Current Opinion in Behavioral Sciences,* *5*, 91–99. <https://doi.org/10.1016/j.cobeha.2015.08.008>
+
+Woodford, M. (2020). Modeling imprecision in perception, valuation, and choice. *Annual Review of Economics*, *12*(1), 579–601. <https://doi.org/10.1146/annurev-economics-102819-040518>
+
+Frydman, C., & Camerer, C. F. (2016). The psychology and neuroscience of financial decision making. *Trends in Cognitive Sciences*, *20*(9), 661–675. <https://doi.org/10.1016/j.tics.2016.07.003>
+
+Karmarkar, U. R., & Plassmann, H. (2019). Consumer neuroscience: Past, present, and future. *Organizational Research Methods*, *22*(1), 174–195. <https://doi.org/10.1177/1094428117730598>
+
+Knutson, B., & Genevsky, A. (2018). Neuroforecasting aggregate choice. *Current Directions in Psychological Science*, *27*(2), 110–115. <https://doi.org/10.1177/0963721417737877>
+
+Huys, Q. J. M., Maia, T. V., & Frank, M. J. (2016). Computational psychiatry as a bridge from neuroscience to clinical applications. *Nature Neuroscience*, *19*(3), 404–413. <https://doi.org/10.1038/nn.4238>
+
+Polania, R., Woodford, M., & Ruff, C. C. (2019). Efficient coding of subjective value. *Nature Neuroscience*, *22*(1), 134–142. <https://doi.org/10.1038/s41593-018-0292-0>
+
+Dabney, W., Kurth-Nelson, Z., Uchida, N., Starkweather, C. K., Hassabis, D., Munos, R., & Botvinick, M. (2020). A distributional code for value in dopamine-based reinforcement learning. *Nature*, *577*(7792), 671–675. <https://doi.org/10.1038/s41586-019-1924-6>

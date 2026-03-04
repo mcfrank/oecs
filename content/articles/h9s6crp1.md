@@ -4,6 +4,8 @@ slug: h9s6crp1
 date: '2026-01-23'
 authors:
 - Christoph Hoerl
+section_editors:
+- Frédérique de Vignemont
 ---
 
 Time perception is the name of the topic of research that deals with the perception of *temporal properties*. Listening to a piece of music, for instance, the experience one has turns centrally on whether two notes sound at the same time or in succession, the order in which different notes are played, and the duration of each note as well as of the gaps between them – these are just some elementary temporal properties. A large body of work has studied the mechanisms underpinning the perception of temporal properties, including their limitations, the errors they are subject to, and the factors causing such errors. However, researchers have also raised more fundamental explanatory questions – sometimes associated with the slogan that ‘there is no sense organ for time’ – as to how it is possible for temporal properties to figure in experience at all. The particular theories of time perception that have been developed bear on broader issues such as the unity of consciousness, the boundary between perception and cognition, and the very nature of conscious experience.

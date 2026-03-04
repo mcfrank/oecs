@@ -4,6 +4,8 @@ slug: sqfksg4p
 date: '2026-01-28'
 authors:
 - Charles Fernyhough
+section_editors:
+- Evan Kidd
 ---
 
 Inner speech refers to the silent conversation with the self that many people report. Also termed *internal monologue*, *inner dialogue*, *inner speaking*, *verbal thinking* and *covert self-talk*, inner speech is increasingly researched as an important feature of human conscious experience. New cognitive and neuroscientific methods mean that some of the most challenging questions about the forms and functions of inner speech are opening up to scientific inquiry. Inner speech has been proposed to function as a cognitive tool, enhancing performance on various tasks by enabling regulation of the self through language. Outstanding questions and controversies include how different forms of inner speech are adapted to particular self-regulatory functions, and how methodological advances might improve understanding of individual differences in inner speech use.

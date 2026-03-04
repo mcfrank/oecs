@@ -4,6 +4,8 @@ slug: 1w4cqquc
 date: '2026-02-04'
 authors:
 - Fernanda Ferreira
+section_editors:
+- Asifa Majid
 ---
 
 Prosody refers to the rhythmic and tonal properties of language that transcend individual words or sounds. Core prosodic features include variations in duration (the shortening and stretching of the syllables of a word), stress levels (volume or loudness, often associated with emphasis), and fundamental frequency or pitch (the “tune” of an utterance). The definition of prosody may also be extended to include hesitation pauses, which are periods of silence when a speaker may be planning the next chunk or attempting to retrieve a word. More controversially, filler expressions such as the English "uh" and "um” are sometimes also treated as an aspect of prosody, particularly since they tend to occur in the same environments as silent pauses and may play critical roles in maintaining fluency. Although discussions of prosody traditionally focus on speech, prosody is also a feature of sign languages, where cues such as larger and longer signs often mark the edges of prosodic units.

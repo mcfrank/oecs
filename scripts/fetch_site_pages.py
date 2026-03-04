@@ -232,13 +232,21 @@ def main() -> None:
         if args.output_html and html:
             (out_html_dir / f"{name}.html").write_text(html, encoding="utf-8")
         if html and md:
-            # Extract main content: remove nav/footer to get cleaner Markdown
+            # Extract main content: try multiple selectors used by PubPub/OECS
             soup = BeautifulSoup(html, "lxml")
-            main = soup.find("main") or soup.find("article") or soup.find("div", class_=re.compile(r"content|main", re.I))
+            for tag in soup.find_all(["header", "nav"]):
+                tag.decompose()
+            main = (
+                soup.find("main")
+                or soup.find("article")
+                or soup.find(attrs={"role": "main"})
+                or soup.find("div", class_=re.compile(r"content|main|body|pub", re.I))
+                or soup.find("div", id=re.compile(r"content|main|body", re.I))
+            )
             if main:
                 body_html = str(main)
             else:
-                body_html = html
+                body_html = str(soup.find("body") or soup)
             markdown_body = md(body_html, heading_style="ATX", strip=["script", "style", "nav"]).strip()
             content_dir = root / "content" / name
             content_dir.mkdir(parents=True, exist_ok=True)
