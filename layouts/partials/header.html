@@ -1,6 +1,8 @@
 <header class="oecs-header">
   <div class="oecs-header-inner">
-    <a href="{{ "" | relLangURL }}" class="oecs-logo">{{ .Site.Title }}</a>
+    <a href="{{ "" | relLangURL }}" class="oecs-logo" aria-label="{{ .Site.Title }}">
+      <img src="{{ "images/logo.png" | relURL }}" alt="" class="oecs-logo-img" width="120" height="40">
+    </a>
     <nav class="oecs-nav">
       <a href="{{ "articles/" | relLangURL }}">Articles</a>
       <a href="{{ "thematic-collections/" | relLangURL }}">Thematic Collections</a>
