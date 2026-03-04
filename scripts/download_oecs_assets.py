@@ -7,10 +7,12 @@ data/thematic_collections.json with image paths.
 Run from repo root (e.g. python scripts/download_oecs_assets.py).
 Requires: requests, beautifulsoup4, lxml.
 """
+import base64
 import json
 import re
+import shutil
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urlunparse, unquote
 
 import requests
 from bs4 import BeautifulSoup
@@ -51,8 +53,20 @@ def extract_initial_data(html: str) -> dict | None:
         return None
 
 
+def normalize_asset_url(url: str) -> str:
+    """Normalize asset URL: replace Unicode spaces with ASCII space so server accepts the request."""
+    parsed = urlparse(url)
+    path = parsed.path
+    # Replace narrow no-break space (U+202F) and non-breaking space (U+00A0) with ASCII space.
+    path = path.replace("\u202f", " ").replace("\u00a0", " ")
+    # If the JSON contained mojibake (UTF-8 bytes for U+202F read as Latin-1), fix that too.
+    path = path.replace("\xe2\x80\xaf", " ")
+    return urlunparse((parsed.scheme, parsed.netloc, path, parsed.params, parsed.query, parsed.fragment))
+
+
 def download_file(session: requests.Session, url: str, dest: Path) -> bool:
     """Download URL to dest; return True on success."""
+    url = normalize_asset_url(url)
     try:
         r = session.get(url, timeout=TIMEOUT, stream=True)
         r.raise_for_status()
@@ -74,6 +88,31 @@ def extension_from_url(url: str) -> str:
     if ".jpg" in path or ".jpeg" in path:
         return "jpg"
     return "png"
+
+
+def build_resize_v3_url(assets_url: str) -> str | None:
+    """Build resize-v3.pubpub.org URL from an assets.pubpub.org URL (used when direct CDN returns 404)."""
+    parsed = urlparse(assets_url)
+    if "pubpub.org" not in (parsed.netloc or ""):
+        return None
+    path = (parsed.path or "").strip()
+    if not path or not path.startswith("/"):
+        return None
+    key = unquote(path[1:])  # no leading slash, percent-encoding decoded
+    # Fix mojibake: UTF-8 bytes for U+202F (narrow no-break) sometimes appear as three code points
+    key = key.replace("\u00e2\u0080\u00af", "\u202f")
+    payload = {
+        "bucket": "assets.pubpub.org",
+        "key": key,
+        "edits": {"resize": {"width": 600, "fit": "inside", "withoutEnlargement": True}},
+    }
+    try:
+        # Compact JSON (no space after ':') and UTF-8 in key so base64 matches live site
+        json_str = json.dumps(payload, separators=(",", ":"), ensure_ascii=False)
+        b64 = base64.b64encode(json_str.encode("utf-8")).decode("ascii")
+        return f"https://resize-v3.pubpub.org/{b64}"
+    except Exception:
+        return None
 
 
 def main() -> None:
@@ -126,6 +165,7 @@ def main() -> None:
 
     # 4) Thematic collection avatars (only tag collections, exclude the book collection)
     slug_to_image: dict[str, str] = {}
+    failed_slugs: list[str] = []
     for coll in collections:
         if coll.get("kind") != "tag":
             continue
@@ -139,9 +179,31 @@ def main() -> None:
         filename = f"{slug}.{ext}"
         dest = static_images / "themes" / filename
         if download_file(session, avatar, dest):
-            # Path relative to site root for use with relURL in layouts
             slug_to_image[slug] = f"images/themes/{filename}"
             print(f"Downloaded theme image: {filename}")
+        else:
+            # Fallback: try resize-v3.pubpub.org (direct CDN often 404s for these keys)
+            resize_url = build_resize_v3_url(avatar)
+            if resize_url and download_file(session, resize_url, dest):
+                slug_to_image[slug] = f"images/themes/{filename}"
+                print(f"Downloaded theme image via resize: {filename}")
+            else:
+                failed_slugs.append(slug)
+
+    # 4b) Placeholder for themes whose avatar URL returned 404 (e.g. CDN filenames with spaces)
+    placeholder_sources = [
+        ("ai-and-cognitive-modeling", "technology.png"),
+        ("social-cognition", "cognition.jpg"),
+    ]
+    for slug, copy_from_name in placeholder_sources:
+        if slug not in slug_to_image and slug in failed_slugs:
+            src = static_images / "themes" / copy_from_name
+            ext = Path(copy_from_name).suffix
+            dest = static_images / "themes" / f"{slug}{ext}"
+            if src.exists():
+                shutil.copy2(src, dest)
+                slug_to_image[slug] = f"images/themes/{dest.name}"
+                print(f"Using placeholder for {slug} (copied from {copy_from_name})")
 
     # 5) Update data/thematic_collections.json with image paths
     tc_path = data_dir / "thematic_collections.json"

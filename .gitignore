@@ -6,6 +6,7 @@ env/
 # Hugo
 public/
 resources/
+.hugo_build.lock
 
 # Secrets and local config (do not commit credentials)
 .secrets
