@@ -69,7 +69,9 @@ Other common autosegments are features for (vowel) backing, rounding, tongue roo
 
 Many languages distinguish short and long segments. In rare cases, as in Agar Dinka [sout2833], three degrees of length are found. The representation of phonological length is illustrated in [Figure 1](/articles/xep4vfyz), in which X is an abstract timing unit, and the string of Xs is referred to as the *timing tier*.
 
-![]()
+![](images/articles/xep4vfyz/figure_1.png)
+
+**Figure 1.** Representing phonological length with timing units (X = one unit)
 
 Short, long, and extra-long segments are compared with sequences of short segments, and short complex segments like diphthongs and affricates are compared with segment sequences. Many-to-one and one-to-many mappings between features or segments and the timing tier can encode many other contrasts, including prenasalized stops vs. nasal-stop clusters, aspirated stops vs. stop-h sequences, complex labio-velar stops vs. labial-velar stop sequences, and contour tones vs. sequences of level tones. These contrasts are supported by phonological evidence in many languages, despite the fact that a single segment like /t͡ʃ/ and a cluster like /tʃ/ may be phonetically indistinguishable.
 

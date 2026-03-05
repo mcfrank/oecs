@@ -26,7 +26,9 @@ Inner speech is thought to confer cognitive benefits by providing a means for se
 
 *Internalization* describes the process whereby social speech is taken within to create an internal conversation with the self, maintaining some of the structural features (e.g. *dialogicality, *the feature that gives inner speech the to-and-fro structure of a conversation) of the social exchanges that gave rise to it. In the opposite direction, *externalization* refers to the process whereby silent inner speech is converted back into its audible form. These processes continue to occur flexibly throughout the lifespan, helping researchers to make sense of relations between overt and covert forms of self-talk (see Figure 1).
 
-![]()
+![](images/articles/sqfksg4p/figure_1.jpg)
+
+**Figure 1.** From external dialogue to inner speech (IS). Reprinted from Fernyhough & Borghi (2023), *Trends in Cognitive Sciences* (CC BY 4.0).
 
 ## *Phenomenological variation*
 

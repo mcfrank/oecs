@@ -14,7 +14,9 @@ Eye movements are a necessary component of human visual function because of the 
 
 The study of eye movements has been tightly linked to the development of devices that can accurately record eye position. The eye is a very powerful optical system, which means that a very small rotation of the eye – say a shift of gaze direction from one word to the next when reading – corresponds to a displacement of the iris of about 0.3 mm. Given that it is hard to keep the head perfectly still, the measurement problem becomes apparent. Initially, eye tracking devices, developed beginning in the early nineteen hundreds, were therefore either uncomfortable (such as magnetic search coils embedded in a contact lens) or inaccurate (such as the electro-oculogram); see Wade & Tatler (2005) for a more detailed history. This constraint also meant that early eye tracking studies went to great lengths to stabilize the head, which limited the kinds of experiments that could be performed, since even a simple reaching movement involves postural adjustments. Over the last 30 years, the development of head-mounted eye trackers has allowed increasingly accurate measurement of gaze location (the location in space where the fovea is directed) in a wide variety of circumstances. An image of a subject wearing a magnetic search coil eye-tracker and a more recent image of a child wearing a Pupil Lab Neon tracker is shown in Figure 1. This technical improvement has meant that a broader range of questions can now be addressed, such as gaze and attentional control in the context of natural behavior such as walking and cooking, and how infants or special populations use gaze.
 
-![]()
+![](images/articles/za65x7nh/figure_1.jpg)
+
+**Figure 1.** A subject wearing a magnetic search coil eye-tracker in the 1980’s (left) and a Pupil Labs Neon eye tracker in 2025 (right).
 
 # Core concepts
 

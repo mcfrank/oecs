@@ -1,0 +1,7 @@
+{{- /* No leading slash so relURL prepends baseURL path (e.g. /oecs-static/) for correct image URLs */ -}}
+{{- $path := .Destination | strings.TrimPrefix "/" -}}
+{{- $src := $path | relURL -}}
+<img src="{{ $src | safeURL }}" class="oecs-figure-img"
+  {{- with .PlainText }} alt="{{ . }}"{{ end -}}
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+  loading="lazy">

@@ -28,7 +28,9 @@ Generative models need to map from each given input instruction to a *distributi
 
 How can we define such a stochastic mapping? There are two main methods: sampling with a generator and sampling from a density function. In the first method, we augment the input to the generator with a random variable, often referred to as “noise.” The generator, a deterministic function, uses this variable to produce the output directly. The idea is that this variable specifies all the latent factors necessary to determine the output, which are unspecified by the input instructions. For example, in a cat generator, the random variables might determine the cat’s pose, lighting, and appearance.
 
-![]()
+![](images/articles/oye8m8nz/figure_1.png)
+
+**Figure 1.** Generative models consist of two phases: (1) learning—from a set of training examples, the model learns a distribution from which these examples could have been sampled—and (2) sampling—new samples are drawn from the inferred distribution.
 
 The other approach is to learn a density function that maps from inputs x to a probability distribution that assigns a scalar to each possible output representing their probability of occurring. We then draw new samples from this distribution with algorithms such as the Markov Chain Monte Carlo (MCMC; Robert & Casella, 2013) or its Langevin-type variant (Neal, 2012) [see [Markov Chain Monte Carlo](/articles/n6c8sb19)]. The high-level idea is to begin with a randomly initialized data point x and iteratively move it toward regions of higher probability. For example, we can initialize an image with Gaussian noise, where no training images are nearby. The sampling algorithm then moves this image into a high-density area, where many training images reside, resulting in a more realistic cat image.
 

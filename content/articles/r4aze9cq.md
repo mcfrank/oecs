@@ -23,9 +23,11 @@ The following video is the voice of Carrie Buck describing her pregnancy.
 
 ## *Intelligence encompasses multiple related abilities*
 
-Mental tasks range from basic operations, like pressing a button as quickly as possible in response to a sound, to complex problem solving. These tasks can be organized into two broad domains: (1) *fluid intelligence*, which requires effortful processing in the moment and includes processing speed, working memory, and visuospatial reasoning (), and (2) *crystallized intelligence*, which requires applying previously acquired knowledge, including vocabulary and general information about the world (for a history of this distinction, see Brown, 2016). Although everyone will have relative strengths and weaknesses, someone who performs better than other people of similar age on any one intelligence test tends to perform better on all others (e.g., Johnson et al., 2008).
+Mental tasks range from basic operations, like pressing a button as quickly as possible in response to a sound, to complex problem solving. These tasks can be organized into two broad domains: (1) *fluid intelligence*, which requires effortful processing in the moment and includes processing speed, working memory, and visuospatial reasoning (Figure 1), and (2) *crystallized intelligence*, which requires applying previously acquired knowledge, including vocabulary and general information about the world (for a history of this distinction, see Brown, 2016). Although everyone will have relative strengths and weaknesses, someone who performs better than other people of similar age on any one intelligence test tends to perform better on all others (e.g., Johnson et al., 2008).
 
-![]()
+![](images/articles/r4aze9cq/figure_1.jpg)
+
+**Figure 1.** Progressive matrices, a test of visuospatial reasoning. Participants are asked to choose which of the numbered choices below would best complete the pattern (by replacing the “?” symbol in the top set of shapes). This file is licensed under the Creative Commons [Attribution-Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license.
 
 ## *Intelligence changes over the lifespan*
 

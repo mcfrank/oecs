@@ -23,19 +23,23 @@ Second, there is an understanding on how agents’ mental states work to produce
 
 ## *False beliefs*
 
-In a prototypic false-belief task, children see Jill put a toy in a drawer. While Jill is gone, the toy is moved to a cupboard. When Jill comes back, “Where will Jill look for her toy?” Older children answer correctly. Younger children consistently say Jill will look in the cupboard (where it really is). Several factors make these tasks easier or harder, but nonetheless, children go from consistently wrong to consistently correct worldwide, typically in the preschool years. As shown in , children everywhere come to understand that a person’s actions depend on what they think, not just reality itself.
+In a prototypic false-belief task, children see Jill put a toy in a drawer. While Jill is gone, the toy is moved to a cupboard. When Jill comes back, “Where will Jill look for her toy?” Older children answer correctly. Younger children consistently say Jill will look in the cupboard (where it really is). Several factors make these tasks easier or harder, but nonetheless, children go from consistently wrong to consistently correct worldwide, typically in the preschool years. As shown in Figure 1, children everywhere come to understand that a person’s actions depend on what they think, not just reality itself.
 
-![]()
+![](images/articles/8q02cvue/figure_1.png)
 
-Normal variation in when children come to understand false beliefs (see ; Wellman et al., 2001) allows investigators to show that theory-of-mind developments have wide-ranging consequences. These include significant impacts on children’s friendships, engagement in lying and deception, game playing, strategies for persuading others, and transition to school (e.g., Lecce et al., 2017; Slaughter et al., 2015).
+**Figure 1.** Children in different cultural linguistic communities achieve false-belief understanding somewhat more quickly or slowly, yet in all locales they evidence the same trajectory—from below chance to above chance performance (0 = chance in this graph) typically in the preschool years (Wellman et al., 2001).
+
+Normal variation in when children come to understand false beliefs (see Figure 1; Wellman et al., 2001) allows investigators to show that theory-of-mind developments have wide-ranging consequences. These include significant impacts on children’s friendships, engagement in lying and deception, game playing, strategies for persuading others, and transition to school (e.g., Lecce et al., 2017; Slaughter et al., 2015).
 
 ## *Sequences*
 
-Clearly, for belief–desire psychology, understanding desires is as central as understanding beliefs. And other understandings are important too. Consider those depicted in : understanding that people (a) can have different desires for the same things (diverse desires, DD), (b) can have different beliefs, even about the exact same situation (diverse beliefs, DB), (c) can be ignorant of something (knowledge access, KA), (d) can believe something false (false belief, FB), or (e) can feel one way but display a different emotion (hidden emotion, HE).
+Clearly, for belief–desire psychology, understanding desires is as central as understanding beliefs. And other understandings are important too. Consider those depicted in Figure 2: understanding that people (a) can have different desires for the same things (diverse desires, DD), (b) can have different beliefs, even about the exact same situation (diverse beliefs, DB), (c) can be ignorant of something (knowledge access, KA), (d) can believe something false (false belief, FB), or (e) can feel one way but display a different emotion (hidden emotion, HE).
 
-Using such a battery of tasks, studies encompassing hundreds of preschoolers in North America and Europe evidence a clear and consistent order of difficulty, as listed in  (Wellman & Liu, 2004), with diverse desires easiest and hidden emotions hardest. For shorthand, DD > DB > KA > FB > HE.
+Using such a battery of tasks, studies encompassing hundreds of preschoolers in North America and Europe evidence a clear and consistent order of difficulty, as listed in Figure 2 (Wellman & Liu, 2004), with diverse desires easiest and hidden emotions hardest. For shorthand, DD > DB > KA > FB > HE.
 
-![]()
+![](images/articles/8q02cvue/figure_2.png)
+
+**Figure 2.** Graphical depiction of a progression of theory-of-mind understandings. Tasks testing these concepts were first devised by Wellman and Liu (2004) but have since been translated into dozens of languages and tested worldwide.
 
 Such progressions of understanding have shed key light on the mechanisms of theory-of-mind development. Here are two examples.
 

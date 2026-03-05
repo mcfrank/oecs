@@ -32,7 +32,9 @@ Laboratory settings often fail to capture real-world behavior accurately due to 
 
 Citizen science projects often incorporate gamification—using game-like elements to enhance engagement [see [Affordances](/articles/984ungzu)]. Gamification can include transforming experiments into bespoke games, embedding experiments in existing games, and extracting data from ongoing ones. Gamified studies can lead to better participant retention and engagement, reduce dropout rates, and increase the quality of the data collected (Germine, 2012; Tinati et al., 2017; Allen et al., 2024).
 
-![]()
+![](images/articles/5cdl3f1m/figure_1.png)
+
+**Figure 1.** Example citizen science project: Sea Hero Quest. The task, which collected navigation data, was embedded in a mobile video game application. (a) Game design: players sail a boat to find checkpoints in a set order. (b) In wayfinding levels, a map of the level featuring the ordered set of checkpoints to reach is presented and disappears when the navigation starts. (c) Superposition of 1,000 individual trajectories randomly sampled from Level 32. (d) Path-integration task: After navigating the level, participants must shoot a flare back to the starting point. Reproduced from Coutrot et al. (2018).
 
 # Questions, controversies, and new developments
 

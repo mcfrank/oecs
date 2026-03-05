@@ -88,19 +88,23 @@ One problem is that these fidelity conditions seem to be plucked out of thin air
 
 Much contemporary work on representation can be seen as attempting to provide naturalistically acceptable characterizations of the idea of fidelity conditions. Most of it takes place within the so-called *teleosemantic* program, by far the most popular, most actively developed research program in this area. Teleosemantics can be summarized as the view that what fixes the fidelity conditions of a representation is the *biological function* of the representational vehicle or mechanism. Hearts pump blood and make thumping noises. Both are useful effects (the latter, for example, for diagnostics), but the heart is for the former, not the latter. Hearts are supposed to pump blood, and when they do not, it is usually said that they malfunction. Many theorists, following Millikan (1984), call *proper functions*, or *teleofunctions*, those effects of designed or biological devices that underlie malfunction claims.
 
-Consider the tree example. There is something awkward about thinking of tree rings as representations. Mere onlookers can rely on them to learn about the tree’s age, but nothing in the tree itself reads those rings. They represent nothing to anything in the tree itself. It has been argued that representations are necessarily for something or someone; representations mediate between a *producer* that brings it into existence and a *consumer* that puts it to use (see ).
+Consider the tree example. There is something awkward about thinking of tree rings as representations. Mere onlookers can rely on them to learn about the tree’s age, but nothing in the tree itself reads those rings. They represent nothing to anything in the tree itself. It has been argued that representations are necessarily for something or someone; representations mediate between a *producer* that brings it into existence and a *consumer* that puts it to use (see Figure 1).
 
 The exact same motif (upstream goings on, a producer, a representation, a consumer, and downstream consequences) is also relied on in the signaling framework (Skyrms, 2010), in which producers and consumers are called *senders* and *receivers*, and again in information theory (Shannon & Weaver, 1949/1998), in which they are often called, respectively, *transmitters* or *encoders* and *decoders* (cf. Cao, 2012).
 
-![]()
+![](images/articles/x0sk7df7/figure_1.png)
+
+**Figure 1.** Schematic showing that representations are intermediate between producers and consumers of the representation.
 
 The teleosemantic response to the representational status question is that a representation is an entity mediating between a producer and a consumer, in which both producer and consumer are mechanisms individuated by their proper function. In the mainstream *consumer* development of teleosemantics (Millikan, 1984; Papineau, 1987), it is the consumer of the representation that fixes its content. Other prominent approaches aim instead at deriving content from causal informational ties between the representation and its producer. On one version of this idea, a representational system is one that has the function of indicating the states of some extramental phenomenon (Dretske, 1988, p. 53). Here, the key concepts are *function* (which should be understood as meaning proper function) and *indication*, which is a probabilistic notion: A indicates B if the probability of B is lower than the probability of B conditional on A. A *representational system* is what teleosemanticists call a producer (sender, encoder, etc.); it has the function of producing a signal, or entering a state, that correlates with the indicated state of affairs (cf. Neander, 2017, p. 151).
 
 More recently, some theorists have offered what can be seen as more or less purely information theoretic accounts of representation. Recent work on so-called *signaling games* has aimed at substituting proper functions with game theoretic equilibria or dynamically stable configurations of sender and receiver populations in evolutionary game theoretic models (Skyrms, 2010).
 
-The sender–receiver motif is one of those ideas that keeps being rediscovered. One of its early appearances, and perhaps the most influential of all, is in the point-to-point model of information transmission in Shannon & Weaver (1949/1998) (see ).
+The sender–receiver motif is one of those ideas that keeps being rediscovered. One of its early appearances, and perhaps the most influential of all, is in the point-to-point model of information transmission in Shannon & Weaver (1949/1998) (see Figure 2).
 
-![]()
+![](images/articles/x0sk7df7/figure_2.png)
+
+**Figure 2.** The Shannon and Weaver model for information transmission.
 
 Some theorists aim at leveraging the full Shannon information transmission model in theories of representation (Mann, 2023).
 

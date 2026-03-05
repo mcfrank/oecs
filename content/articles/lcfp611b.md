@@ -21,7 +21,9 @@ Over a century ago, Raymond Dodge (1924) argued in the journal *Science *that va
 
 Cognitive variability reflects differences in performance on a cognitive task across different occasions, ranging from trial to mean performance on different occasions (e.g., days, months, seasonal, or different settings). The recent increase in availability of high temporal resolution data that samples individuals more frequently (e.g., many trials within a session or multiple measurements on consecutive days) alongside quantitative innovations have opened up this fascinating construct to rigorous empirical definition and investigation, offering a range of empirical discoveries and open questions sure to shape the field for decades.
 
-![]()
+![](images/articles/lcfp611b/figure_1.png)
+
+**Figure 1.** Two hypothetical children with the same mean performance (6) but with substantial differences in cognitive variability (Charles is much more variable than Ada).
 
 Although variability is sometimes used to refer to differences between individuals (more commonly referred to as “individual differences”) or to differences in mean performance between different task domains (to assess relative discrepancies in performance), we prefer individual differences and dispersion for those constructs instead. The cognitive task used can vary from simple (e.g., a basic reaction time task) to cognitively challenging (working memory or abstract reasoning). The measure to quantify variability can also vary between (or within) tasks. Although reaction time is commonly used, measures can be any (ideally continuous) measure of performance, including accuracy (spatial or directional) or capacity (how many questions on a test are answered correctly).
 

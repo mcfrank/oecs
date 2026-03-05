@@ -19,21 +19,27 @@ By the 1950s and 60s, visual search was becoming an active topic of research, wi
 
 # Core concepts
 
-![]()
+![](images/articles/n25y1nwt/figure_1.png)
 
-illustrates many core concepts in visual search. Find arrows pointing to the right. First, you must *search.* You cannot simply see the targets without search. If you swiftly detected a target, find the second one. The tendency to miss a second target is known as *satisfaction of search*, an important topic in medical image searches. Search for the target could proceed in two ways. There are *overt* movements of the eyes to look at one spot or another. There are also *covert* deployments of attention. Notice that, if you fixate your eyes at the center of the figure, you can find the blue target arrow without moving your eyes.
+**Figure 1.** A search stimulus with multiple targets (see text).
+
+Figure 1 illustrates many core concepts in visual search. Find arrows pointing to the right. First, you must *search.* You cannot simply see the targets without search. If you swiftly detected a target, find the second one. The tendency to miss a second target is known as *satisfaction of search*, an important topic in medical image searches. Search for the target could proceed in two ways. There are *overt* movements of the eyes to look at one spot or another. There are also *covert* deployments of attention. Notice that, if you fixate your eyes at the center of the figure, you can find the blue target arrow without moving your eyes.
 
 Some aspects of the image may be processed *in parallel,* across the entire image at once. This includes a limited set of basic features like color and orientation, known as *preattentive features* because they appear to be available before attention is directed to an object (Wolfe & Horowitz, 2017). These features can be used to guide attention. Thus, if asked to find tilted green arrows, you can guide your attention to arrows with tilted orientations (noticing that they are clustered on the right) or to green arrows (noticing that they are distributed across the image). Notice that it is easier to find a tilted arrow in the horizontal region than a horizontal arrow in the tilted region, a *search asymmetry* (Treisman & Gormican, 1988).
 
 *Guidance* can take two main forms. *Top-down guidance* involves volitional control of the human “search engine”; for example, to look for “green” and “tilted” in the figure. The figure’s red item grabs attention in a *bottom-up,* stimulus-driven manner, largely independent of observer desires. An item having unique, salient features (here, color, shape, and size) seems to immediately grab attention and is said to *pop out* of the display. Calculating stimulus *salience* is important in many computational models.
 
-![]()
+![](images/articles/n25y1nwt/figure_2.png)
 
-Many methods are used to study visual search. The most typical behavioral technique is to present a search display and to ask the observer to respond as quickly and accurately as possible. *Search efficiency* is defined by the response time x set size function (often with correction for errors).  shows idealized response time data. Pop-out tasks produce *efficient search* (e.g., finding that salient, red symbol). In contrast, a search for the letter T among Ls would be inefficient. Guided searches lie between efficient and inefficient. The eyes are deployed less often (3–4/sec) than for covert attention, so if each item must be fixated, the slope will be much steeper (as shown in ).
+**Figure 2.** Many search experiments measure response time as a function of number of items in a display (set size). Different tasks will produce different slopes of these response time x set size functions, shown here in idealized form without the noise of real data.
 
-![]()
+Many methods are used to study visual search. The most typical behavioral technique is to present a search display and to ask the observer to respond as quickly and accurately as possible. *Search efficiency* is defined by the response time x set size function (often with correction for errors). Figure 2 shows idealized response time data. Pop-out tasks produce *efficient search* (e.g., finding that salient, red symbol). In contrast, a search for the letter T among Ls would be inefficient. Guided searches lie between efficient and inefficient. The eyes are deployed less often (3–4/sec) than for covert attention, so if each item must be fixated, the slope will be much steeper (as shown in Figure 2).
 
-Additional factors become important in real-world search. To get a sense of this, search for people in the scene in . This is quick, although they are not unique in color or size in this image. Here, *scene guidance* becomes important (Vo et al., 2019). You rapidly understand the *gist* of the scene; its meaning and layout (Oliva, 2005). Your *history* of searching similar scenes recently (e.g., on the last trial) and across your life also influences your search (Anderson et al., 2021). Thus, you guide search for humans to horizontal surfaces, not to the sky and probably not up a tree. The specific search history of a radiologist or a birder is an important part of their expertise in their search domains.
+![](images/articles/n25y1nwt/figure_3.png)
+
+**Figure 3.** Scene context guides attention if you search for people.
+
+Additional factors become important in real-world search. To get a sense of this, search for people in the scene in Figure 3. This is quick, although they are not unique in color or size in this image. Here, *scene guidance* becomes important (Vo et al., 2019). You rapidly understand the *gist* of the scene; its meaning and layout (Oliva, 2005). Your *history* of searching similar scenes recently (e.g., on the last trial) and across your life also influences your search (Anderson et al., 2021). Thus, you guide search for humans to horizontal surfaces, not to the sky and probably not up a tree. The specific search history of a radiologist or a birder is an important part of their expertise in their search domains.
 
 # Questions, controversies, and new developments
 

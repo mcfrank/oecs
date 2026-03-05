@@ -10,7 +10,9 @@ section_editors:
 
 As soon as you open your eyes, you perform something that is referred to as *scene perception*, a cognitive process by which the brain interprets and understands its visual environment. It involves recognizing, organizing, and extracting meaningful information from complex scenes, enabling humans to identify objects, their relationships, spatial layout, and relevant features within a given environment. This cognitive process is key to navigating and interacting effectively with our surroundings. A hallmark of scene perception is that it takes only a brief glimpse to extract rich meaning from complex visual input (see Figure 1). The remarkable speed and ease with which we process scenes is the product of swiftly integrating bottom-up visual information with top-down scene knowledge. It is this fascinating cognitive feat that will be covered here.
 
-![]()
+![](images/articles/mhjvjq8o/figure_1.gif)
+
+**Figure 1.** Demonstration of rich information extraction from only a glimpse of a scene
 
 # History
 
@@ -22,13 +24,17 @@ While formal research on "scene perception" as a defined concept emerged in the 
 
 The Scene Grammar Framework (see Fig. 2, Võ et al., 2019; Võ, 2021) proposes that objects within scenes are hierarchically organised and constrained by a *scene grammar* - internalized rules that predict what objects tend to be where within a scene, how objects are positioned relative to one another and how they relate to the global scene context. Within a scene, so-called *anchor objects* (e.g., the shower or bathtub) guide the placement, identification, and use of associated objects (e.g., the shampoo inside the shower, the towels next to it), forming meaningful and functionally optimized clusters or *phrases*. This highly structured composition of objects in scenes helps the brain efficiently process complex visual environments, boosting efficient object recognition and search as well as scene understanding, all of which enable us to efficiently adapt and function in a diverse range of settings (Biederman, 1977; Draschkow & Võ, 2017; Henderson & Ferreira, 2004; Võ & Henderson, 2009; Võ & Wolfe, 2013).
 
-![]()
+![](images/articles/mhjvjq8o/figure_2.gif)
+
+**Figure 2.** The Scene Grammar Framework
 
 ## What guides attention in real-world scenes?
 
 A red poppy along a lush green hiking path might grab your attention, or a ball that your kid is launching your way. The view that attentional guidance by low-level features like color contrast or movements was prominently featured in Itti and Koch’s saliency model (2001), but later accounts favoured a greater role for top-down guidance of attention. Keeping visual saliency controlled, Võ and Henderson (2009) for instance showed that objects violating scene grammar (e.g. a fire hydrant in a kitchen) keep attracting eye movements once fixated (it has been debated whether semantic or syntactic violations actually attract attention parafoveally (i.e. from the corner of your eye) or not, see Henderson & Võ, 2009). Using *meaning maps* Henderson and Hayes (2017) later demonstrated that meaning plays the dominant role in guiding attention through scenes. And more recently, deep neural networks like DeepGaze III (Kümmerer, Bethge, & Wallis, 2022) - which combines image information with the history of previous fixations – have been shown to predict where observers might look next while freely viewing a scene. Most of the time, however, we do not just passively view scenes, but instead search for objects and interact with them for the purpose of goal-directed actions. Try searching for the shampoo in Figure 3.
 
-![]()
+![](images/articles/mhjvjq8o/figure_3.jpg)
+
+**Figure 3.** Search for the shampoo in this bathroom
 
 Most likely, scene grammar allowed you to ignore the left 2/3 of the scene (i.e. the toilet and sink phrases) and to limit your search to the shower phrase, likely to contain the target. And before deciding that the detergent is absent from this scene, you would likely open the cupboard and find it inside.
 

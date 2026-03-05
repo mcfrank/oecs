@@ -16,13 +16,17 @@ According to the narrow scientific definition, taste, or gustation, is defined a
 
 The four or five taste qualities that most people are familiar with are sweet, sour, salty, bitter, and, increasingly, also umami. Although umami was first identified in the scientific literature in 1909 (Ikeda, 2002), it has taken a long time to gain widespread acceptance as a basic taste in the West. Over recent decades, a number of researchers have questioned whether taste qualities should be considered as basic at all (e.g., in the way in which we refer to basic, or primary, color categories, the latter referring to those colors from which all others are derived, typically red, green, and blue; Delwiche, 1996; Erikson, 2008).
 
-It is often suggested that the notion of basic tastes was first formalized by Hans Henning (1916) with his taste tetrahedron (see ). Henning suggested that any taste could be described as a mixture of just three primaries. As such, any taste could theoretically be represented as a point on one of the planes of the tetrahedron, meaning that no taste is mapped onto the interior.
+It is often suggested that the notion of basic tastes was first formalized by Hans Henning (1916) with his taste tetrahedron (see Figure 1). Henning suggested that any taste could be described as a mixture of just three primaries. As such, any taste could theoretically be represented as a point on one of the planes of the tetrahedron, meaning that no taste is mapped onto the interior.
 
-![]()
+![](images/articles/fd4gbg5v/figure_1.png)
 
-There has also long been disagreement about the existence of a *tongue map* (see ). The suggestion, attributed to a mistranslated early German text by the North American experimental psychologist Edwin G. Boring in the 1930s, was that the receptors for different taste qualities are asymmetrically distributed over the tongue: sweet taste receptors are more densely situated on the tip of the tongue, bitter taste receptors are on the posterior tongue, and sour taste receptors are found mostly on the sides of the tongue (Spence, 2022).
+**Figure 1.** Henning's (1916) taste tetrahedron. As highlighted in the text, researchers disagree as to whether Henning suggested that there were four basic tastes (indicated by the corners of the tetrahedron) or is rather in support of the taste continuum instead (stressing the lines, or surface, connecting each labeled taste quality.
 
-![]()
+There has also long been disagreement about the existence of a *tongue map* (see Figure 2). The suggestion, attributed to a mistranslated early German text by the North American experimental psychologist Edwin G. Boring in the 1930s, was that the receptors for different taste qualities are asymmetrically distributed over the tongue: sweet taste receptors are more densely situated on the tip of the tongue, bitter taste receptors are on the posterior tongue, and sour taste receptors are found mostly on the sides of the tongue (Spence, 2022).
+
+![](images/articles/fd4gbg5v/figure_2.png)
+
+**Figure 2.** One version of the tongue map (adapted from a figure in [Betts et al., 2013](https://openstax.org/details/books/anatomy-and-physiology-2e)), showing the localization of taste qualities on the human tongue. According to the figure legend in an early paper by [Haagen-Smit (1952)](https://www.scientificamerican.com/issue/sa/1952/03-01/): “Some areas of the tongue are more sensitive to certain tastes than others; these areas are indicated by the arrows on the top drawing.”
 
 # **Core concepts**
 

@@ -17,7 +17,9 @@ The term *metacognition* refers to a broad set of skills that enable people to p
 
 The Greek prefix “meta” means “about.” Metacognition then, literally means “cognition about cognition,” i.e., it refers to a set of abilities for knowing what one thinks and how one thinks. Metacognition, however, also refers to the mere ability to regulate one’s own cognition. The first attempt at understanding the mechanisms underlying metacognition dealt with the regulation of memory, at a time when the word metacognition had not yet been used.
 
-![]()
+![](images/articles/zjuzickv/figure_1.png)
+
+**Figure 1.** Two definitions of metacognition.
 
 ## *The control of one’s memory*
 
@@ -29,9 +31,11 @@ In a 1975 paper, John Flavell and Henry Wellman claimed that all the forms of me
 
 ## *The feedback loop hypothesis*
 
-In an influential 1960 book entitled *Plans and the Structure of Behavior*, however, George A. Miller, Eugene Galanter, and Karl A. Pribram explored the mechanisms that enable the mind to control its activity (Miller et al., 1986). They analyzed the crucial role of feedback loops known as *test-operate-test-exit (TOTE) units* (see ). In the first test phase, the current state is compared with the desired end state, and discrepancies are identified. This is known as the *incongruity-sensitive mechanism*. Feedback from this test guides action, triggering an operation to resolve the discrepancies. Once the operation has been completed, a new test is required to compare the feedback with the expected final state. If there are no discrepancies, the action is completed and control is transferred to another TOTE unit. On the other hand, if there are discrepancies, a new action is triggered to achieve the final state. These TOTE units act as feedback loops, monitoring the successive states of a system.
+In an influential 1960 book entitled *Plans and the Structure of Behavior*, however, George A. Miller, Eugene Galanter, and Karl A. Pribram explored the mechanisms that enable the mind to control its activity (Miller et al., 1986). They analyzed the crucial role of feedback loops known as *test-operate-test-exit (TOTE) units* (see Figure 2). In the first test phase, the current state is compared with the desired end state, and discrepancies are identified. This is known as the *incongruity-sensitive mechanism*. Feedback from this test guides action, triggering an operation to resolve the discrepancies. Once the operation has been completed, a new test is required to compare the feedback with the expected final state. If there are no discrepancies, the action is completed and control is transferred to another TOTE unit. On the other hand, if there are discrepancies, a new action is triggered to achieve the final state. These TOTE units act as feedback loops, monitoring the successive states of a system.
 
-![]()
+![](images/articles/zjuzickv/figure_2.png)
+
+**Figure 2.** The TOTE procedure.
 
 Following this analysis of behavior control, Thomas O. Nelson and Louis Narens (1992) provided a convincing definition of metacognitive processing in terms of feedback loops. They hypothesized that it involved three principles:
 
